@@ -65,7 +65,7 @@ if __name__ == '__main__':
         ]
     )
 
-    if os.path.isdir(output_directory) and sum('checkpoint-' in files for files in os.listdir(output_directory)) > 0:
+    if os.path.isdir(output_directory) and any('checkpoint-' in files for files in os.listdir(output_directory)):
         logging.info('Resuming training from checkpoint...')
         trainer.train(resume_from_checkpoint=config.check_resume_training)
     else:
