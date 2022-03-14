@@ -1,0 +1,24 @@
+2021-11-11 10:35:20,230 [INFO] Number of GPUs available: 1
+2021-11-11 10:35:34,742 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/xlmr_large/mlm_en/xlmr_large_zero_shot_mlm_en_42/final_model/
+2021-11-11 10:35:50,347 [INFO] Example 0 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Kèq ye' ùtẽnẽ ie' tã páxlĩ.", 0)
+2021-11-11 10:35:50,347 [INFO] Example 1 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Sulû ye' ulùnãwã e' wa tã ye' ujtémĩnẽ ie' tã páxlĩ.", 2)
+2021-11-11 10:35:50,348 [INFO] Example 2 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Sa' káxpake tãîx.", 1)
+2021-11-11 10:35:50,348 [INFO] Pred loop key: bzd
+2021-11-11 10:35:50,348 [INFO] Number of examples: 750
+2021-11-11 10:35:50,348 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-11-11 10:35:50,348 [INFO] ----------------------------------
+2021-11-11 10:35:50,378 [INFO] Example 0 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "I ãmìx ichàke irir bét wèxs tabèchka shko ẽ' wóqulâwõ dör i méxãt.", 1)
+2021-11-11 10:35:50,379 [INFO] Example 1 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "Ie' kèq wã ujtè yèqnẽ ét.", 0)
+2021-11-11 10:35:50,379 [INFO] Example 2 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "I ãmìx ã iché irir tö ye' démĩnẽ ù ã.", 2)
+2021-11-11 10:35:50,379 [INFO] Pred loop key: bzd
+2021-11-11 10:35:50,379 [INFO] Number of examples: 743
+2021-11-11 10:35:50,379 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-11-11 10:35:50,379 [INFO] ----------------------------------
+2021-11-11 10:36:13,341 [INFO] Language: bzd
+2021-11-11 10:36:13,344 [INFO] Test accuracy: 43.87
+2021-11-11 10:36:13,344 [INFO] Eval accuracy: 43.07
+2021-11-11 10:36:13,344 [INFO] ---------------------------------
+2021-11-11 10:36:13,344 [INFO] All scores:
+2021-11-11 10:36:13,344 [INFO] Test: 43.87
+2021-11-11 10:36:13,344 [INFO] Eval: 43.07
+2021-11-11 10:36:13,345 [INFO] Done

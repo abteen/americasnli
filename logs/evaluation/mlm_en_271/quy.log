@@ -1,0 +1,26 @@
+2021-09-12 16:49:45,882 [INFO] Number of GPUs available: 1
+2021-09-12 16:49:52,943 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/mlm_en/zero_shot_mlm_en_quy_271/final_model/
+2021-09-12 16:49:57,542 [INFO] Example 0 for quy lang: ('Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.', 'Manam paywanqa kaqllamantaqa rimarqanichu.', 0)
+2021-09-12 16:49:57,543 [INFO] Example 1 for quy lang: ('Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.', 'Paqway piñasqam karqani chayraykum kaqllamanta paywan rimarqani.', 2)
+2021-09-12 16:49:57,543 [INFO] Example 2 for quy lang: ('Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.', 'Allintam rimarurqaniku.', 1)
+2021-09-12 16:49:57,543 [INFO] Pred loop key: quy
+2021-09-12 16:49:57,543 [INFO] Number of examples: 750
+2021-09-12 16:49:57,543 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-09-12 16:49:57,543 [INFO] Pretokenizing...
+2021-09-12 16:49:57,728 [INFO] ----------------------------------
+2021-09-12 16:49:57,737 [INFO] Example 0 for quy lang: ('Hinaptinmi pay nirqa: Mamay wasipim kachkani.', 'Mamanta qayamurqa iskuyla karru saqiykuchkaptin.', 1)
+2021-09-12 16:49:57,737 [INFO] Example 1 for quy lang: ('Hinaptinmi pay nirqa: Mamay wasipim kachkani.', 'Payqa manam imatapas nirqachu', 0)
+2021-09-12 16:49:57,737 [INFO] Example 2 for quy lang: ('Hinaptinmi pay nirqa: Mamay wasipim kachkani.', 'Wasinman chayasqanmanta mananta willarqa.', 2)
+2021-09-12 16:49:57,738 [INFO] Pred loop key: quy
+2021-09-12 16:49:57,738 [INFO] Number of examples: 743
+2021-09-12 16:49:57,738 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-12 16:49:57,738 [INFO] Pretokenizing...
+2021-09-12 16:49:57,929 [INFO] ----------------------------------
+2021-09-12 16:50:04,872 [INFO] Language: quy
+2021-09-12 16:50:04,872 [INFO] Test accuracy: 60.00
+2021-09-12 16:50:04,873 [INFO] Eval accuracy: 63.39
+2021-09-12 16:50:04,873 [INFO] ---------------------------------
+2021-09-12 16:50:04,873 [INFO] All scores:
+2021-09-12 16:50:04,873 [INFO] Test: 60.00
+2021-09-12 16:50:04,873 [INFO] Eval: 63.39
+2021-09-12 16:50:04,873 [INFO] Done

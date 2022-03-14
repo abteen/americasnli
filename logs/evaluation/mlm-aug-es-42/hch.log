@@ -1,0 +1,26 @@
+2021-10-27 14:44:45,217 [INFO] Number of GPUs available: 1
+2021-10-27 14:44:59,247 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/mlm-aug_es/zero_shot_mlm-aug_es_hch_42/final_model/
+2021-10-27 14:45:05,031 [INFO] Example 0 for hch lang: ('mu hekwa.', 'neuka tita xatawe m+k+ mat+a.', 0)
+2021-10-27 14:45:05,031 [INFO] Example 1 for hch lang: ('mu hekwa.', 'kwinie p+re ha a kai nem+re ta xatsie menuakie hamat+a.', 2)
+2021-10-27 14:45:05,031 [INFO] Example 2 for hch lang: ('mu hekwa.', 'aix+ te+ite ti xá.', 1)
+2021-10-27 14:45:05,031 [INFO] Pred loop key: hch
+2021-10-27 14:45:05,031 [INFO] Number of examples: 750
+2021-10-27 14:45:05,032 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-10-27 14:45:05,032 [INFO] Pretokenizing...
+2021-10-27 14:45:05,271 [INFO] ----------------------------------
+2021-10-27 14:45:05,283 [INFO] Example 0 for hch lang: ('metá mik+ petay+: ne mama kitá nepa yéka.', 'yu mama pe+h+awix+ xeimieme kamiuni mei ku eiri tsie.', 1)
+2021-10-27 14:45:05,283 [INFO] Example 1 for hch lang: ('metá mik+ petay+: ne mama kitá nepa yéka.', 'm+k+ atsi p+keta y+.', 0)
+2021-10-27 14:45:05,283 [INFO] Example 2 for hch lang: ('metá mik+ petay+: ne mama kitá nepa yéka.', 'yu mama m+pa+ p+ra h+awe kai kename yu kitá he nuakai.', 2)
+2021-10-27 14:45:05,283 [INFO] Pred loop key: hch
+2021-10-27 14:45:05,283 [INFO] Number of examples: 743
+2021-10-27 14:45:05,283 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-10-27 14:45:05,283 [INFO] Pretokenizing...
+2021-10-27 14:45:05,527 [INFO] ----------------------------------
+2021-10-27 14:45:12,058 [INFO] Language: hch
+2021-10-27 14:45:12,061 [INFO] Test accuracy: 37.07
+2021-10-27 14:45:12,061 [INFO] Eval accuracy: 38.36
+2021-10-27 14:45:12,061 [INFO] ---------------------------------
+2021-10-27 14:45:12,061 [INFO] All scores:
+2021-10-27 14:45:12,061 [INFO] Test: 37.07
+2021-10-27 14:45:12,061 [INFO] Eval: 38.36
+2021-10-27 14:45:12,061 [INFO] Done

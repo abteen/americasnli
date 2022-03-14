@@ -1,0 +1,26 @@
+2021-09-27 17:56:39,685 [INFO] Number of GPUs available: 1
+2021-09-27 17:57:03,179 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/translate_train/translate_train_nah_925/final_model/
+2021-09-27 17:57:10,023 [INFO] Example 0 for nah lang: ('Cualtitoc, na axnimoihliaya ino, nicualaniztoya queh naha nicamohuihqui', 'Ayoc nicamohuihtoc', 0)
+2021-09-27 17:57:10,023 [INFO] Example 1 for nah lang: ('Cualtitoc, na axnimoihliaya ino, nicualaniztoya queh naha nicamohuihqui', 'Nelpano nicualantoya queh naha nicamohuihqui', 2)
+2021-09-27 17:57:10,023 [INFO] Example 2 for nah lang: ('Cualtitoc, na axnimoihliaya ino, nicualaniztoya queh naha nicamohuihqui', 'Yehyehtzi timocamohuihqueh / yehyehtzi timocamanalohqueh', 1)
+2021-09-27 17:57:10,023 [INFO] Pred loop key: nah
+2021-09-27 17:57:10,023 [INFO] Number of examples: 738
+2021-09-27 17:57:10,023 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-09-27 17:57:10,024 [INFO] Pretokenizing...
+2021-09-27 17:57:10,257 [INFO] ----------------------------------
+2021-09-27 17:57:10,276 [INFO] Example 0 for nah lang: ('huan yehhua quiihtoh: Nonantzin, niyetoc nochan', 'quinotzac inantizn niman cuac quicahuac in tepozcalnehnemiloni', 1)
+2021-09-27 17:57:10,276 [INFO] Example 1 for nah lang: ('huan yehhua quiihtoh: Nonantzin, niyetoc nochan', 'yehhua amo quiihtoh ce tlahtolli', 0)
+2021-09-27 17:57:10,276 [INFO] Example 2 for nah lang: ('huan yehhua quiihtoh: Nonantzin, niyetoc nochan', 'quiilih inantzin niehcoquia', 2)
+2021-09-27 17:57:10,276 [INFO] Pred loop key: nah
+2021-09-27 17:57:10,276 [INFO] Number of examples: 585
+2021-09-27 17:57:10,276 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-27 17:57:10,277 [INFO] Pretokenizing...
+2021-09-27 17:57:10,480 [INFO] ----------------------------------
+2021-09-27 17:57:16,188 [INFO] Language: nah
+2021-09-27 17:57:16,190 [INFO] Test accuracy: 55.69
+2021-09-27 17:57:16,191 [INFO] Eval accuracy: 55.04
+2021-09-27 17:57:16,191 [INFO] ---------------------------------
+2021-09-27 17:57:16,191 [INFO] All scores:
+2021-09-27 17:57:16,191 [INFO] Test: 55.69
+2021-09-27 17:57:16,191 [INFO] Eval: 55.04
+2021-09-27 17:57:16,191 [INFO] Done

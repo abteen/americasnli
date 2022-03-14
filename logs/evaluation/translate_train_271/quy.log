@@ -1,0 +1,27 @@
+2021-09-15 14:10:09,289 [INFO] Number of GPUs available: 1
+2021-09-15 14:10:40,912 [INFO] Number of GPUs available: 1
+2021-09-15 14:10:47,129 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/translate_train/translate_train_quy_271/final_model/
+2021-09-15 14:10:52,093 [INFO] Example 0 for quy lang: ('Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.', 'Manam paywanqa kaqllamantaqa rimarqanichu.', 0)
+2021-09-15 14:10:52,093 [INFO] Example 1 for quy lang: ('Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.', 'Paqway piñasqam karqani chayraykum kaqllamanta paywan rimarqani.', 2)
+2021-09-15 14:10:52,093 [INFO] Example 2 for quy lang: ('Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.', 'Allintam rimarurqaniku.', 1)
+2021-09-15 14:10:52,093 [INFO] Pred loop key: quy
+2021-09-15 14:10:52,093 [INFO] Number of examples: 750
+2021-09-15 14:10:52,093 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-09-15 14:10:52,094 [INFO] Pretokenizing...
+2021-09-15 14:10:52,294 [INFO] ----------------------------------
+2021-09-15 14:10:52,304 [INFO] Example 0 for quy lang: ('Hinaptinmi pay nirqa: Mamay wasipim kachkani.', 'Mamanta qayamurqa iskuyla karru saqiykuchkaptin.', 1)
+2021-09-15 14:10:52,304 [INFO] Example 1 for quy lang: ('Hinaptinmi pay nirqa: Mamay wasipim kachkani.', 'Payqa manam imatapas nirqachu', 0)
+2021-09-15 14:10:52,304 [INFO] Example 2 for quy lang: ('Hinaptinmi pay nirqa: Mamay wasipim kachkani.', 'Wasinman chayasqanmanta mananta willarqa.', 2)
+2021-09-15 14:10:52,304 [INFO] Pred loop key: quy
+2021-09-15 14:10:52,304 [INFO] Number of examples: 743
+2021-09-15 14:10:52,305 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-15 14:10:52,305 [INFO] Pretokenizing...
+2021-09-15 14:10:52,503 [INFO] ----------------------------------
+2021-09-15 14:10:59,424 [INFO] Language: quy
+2021-09-15 14:10:59,428 [INFO] Test accuracy: 59.73
+2021-09-15 14:10:59,428 [INFO] Eval accuracy: 59.22
+2021-09-15 14:10:59,428 [INFO] ---------------------------------
+2021-09-15 14:10:59,428 [INFO] All scores:
+2021-09-15 14:10:59,428 [INFO] Test: 59.73
+2021-09-15 14:10:59,428 [INFO] Eval: 59.22
+2021-09-15 14:10:59,428 [INFO] Done

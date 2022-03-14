@@ -1,0 +1,26 @@
+2021-09-14 17:16:17,652 [INFO] Number of GPUs available: 1
+2021-09-14 17:16:23,162 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/mlm_es_271/zero_shot_mlm_es_bzd_271/checkpoint-52500/
+2021-09-14 17:16:28,129 [INFO] Example 0 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Kèq ye' ùtẽnẽ ie' tã páxlĩ.", 0)
+2021-09-14 17:16:28,130 [INFO] Example 1 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Sulû ye' ulùnãwã e' wa tã ye' ujtémĩnẽ ie' tã páxlĩ.", 2)
+2021-09-14 17:16:28,130 [INFO] Example 2 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Sa' káxpake tãîx.", 1)
+2021-09-14 17:16:28,130 [INFO] Pred loop key: bzd
+2021-09-14 17:16:28,130 [INFO] Number of examples: 750
+2021-09-14 17:16:28,130 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-09-14 17:16:28,130 [INFO] Pretokenizing...
+2021-09-14 17:16:28,340 [INFO] ----------------------------------
+2021-09-14 17:16:28,349 [INFO] Example 0 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "I ãmìx ichàke irir bét wèxs tabèchka shko ẽ' wóqulâwõ dör i méxãt.", 1)
+2021-09-14 17:16:28,349 [INFO] Example 1 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "Ie' kèq wã ujtè yèqnẽ ét.", 0)
+2021-09-14 17:16:28,349 [INFO] Example 2 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "I ãmìx ã iché irir tö ye' démĩnẽ ù ã.", 2)
+2021-09-14 17:16:28,349 [INFO] Pred loop key: bzd
+2021-09-14 17:16:28,349 [INFO] Number of examples: 743
+2021-09-14 17:16:28,350 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-14 17:16:28,350 [INFO] Pretokenizing...
+2021-09-14 17:16:28,571 [INFO] ----------------------------------
+2021-09-14 17:16:35,531 [INFO] Language: bzd
+2021-09-14 17:16:35,532 [INFO] Test accuracy: 40.67
+2021-09-14 17:16:35,532 [INFO] Eval accuracy: 43.74
+2021-09-14 17:16:35,532 [INFO] ---------------------------------
+2021-09-14 17:16:35,532 [INFO] All scores:
+2021-09-14 17:16:35,532 [INFO] Test: 40.67
+2021-09-14 17:16:35,532 [INFO] Eval: 43.74
+2021-09-14 17:16:35,532 [INFO] Done

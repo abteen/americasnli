@@ -1,0 +1,512 @@
+2021-09-03 12:18:45,241 [INFO] Number of GPUs available: 2
+2021-09-03 12:21:25,079 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/zero_shot/zero_shot_en_925/final_model/
+2021-09-03 12:21:30,159 [INFO] Example 0 for ar lang: ('حسنا ، لم أكن أفكر حتى حول ذلك ، لكن كنت محبطاً تماما ،وأنهيت الحديث معه مرة ثانية .', 'لم أتحدث معه مرة أخرى.', 0)
+2021-09-03 12:21:30,159 [INFO] Example 1 for ar lang: ('حسنا ، لم أكن أفكر حتى حول ذلك ، لكن كنت محبطاً تماما ،وأنهيت الحديث معه مرة ثانية .', 'كنت مستاء جدا لدرجة أنني بدأت بالحديث معه مرة أخرى.', 2)
+2021-09-03 12:21:30,159 [INFO] Example 2 for ar lang: ('حسنا ، لم أكن أفكر حتى حول ذلك ، لكن كنت محبطاً تماما ،وأنهيت الحديث معه مرة ثانية .', 'دار بيننا حديث رائع.', 1)
+2021-09-03 12:21:30,159 [INFO] Pred loop key: ar
+2021-09-03 12:21:30,160 [INFO] Number of examples: 5010
+2021-09-03 12:21:30,160 [INFO] Data loaded from: data/xnli/xnli.test.tsv
+2021-09-03 12:21:30,162 [INFO] Pretokenizing...
+2021-09-03 12:21:31,461 [INFO] ----------------------------------
+2021-09-03 12:21:31,581 [INFO] Example 0 for ar lang: ('وقال، ماما، لقد عدت للمنزل.', 'اتصل بأمه حالما أوصلته حافلة المدرسية.', 1)
+2021-09-03 12:21:31,581 [INFO] Example 1 for ar lang: ('وقال، ماما، لقد عدت للمنزل.', 'لم ينطق ببنت شفة.', 0)
+2021-09-03 12:21:31,581 [INFO] Example 2 for ar lang: ('وقال، ماما، لقد عدت للمنزل.', 'أخبر أمه أنه قد عاد للمنزل.', 2)
+2021-09-03 12:21:31,581 [INFO] Pred loop key: ar
+2021-09-03 12:21:31,581 [INFO] Number of examples: 2490
+2021-09-03 12:21:31,581 [INFO] Data loaded from: data/xnli/xnli.dev.tsv
+2021-09-03 12:21:31,582 [INFO] Pretokenizing...
+2021-09-03 12:21:32,221 [INFO] ----------------------------------
+2021-09-03 12:21:57,479 [INFO] Language: ar
+2021-09-03 12:21:57,479 [INFO] Test accuracy: 72.24
+2021-09-03 12:21:57,480 [INFO] Eval accuracy: 71.45
+2021-09-03 12:21:57,480 [INFO] ---------------------------------
+2021-09-03 12:21:57,732 [INFO] Example 0 for bg lang: ('Е, аз дори не мислех за това, но бях толкова разочарована, а в крайна сметка отново разговарях с него.', 'Повече не съм говорил с него.', 0)
+2021-09-03 12:21:57,732 [INFO] Example 1 for bg lang: ('Е, аз дори не мислех за това, но бях толкова разочарована, а в крайна сметка отново разговарях с него.', 'Бях толкова разстроена, че просто започнах да говоря отново с него.', 2)
+2021-09-03 12:21:57,732 [INFO] Example 2 for bg lang: ('Е, аз дори не мислех за това, но бях толкова разочарована, а в крайна сметка отново разговарях с него.', 'Страхотно си поговорихме.', 1)
+2021-09-03 12:21:57,732 [INFO] Pred loop key: bg
+2021-09-03 12:21:57,732 [INFO] Number of examples: 5010
+2021-09-03 12:21:57,732 [INFO] Data loaded from: data/xnli/xnli.test.tsv
+2021-09-03 12:21:57,734 [INFO] Pretokenizing...
+2021-09-03 12:21:59,150 [INFO] ----------------------------------
+2021-09-03 12:21:59,277 [INFO] Example 0 for bg lang: ('И той каза: Мамо, у дома съм.', 'Той се обади на майка си веднага щом училищният автобус го е оставил.', 1)
+2021-09-03 12:21:59,277 [INFO] Example 1 for bg lang: ('И той каза: Мамо, у дома съм.', 'Той не каза нито дума.', 0)
+2021-09-03 12:21:59,277 [INFO] Example 2 for bg lang: ('И той каза: Мамо, у дома съм.', 'Той каза на майка си, че се е прибрал вкъщи.', 2)
+2021-09-03 12:21:59,277 [INFO] Pred loop key: bg
+2021-09-03 12:21:59,277 [INFO] Number of examples: 2490
+2021-09-03 12:21:59,277 [INFO] Data loaded from: data/xnli/xnli.dev.tsv
+2021-09-03 12:21:59,278 [INFO] Pretokenizing...
+2021-09-03 12:21:59,937 [INFO] ----------------------------------
+2021-09-03 12:22:22,122 [INFO] Language: bg
+2021-09-03 12:22:22,123 [INFO] Test accuracy: 77.52
+2021-09-03 12:22:22,123 [INFO] Eval accuracy: 76.99
+2021-09-03 12:22:22,123 [INFO] ---------------------------------
+2021-09-03 12:22:22,384 [INFO] Example 0 for de lang: ('Nun, daran dachte ich nicht einmal, aber ich war so frustriert, dass ich am Ende doch mit ihm redete.', 'Ich habe nicht wieder mit ihm gesprochen.', 0)
+2021-09-03 12:22:22,385 [INFO] Example 1 for de lang: ('Nun, daran dachte ich nicht einmal, aber ich war so frustriert, dass ich am Ende doch mit ihm redete.', 'Ich war so mitgenommen, dass ich einfach wieder anfing mit ihm zu reden.', 2)
+2021-09-03 12:22:22,385 [INFO] Example 2 for de lang: ('Nun, daran dachte ich nicht einmal, aber ich war so frustriert, dass ich am Ende doch mit ihm redete.', 'Wir hatten ein tolles Gespräch.', 1)
+2021-09-03 12:22:22,385 [INFO] Pred loop key: de
+2021-09-03 12:22:22,385 [INFO] Number of examples: 5010
+2021-09-03 12:22:22,385 [INFO] Data loaded from: data/xnli/xnli.test.tsv
+2021-09-03 12:22:22,387 [INFO] Pretokenizing...
+2021-09-03 12:22:23,713 [INFO] ----------------------------------
+2021-09-03 12:22:23,835 [INFO] Example 0 for de lang: ('und er hat gesagt, Mama ich bin daheim.', 'Er rief seine Mutter an, sobald er aus dem Schulbus stieg.', 1)
+2021-09-03 12:22:23,836 [INFO] Example 1 for de lang: ('und er hat gesagt, Mama ich bin daheim.', 'Er sagte kein Wort.', 0)
+2021-09-03 12:22:23,836 [INFO] Example 2 for de lang: ('und er hat gesagt, Mama ich bin daheim.', 'Er sagte seiner Mutter, er sei nach Hause gekommen.', 2)
+2021-09-03 12:22:23,836 [INFO] Pred loop key: de
+2021-09-03 12:22:23,836 [INFO] Number of examples: 2490
+2021-09-03 12:22:23,836 [INFO] Data loaded from: data/xnli/xnli.dev.tsv
+2021-09-03 12:22:23,837 [INFO] Pretokenizing...
+2021-09-03 12:22:24,484 [INFO] ----------------------------------
+2021-09-03 12:22:46,777 [INFO] Language: de
+2021-09-03 12:22:46,778 [INFO] Test accuracy: 76.27
+2021-09-03 12:22:46,778 [INFO] Eval accuracy: 77.55
+2021-09-03 12:22:46,778 [INFO] ---------------------------------
+2021-09-03 12:22:47,030 [INFO] Example 0 for el lang: ('Λοιπόν, δεν το σκέφτηκα καν, αλλά ήμουν τόσο απογοητευμένος, και κατέληξα να του μιλάω και πάλι.', 'Δεν του μίλησα ξανά.', 0)
+2021-09-03 12:22:47,031 [INFO] Example 1 for el lang: ('Λοιπόν, δεν το σκέφτηκα καν, αλλά ήμουν τόσο απογοητευμένος, και κατέληξα να του μιλάω και πάλι.', 'Ήμουν τόσο αναστατωμένος που άρχισα να του μιλάω ξανά.', 2)
+2021-09-03 12:22:47,031 [INFO] Example 2 for el lang: ('Λοιπόν, δεν το σκέφτηκα καν, αλλά ήμουν τόσο απογοητευμένος, και κατέληξα να του μιλάω και πάλι.', 'Είχαμε μια ωραία συζηση.', 1)
+2021-09-03 12:22:47,031 [INFO] Pred loop key: el
+2021-09-03 12:22:47,031 [INFO] Number of examples: 5010
+2021-09-03 12:22:47,031 [INFO] Data loaded from: data/xnli/xnli.test.tsv
+2021-09-03 12:22:47,033 [INFO] Pretokenizing...
+2021-09-03 12:22:48,429 [INFO] ----------------------------------
+2021-09-03 12:22:48,553 [INFO] Example 0 for el lang: ('Και είπε, Μαμά, έφτασα στο σπίτι.', 'Τηλεφώνησε στη μαμά του μόλις το σχολικό λεωφορείο τον άφησε.', 1)
+2021-09-03 12:22:48,553 [INFO] Example 1 for el lang: ('Και είπε, Μαμά, έφτασα στο σπίτι.', 'Δεν είπε ούτε λέξη.', 0)
+2021-09-03 12:22:48,553 [INFO] Example 2 for el lang: ('Και είπε, Μαμά, έφτασα στο σπίτι.', 'Είπε στην μαμά του ότι είχε πάει σπίτι.', 2)
+2021-09-03 12:22:48,553 [INFO] Pred loop key: el
+2021-09-03 12:22:48,553 [INFO] Number of examples: 2490
+2021-09-03 12:22:48,553 [INFO] Data loaded from: data/xnli/xnli.dev.tsv
+2021-09-03 12:22:48,554 [INFO] Pretokenizing...
+2021-09-03 12:22:49,239 [INFO] ----------------------------------
+2021-09-03 12:23:11,508 [INFO] Language: el
+2021-09-03 12:23:11,509 [INFO] Test accuracy: 75.65
+2021-09-03 12:23:11,509 [INFO] Eval accuracy: 75.86
+2021-09-03 12:23:11,509 [INFO] ---------------------------------
+2021-09-03 12:23:11,761 [INFO] Example 0 for en lang: ("Well, I wasn't even thinking about that, but I was so frustrated, and, I ended up talking to him again.", 'I havent spoken to him again.', 0)
+2021-09-03 12:23:11,762 [INFO] Example 1 for en lang: ("Well, I wasn't even thinking about that, but I was so frustrated, and, I ended up talking to him again.", 'I was so upset that I just started talking to him again.', 2)
+2021-09-03 12:23:11,762 [INFO] Example 2 for en lang: ("Well, I wasn't even thinking about that, but I was so frustrated, and, I ended up talking to him again.", 'We had a great talk.', 1)
+2021-09-03 12:23:11,762 [INFO] Pred loop key: en
+2021-09-03 12:23:11,762 [INFO] Number of examples: 5010
+2021-09-03 12:23:11,762 [INFO] Data loaded from: data/xnli/xnli.test.tsv
+2021-09-03 12:23:11,764 [INFO] Pretokenizing...
+2021-09-03 12:23:13,116 [INFO] ----------------------------------
+2021-09-03 12:23:13,237 [INFO] Example 0 for en lang: ("And he said, Mama, I'm home.", 'He called his mom as soon as the school bus dropped him off.', 1)
+2021-09-03 12:23:13,238 [INFO] Example 1 for en lang: ("And he said, Mama, I'm home.", "He didn't say a word.", 0)
+2021-09-03 12:23:13,238 [INFO] Example 2 for en lang: ("And he said, Mama, I'm home.", 'He told his mom he had gotten home.', 2)
+2021-09-03 12:23:13,238 [INFO] Pred loop key: en
+2021-09-03 12:23:13,238 [INFO] Number of examples: 2490
+2021-09-03 12:23:13,238 [INFO] Data loaded from: data/xnli/xnli.dev.tsv
+2021-09-03 12:23:13,239 [INFO] Pretokenizing...
+2021-09-03 12:23:13,866 [INFO] ----------------------------------
+2021-09-03 12:23:36,100 [INFO] Language: en
+2021-09-03 12:23:36,101 [INFO] Test accuracy: 84.31
+2021-09-03 12:23:36,101 [INFO] Eval accuracy: 85.34
+2021-09-03 12:23:36,101 [INFO] ---------------------------------
+2021-09-03 12:23:36,363 [INFO] Example 0 for es lang: ('Bien, ni estaba pensando en eso, pero estaba tan frustrada y empecé a hablar con él de nuevo.', 'No he vuelto a hablar con él.', 0)
+2021-09-03 12:23:36,363 [INFO] Example 1 for es lang: ('Bien, ni estaba pensando en eso, pero estaba tan frustrada y empecé a hablar con él de nuevo.', 'Estaba tan molesto que empecé a hablar con él de nuevo.', 2)
+2021-09-03 12:23:36,363 [INFO] Example 2 for es lang: ('Bien, ni estaba pensando en eso, pero estaba tan frustrada y empecé a hablar con él de nuevo.', 'Tuvimos una gran charla.', 1)
+2021-09-03 12:23:36,363 [INFO] Pred loop key: es
+2021-09-03 12:23:36,363 [INFO] Number of examples: 5010
+2021-09-03 12:23:36,363 [INFO] Data loaded from: data/xnli/xnli.test.tsv
+2021-09-03 12:23:36,365 [INFO] Pretokenizing...
+2021-09-03 12:23:37,720 [INFO] ----------------------------------
+2021-09-03 12:23:37,847 [INFO] Example 0 for es lang: ('Y él dijo: Mamá, estoy en casa.', 'Llamó a su madre tan pronto como el autobús escolar lo dejó.', 1)
+2021-09-03 12:23:37,847 [INFO] Example 1 for es lang: ('Y él dijo: Mamá, estoy en casa.', 'Él no dijo una palabra.', 0)
+2021-09-03 12:23:37,847 [INFO] Example 2 for es lang: ('Y él dijo: Mamá, estoy en casa.', 'Le dijo a su madre que había llegado a casa.', 2)
+2021-09-03 12:23:37,847 [INFO] Pred loop key: es
+2021-09-03 12:23:37,847 [INFO] Number of examples: 2490
+2021-09-03 12:23:37,847 [INFO] Data loaded from: data/xnli/xnli.dev.tsv
+2021-09-03 12:23:37,849 [INFO] Pretokenizing...
+2021-09-03 12:23:38,537 [INFO] ----------------------------------
+2021-09-03 12:24:00,858 [INFO] Language: es
+2021-09-03 12:24:00,859 [INFO] Test accuracy: 78.48
+2021-09-03 12:24:00,859 [INFO] Eval accuracy: 79.56
+2021-09-03 12:24:00,859 [INFO] ---------------------------------
+2021-09-03 12:24:01,139 [INFO] Example 0 for fr lang: ("Eh bien, je ne pensais même pas à cela, mais j'étais si frustré, et j'ai fini par lui reparler.", 'Je ne lui ai pas parlé de nouveau', 0)
+2021-09-03 12:24:01,139 [INFO] Example 1 for fr lang: ("Eh bien, je ne pensais même pas à cela, mais j'étais si frustré, et j'ai fini par lui reparler.", "J'étais si contrarié que je commençais juste à lui parler à nouveau.", 2)
+2021-09-03 12:24:01,139 [INFO] Example 2 for fr lang: ("Eh bien, je ne pensais même pas à cela, mais j'étais si frustré, et j'ai fini par lui reparler.", 'Nous avons eu une grande discussion.', 1)
+2021-09-03 12:24:01,140 [INFO] Pred loop key: fr
+2021-09-03 12:24:01,140 [INFO] Number of examples: 5010
+2021-09-03 12:24:01,140 [INFO] Data loaded from: data/xnli/xnli.test.tsv
+2021-09-03 12:24:01,142 [INFO] Pretokenizing...
+2021-09-03 12:24:02,574 [INFO] ----------------------------------
+2021-09-03 12:24:02,707 [INFO] Example 0 for fr lang: ('Et il a dit, maman, je suis à la maison.', "Il a appelé sa mère dès que le bus scolaire l'a déposé.", 1)
+2021-09-03 12:24:02,707 [INFO] Example 1 for fr lang: ('Et il a dit, maman, je suis à la maison.', "Il n'a pas dit un mot.", 0)
+2021-09-03 12:24:02,707 [INFO] Example 2 for fr lang: ('Et il a dit, maman, je suis à la maison.', "Il a dit à sa mère qu'il était rentré.", 2)
+2021-09-03 12:24:02,707 [INFO] Pred loop key: fr
+2021-09-03 12:24:02,707 [INFO] Number of examples: 2490
+2021-09-03 12:24:02,708 [INFO] Data loaded from: data/xnli/xnli.dev.tsv
+2021-09-03 12:24:02,709 [INFO] Pretokenizing...
+2021-09-03 12:24:03,412 [INFO] ----------------------------------
+2021-09-03 12:24:25,730 [INFO] Language: fr
+2021-09-03 12:24:25,731 [INFO] Test accuracy: 77.98
+2021-09-03 12:24:25,731 [INFO] Eval accuracy: 77.35
+2021-09-03 12:24:25,731 [INFO] ---------------------------------
+2021-09-03 12:24:25,987 [INFO] Example 0 for hi lang: ('हालांकि मैं इसके बारे में सोच भी नहीं रहा था लेकिन मैं इतना परेशान था कि मुझे वापस उससे बात करनी ही पड़ेगी', 'मैंने उससे दोबारा बात नहीं की है।', 0)
+2021-09-03 12:24:25,988 [INFO] Example 1 for hi lang: ('हालांकि मैं इसके बारे में सोच भी नहीं रहा था लेकिन मैं इतना परेशान था कि मुझे वापस उससे बात करनी ही पड़ेगी', 'मैं बहुत परेशान था कि मैंने उससे फिर से बात करना शुरू कर दिया।', 2)
+2021-09-03 12:24:25,988 [INFO] Example 2 for hi lang: ('हालांकि मैं इसके बारे में सोच भी नहीं रहा था लेकिन मैं इतना परेशान था कि मुझे वापस उससे बात करनी ही पड़ेगी', 'हमने बहुत बढ़िया बात की थी।', 1)
+2021-09-03 12:24:25,988 [INFO] Pred loop key: hi
+2021-09-03 12:24:25,988 [INFO] Number of examples: 5010
+2021-09-03 12:24:25,988 [INFO] Data loaded from: data/xnli/xnli.test.tsv
+2021-09-03 12:24:25,990 [INFO] Pretokenizing...
+2021-09-03 12:24:27,386 [INFO] ----------------------------------
+2021-09-03 12:24:27,508 [INFO] Example 0 for hi lang: ('और उसने कहा, माँ, मैं घर आया हूं।', 'जब ही उसकी स्कूल बस ने उसे उतरा उसने अपनी माँ को बुलाया', 1)
+2021-09-03 12:24:27,508 [INFO] Example 1 for hi lang: ('और उसने कहा, माँ, मैं घर आया हूं।', 'उसने एक शब्द नहीं कहा।', 0)
+2021-09-03 12:24:27,508 [INFO] Example 2 for hi lang: ('और उसने कहा, माँ, मैं घर आया हूं।', 'Uski maa ne bataya ki wo ghar pahuch gaya', 2)
+2021-09-03 12:24:27,508 [INFO] Pred loop key: hi
+2021-09-03 12:24:27,508 [INFO] Number of examples: 2490
+2021-09-03 12:24:27,508 [INFO] Data loaded from: data/xnli/xnli.dev.tsv
+2021-09-03 12:24:27,509 [INFO] Pretokenizing...
+2021-09-03 12:24:28,207 [INFO] ----------------------------------
+2021-09-03 12:24:50,556 [INFO] Language: hi
+2021-09-03 12:24:50,557 [INFO] Test accuracy: 70.00
+2021-09-03 12:24:50,557 [INFO] Eval accuracy: 69.32
+2021-09-03 12:24:50,557 [INFO] ---------------------------------
+2021-09-03 12:24:50,837 [INFO] Example 0 for ru lang: ('Ну, я даже не думал об этом, но я был так разочарован, что в конце концов опять поговорил с ним.', 'Я больше с ним не разговаривал.', 0)
+2021-09-03 12:24:50,838 [INFO] Example 1 for ru lang: ('Ну, я даже не думал об этом, но я был так разочарован, что в конце концов опять поговорил с ним.', 'Я был так расстроен, что даже снова начал с ним разговаривать.', 2)
+2021-09-03 12:24:50,839 [INFO] Example 2 for ru lang: ('Ну, я даже не думал об этом, но я был так разочарован, что в конце концов опять поговорил с ним.', 'Мы прекрасно поговорили.', 1)
+2021-09-03 12:24:50,839 [INFO] Pred loop key: ru
+2021-09-03 12:24:50,839 [INFO] Number of examples: 5010
+2021-09-03 12:24:50,839 [INFO] Data loaded from: data/xnli/xnli.test.tsv
+2021-09-03 12:24:50,841 [INFO] Pretokenizing...
+2021-09-03 12:24:52,279 [INFO] ----------------------------------
+2021-09-03 12:24:52,409 [INFO] Example 0 for ru lang: ('И он сказал: Мама, я дома.', 'Он позвал маму, как только вышел из школьного автобуса.', 1)
+2021-09-03 12:24:52,410 [INFO] Example 1 for ru lang: ('И он сказал: Мама, я дома.', 'Он не произнес ни слова.', 0)
+2021-09-03 12:24:52,410 [INFO] Example 2 for ru lang: ('И он сказал: Мама, я дома.', 'Он сказал матери, что уже добрался домой.', 2)
+2021-09-03 12:24:52,410 [INFO] Pred loop key: ru
+2021-09-03 12:24:52,410 [INFO] Number of examples: 2490
+2021-09-03 12:24:52,410 [INFO] Data loaded from: data/xnli/xnli.dev.tsv
+2021-09-03 12:24:52,411 [INFO] Pretokenizing...
+2021-09-03 12:24:53,120 [INFO] ----------------------------------
+2021-09-03 12:25:15,407 [INFO] Language: ru
+2021-09-03 12:25:15,407 [INFO] Test accuracy: 76.45
+2021-09-03 12:25:15,407 [INFO] Eval accuracy: 74.82
+2021-09-03 12:25:15,407 [INFO] ---------------------------------
+2021-09-03 12:25:15,658 [INFO] Example 0 for sw lang: ('Naam, sikukuwa nafikiri juu ya hilo, lakini nilichanganyikiwa sana, na, hatimaye nikaendelea kuzungumza naye tena.', 'Sijaongea na yeye tena.', 0)
+2021-09-03 12:25:15,658 [INFO] Example 1 for sw lang: ('Naam, sikukuwa nafikiri juu ya hilo, lakini nilichanganyikiwa sana, na, hatimaye nikaendelea kuzungumza naye tena.', 'Nilikasirika sana kwamba nikaanza kuzungumza naye tena.', 2)
+2021-09-03 12:25:15,658 [INFO] Example 2 for sw lang: ('Naam, sikukuwa nafikiri juu ya hilo, lakini nilichanganyikiwa sana, na, hatimaye nikaendelea kuzungumza naye tena.', 'Tulikuwa na majadiliano mazuri.', 1)
+2021-09-03 12:25:15,658 [INFO] Pred loop key: sw
+2021-09-03 12:25:15,658 [INFO] Number of examples: 5010
+2021-09-03 12:25:15,658 [INFO] Data loaded from: data/xnli/xnli.test.tsv
+2021-09-03 12:25:15,660 [INFO] Pretokenizing...
+2021-09-03 12:25:16,915 [INFO] ----------------------------------
+2021-09-03 12:25:17,036 [INFO] Example 0 for sw lang: ('Naye akasema, Mama, niko nyumbani.', 'Alimwita mama yake mara tu basi ya shule ilipomshukisha.', 1)
+2021-09-03 12:25:17,036 [INFO] Example 1 for sw lang: ('Naye akasema, Mama, niko nyumbani.', 'Hakusema chochote.', 0)
+2021-09-03 12:25:17,036 [INFO] Example 2 for sw lang: ('Naye akasema, Mama, niko nyumbani.', 'Alimwambia mama yake alikuwa amefika nyumbani.', 2)
+2021-09-03 12:25:17,037 [INFO] Pred loop key: sw
+2021-09-03 12:25:17,037 [INFO] Number of examples: 2490
+2021-09-03 12:25:17,037 [INFO] Data loaded from: data/xnli/xnli.dev.tsv
+2021-09-03 12:25:17,038 [INFO] Pretokenizing...
+2021-09-03 12:25:17,658 [INFO] ----------------------------------
+2021-09-03 12:25:40,039 [INFO] Language: sw
+2021-09-03 12:25:40,040 [INFO] Test accuracy: 64.13
+2021-09-03 12:25:40,040 [INFO] Eval accuracy: 62.49
+2021-09-03 12:25:40,040 [INFO] ---------------------------------
+2021-09-03 12:25:40,311 [INFO] Example 0 for th lang: ('ดี, ฉันไม่ได้คิดอะไรเกี่ยวกับเรื่องนี้, แต่ฉันก็ผิดหวัง, และ, ฉันก็กลับไปคุยกับเขาอีกครั้ง', 'ฉันไม่ได้คุยกับเขาอีกเลย', 0)
+2021-09-03 12:25:40,312 [INFO] Example 1 for th lang: ('ดี, ฉันไม่ได้คิดอะไรเกี่ยวกับเรื่องนี้, แต่ฉันก็ผิดหวัง, และ, ฉันก็กลับไปคุยกับเขาอีกครั้ง', 'ฉันรู้สึกเเย่มากที่ฉันกำลังเริ่มที่จะคุยกับเขาอีกเเล้ว', 2)
+2021-09-03 12:25:40,312 [INFO] Example 2 for th lang: ('ดี, ฉันไม่ได้คิดอะไรเกี่ยวกับเรื่องนี้, แต่ฉันก็ผิดหวัง, และ, ฉันก็กลับไปคุยกับเขาอีกครั้ง', 'พวกเราคุยกันได้ถูกคอจริงๆ', 1)
+2021-09-03 12:25:40,312 [INFO] Pred loop key: th
+2021-09-03 12:25:40,312 [INFO] Number of examples: 5010
+2021-09-03 12:25:40,312 [INFO] Data loaded from: data/xnli/xnli.test.tsv
+2021-09-03 12:25:40,314 [INFO] Pretokenizing...
+2021-09-03 12:25:41,617 [INFO] ----------------------------------
+2021-09-03 12:25:41,742 [INFO] Example 0 for th lang: ('และเขาพูดว่า, ม่าม๊า ผมอยู่บ้าน', 'เขาโทรหาเเม่ของเขาอย่างรวดเร็วหลังจากที่รถโรงเรียนส่งเขาเเล้ว', 1)
+2021-09-03 12:25:41,743 [INFO] Example 1 for th lang: ('และเขาพูดว่า, ม่าม๊า ผมอยู่บ้าน', 'เขาไม่ได้พูดสักคำ', 0)
+2021-09-03 12:25:41,743 [INFO] Example 2 for th lang: ('และเขาพูดว่า, ม่าม๊า ผมอยู่บ้าน', 'เขาบอกเเม่เขาว่าเขาถึงบ้านเเล้ว', 2)
+2021-09-03 12:25:41,743 [INFO] Pred loop key: th
+2021-09-03 12:25:41,743 [INFO] Number of examples: 2490
+2021-09-03 12:25:41,743 [INFO] Data loaded from: data/xnli/xnli.dev.tsv
+2021-09-03 12:25:41,744 [INFO] Pretokenizing...
+2021-09-03 12:25:42,382 [INFO] ----------------------------------
+2021-09-03 12:26:04,652 [INFO] Language: th
+2021-09-03 12:26:04,652 [INFO] Test accuracy: 71.30
+2021-09-03 12:26:04,653 [INFO] Eval accuracy: 71.24
+2021-09-03 12:26:04,653 [INFO] ---------------------------------
+2021-09-03 12:26:04,901 [INFO] Example 0 for tr lang: ('Pekala, bunu hiç düşünmemiştim ancak kafam çok karıştı ve onunla tekrar konuşmadım.', 'Onunla bir daha konuşmadım.', 0)
+2021-09-03 12:26:04,901 [INFO] Example 1 for tr lang: ('Pekala, bunu hiç düşünmemiştim ancak kafam çok karıştı ve onunla tekrar konuşmadım.', 'O kadar çok üzgündüm ki onunla tekrar konuşmaya başladım.', 2)
+2021-09-03 12:26:04,901 [INFO] Example 2 for tr lang: ('Pekala, bunu hiç düşünmemiştim ancak kafam çok karıştı ve onunla tekrar konuşmadım.', 'Harika bir konuşma yaptık.', 1)
+2021-09-03 12:26:04,901 [INFO] Pred loop key: tr
+2021-09-03 12:26:04,901 [INFO] Number of examples: 5010
+2021-09-03 12:26:04,902 [INFO] Data loaded from: data/xnli/xnli.test.tsv
+2021-09-03 12:26:04,903 [INFO] Pretokenizing...
+2021-09-03 12:26:06,170 [INFO] ----------------------------------
+2021-09-03 12:26:06,287 [INFO] Example 0 for tr lang: ('Ve Anne, evdeyim dedi.', 'Okul servisi onu bırakır bırakmaz annesini aradı.', 1)
+2021-09-03 12:26:06,288 [INFO] Example 1 for tr lang: ('Ve Anne, evdeyim dedi.', 'Bir kelime söylemedi.', 0)
+2021-09-03 12:26:06,288 [INFO] Example 2 for tr lang: ('Ve Anne, evdeyim dedi.', 'Annesine eve gittiğini söyledi.', 2)
+2021-09-03 12:26:06,288 [INFO] Pred loop key: tr
+2021-09-03 12:26:06,288 [INFO] Number of examples: 2490
+2021-09-03 12:26:06,288 [INFO] Data loaded from: data/xnli/xnli.dev.tsv
+2021-09-03 12:26:06,289 [INFO] Pretokenizing...
+2021-09-03 12:26:06,914 [INFO] ----------------------------------
+2021-09-03 12:26:29,180 [INFO] Language: tr
+2021-09-03 12:26:29,180 [INFO] Test accuracy: 72.26
+2021-09-03 12:26:29,180 [INFO] Eval accuracy: 73.09
+2021-09-03 12:26:29,180 [INFO] ---------------------------------
+2021-09-03 12:26:29,441 [INFO] Example 0 for ur lang: ('میں اس کے بارے میں نہیں سوچھ رہی تھی ، لیکن میں اتنی مایوس تھی کہ اس سے دوبارہ بات کرنے لگی۔', 'میں نی اسی دوبارا بات نھی کی', 0)
+2021-09-03 12:26:29,442 [INFO] Example 1 for ur lang: ('میں اس کے بارے میں نہیں سوچھ رہی تھی ، لیکن میں اتنی مایوس تھی کہ اس سے دوبارہ بات کرنے لگی۔', 'میں اتنا زیادہ مضطرب تھا کہ میں نے اس سے دوبارہ بات چیت کرنا شروع کردیا۔', 2)
+2021-09-03 12:26:29,442 [INFO] Example 2 for ur lang: ('میں اس کے بارے میں نہیں سوچھ رہی تھی ، لیکن میں اتنی مایوس تھی کہ اس سے دوبارہ بات کرنے لگی۔', 'ہماری بات چیت بہت اچھی رہی۔', 1)
+2021-09-03 12:26:29,442 [INFO] Pred loop key: ur
+2021-09-03 12:26:29,442 [INFO] Number of examples: 5010
+2021-09-03 12:26:29,442 [INFO] Data loaded from: data/xnli/xnli.test.tsv
+2021-09-03 12:26:29,445 [INFO] Pretokenizing...
+2021-09-03 12:26:30,826 [INFO] ----------------------------------
+2021-09-03 12:26:30,956 [INFO] Example 0 for ur lang: ('اور اس نے کہا امّی، میں گھر آگیا ہوں۔', 'اسنے اپنی امی کو فوران فون کیا جیسے ھی سکوول بس نے اسے اتارا', 1)
+2021-09-03 12:26:30,957 [INFO] Example 1 for ur lang: ('اور اس نے کہا امّی، میں گھر آگیا ہوں۔', 'وں ا یک لفز نھی بولا', 0)
+2021-09-03 12:26:30,957 [INFO] Example 2 for ur lang: ('اور اس نے کہا امّی، میں گھر آگیا ہوں۔', 'اسنی اپنی امی کو بتایا کے وں گھر ھیں', 2)
+2021-09-03 12:26:30,957 [INFO] Pred loop key: ur
+2021-09-03 12:26:30,957 [INFO] Number of examples: 2490
+2021-09-03 12:26:30,957 [INFO] Data loaded from: data/xnli/xnli.dev.tsv
+2021-09-03 12:26:30,958 [INFO] Pretokenizing...
+2021-09-03 12:26:31,619 [INFO] ----------------------------------
+2021-09-03 12:26:53,912 [INFO] Language: ur
+2021-09-03 12:26:53,913 [INFO] Test accuracy: 66.05
+2021-09-03 12:26:53,913 [INFO] Eval accuracy: 66.02
+2021-09-03 12:26:53,913 [INFO] ---------------------------------
+2021-09-03 12:26:54,159 [INFO] Example 0 for vi lang: ('Vâng, tôi thậm chí không nghĩ về điều đó, nhưng tôi đã rất thất vọng, và, tôi lại nói chuyện với anh ta lần nữa.', 'Tôi đã không nói chuyện với anh ta nữa.', 0)
+2021-09-03 12:26:54,160 [INFO] Example 1 for vi lang: ('Vâng, tôi thậm chí không nghĩ về điều đó, nhưng tôi đã rất thất vọng, và, tôi lại nói chuyện với anh ta lần nữa.', 'Tôi buồn tới mức tôi lại bắt đầu nói chuyện lại với anh ta.', 2)
+2021-09-03 12:26:54,160 [INFO] Example 2 for vi lang: ('Vâng, tôi thậm chí không nghĩ về điều đó, nhưng tôi đã rất thất vọng, và, tôi lại nói chuyện với anh ta lần nữa.', 'Chúng tôi có buổi nói chuyện tuyệt vời.', 1)
+2021-09-03 12:26:54,160 [INFO] Pred loop key: vi
+2021-09-03 12:26:54,160 [INFO] Number of examples: 5010
+2021-09-03 12:26:54,160 [INFO] Data loaded from: data/xnli/xnli.test.tsv
+2021-09-03 12:26:54,162 [INFO] Pretokenizing...
+2021-09-03 12:26:55,463 [INFO] ----------------------------------
+2021-09-03 12:26:55,582 [INFO] Example 0 for vi lang: ('Và anh ấy nói, Mẹ, con đã về nhà.', 'Ngay khi xuống xe buýt của trường, anh ấy gọi cho mẹ.', 1)
+2021-09-03 12:26:55,582 [INFO] Example 1 for vi lang: ('Và anh ấy nói, Mẹ, con đã về nhà.', 'Anh không nói một lời nào.', 0)
+2021-09-03 12:26:55,582 [INFO] Example 2 for vi lang: ('Và anh ấy nói, Mẹ, con đã về nhà.', 'Anh nói với mẹ rằng anh đã về nhà.', 2)
+2021-09-03 12:26:55,582 [INFO] Pred loop key: vi
+2021-09-03 12:26:55,582 [INFO] Number of examples: 2490
+2021-09-03 12:26:55,582 [INFO] Data loaded from: data/xnli/xnli.dev.tsv
+2021-09-03 12:26:55,583 [INFO] Pretokenizing...
+2021-09-03 12:26:56,232 [INFO] ----------------------------------
+2021-09-03 12:27:18,510 [INFO] Language: vi
+2021-09-03 12:27:18,512 [INFO] Test accuracy: 74.15
+2021-09-03 12:27:18,512 [INFO] Eval accuracy: 75.22
+2021-09-03 12:27:18,512 [INFO] ---------------------------------
+2021-09-03 12:27:18,768 [INFO] Example 0 for zh lang: ('嗯，我根本没想过，但是我很沮丧，最后我又和他说话了。', '我还没有和他再次谈论。', 0)
+2021-09-03 12:27:18,769 [INFO] Example 1 for zh lang: ('嗯，我根本没想过，但是我很沮丧，最后我又和他说话了。', '我非常沮丧，我刚刚开始跟他说话。', 2)
+2021-09-03 12:27:18,769 [INFO] Example 2 for zh lang: ('嗯，我根本没想过，但是我很沮丧，最后我又和他说话了。', '我们谈得很好。', 1)
+2021-09-03 12:27:18,769 [INFO] Pred loop key: zh
+2021-09-03 12:27:18,770 [INFO] Number of examples: 5010
+2021-09-03 12:27:18,770 [INFO] Data loaded from: data/xnli/xnli.test.tsv
+2021-09-03 12:27:18,772 [INFO] Pretokenizing...
+2021-09-03 12:27:19,917 [INFO] ----------------------------------
+2021-09-03 12:27:20,042 [INFO] Example 0 for zh lang: ('他说，妈妈，我回来了。', '校车把他放下后，他立即给他妈妈打了电话。', 1)
+2021-09-03 12:27:20,042 [INFO] Example 1 for zh lang: ('他说，妈妈，我回来了。', '他没说一句话。', 0)
+2021-09-03 12:27:20,042 [INFO] Example 2 for zh lang: ('他说，妈妈，我回来了。', '他告诉他的妈妈他已经回到家了。', 2)
+2021-09-03 12:27:20,042 [INFO] Pred loop key: zh
+2021-09-03 12:27:20,042 [INFO] Number of examples: 2490
+2021-09-03 12:27:20,042 [INFO] Data loaded from: data/xnli/xnli.dev.tsv
+2021-09-03 12:27:20,044 [INFO] Pretokenizing...
+2021-09-03 12:27:20,604 [INFO] ----------------------------------
+2021-09-03 12:27:42,878 [INFO] Language: zh
+2021-09-03 12:27:42,879 [INFO] Test accuracy: 73.43
+2021-09-03 12:27:42,879 [INFO] Eval accuracy: 73.90
+2021-09-03 12:27:42,879 [INFO] ---------------------------------
+2021-09-03 12:27:42,879 [INFO] All scores:
+2021-09-03 12:27:42,879 [INFO] Test: 72.24,77.52,76.27,75.65,84.31,78.48,77.98,70.00,76.45,64.13,71.30,72.26,66.05,74.15,73.43
+2021-09-03 12:27:42,879 [INFO] Eval: 71.45,76.99,77.55,75.86,85.34,79.56,77.35,69.32,74.82,62.49,71.24,73.09,66.02,75.22,73.90
+2021-09-03 12:27:42,879 [INFO] Done
+2021-09-03 12:27:46,599 [INFO] Number of GPUs available: 2
+2021-09-03 12:27:51,250 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/zero_shot/zero_shot_en_925/final_model/
+2021-09-03 12:27:56,322 [INFO] Example 0 for aym lang: ("Ukhamaxa, janiw ukatuqits lup'kayätti, ukhamarus wali phiñasitayätwa, ukatx jupampiw mayamp aruskipañ qallanttha.", 'Janiw mayamp jupampix parlxapxti.', 0)
+2021-09-03 12:27:56,323 [INFO] Example 1 for aym lang: ("Ukhamaxa, janiw ukatuqits lup'kayätti, ukhamarus wali phiñasitayätwa, ukatx jupampiw mayamp aruskipañ qallanttha.", 'Wali phiñasitaskayätwa, ukhamipan mayamp jupamp aruskipañ qallanta.', 2)
+2021-09-03 12:27:56,323 [INFO] Example 2 for aym lang: ("Ukhamaxa, janiw ukatuqits lup'kayätti, ukhamarus wali phiñasitayätwa, ukatx jupampiw mayamp aruskipañ qallanttha.", 'Wali kusa aruskipäwipuninaw jupampixa.', 1)
+2021-09-03 12:27:56,323 [INFO] Pred loop key: aym
+2021-09-03 12:27:56,323 [INFO] Number of examples: 750
+2021-09-03 12:27:56,323 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-09-03 12:27:56,323 [INFO] Pretokenizing...
+2021-09-03 12:27:56,532 [INFO] ----------------------------------
+2021-09-03 12:27:56,544 [INFO] Example 0 for aym lang: ('Jupax sanwa: Mamita, utankastwa.', 'Yatiñ utan awtux jaytawayki ukxpachaw mamaytapar jawsanxa.', 1)
+2021-09-03 12:27:56,544 [INFO] Example 1 for aym lang: ('Jupax sanwa: Mamita, utankastwa.', 'Jupax janiw mä ars arskänti', 0)
+2021-09-03 12:27:56,544 [INFO] Example 2 for aym lang: ('Jupax sanwa: Mamita, utankastwa.', 'Utar purinxtwa sasaw mamaparux sanxa', 2)
+2021-09-03 12:27:56,544 [INFO] Pred loop key: aym
+2021-09-03 12:27:56,544 [INFO] Number of examples: 743
+2021-09-03 12:27:56,544 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-03 12:27:56,544 [INFO] Pretokenizing...
+2021-09-03 12:27:56,751 [INFO] ----------------------------------
+2021-09-03 12:28:04,386 [INFO] Language: aym
+2021-09-03 12:28:04,387 [INFO] Test accuracy: 35.33
+2021-09-03 12:28:04,387 [INFO] Eval accuracy: 38.76
+2021-09-03 12:28:04,387 [INFO] ---------------------------------
+2021-09-03 12:28:04,398 [INFO] Example 0 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Kèq ye' ùtẽnẽ ie' tã páxlĩ.", 0)
+2021-09-03 12:28:04,398 [INFO] Example 1 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Sulû ye' ulùnãwã e' wa tã ye' ujtémĩnẽ ie' tã páxlĩ.", 2)
+2021-09-03 12:28:04,398 [INFO] Example 2 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Sa' káxpake tãîx.", 1)
+2021-09-03 12:28:04,398 [INFO] Pred loop key: bzd
+2021-09-03 12:28:04,398 [INFO] Number of examples: 750
+2021-09-03 12:28:04,398 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-09-03 12:28:04,399 [INFO] Pretokenizing...
+2021-09-03 12:28:04,630 [INFO] ----------------------------------
+2021-09-03 12:28:04,641 [INFO] Example 0 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "I ãmìx ichàke irir bét wèxs tabèchka shko ẽ' wóqulâwõ dör i méxãt.", 1)
+2021-09-03 12:28:04,641 [INFO] Example 1 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "Ie' kèq wã ujtè yèqnẽ ét.", 0)
+2021-09-03 12:28:04,641 [INFO] Example 2 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "I ãmìx ã iché irir tö ye' démĩnẽ ù ã.", 2)
+2021-09-03 12:28:04,641 [INFO] Pred loop key: bzd
+2021-09-03 12:28:04,641 [INFO] Number of examples: 743
+2021-09-03 12:28:04,641 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-03 12:28:04,641 [INFO] Pretokenizing...
+2021-09-03 12:28:04,957 [INFO] ----------------------------------
+2021-09-03 12:28:09,430 [INFO] Language: bzd
+2021-09-03 12:28:09,430 [INFO] Test accuracy: 39.07
+2021-09-03 12:28:09,430 [INFO] Eval accuracy: 42.26
+2021-09-03 12:28:09,430 [INFO] ---------------------------------
+2021-09-03 12:28:09,442 [INFO] Example 0 for cni lang: ('Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.', 'Tee noñatajeriji.', 0)
+2021-09-03 12:28:09,442 [INFO] Example 1 for cni lang: ('Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.', 'Ikisanaka iroosati noñaatanatantajari.', 2)
+2021-09-03 12:28:09,442 [INFO] Example 2 for cni lang: ('Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.', 'Nokenketsajeitake.', 1)
+2021-09-03 12:28:09,442 [INFO] Pred loop key: cni
+2021-09-03 12:28:09,442 [INFO] Number of examples: 750
+2021-09-03 12:28:09,442 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-09-03 12:28:09,442 [INFO] Pretokenizing...
+2021-09-03 12:28:09,644 [INFO] ----------------------------------
+2021-09-03 12:28:09,654 [INFO] Example 0 for cni lang: ('Iriori ikantiro: Ina, nosaiki pankotsiki.', 'Ikajemakero iriniro ojokantanakariri shiakomentotsi ayeetiriri obamerentsi.', 1)
+2021-09-03 12:28:09,654 [INFO] Example 1 for cni lang: ('Iriori ikantiro: Ina, nosaiki pankotsiki.', 'Iriori tekatsi ikantanake aparo ñaantsi.', 0)
+2021-09-03 12:28:09,654 [INFO] Example 2 for cni lang: ('Iriori ikantiro: Ina, nosaiki pankotsiki.', 'Ikantiro iriniro yaretaja pankotsiki.', 2)
+2021-09-03 12:28:09,654 [INFO] Pred loop key: cni
+2021-09-03 12:28:09,654 [INFO] Number of examples: 658
+2021-09-03 12:28:09,654 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-03 12:28:09,654 [INFO] Pretokenizing...
+2021-09-03 12:28:09,836 [INFO] ----------------------------------
+2021-09-03 12:28:14,091 [INFO] Language: cni
+2021-09-03 12:28:14,092 [INFO] Test accuracy: 37.73
+2021-09-03 12:28:14,092 [INFO] Eval accuracy: 39.21
+2021-09-03 12:28:14,092 [INFO] ---------------------------------
+2021-09-03 12:28:14,102 [INFO] Example 0 for gn lang: ("Néi, ni napensaikurihína upéva rehe, ajepichaiterei ha añepyrûjey añe'ê hendive.", "Nañe'êvéi hendive.", 0)
+2021-09-03 12:28:14,102 [INFO] Example 1 for gn lang: ("Néi, ni napensaikurihína upéva rehe, ajepichaiterei ha añepyrûjey añe'ê hendive.", "Che chepychyeterei rupi añepyrûjey añe'ê hendive", 2)
+2021-09-03 12:28:14,103 [INFO] Example 2 for gn lang: ("Néi, ni napensaikurihína upéva rehe, ajepichaiterei ha añepyrûjey añe'ê hendive.", 'Iporâ ore ñemongeta.', 1)
+2021-09-03 12:28:14,103 [INFO] Pred loop key: gn
+2021-09-03 12:28:14,103 [INFO] Number of examples: 750
+2021-09-03 12:28:14,103 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-09-03 12:28:14,103 [INFO] Pretokenizing...
+2021-09-03 12:28:14,307 [INFO] ----------------------------------
+2021-09-03 12:28:14,317 [INFO] Example 0 for gn lang: ("Ha ha'e he'i: Mama, aime ógape.", "Ohenói isýpe oguejymíre mba'yrúgui.", 1)
+2021-09-03 12:28:14,317 [INFO] Example 1 for gn lang: ("Ha ha'e he'i: Mama, aime ógape.", "Ha'e nde'íri mba'evete.", 0)
+2021-09-03 12:28:14,317 [INFO] Example 2 for gn lang: ("Ha ha'e he'i: Mama, aime ógape.", "He'íkuri isýpe oĝuahêhague hógape.", 2)
+2021-09-03 12:28:14,317 [INFO] Pred loop key: gn
+2021-09-03 12:28:14,317 [INFO] Number of examples: 743
+2021-09-03 12:28:14,317 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-03 12:28:14,317 [INFO] Pretokenizing...
+2021-09-03 12:28:14,527 [INFO] ----------------------------------
+2021-09-03 12:28:18,988 [INFO] Language: gn
+2021-09-03 12:28:18,988 [INFO] Test accuracy: 39.33
+2021-09-03 12:28:18,988 [INFO] Eval accuracy: 38.90
+2021-09-03 12:28:18,988 [INFO] ---------------------------------
+2021-09-03 12:28:18,999 [INFO] Example 0 for hch lang: ('mu hekwa.', 'neuka tita xatawe m+k+ mat+a.', 0)
+2021-09-03 12:28:18,999 [INFO] Example 1 for hch lang: ('mu hekwa.', 'kwinie p+re ha a kai nem+re ta xatsie menuakie hamat+a.', 2)
+2021-09-03 12:28:19,000 [INFO] Example 2 for hch lang: ('mu hekwa.', 'aix+ te+ite ti xá.', 1)
+2021-09-03 12:28:19,000 [INFO] Pred loop key: hch
+2021-09-03 12:28:19,000 [INFO] Number of examples: 750
+2021-09-03 12:28:19,000 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-09-03 12:28:19,000 [INFO] Pretokenizing...
+2021-09-03 12:28:19,217 [INFO] ----------------------------------
+2021-09-03 12:28:19,226 [INFO] Example 0 for hch lang: ('metá mik+ petay+: ne mama kitá nepa yéka.', 'yu mama pe+h+awix+ xeimieme kamiuni mei ku eiri tsie.', 1)
+2021-09-03 12:28:19,227 [INFO] Example 1 for hch lang: ('metá mik+ petay+: ne mama kitá nepa yéka.', 'm+k+ atsi p+keta y+.', 0)
+2021-09-03 12:28:19,227 [INFO] Example 2 for hch lang: ('metá mik+ petay+: ne mama kitá nepa yéka.', 'yu mama m+pa+ p+ra h+awe kai kename yu kitá he nuakai.', 2)
+2021-09-03 12:28:19,227 [INFO] Pred loop key: hch
+2021-09-03 12:28:19,227 [INFO] Number of examples: 743
+2021-09-03 12:28:19,227 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-03 12:28:19,227 [INFO] Pretokenizing...
+2021-09-03 12:28:19,445 [INFO] ----------------------------------
+2021-09-03 12:28:23,934 [INFO] Language: hch
+2021-09-03 12:28:23,934 [INFO] Test accuracy: 36.13
+2021-09-03 12:28:23,934 [INFO] Eval accuracy: 38.49
+2021-09-03 12:28:23,934 [INFO] ---------------------------------
+2021-09-03 12:28:23,944 [INFO] Example 0 for nah lang: ('Cualtitoc, na axnimoihliaya ino, nicualaniztoya queh naha nicamohuihqui', 'Ayoc nicamohuihtoc', 0)
+2021-09-03 12:28:23,945 [INFO] Example 1 for nah lang: ('Cualtitoc, na axnimoihliaya ino, nicualaniztoya queh naha nicamohuihqui', 'Nelpano nicualantoya queh naha nicamohuihqui', 2)
+2021-09-03 12:28:23,945 [INFO] Example 2 for nah lang: ('Cualtitoc, na axnimoihliaya ino, nicualaniztoya queh naha nicamohuihqui', 'Yehyehtzi timocamohuihqueh / yehyehtzi timocamanalohqueh', 1)
+2021-09-03 12:28:23,945 [INFO] Pred loop key: nah
+2021-09-03 12:28:23,945 [INFO] Number of examples: 738
+2021-09-03 12:28:23,945 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-09-03 12:28:23,945 [INFO] Pretokenizing...
+2021-09-03 12:28:24,137 [INFO] ----------------------------------
+2021-09-03 12:28:24,147 [INFO] Example 0 for nah lang: ('huan yehhua quiihtoh: Nonantzin, niyetoc nochan', 'quinotzac inantizn niman cuac quicahuac in tepozcalnehnemiloni', 1)
+2021-09-03 12:28:24,147 [INFO] Example 1 for nah lang: ('huan yehhua quiihtoh: Nonantzin, niyetoc nochan', 'yehhua amo quiihtoh ce tlahtolli', 0)
+2021-09-03 12:28:24,147 [INFO] Example 2 for nah lang: ('huan yehhua quiihtoh: Nonantzin, niyetoc nochan', 'quiilih inantzin niehcoquia', 2)
+2021-09-03 12:28:24,147 [INFO] Pred loop key: nah
+2021-09-03 12:28:24,147 [INFO] Number of examples: 585
+2021-09-03 12:28:24,147 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-03 12:28:24,147 [INFO] Pretokenizing...
+2021-09-03 12:28:24,311 [INFO] ----------------------------------
+2021-09-03 12:28:28,305 [INFO] Language: nah
+2021-09-03 12:28:28,305 [INFO] Test accuracy: 42.55
+2021-09-03 12:28:28,306 [INFO] Eval accuracy: 39.32
+2021-09-03 12:28:28,306 [INFO] ---------------------------------
+2021-09-03 12:28:28,317 [INFO] Example 0 for oto lang: ('mi-ga, nin mibⴘy mbô̮nitho ane guenu, guedi mibⴘy nho ⴘnmⴘy xi di mⴘdi o ñana nen nⴘua manaigui', 'hin din bi pengui nen nⴘa', 0)
+2021-09-03 12:28:28,317 [INFO] Example 1 for oto lang: ('mi-ga, nin mibⴘy mbô̮nitho ane guenu, guedi mibⴘy nho ⴘnmⴘy xi di mⴘdi o ñana nen nⴘua manaigui', 'dimi nho mbueracua guê di mⴘdi o ñana nen nⴘua manaigui', 2)
+2021-09-03 12:28:28,317 [INFO] Example 2 for oto lang: ('mi-ga, nin mibⴘy mbô̮nitho ane guenu, guedi mibⴘy nho ⴘnmⴘy xi di mⴘdi o ñana nen nⴘua manaigui', 'dibime nai ndot nahia', 1)
+2021-09-03 12:28:28,317 [INFO] Pred loop key: oto
+2021-09-03 12:28:28,317 [INFO] Number of examples: 748
+2021-09-03 12:28:28,317 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-09-03 12:28:28,317 [INFO] Pretokenizing...
+2021-09-03 12:28:28,535 [INFO] ----------------------------------
+2021-09-03 12:28:28,544 [INFO] Example 0 for oto lang: ('xi nⴘdi biênâ: maMe dimi an ngû', 'bi matti o ini maMe zaditho-nho tengu nⴘa nᶎarutîhî bi tzogui', 1)
+2021-09-03 12:28:28,544 [INFO] Example 1 for oto lang: ('xi nⴘdi biênâ: maMe dimi an ngû', 'nⴘdi hin biênâ nā hia', 0)
+2021-09-03 12:28:28,545 [INFO] Example 2 for oto lang: ('xi nⴘdi biênâ: maMe dimi an ngû', 'bimâbi o ini maMe guê o ngû', 2)
+2021-09-03 12:28:28,545 [INFO] Pred loop key: oto
+2021-09-03 12:28:28,545 [INFO] Number of examples: 222
+2021-09-03 12:28:28,545 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-03 12:28:28,545 [INFO] Pretokenizing...
+2021-09-03 12:28:28,602 [INFO] ----------------------------------
+2021-09-03 12:28:31,524 [INFO] Language: oto
+2021-09-03 12:28:31,524 [INFO] Test accuracy: 38.37
+2021-09-03 12:28:31,524 [INFO] Eval accuracy: 42.34
+2021-09-03 12:28:31,524 [INFO] ---------------------------------
+2021-09-03 12:28:31,535 [INFO] Example 0 for quy lang: ('Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.', 'Manam paywanqa kaqllamantaqa rimarqanichu.', 0)
+2021-09-03 12:28:31,535 [INFO] Example 1 for quy lang: ('Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.', 'Paqway piñasqam karqani chayraykum kaqllamanta paywan rimarqani.', 2)
+2021-09-03 12:28:31,535 [INFO] Example 2 for quy lang: ('Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.', 'Allintam rimarurqaniku.', 1)
+2021-09-03 12:28:31,535 [INFO] Pred loop key: quy
+2021-09-03 12:28:31,535 [INFO] Number of examples: 750
+2021-09-03 12:28:31,535 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-09-03 12:28:31,535 [INFO] Pretokenizing...
+2021-09-03 12:28:31,736 [INFO] ----------------------------------
+2021-09-03 12:28:31,745 [INFO] Example 0 for quy lang: ('Hinaptinmi pay nirqa: Mamay wasipim kachkani.', 'Mamanta qayamurqa iskuyla karru saqiykuchkaptin.', 1)
+2021-09-03 12:28:31,745 [INFO] Example 1 for quy lang: ('Hinaptinmi pay nirqa: Mamay wasipim kachkani.', 'Payqa manam imatapas nirqachu', 0)
+2021-09-03 12:28:31,745 [INFO] Example 2 for quy lang: ('Hinaptinmi pay nirqa: Mamay wasipim kachkani.', 'Wasinman chayasqanmanta mananta willarqa.', 2)
+2021-09-03 12:28:31,745 [INFO] Pred loop key: quy
+2021-09-03 12:28:31,745 [INFO] Number of examples: 743
+2021-09-03 12:28:31,745 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-03 12:28:31,746 [INFO] Pretokenizing...
+2021-09-03 12:28:31,950 [INFO] ----------------------------------
+2021-09-03 12:28:36,430 [INFO] Language: quy
+2021-09-03 12:28:36,431 [INFO] Test accuracy: 36.80
+2021-09-03 12:28:36,431 [INFO] Eval accuracy: 38.36
+2021-09-03 12:28:36,431 [INFO] ---------------------------------
+2021-09-03 12:28:36,441 [INFO] Example 0 for shp lang: ('Jakon riki, ja shinanamara ea ike, ikaxbi kikin frustradara ea ike jakopira ea jabe yoyo iribake.', 'Eara jabe yoyo iribiama iki.', 0)
+2021-09-03 12:28:36,442 [INFO] Example 1 for shp lang: ('Jakon riki, ja shinanamara ea ike, ikaxbi kikin frustradara ea ike jakopira ea jabe yoyo iribake.', 'Kikini sinatara ea ike jakopira ea jabe yoyo iki peoko ribake.', 2)
+2021-09-03 12:28:36,442 [INFO] Example 2 for shp lang: ('Jakon riki, ja shinanamara ea ike, ikaxbi kikin frustradara ea ike jakopira ea jabe yoyo iribake.', 'Kikin jaonira noa yoyo ike.', 1)
+2021-09-03 12:28:36,442 [INFO] Pred loop key: shp
+2021-09-03 12:28:36,442 [INFO] Number of examples: 750
+2021-09-03 12:28:36,442 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-09-03 12:28:36,442 [INFO] Pretokenizing...
+2021-09-03 12:28:36,644 [INFO] ----------------------------------
+2021-09-03 12:28:36,654 [INFO] Example 0 for shp lang: ('Jara neskata iki: tita, xobonkoriki ea.', 'Karomeax pekekaixonbires jawen tita kena iki.', 1)
+2021-09-03 12:28:36,654 [INFO] Example 1 for shp lang: ('Jara neskata iki: tita, xobonkoriki ea.', 'Jawebi yoyoiamaiki.', 0)
+2021-09-03 12:28:36,654 [INFO] Example 2 for shp lang: ('Jara neskata iki: tita, xobonkoriki ea.', 'Jawen tita yoiaia iki moa xobon nokota.', 2)
+2021-09-03 12:28:36,654 [INFO] Pred loop key: shp
+2021-09-03 12:28:36,655 [INFO] Number of examples: 743
+2021-09-03 12:28:36,655 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-03 12:28:36,655 [INFO] Pretokenizing...
+2021-09-03 12:28:36,858 [INFO] ----------------------------------
+2021-09-03 12:28:41,317 [INFO] Language: shp
+2021-09-03 12:28:41,317 [INFO] Test accuracy: 39.47
+2021-09-03 12:28:41,317 [INFO] Eval accuracy: 43.88
+2021-09-03 12:28:41,317 [INFO] ---------------------------------
+2021-09-03 12:28:41,329 [INFO] Example 0 for tar lang: ('Ga’lá ju, ke tási newalayé nejé echi kítira, we ne majáli, a’lí ko uchécho ne yua ku ra’íchaki.', 'Tási ne uchecho yua ra’ícha échi rejói.', 0)
+2021-09-03 12:28:41,329 [INFO] Example 1 for tar lang: ('Ga’lá ju, ke tási newalayé nejé echi kítira, we ne majáli, a’lí ko uchécho ne yua ku ra’íchaki.', 'We ne yoa iníli, analí ariká ne yua ku ra’íchaki.', 2)
+2021-09-03 12:28:41,329 [INFO] Example 2 for tar lang: ('Ga’lá ju, ke tási newalayé nejé echi kítira, we ne majáli, a’lí ko uchécho ne yua ku ra’íchaki.', 'A ta wilibé ra’íchaki.', 1)
+2021-09-03 12:28:41,329 [INFO] Pred loop key: tar
+2021-09-03 12:28:41,329 [INFO] Number of examples: 750
+2021-09-03 12:28:41,329 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-09-03 12:28:41,330 [INFO] Pretokenizing...
+2021-09-03 12:28:41,540 [INFO] ----------------------------------
+2021-09-03 12:28:41,549 [INFO] Example 0 for tar lang: ('A’lí je aníli échiko: ku bitichí ne atíki Nana', 'Jiyáwiti bayéli kipu iyé, mapu a’lí ke séali kamíoni aseyá.', 1)
+2021-09-03 12:28:41,549 [INFO] Example 1 for tar lang: ('A’lí je aníli échiko: ku bitichí ne atíki Nana', 'Ke ne’óli binóiko', 0)
+2021-09-03 12:28:41,550 [INFO] Example 2 for tar lang: ('A’lí je aníli échiko: ku bitichí ne atíki Nana', 'Iyéla ku ruyéli, mapu bitichí ku nawáli.', 2)
+2021-09-03 12:28:41,550 [INFO] Pred loop key: tar
+2021-09-03 12:28:41,550 [INFO] Number of examples: 743
+2021-09-03 12:28:41,550 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-03 12:28:41,550 [INFO] Pretokenizing...
+2021-09-03 12:28:41,768 [INFO] ----------------------------------
+2021-09-03 12:28:46,235 [INFO] Language: tar
+2021-09-03 12:28:46,235 [INFO] Test accuracy: 35.33
+2021-09-03 12:28:46,235 [INFO] Eval accuracy: 35.53
+2021-09-03 12:28:46,235 [INFO] ---------------------------------
+2021-09-03 12:28:46,235 [INFO] All scores:
+2021-09-03 12:28:46,235 [INFO] Test: 35.33,39.07,37.73,39.33,36.13,42.55,38.37,36.80,39.47,35.33
+2021-09-03 12:28:46,235 [INFO] Eval: 38.76,42.26,39.21,38.90,38.49,39.32,42.34,38.36,43.88,35.53
+2021-09-03 12:28:46,235 [INFO] Done

@@ -1,0 +1,4 @@
+#Dataset settings
+dataset_type: line_by_line
+dataset_settings:
+  file_path: /projects/abeb4417/americasnli/data/mlm-translated-1.0/train.{0}

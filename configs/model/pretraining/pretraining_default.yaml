@@ -1,0 +1,5 @@
+#Model Settings
+model_settings:
+  model_type: pretrained_xlmr_mlm
+  init:
+    pretrained_model_name_or_path: xlm-roberta-base

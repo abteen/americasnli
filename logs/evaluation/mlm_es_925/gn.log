@@ -1,0 +1,26 @@
+2021-09-12 16:24:04,485 [INFO] Number of GPUs available: 1
+2021-09-12 16:24:11,728 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/mlm_es/zero_shot_mlm_es_gn_925/final_model/
+2021-09-12 16:24:16,452 [INFO] Example 0 for gn lang: ("Néi, ni napensaikurihína upéva rehe, ajepichaiterei ha añepyrûjey añe'ê hendive.", "Nañe'êvéi hendive.", 0)
+2021-09-12 16:24:16,452 [INFO] Example 1 for gn lang: ("Néi, ni napensaikurihína upéva rehe, ajepichaiterei ha añepyrûjey añe'ê hendive.", "Che chepychyeterei rupi añepyrûjey añe'ê hendive", 2)
+2021-09-12 16:24:16,452 [INFO] Example 2 for gn lang: ("Néi, ni napensaikurihína upéva rehe, ajepichaiterei ha añepyrûjey añe'ê hendive.", 'Iporâ ore ñemongeta.', 1)
+2021-09-12 16:24:16,453 [INFO] Pred loop key: gn
+2021-09-12 16:24:16,453 [INFO] Number of examples: 750
+2021-09-12 16:24:16,453 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-09-12 16:24:16,453 [INFO] Pretokenizing...
+2021-09-12 16:24:16,639 [INFO] ----------------------------------
+2021-09-12 16:24:16,648 [INFO] Example 0 for gn lang: ("Ha ha'e he'i: Mama, aime ógape.", "Ohenói isýpe oguejymíre mba'yrúgui.", 1)
+2021-09-12 16:24:16,649 [INFO] Example 1 for gn lang: ("Ha ha'e he'i: Mama, aime ógape.", "Ha'e nde'íri mba'evete.", 0)
+2021-09-12 16:24:16,649 [INFO] Example 2 for gn lang: ("Ha ha'e he'i: Mama, aime ógape.", "He'íkuri isýpe oĝuahêhague hógape.", 2)
+2021-09-12 16:24:16,649 [INFO] Pred loop key: gn
+2021-09-12 16:24:16,649 [INFO] Number of examples: 743
+2021-09-12 16:24:16,649 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-12 16:24:16,649 [INFO] Pretokenizing...
+2021-09-12 16:24:16,840 [INFO] ----------------------------------
+2021-09-12 16:24:23,765 [INFO] Language: gn
+2021-09-12 16:24:23,765 [INFO] Test accuracy: 53.47
+2021-09-12 16:24:23,765 [INFO] Eval accuracy: 53.97
+2021-09-12 16:24:23,765 [INFO] ---------------------------------
+2021-09-12 16:24:23,765 [INFO] All scores:
+2021-09-12 16:24:23,765 [INFO] Test: 53.47
+2021-09-12 16:24:23,766 [INFO] Eval: 53.97
+2021-09-12 16:24:23,766 [INFO] Done

@@ -1,0 +1,5 @@
+#Dataset settings
+dataset_settings:
+  dataset_type: line_by_line
+  file_path: /projects/abeb4417/americasnli/data/mlm/{0}/train.{0}
+dataset_type: line_by_line

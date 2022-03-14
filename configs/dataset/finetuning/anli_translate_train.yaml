@@ -1,0 +1,16 @@
+task: nli
+dataset_settings:
+  train_dataset:
+    dataset_type: translate_train
+    file: /projects/abeb4417/americasnli/data/translate_train/train/{}.tsv
+    language: ???
+    max_sequence_length: 256
+  eval_dataset:
+    dataset_type: eval_translate_train
+    anli_dir: /projects/abeb4417/americasnli/data/anli_final/dev/anli.dev.tsv
+    translate_train_file: /projects/abeb4417/americasnli/data/translate_train/dev/translate_train.dev.tsv
+    max_sequence_length: 256
+    language: ???
+  test_dataset:
+    dataset_type: anli
+    language: all

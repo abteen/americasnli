@@ -1,0 +1,26 @@
+2021-10-05 19:25:13,828 [INFO] Number of GPUs available: 1
+2021-10-05 19:25:19,893 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/translate_train_mlm/translate_train_mlm_shp_42/final_model/
+2021-10-05 19:25:26,062 [INFO] Example 0 for shp lang: ('Jakon riki, ja shinanamara ea ike, ikaxbi kikin frustradara ea ike jakopira ea jabe yoyo iribake.', 'Eara jabe yoyo iribiama iki.', 0)
+2021-10-05 19:25:26,062 [INFO] Example 1 for shp lang: ('Jakon riki, ja shinanamara ea ike, ikaxbi kikin frustradara ea ike jakopira ea jabe yoyo iribake.', 'Kikini sinatara ea ike jakopira ea jabe yoyo iki peoko ribake.', 2)
+2021-10-05 19:25:26,062 [INFO] Example 2 for shp lang: ('Jakon riki, ja shinanamara ea ike, ikaxbi kikin frustradara ea ike jakopira ea jabe yoyo iribake.', 'Kikin jaonira noa yoyo ike.', 1)
+2021-10-05 19:25:26,063 [INFO] Pred loop key: shp
+2021-10-05 19:25:26,063 [INFO] Number of examples: 750
+2021-10-05 19:25:26,063 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-10-05 19:25:26,063 [INFO] Pretokenizing...
+2021-10-05 19:25:26,273 [INFO] ----------------------------------
+2021-10-05 19:25:26,284 [INFO] Example 0 for shp lang: ('Jara neskata iki: tita, xobonkoriki ea.', 'Karomeax pekekaixonbires jawen tita kena iki.', 1)
+2021-10-05 19:25:26,284 [INFO] Example 1 for shp lang: ('Jara neskata iki: tita, xobonkoriki ea.', 'Jawebi yoyoiamaiki.', 0)
+2021-10-05 19:25:26,284 [INFO] Example 2 for shp lang: ('Jara neskata iki: tita, xobonkoriki ea.', 'Jawen tita yoiaia iki moa xobon nokota.', 2)
+2021-10-05 19:25:26,284 [INFO] Pred loop key: shp
+2021-10-05 19:25:26,284 [INFO] Number of examples: 743
+2021-10-05 19:25:26,284 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-10-05 19:25:26,284 [INFO] Pretokenizing...
+2021-10-05 19:25:26,493 [INFO] ----------------------------------
+2021-10-05 19:25:32,892 [INFO] Language: shp
+2021-10-05 19:25:32,894 [INFO] Test accuracy: 50.00
+2021-10-05 19:25:32,894 [INFO] Eval accuracy: 49.93
+2021-10-05 19:25:32,894 [INFO] ---------------------------------
+2021-10-05 19:25:32,894 [INFO] All scores:
+2021-10-05 19:25:32,895 [INFO] Test: 50.00
+2021-10-05 19:25:32,895 [INFO] Eval: 49.93
+2021-10-05 19:25:32,895 [INFO] Done

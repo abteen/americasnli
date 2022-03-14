@@ -1,0 +1,26 @@
+2021-10-27 14:23:03,390 [INFO] Number of GPUs available: 1
+2021-10-27 14:23:09,792 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/mlm-aug_en/zero_shot_mlm-aug_en_bzd_42/final_model/
+2021-10-27 14:23:15,246 [INFO] Example 0 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Kèq ye' ùtẽnẽ ie' tã páxlĩ.", 0)
+2021-10-27 14:23:15,247 [INFO] Example 1 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Sulû ye' ulùnãwã e' wa tã ye' ujtémĩnẽ ie' tã páxlĩ.", 2)
+2021-10-27 14:23:15,247 [INFO] Example 2 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Sa' káxpake tãîx.", 1)
+2021-10-27 14:23:15,247 [INFO] Pred loop key: bzd
+2021-10-27 14:23:15,247 [INFO] Number of examples: 750
+2021-10-27 14:23:15,247 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-10-27 14:23:15,247 [INFO] Pretokenizing...
+2021-10-27 14:23:15,508 [INFO] ----------------------------------
+2021-10-27 14:23:15,520 [INFO] Example 0 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "I ãmìx ichàke irir bét wèxs tabèchka shko ẽ' wóqulâwõ dör i méxãt.", 1)
+2021-10-27 14:23:15,520 [INFO] Example 1 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "Ie' kèq wã ujtè yèqnẽ ét.", 0)
+2021-10-27 14:23:15,520 [INFO] Example 2 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "I ãmìx ã iché irir tö ye' démĩnẽ ù ã.", 2)
+2021-10-27 14:23:15,520 [INFO] Pred loop key: bzd
+2021-10-27 14:23:15,520 [INFO] Number of examples: 743
+2021-10-27 14:23:15,520 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-10-27 14:23:15,521 [INFO] Pretokenizing...
+2021-10-27 14:23:15,793 [INFO] ----------------------------------
+2021-10-27 14:23:22,328 [INFO] Language: bzd
+2021-10-27 14:23:22,330 [INFO] Test accuracy: 38.67
+2021-10-27 14:23:22,330 [INFO] Eval accuracy: 40.11
+2021-10-27 14:23:22,330 [INFO] ---------------------------------
+2021-10-27 14:23:22,330 [INFO] All scores:
+2021-10-27 14:23:22,331 [INFO] Test: 38.67
+2021-10-27 14:23:22,331 [INFO] Eval: 40.11
+2021-10-27 14:23:22,331 [INFO] Done

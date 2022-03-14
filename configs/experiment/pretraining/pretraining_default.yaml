@@ -1,0 +1,9 @@
+#Experiment Settings
+output_directory: /rc_scratch/abeb4417/americasnli/
+log_directory: /projects/abeb4417/americasnli/logs/mlm/
+use_wandb: True
+experiment_name: ???
+visible_devices: "0,1"
+n_gpu: 2
+seed: 42
+target_lang: ???

@@ -1,0 +1,188 @@
+2021-11-09 22:27:44,420 [INFO] Number of GPUs available: 1
+2021-11-09 22:27:57,375 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/xlmr_large/xlmr_large_zero_shot_es_42/final_model/
+2021-11-09 22:28:23,420 [INFO] Example 0 for aym lang: ("Ukhamaxa, janiw ukatuqits lup'kayätti, ukhamarus wali phiñasitayätwa, ukatx jupampiw mayamp aruskipañ qallanttha.", 'Janiw mayamp jupampix parlxapxti.', 0)
+2021-11-09 22:28:23,420 [INFO] Example 1 for aym lang: ("Ukhamaxa, janiw ukatuqits lup'kayätti, ukhamarus wali phiñasitayätwa, ukatx jupampiw mayamp aruskipañ qallanttha.", 'Wali phiñasitaskayätwa, ukhamipan mayamp jupamp aruskipañ qallanta.', 2)
+2021-11-09 22:28:23,420 [INFO] Example 2 for aym lang: ("Ukhamaxa, janiw ukatuqits lup'kayätti, ukhamarus wali phiñasitayätwa, ukatx jupampiw mayamp aruskipañ qallanttha.", 'Wali kusa aruskipäwipuninaw jupampixa.', 1)
+2021-11-09 22:28:23,420 [INFO] Pred loop key: aym
+2021-11-09 22:28:23,421 [INFO] Number of examples: 750
+2021-11-09 22:28:23,421 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-11-09 22:28:23,421 [INFO] ----------------------------------
+2021-11-09 22:28:23,487 [INFO] Example 0 for aym lang: ('Jupax sanwa: Mamita, utankastwa.', 'Yatiñ utan awtux jaytawayki ukxpachaw mamaytapar jawsanxa.', 1)
+2021-11-09 22:28:23,487 [INFO] Example 1 for aym lang: ('Jupax sanwa: Mamita, utankastwa.', 'Jupax janiw mä ars arskänti', 0)
+2021-11-09 22:28:23,487 [INFO] Example 2 for aym lang: ('Jupax sanwa: Mamita, utankastwa.', 'Utar purinxtwa sasaw mamaparux sanxa', 2)
+2021-11-09 22:28:23,487 [INFO] Pred loop key: aym
+2021-11-09 22:28:23,487 [INFO] Number of examples: 743
+2021-11-09 22:28:23,487 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-11-09 22:28:23,488 [INFO] ----------------------------------
+2021-11-09 22:28:46,789 [INFO] Language: aym
+2021-11-09 22:28:46,793 [INFO] Test accuracy: 38.67
+2021-11-09 22:28:46,793 [INFO] Eval accuracy: 38.76
+2021-11-09 22:28:46,793 [INFO] ---------------------------------
+2021-11-09 22:28:46,807 [INFO] Example 0 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Kèq ye' ùtẽnẽ ie' tã páxlĩ.", 0)
+2021-11-09 22:28:46,807 [INFO] Example 1 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Sulû ye' ulùnãwã e' wa tã ye' ujtémĩnẽ ie' tã páxlĩ.", 2)
+2021-11-09 22:28:46,807 [INFO] Example 2 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Sa' káxpake tãîx.", 1)
+2021-11-09 22:28:46,807 [INFO] Pred loop key: bzd
+2021-11-09 22:28:46,807 [INFO] Number of examples: 750
+2021-11-09 22:28:46,808 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-11-09 22:28:46,808 [INFO] ----------------------------------
+2021-11-09 22:28:46,820 [INFO] Example 0 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "I ãmìx ichàke irir bét wèxs tabèchka shko ẽ' wóqulâwõ dör i méxãt.", 1)
+2021-11-09 22:28:46,821 [INFO] Example 1 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "Ie' kèq wã ujtè yèqnẽ ét.", 0)
+2021-11-09 22:28:46,821 [INFO] Example 2 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "I ãmìx ã iché irir tö ye' démĩnẽ ù ã.", 2)
+2021-11-09 22:28:46,821 [INFO] Pred loop key: bzd
+2021-11-09 22:28:46,821 [INFO] Number of examples: 743
+2021-11-09 22:28:46,821 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-11-09 22:28:46,821 [INFO] ----------------------------------
+2021-11-09 22:29:10,140 [INFO] Language: bzd
+2021-11-09 22:29:10,143 [INFO] Test accuracy: 41.60
+2021-11-09 22:29:10,144 [INFO] Eval accuracy: 40.51
+2021-11-09 22:29:10,144 [INFO] ---------------------------------
+2021-11-09 22:29:10,158 [INFO] Example 0 for cni lang: ('Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.', 'Tee noñatajeriji.', 0)
+2021-11-09 22:29:10,158 [INFO] Example 1 for cni lang: ('Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.', 'Ikisanaka iroosati noñaatanatantajari.', 2)
+2021-11-09 22:29:10,159 [INFO] Example 2 for cni lang: ('Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.', 'Nokenketsajeitake.', 1)
+2021-11-09 22:29:10,159 [INFO] Pred loop key: cni
+2021-11-09 22:29:10,159 [INFO] Number of examples: 750
+2021-11-09 22:29:10,159 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-11-09 22:29:10,159 [INFO] ----------------------------------
+2021-11-09 22:29:10,172 [INFO] Example 0 for cni lang: ('Iriori ikantiro: Ina, nosaiki pankotsiki.', 'Ikajemakero iriniro ojokantanakariri shiakomentotsi ayeetiriri obamerentsi.', 1)
+2021-11-09 22:29:10,172 [INFO] Example 1 for cni lang: ('Iriori ikantiro: Ina, nosaiki pankotsiki.', 'Iriori tekatsi ikantanake aparo ñaantsi.', 0)
+2021-11-09 22:29:10,173 [INFO] Example 2 for cni lang: ('Iriori ikantiro: Ina, nosaiki pankotsiki.', 'Ikantiro iriniro yaretaja pankotsiki.', 2)
+2021-11-09 22:29:10,173 [INFO] Pred loop key: cni
+2021-11-09 22:29:10,173 [INFO] Number of examples: 658
+2021-11-09 22:29:10,173 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-11-09 22:29:10,173 [INFO] ----------------------------------
+2021-11-09 22:29:32,090 [INFO] Language: cni
+2021-11-09 22:29:32,094 [INFO] Test accuracy: 41.20
+2021-11-09 22:29:32,094 [INFO] Eval accuracy: 39.67
+2021-11-09 22:29:32,095 [INFO] ---------------------------------
+2021-11-09 22:29:32,108 [INFO] Example 0 for gn lang: ("Néi, ni napensaikurihína upéva rehe, ajepichaiterei ha añepyrûjey añe'ê hendive.", "Nañe'êvéi hendive.", 0)
+2021-11-09 22:29:32,109 [INFO] Example 1 for gn lang: ("Néi, ni napensaikurihína upéva rehe, ajepichaiterei ha añepyrûjey añe'ê hendive.", "Che chepychyeterei rupi añepyrûjey añe'ê hendive", 2)
+2021-11-09 22:29:32,109 [INFO] Example 2 for gn lang: ("Néi, ni napensaikurihína upéva rehe, ajepichaiterei ha añepyrûjey añe'ê hendive.", 'Iporâ ore ñemongeta.', 1)
+2021-11-09 22:29:32,109 [INFO] Pred loop key: gn
+2021-11-09 22:29:32,109 [INFO] Number of examples: 750
+2021-11-09 22:29:32,109 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-11-09 22:29:32,110 [INFO] ----------------------------------
+2021-11-09 22:29:32,122 [INFO] Example 0 for gn lang: ("Ha ha'e he'i: Mama, aime ógape.", "Ohenói isýpe oguejymíre mba'yrúgui.", 1)
+2021-11-09 22:29:32,122 [INFO] Example 1 for gn lang: ("Ha ha'e he'i: Mama, aime ógape.", "Ha'e nde'íri mba'evete.", 0)
+2021-11-09 22:29:32,122 [INFO] Example 2 for gn lang: ("Ha ha'e he'i: Mama, aime ógape.", "He'íkuri isýpe oĝuahêhague hógape.", 2)
+2021-11-09 22:29:32,122 [INFO] Pred loop key: gn
+2021-11-09 22:29:32,122 [INFO] Number of examples: 743
+2021-11-09 22:29:32,122 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-11-09 22:29:32,123 [INFO] ----------------------------------
+2021-11-09 22:29:55,400 [INFO] Language: gn
+2021-11-09 22:29:55,403 [INFO] Test accuracy: 42.00
+2021-11-09 22:29:55,404 [INFO] Eval accuracy: 45.76
+2021-11-09 22:29:55,404 [INFO] ---------------------------------
+2021-11-09 22:29:55,417 [INFO] Example 0 for hch lang: ('mu hekwa.', 'neuka tita xatawe m+k+ mat+a.', 0)
+2021-11-09 22:29:55,418 [INFO] Example 1 for hch lang: ('mu hekwa.', 'kwinie p+re ha a kai nem+re ta xatsie menuakie hamat+a.', 2)
+2021-11-09 22:29:55,418 [INFO] Example 2 for hch lang: ('mu hekwa.', 'aix+ te+ite ti xá.', 1)
+2021-11-09 22:29:55,418 [INFO] Pred loop key: hch
+2021-11-09 22:29:55,418 [INFO] Number of examples: 750
+2021-11-09 22:29:55,418 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-11-09 22:29:55,418 [INFO] ----------------------------------
+2021-11-09 22:29:55,431 [INFO] Example 0 for hch lang: ('metá mik+ petay+: ne mama kitá nepa yéka.', 'yu mama pe+h+awix+ xeimieme kamiuni mei ku eiri tsie.', 1)
+2021-11-09 22:29:55,431 [INFO] Example 1 for hch lang: ('metá mik+ petay+: ne mama kitá nepa yéka.', 'm+k+ atsi p+keta y+.', 0)
+2021-11-09 22:29:55,431 [INFO] Example 2 for hch lang: ('metá mik+ petay+: ne mama kitá nepa yéka.', 'yu mama m+pa+ p+ra h+awe kai kename yu kitá he nuakai.', 2)
+2021-11-09 22:29:55,431 [INFO] Pred loop key: hch
+2021-11-09 22:29:55,431 [INFO] Number of examples: 743
+2021-11-09 22:29:55,431 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-11-09 22:29:55,432 [INFO] ----------------------------------
+2021-11-09 22:30:18,769 [INFO] Language: hch
+2021-11-09 22:30:18,773 [INFO] Test accuracy: 37.20
+2021-11-09 22:30:18,773 [INFO] Eval accuracy: 39.03
+2021-11-09 22:30:18,773 [INFO] ---------------------------------
+2021-11-09 22:30:18,787 [INFO] Example 0 for nah lang: ('Cualtitoc, na axnimoihliaya ino, nicualaniztoya queh naha nicamohuihqui', 'Ayoc nicamohuihtoc', 0)
+2021-11-09 22:30:18,787 [INFO] Example 1 for nah lang: ('Cualtitoc, na axnimoihliaya ino, nicualaniztoya queh naha nicamohuihqui', 'Nelpano nicualantoya queh naha nicamohuihqui', 2)
+2021-11-09 22:30:18,787 [INFO] Example 2 for nah lang: ('Cualtitoc, na axnimoihliaya ino, nicualaniztoya queh naha nicamohuihqui', 'Yehyehtzi timocamohuihqueh / yehyehtzi timocamanalohqueh', 1)
+2021-11-09 22:30:18,787 [INFO] Pred loop key: nah
+2021-11-09 22:30:18,787 [INFO] Number of examples: 738
+2021-11-09 22:30:18,787 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-11-09 22:30:18,788 [INFO] ----------------------------------
+2021-11-09 22:30:18,800 [INFO] Example 0 for nah lang: ('huan yehhua quiihtoh: Nonantzin, niyetoc nochan', 'quinotzac inantizn niman cuac quicahuac in tepozcalnehnemiloni', 1)
+2021-11-09 22:30:18,800 [INFO] Example 1 for nah lang: ('huan yehhua quiihtoh: Nonantzin, niyetoc nochan', 'yehhua amo quiihtoh ce tlahtolli', 0)
+2021-11-09 22:30:18,800 [INFO] Example 2 for nah lang: ('huan yehhua quiihtoh: Nonantzin, niyetoc nochan', 'quiilih inantzin niehcoquia', 2)
+2021-11-09 22:30:18,800 [INFO] Pred loop key: nah
+2021-11-09 22:30:18,800 [INFO] Number of examples: 585
+2021-11-09 22:30:18,800 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-11-09 22:30:18,801 [INFO] ----------------------------------
+2021-11-09 22:30:39,396 [INFO] Language: nah
+2021-11-09 22:30:39,399 [INFO] Test accuracy: 41.46
+2021-11-09 22:30:39,399 [INFO] Eval accuracy: 38.46
+2021-11-09 22:30:39,399 [INFO] ---------------------------------
+2021-11-09 22:30:39,412 [INFO] Example 0 for oto lang: ('mi-ga, nin mibⴘy mbô̮nitho ane guenu, guedi mibⴘy nho ⴘnmⴘy xi di mⴘdi o ñana nen nⴘua manaigui', 'hin din bi pengui nen nⴘa', 0)
+2021-11-09 22:30:39,412 [INFO] Example 1 for oto lang: ('mi-ga, nin mibⴘy mbô̮nitho ane guenu, guedi mibⴘy nho ⴘnmⴘy xi di mⴘdi o ñana nen nⴘua manaigui', 'dimi nho mbueracua guê di mⴘdi o ñana nen nⴘua manaigui', 2)
+2021-11-09 22:30:39,412 [INFO] Example 2 for oto lang: ('mi-ga, nin mibⴘy mbô̮nitho ane guenu, guedi mibⴘy nho ⴘnmⴘy xi di mⴘdi o ñana nen nⴘua manaigui', 'dibime nai ndot nahia', 1)
+2021-11-09 22:30:39,412 [INFO] Pred loop key: oto
+2021-11-09 22:30:39,412 [INFO] Number of examples: 748
+2021-11-09 22:30:39,413 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-11-09 22:30:39,413 [INFO] ----------------------------------
+2021-11-09 22:30:39,424 [INFO] Example 0 for oto lang: ('xi nⴘdi biênâ: maMe dimi an ngû', 'bi matti o ini maMe zaditho-nho tengu nⴘa nᶎarutîhî bi tzogui', 1)
+2021-11-09 22:30:39,424 [INFO] Example 1 for oto lang: ('xi nⴘdi biênâ: maMe dimi an ngû', 'nⴘdi hin biênâ nā hia', 0)
+2021-11-09 22:30:39,424 [INFO] Example 2 for oto lang: ('xi nⴘdi biênâ: maMe dimi an ngû', 'bimâbi o ini maMe guê o ngû', 2)
+2021-11-09 22:30:39,424 [INFO] Pred loop key: oto
+2021-11-09 22:30:39,425 [INFO] Number of examples: 222
+2021-11-09 22:30:39,425 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-11-09 22:30:39,425 [INFO] ----------------------------------
+2021-11-09 22:30:54,512 [INFO] Language: oto
+2021-11-09 22:30:54,516 [INFO] Test accuracy: 42.38
+2021-11-09 22:30:54,516 [INFO] Eval accuracy: 40.09
+2021-11-09 22:30:54,516 [INFO] ---------------------------------
+2021-11-09 22:30:54,529 [INFO] Example 0 for quy lang: ('Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.', 'Manam paywanqa kaqllamantaqa rimarqanichu.', 0)
+2021-11-09 22:30:54,529 [INFO] Example 1 for quy lang: ('Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.', 'Paqway piñasqam karqani chayraykum kaqllamanta paywan rimarqani.', 2)
+2021-11-09 22:30:54,529 [INFO] Example 2 for quy lang: ('Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.', 'Allintam rimarurqaniku.', 1)
+2021-11-09 22:30:54,529 [INFO] Pred loop key: quy
+2021-11-09 22:30:54,529 [INFO] Number of examples: 750
+2021-11-09 22:30:54,529 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-11-09 22:30:54,530 [INFO] ----------------------------------
+2021-11-09 22:30:54,541 [INFO] Example 0 for quy lang: ('Hinaptinmi pay nirqa: Mamay wasipim kachkani.', 'Mamanta qayamurqa iskuyla karru saqiykuchkaptin.', 1)
+2021-11-09 22:30:54,542 [INFO] Example 1 for quy lang: ('Hinaptinmi pay nirqa: Mamay wasipim kachkani.', 'Payqa manam imatapas nirqachu', 0)
+2021-11-09 22:30:54,542 [INFO] Example 2 for quy lang: ('Hinaptinmi pay nirqa: Mamay wasipim kachkani.', 'Wasinman chayasqanmanta mananta willarqa.', 2)
+2021-11-09 22:30:54,542 [INFO] Pred loop key: quy
+2021-11-09 22:30:54,542 [INFO] Number of examples: 743
+2021-11-09 22:30:54,542 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-11-09 22:30:54,542 [INFO] ----------------------------------
+2021-11-09 22:31:17,794 [INFO] Language: quy
+2021-11-09 22:31:17,798 [INFO] Test accuracy: 41.33
+2021-11-09 22:31:17,798 [INFO] Eval accuracy: 39.97
+2021-11-09 22:31:17,798 [INFO] ---------------------------------
+2021-11-09 22:31:17,812 [INFO] Example 0 for shp lang: ('Jakon riki, ja shinanamara ea ike, ikaxbi kikin frustradara ea ike jakopira ea jabe yoyo iribake.', 'Eara jabe yoyo iribiama iki.', 0)
+2021-11-09 22:31:17,812 [INFO] Example 1 for shp lang: ('Jakon riki, ja shinanamara ea ike, ikaxbi kikin frustradara ea ike jakopira ea jabe yoyo iribake.', 'Kikini sinatara ea ike jakopira ea jabe yoyo iki peoko ribake.', 2)
+2021-11-09 22:31:17,812 [INFO] Example 2 for shp lang: ('Jakon riki, ja shinanamara ea ike, ikaxbi kikin frustradara ea ike jakopira ea jabe yoyo iribake.', 'Kikin jaonira noa yoyo ike.', 1)
+2021-11-09 22:31:17,812 [INFO] Pred loop key: shp
+2021-11-09 22:31:17,812 [INFO] Number of examples: 750
+2021-11-09 22:31:17,812 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-11-09 22:31:17,813 [INFO] ----------------------------------
+2021-11-09 22:31:17,825 [INFO] Example 0 for shp lang: ('Jara neskata iki: tita, xobonkoriki ea.', 'Karomeax pekekaixonbires jawen tita kena iki.', 1)
+2021-11-09 22:31:17,825 [INFO] Example 1 for shp lang: ('Jara neskata iki: tita, xobonkoriki ea.', 'Jawebi yoyoiamaiki.', 0)
+2021-11-09 22:31:17,825 [INFO] Example 2 for shp lang: ('Jara neskata iki: tita, xobonkoriki ea.', 'Jawen tita yoiaia iki moa xobon nokota.', 2)
+2021-11-09 22:31:17,825 [INFO] Pred loop key: shp
+2021-11-09 22:31:17,825 [INFO] Number of examples: 743
+2021-11-09 22:31:17,825 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-11-09 22:31:17,826 [INFO] ----------------------------------
+2021-11-09 22:31:41,046 [INFO] Language: shp
+2021-11-09 22:31:41,050 [INFO] Test accuracy: 43.47
+2021-11-09 22:31:41,050 [INFO] Eval accuracy: 44.41
+2021-11-09 22:31:41,050 [INFO] ---------------------------------
+2021-11-09 22:31:41,063 [INFO] Example 0 for tar lang: ('Ga’lá ju, ke tási newalayé nejé echi kítira, we ne majáli, a’lí ko uchécho ne yua ku ra’íchaki.', 'Tási ne uchecho yua ra’ícha échi rejói.', 0)
+2021-11-09 22:31:41,063 [INFO] Example 1 for tar lang: ('Ga’lá ju, ke tási newalayé nejé echi kítira, we ne majáli, a’lí ko uchécho ne yua ku ra’íchaki.', 'We ne yoa iníli, analí ariká ne yua ku ra’íchaki.', 2)
+2021-11-09 22:31:41,063 [INFO] Example 2 for tar lang: ('Ga’lá ju, ke tási newalayé nejé echi kítira, we ne majáli, a’lí ko uchécho ne yua ku ra’íchaki.', 'A ta wilibé ra’íchaki.', 1)
+2021-11-09 22:31:41,063 [INFO] Pred loop key: tar
+2021-11-09 22:31:41,063 [INFO] Number of examples: 750
+2021-11-09 22:31:41,063 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-11-09 22:31:41,064 [INFO] ----------------------------------
+2021-11-09 22:31:41,075 [INFO] Example 0 for tar lang: ('A’lí je aníli échiko: ku bitichí ne atíki Nana', 'Jiyáwiti bayéli kipu iyé, mapu a’lí ke séali kamíoni aseyá.', 1)
+2021-11-09 22:31:41,075 [INFO] Example 1 for tar lang: ('A’lí je aníli échiko: ku bitichí ne atíki Nana', 'Ke ne’óli binóiko', 0)
+2021-11-09 22:31:41,075 [INFO] Example 2 for tar lang: ('A’lí je aníli échiko: ku bitichí ne atíki Nana', 'Iyéla ku ruyéli, mapu bitichí ku nawáli.', 2)
+2021-11-09 22:31:41,075 [INFO] Pred loop key: tar
+2021-11-09 22:31:41,075 [INFO] Number of examples: 743
+2021-11-09 22:31:41,076 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-11-09 22:31:41,076 [INFO] ----------------------------------
+2021-11-09 22:32:04,319 [INFO] Language: tar
+2021-11-09 22:32:04,322 [INFO] Test accuracy: 36.00
+2021-11-09 22:32:04,323 [INFO] Eval accuracy: 38.63
+2021-11-09 22:32:04,323 [INFO] ---------------------------------
+2021-11-09 22:32:04,323 [INFO] All scores:
+2021-11-09 22:32:04,323 [INFO] Test: 38.67,41.60,41.20,42.00,37.20,41.46,42.38,41.33,43.47,36.00
+2021-11-09 22:32:04,323 [INFO] Eval: 38.76,40.51,39.67,45.76,39.03,38.46,40.09,39.97,44.41,38.63
+2021-11-09 22:32:04,323 [INFO] Done
+2021-11-09 22:36:36,149 [INFO] Number of GPUs available: 1
+2021-11-09 22:36:44,350 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/xlmr_large/xlmr_large_zero_shot_es_42/final_model/

@@ -1,0 +1,586 @@
+id	language	premise	hypothesis	label
+12451	nah	huan yehhua quiihtoh: Nonantzin, niyetoc nochan	quinotzac inantizn niman cuac quicahuac in tepozcalnehnemiloni	neutral
+12452	nah	huan yehhua quiihtoh: Nonantzin, niyetoc nochan	yehhua amo quiihtoh ce tlahtolli	contradiction
+12453	nah	huan yehhua quiihtoh: Nonantzin, niyetoc nochan	quiilih inantzin niehcoquia	entailment
+12454	nah	amo quimatia tlen quionchihuaczquia, monequia tenahuatiz tlen yazquia washington	amo queman niyetoni washington, nimopoloh cuac nicnequia nicahciz cani niyaznequia	neutral
+12455	nah	amo quimatia tlen quionchihuaczquia, monequia tenahuatiz tlen yazquia washington	nicmatoya nochi tlen nicchihuaznequia cuac niyahtoya washington	contradiction
+12456	nah	amo quimatia tlen quionchihuaczquia, monequia tenahuatiz tlen yazquia washington	amo nicmatia tquen omochihuazquia, ihcon niyahqui washington, canpa nechixpantilihqueh tlen nicchihuazquia	entailment
+12457	nah	yehhua amo huelic yahqui	yehhua cachto yahqui huan quiyolpactih telmiyac in ilhuitl	contradiction
+12458	nah	yehhua amo huelic yahqui	amo quicauhqueh mahyahui	entailment
+12459	nah	yehhua amo huelic yahqui	amo quicauhqueh mah yahui canpa oncaqueh in huehcauhtlamohuizolmeh	neutral
+12460	nah	nehhua cualli niyetoya. ¡huan yehhua yahqui nochi!	zatepa niquihtoh quemah. tlamic 	entailment
+12461	nah	nehhua cualli niyetoya. ¡huan yehhua yahqui nochi!	niquihtoh amo huan mochihuac ce huan occepa.	contradiction
+12462	nah	nehhua cualli niyetoya. ¡huan yehhua yahqui nochi!	cuac niquihtoh quemah, timonohnotzqueh huan tiquihtohqueh mah timonamictican	neutral
+12463	nah	zayoh onpa niyetoya huan nicnequia nicyecchihchihuaz	nicyecahcicamatic nochi cuac pehuac	contradiction
+12464	nah	zayoh onpa niyetoya huan nicnequia nicyecchihchihuaz	nicyecahcicamatoya cani yahqui in tomin	neutral
+12465	nah	zayoh onpa niyetoya huan nicnequia nicyecchihchihuaz	nicnequia nicahcicamatiz 	entailment
+12466	nah	huan, xicaqui, amoquicalpanoqueh in cenyeliztli quimatoyah quincahuaznequiah amo quinequiah mah quinihtacocan	quicentocaqueh quincalpanohtoyah nochin tonalmeh	contradiction
+12467	nah	huan, xicaqui, amoquicalpanoqueh in cenyeliztli quimatoyah quincahuaznequiah amo quinequiah mah quinihtacocan	amo quicalpanohuayah ninchancahuan	entailment
+12468	nah	huan, xicaqui, amoquicalpanoqueh in cenyeliztli quimatoyah quincahuaznequiah amo quinequiah mah quinihtacocan	amoquincalpanohuayah ninchancahuan cuac mocualantihqueh	neutral
+12469	nah	in cihtli tlapohuaya quenin nihueltiuh huan nihuehpol yahqueh occe altepetl, canpa Augusta, huan moixnextiayah quemeh ixpochictiqueh	ihueltiuh in cihtli ixchipahuac catca huan chantito Texas	contradiction
+12470	nah	in cihtli tlapohuaya quenin nihueltiuh huan nihuehpol yahqueh occe altepetl, canpa Augusta, huan moixnextiayah quemeh ixpochictiqueh	ihueltiuh in cihtli ixchipahuac catca	entailment
+12471	nah	in cihtli tlapohuaya quenin nihueltiuh huan nihuehpol yahqueh occe altepetl, canpa Augusta, huan moixnextiayah quemeh ixpochictiqueh	ihueltiuh in cihtzin amo catca ixchipahuac, huan quemah quinequiya yezqui ihcon hueliz yazquiya caltemachtiloyan 	neutral
+12475	nah	ticmatoquiya, yehhua catca, miac tlatlamachiliz, quemeh tetecoyo canpa quintocah cuauhmeh quinpiaya miaqueh tlalmeh	itatzin amo queman quipiaya teyi itech inemiliztli	contradiction
+12476	nah	ticmatoquiya, yehhua catca, miac tlatlamachiliz, quemeh tetecoyo canpa quintocah cuauhmeh quinpiaya miaqueh tlalmeh	itahtzin quipiaya macuiltzontli tlatlamachihuali tlen tlalmeh	neutral
+12477	nah	ticmatoquiya, yehhua catca, miac tlatlamachiliz, quemeh tetecoyo canpa quintocah cuauhmeh quinpiaya miaqueh tlalmeh	itahtzin quipiaya miyaqueh tlalmeh	entailment
+12478	nah	notequiuh cactca mah niquintlalili cequin poxameh canpa huetzizquiah huan canpa mah amo atohtolocan huan yazquiah huehca ipan occequin altepemeh	amo nicpiaya tequitl, niquinyectlalih nochin in tlatzacualmeh	contradiction
+12479	nah	notequiuh cactca mah niquintlalili cequin poxameh canpa huetzizquiah huan canpa mah amo atohtolocan huan yazquiah huehca ipan occequin altepemeh	niquintitlanic nochin in tlatzacualmeh Japon 	neutral
+12480	nah	notequiuh cactca mah niquintlalili cequin poxameh canpa huetzizquiah huan canpa mah amo atohtolocan huan yazquiah huehca ipan occequin altepemeh	niquin titlanic	entailment
+12481	nah	ihcon quemeh, mmm..., nictzicoh	nicyequitac in tlatilincayotl mah tilinto cualli	neutral
+12482	nah	ihcon quemeh, mmm..., nictzicoh	ihcon cualli nech cahcauhqueh	contradiction
+12483	nah	ihcon quemeh, mmm..., nictzicoh	ihcon nechquitzquihtoyah	entailment
+12484	nah	huan yeh cactca cihuayeh, huan quemah, yetoya calan, huan ticmatoquiya, amo nicuelitac, nihin nochin notlanemiliz	amo tecahcayahuaya huan cualli tlacatl catca	contradiction
+12485	nah	huan yeh cactca cihuayeh, huan quemah, yetoya calan, huan ticmatoquiya, amo nicuelitac, nihin nochin notlanemiliz	nictlahuelitac cemi catca tlacuehzohqueh	neutral
+12486	nah	huan yeh cactca cihuayeh, huan quemah, yetoya calan, huan ticmatoquiya, amo nicuelitac, nihin nochin notlanemiliz	amo catca itlayecanqueh	entailment
+12490	nah	huan melan amo quimatic 	yehhuan amo huelic quimatiz tlaamo tlahtohuaya icce tlahtolli	neutral
+12491	nah	huan melan amo quimatic 	yehhua amo huelic quimatiz	entailment
+12492	nah	huan melan amo quimatic 	yehhua quimatoya cualli tlen tiquihtohtoyah	contradiction
+12493	nah	hueliz yezqui quinilih nochin huan nehhua amo nicahcicamatoya inon cahuitl	amo nicaquic cuac quinilih inoccequin	entailment
+12494	nah	hueliz yezqui quinilih nochin huan nehhua amo nicahcicamatoya inon cahuitl	nicaquic nochi tlen quiihtoh yehhua	contradiction
+12495	nah	hueliz yezqui quinilih nochin huan nehhua amo nicahcicamatoya inon cahuitl	Tlahtohtoya ihuan occe ihcuac	neutral
+12496	nah	zayoh tiquinpolohqueh ome, yeyi tepozpatlanqueh 	Ome tepozpatlanqueh tiquinpolohqueh mopolohqueh cuac quiohuic huan mixtemic.	neutral
+12497	nah	zayoh tiquinpolohqueh ome, yeyi tepozpatlanqueh 	Ome tepozpatlanqueh poliuhqueh	entailment
+12498	nah	zayoh tiquinpolohqueh ome, yeyi tepozpatlanqueh 	Amo queman tiquinpolohuanih ce tepozplatlanali	contradiction
+12499	nah	Nicnequi xinechpalehui	amo nicnequi xinechpalehui	contradiction
+12500	nah	Nicnequi xinechpalehui	ce cualli tequitl nicnequi nicchihuaz	neutral
+12501	nah	Nicnequi xinechpalehui	nicnequi itla mahchiuhtoya	entailment
+12508	nah	quicentocaya onpa ihtic	yehhua yahqui huan amo quicahuac itla	contradiction
+12509	nah	quicentocaya onpa ihtic	yehhua yetoyaoc onpaca	entailment
+12510	nah	quicentocaya onpa ihtic	timoilihqueh xayahcaya, huan mocahuac	neutral
+12511	nah	noihuan, oh, xicahua mahquiza nihin	amo nicnequi nicahcicamatiz	contradiction
+12512	nah	noihuan, oh, xicahua mahquiza nihin	nicpoloti nihin	entailment
+12513	nah	noihuan, oh, xicahua mahquiza nihin	niquin yecmohuizoti nihinqueh	neutral
+12514	nah	huan niman, technotzqueh mahtiquitacan tlen opatlantoya	quiihtohuayah mahtiquitacan in tepozpatlanqueh	neutral
+12515	nah	huan niman, technotzqueh mahtiquitacan tlen opatlantoya	quiihtohuayah mahtiquitacan tlen opatlantoya	entailment
+12516	nah	huan niman, technotzqueh mahtiquitacan tlen opatlantoya	techilihqueh mah amo titlachiacan calan	contradiction
+12523	nah	inon cezah itla, eh, niixpanoc caxtolli huan ce xiuhmeh ipan notequipan tlen yecchihualiz	ninemic itech noyectequipan miyaqueh xiuhmeh	entailment
+12524	nah	inon cezah itla, eh, niixpanoc caxtolli huan ce xiuhmeh ipan notequipan tlen yecchihualiz	amoquemah nicpiani ce tequitl	contradiction
+12525	nah	inon cezah itla, eh, niixpanoc caxtolli huan ce xiuhmeh ipan notequipan tlen yecchihualiz	notequiuh tlen nicuelita motocaytia Actividadez ezpecialez	neutral
+12526	nah	nicmati xaihcon niquelnamiqui	amo teyi niquelnamiqui 	contradiction
+12527	nah	nicmati xaihcon niquelnamiqui	xaihcon niquelnamiqui itocay	neutral
+12528	nah	nicmati xaihcon niquelnamiqui	yehhua ica niquelnamiquic inon	entailment
+12529	nah	huan yehhua mitzyolcuehzohua	mitzyolpactia miyac	contradiction
+12530	nah	huan yehhua mitzyolcuehzohua	mitzyolcuehzohua miyac	entailment
+12531	nah	huan yehhua mitzyolcuehzohua	timomachiliya cualli zatepa ce cahuitl	neutral
+12532	nah	amo ximocahua onpon 	hueli tiyazya mochan tlaticnequi	neutral
+12533	nah	amo ximocahua onpon 	hueli tiyazya	entailment
+12534	nah	amo ximocahua onpon 	quipiya timocahuaz nican 	contradiction
+12535	nah	yeh yahqui..., yhaqui ce tetzauhtonalli	yahqui ce tonal cualtzin	contradiction
+12536	nah	yeh yahqui..., yhaqui ce tetzauhtonalli	cemitetzauhquiahuic cuac in mixcohuatl ehcoc ipan toaltepeuh	neutral
+12537	nah	yeh yahqui..., yhaqui ce tetzauhtonalli	inon tonal cemi nechmouhtih miyac	entailment
+12544	nah	cuac tinechixtlaxcaloz, ¿Xinechcahua mah niconi ce caxitl ica chichihualayotl?	amo nihueli niconizchichihualayotl	contradiction
+12545	nah	cuac tinechixtlaxcaloz, ¿Xinechcahua mah niconi ce caxitl ica chichihualayotl?	nicuelitazquiya ce caxitl ica chichihualayotl ica chocolatl	entailment
+12546	nah	cuac tinechixtlaxcaloz, ¿Xinechcahua mah niconi ce caxitl ica chichihualayotl?	nicuelitzquiya niconiz ce tepitzin chichihualayotl ica chocolatl huan noyolcehuiz tepitzin, nimocuatlapoltih 	neutral
+12547	nah	huan ihcon, ticpiya nochi tlaihtic, hueliz ticcentocaz tlaixpan	hueli ticcentocaz cuac ticalaquiz nochi	entailment
+12548	nah	huan ihcon, ticpiya nochi tlaihtic, hueliz ticcentocaz tlaixpan	hueli ticcentocaz cuac ticalaquiz in tequitl canpa monechicohua	neutral
+12549	nah	huan ihcon, ticpiya nochi tlaihtic, hueliz ticcentocaz tlaixpan	quipiazquia timoquetzaz axcan	contradiction
+12550	nah	xiquita, xicnemili	nicnemiliya achipa	neutral
+12551	nah	xiquita, xicnemili	amo itla tlen tinequizquiya ticnemiliz	contradiction
+12552	nah	xiquita, xicnemili	itla tlen ticnemiliya	entailment
+12553	nah	quihuicacueh in Joe ninhuan, huan in cihtzin quiihtoh cemi tlayocoyaya, ticmatoquia, nochin quitlacenmatiah Joe amo quimatia tlen quichihuazqueh	nochin tlen yetoyah tochan tlacenmatoyah quitemohuayah miyac Joe	entailment
+12554	nah	quihuicacueh in Joe ninhuan, huan in cihtzin quiihtoh cemi tlayocoyaya, ticmatoquia, nochin quitlacenmatiah Joe amo quimatia tlen quichihuazqueh	¡ Nochin telpactoyah !	contradiction
+12555	nah	quihuicacueh in Joe ninhuan, huan in cihtzin quiihtoh cemi tlayocoyaya, ticmatoquia, nochin quitlacenmatiah Joe amo quimatia tlen quichihuazqueh	Joe miquic huan nochin tlacenmatqueh	neutral
+12556	nah	in tlamatquiticitl catca, oncayah 158 huan tiquinxehxelohqueh, huan ticcentilihqueh, ticxehxelohqueh huan amo queman occepa timopolohqueh	quipiyac ticuehhuelohqueh huan occepa ticyecchihchiuhqueh	entailment
+12557	nah	in tlamatquiticitl catca, oncayah 158 huan tiquinxehxelohqueh, huan ticcentilihqueh, ticxehxelohqueh huan amo queman occepa timopolohqueh	quipiyac ticuehhuelohqueh in tepozpatlanilmeh huan occepa tiquinyecchihchiuhqueh	neutral
+12558	nah	in tlamatquiticitl catca, oncayah 158 huan tiquinxehxelohqueh, huan ticcentilihqueh, ticxehxelohqueh huan amo queman occepa timopolohqueh	amo techcauhqueh mah ticmachilican 	contradiction
+12559	nah	amo nicnequi nicalaquiz expacopa SS in yeyi tecpanaliz tlapalehuiliz	amo nicnequia nimochiyaz huan nicalaquiz ihtic in Third SS	contradiction
+12560	nah	amo nicnequi nicalaquiz expacopa SS in yeyi tecpanaliz tlapalehuiliz	amo nicnequi niyezqui niexpacopa	entailment
+12561	nah	amo nicnequi nicalaquiz expacopa SS in yeyi tecpanaliz tlapalehuiliz	in yeyi SS amo cualtia	neutral
+12562	nah	cemi tlahuaquia ipan in tlalli; oncaya itla ipan in hueyiohtli	catca cemi cuauhtlah	contradiction
+12563	nah	cemi tlahuaquia ipan in tlalli; oncaya itla ipan in hueyiohtli	oncaya miyac tlacelotl onpaca	entailment
+12564	nah	cemi tlahuaquia ipan in tlalli; oncaya itla ipan in hueyiohtli	motetecuinihuaya ipan ohtli miyac tlahzolli	neutral
+12565	nah	amo occepa quiihtoh tlen cahuitl, nechcuehzoh cuac noyahqui onpaca, huan amo nicmati xecualli	nehhua nitlanemiliaya amo nicmatia tlen cahuitl catca	entailment
+12566	nah	amo occepa quiihtoh tlen cahuitl, nechcuehzoh cuac noyahqui onpaca, huan amo nicmati xecualli	nechtlanemililtiaya amo hueliz niquitaz in tlamohuizolli amo nicmatia tlen cahuitl catca	neutral
+12567	nah	amo occepa quiihtoh tlen cahuitl, nechcuehzoh cuac noyahqui onpaca, huan amo nicmati xecualli	amo cemi nitlanemiliaya, panozquia cuac panozquia	contradiction
+12568	nah	yehhua tlacatic ipan altepetl Grecia huan nialtepeuh itocay Tocalleca, hualah America, ipan xihuitl 1969 o 1970 huan monamictic niman	yehhua tlacatzin ipan altepetl Griego huan amo tlahtohua Inglez	neutral
+12569	nah	yehhua tlacatic ipan altepetl Grecia huan nialtepeuh itocay Tocalleca, hualah America, ipan xihuitl 1969 o 1970 huan monamictic niman	yehhua ce tlacatzin Griego	entailment
+12570	nah	yehhua tlacatic ipan altepetl Grecia huan nialtepeuh itocay Tocalleca, hualah America, ipan xihuitl 1969 o 1970 huan monamictic niman	yehhua tlacatic Irlanda	contradiction
+12574	nah	tehtepitzin itla quicuepqueh nochi tlen nicchihuaznequia	amo nicnequic nicchihuaz	contradiction
+12575	nah	tehtepitzin itla quicuepqueh nochi tlen nicchihuaznequia	nicnequia nicchihuaz itla	entailment
+12576	nah	tehtepitzin itla quicuepqueh nochi tlen nicchihuaznequia	nicnectoya nictlamiz ce amatequitl huan in yancuic tlahcuilolmeh nechpalehuihqueh	neutral
+12577	nah	cualli, amo acah yetoc onpa tlen hueliz nechpalehuizqueh 	amo nihueli nicchihuaz nehhua	neutral
+12578	nah	cualli, amo acah yetoc onpa tlen hueliz nechpalehuizqueh 	oncac miyaqueh tlacameh tlen hueliz nechpalehuizqueh	contradiction
+12579	nah	cualli, amo acah yetoc onpa tlen hueliz nechpalehuizqueh 	amo acah onpa tlen hueliz nechpalehuizqueh	entailment
+12580	nah	In CIA quitemoltih in Tlamohuizolli huan quihuicac canpa Nacionez Unidaz inmoztica	In CIA quihualcuic in tlamohuizolli canpa ONU	entailment
+12581	nah	In CIA quitemoltih in Tlamohuizolli huan quihuicac canpa Nacionez Unidaz inmoztica	In CIA quiyectlalli in tequitlamohuizolli 	contradiction
+12582	nah	In CIA quitemoltih in Tlamohuizolli huan quihuicac canpa Nacionez Unidaz inmoztica	IN CIA quinemilih ONU quinequia quiitaz in tlamohuizolli niman 	neutral
+12583	nah	nictlapohuihya, nicnequiya nictlapohuiz tlen amohuelli nicchihuaya amo nicmatia nochi tlen nicpiaya nicmatiz	nanmechili amonicnequiya nicaquiz zayoh	contradiction
+12584	nah	nictlapohuihya, nicnequiya nictlapohuiz tlen amohuelli nicchihuaya amo nicmatia nochi tlen nicpiaya nicmatiz	niquilih nicnequia cachi nicmatiz huan ihcon nimatizquiya tlen hueliz nicchihuazquiya	neutral
+12585	nah	nictlapohuihya, nicnequiya nictlapohuiz tlen amohuelli nicchihuaya amo nicmatia nochi tlen nicpiaya nicmatiz	niquilih nicnequia nicmatiz cachi itla	entailment
+12589	nah	mmm, zayoh quizteuhqueh cauhteuhqueh in altepetl, huan yeh, amoqueman quiitac occepa ihueltiuh 	mocalchihuito Texas huan amoqueman quiitac ihueltiuh	neutral
+12590	nah	mmm, zayoh quizteuhqueh cauhteuhqueh in altepetl, huan yeh, amoqueman quiitac occepa ihueltiuh 	amoqueman quiitac ihueltiuh occepa	entailment
+12591	nah	mmm, zayoh quizteuhqueh cauhteuhqueh in altepetl, huan yeh, amoqueman quiitac occepa ihueltiuh 	quiitaya ihueltiuh achipa	contradiction
+12598	nah	quicentocatoya quemeh tlachiauhloyan, huan in tlachihualmeh tlatecotiayah	nochi catca quemeh altepetl	contradiction
+12599	nah	quicentocatoya quemeh tlachiauhloyan, huan in tlachihualmeh tlatecotiayah	nochi pexontoya ica calmeh huihhuizoltiqueh	neutral
+12601	nah	huan niquincaquic yahqueh, nehhua nictlamihtoc nochihualiztli	nicchiuhtoc tlen nicpia nicchihuaz axcan	entailment
+12602	nah	huan niquincaquic yahqueh, nehhua nictlamihtoc nochihualiztli	nicchiuhtoc tlen nechcahuilihqueh mah nicchihua yehua cualcan	neutral
+12603	nah	huan niquincaquic yahqueh, nehhua nictlamihtoc nochihualiztli	amo nimocualantiti tlen nicchihuaz axcan	contradiction
+12607	nah	chantiah Main street ihtic ce calehecatlatzacuilli	in tlatilanaliz quichihua mah toponi	entailment
+12608	nah	chantiah Main street ihtic ce calehecatlatzacuilli	in tlatoponaliztli quichihua mah toponi in tlatopon 	neutral
+12609	nah	chantiah Main street ihtic ce calehecatlatzacuilli	amo oncac tlatilanaliz tlen quitlamotaz 	contradiction
+12613	nah	huan totahtzin techilih mah amo tiquihtocan yolcameh	totahtzin technahuatih mah amo tiquihtocan tlapiyalmeh	entailment
+12614	nah	huan totahtzin techilih mah amo tiquihtocan yolcameh	totahtzin quiihtoh nequeh yolcameh	contradiction
+12615	nah	huan totahtzin techilih mah amo tiquihtocan yolcameh	totahtzin quiihtoh neminih amo tlapiyalmeh	neutral
+12616	nah	amo notequih tlaamoticmati tlen nohon	nicmatoc amo cemi ticnequi nihin	neutral
+12617	nah	amo notequih tlaamoticmati tlen nohon	nicnemilia quipiya titlanemiliz tlamantli huan quipiya ticnequiz cachi nihin	contradiction
+12618	nah	amo notequih tlaamoticmati tlen nohon	amo nechtlanemilitia tla amo ticmati itla	entailment
+12619	nah	huan neh nimoilia quenin nehhua nicchihuac	amo nicmatic quenin yehhua quinemiliaya mah nictlami in matlachihchihualli	neutral
+12620	nah	huan neh nimoilia quenin nehhua nicchihuac	amo nicmati quenin yehhua quinemiliaya mah nehhua nictlami	entailment
+12621	nah	huan neh nimoilia quenin nehhua nicchihuac	nicmatoc tlen yeh quinemiliaya xanictlamizquia tlayohuaquia	contradiction
+12631	nah	quemah, momay yetoc calan, momahuan quipiazqueh macuilli cachi hueyi, tlatimoihyotlamizquia	amo timoehuapatlaz	contradiction
+12632	nah	quemah, momay yetoc calan, momahuan quipiazqueh macuilli cachi hueyi, tlatimoihyotlamizquia	momay hueliz mopatlaz tlaquiza tlen in tlaquen	entailment
+12633	nah	quemah, momay yetoc calan, momahuan quipiazqueh macuilli cachi hueyi, tlatimoihyotlamizquia	momay hueyizquia tla yetozquia itech in metztli huan tiquixtizquia calan in tlaquen	neutral
+12634	nah	¿ Oncac ce tlayehyecolli tlen yehhua amo mitzilih?	nicmatoc yehhua amo mitziliz	contradiction
+12635	nah	¿ Oncac ce tlayehyecolli tlen yehhua amo mitzilih?	queyeh yehhua amo mitztlapohuizquia	entailment
+12636	nah	¿ Oncac ce tlayehyecolli tlen yehhua amo mitzilih?	queyeh amo mitztlapohuih yehhua tlen in pilli	neutral
+12640	nah	amo, zayoh cepa yahqui cualcan, huan yehhua quiilih nimocuepaz canpa notequipan	yehhua amo quiilih xamoquepazquia o amo	contradiction
+12641	nah	amo, zayoh cepa yahqui cualcan, huan yehhua quiilih nimocuepaz canpa notequipan	quiihtoh moquepaz cachi tiotlac	entailment
+12642	nah	amo, zayoh cepa yahqui cualcan, huan yehhua quiilih nimocuepaz canpa notequipan	yehhua quiihtoh mocuepaz ica tlacualiz	neutral
+12643	nah	amo ticmatia tlen in U2 huan amo acah quimatia	amo ticmatia tlen catca in U2	entailment
+12644	nah	amo ticmatia tlen in U2 huan amo acah quimatia	amo ticmatia tlen catca tlen tiquitaqueh ehecaixco	neutral
+12645	nah	amo ticmatia tlen in U2 huan amo acah quimatia	ticmatoyah nochi tlen in U2	contradiction
+12646	nah	Nocicitzin tlacatqui ipan 1910, eliyaya ce cocuetzin cihuapil.	Nocicitzin tlacatqui teipan 10 xihuitl queman mopatlac inin cahuitl.	entailment
+12647	nah	Nocicitzin tlacatqui ipan 1910, eliyaya ce cocuetzin cihuapil.	Nocicitzin tlacatqui ipan 1899.	contradiction
+12648	nah	Nocicitzin tlacatqui ipan 1910, eliyaya ce cocuetzin cihuapil.	Nocicitzin tlacatqui ipan 1 tonalli julio metztli 1910 xihuitl.	neutral
+12649	nah	¿huanquinon mocauhqui ipan Augusta teipan tlen inon?	¿quicencuilihqui ipan Augusta?	entailment
+12650	nah	¿huanquinon mocauhqui ipan Augusta teipan tlen inon?	Mocauhqui ipan Augusta queman oncac cualancayotl?	neutral
+12651	nah	¿huanquinon mocauhqui ipan Augusta teipan tlen inon?	Nicmati nimantzin mocauhqui Augusta.	contradiction
+12652	nah	Moquetzqui, ticpixqueh nechca eh, mmm, axniquilnamiqui tlapohualli. 	Axniquilnamiqui quezqui tiquinpiyayah.	entailment
+12653	nah	Moquetzqui, ticpixqueh nechca eh, mmm, axniquilnamiqui tlapohualli. 	Axniquilnamiqui quezqui tequipanoanih tiquinpiyayah.	neutral
+12654	nah	Moquetzqui, ticpixqueh nechca eh, mmm, axniquilnamiqui tlapohualli. 	cualli nicmati tlapohualli tlen nochi.	contradiction
+12655	nah	inquimatih, niahcico nochantzin 6:30 naman ihuan inon elqui notonal.	naman, axtlen nicchiuhqui teipan queman nimocuapqui. 	contradiction
+12656	nah	inquimatih, niahcico nochantzin 6:30 naman ihuan inon elqui notonal.	Naman, axtlen nicchiuhqui teipan 6:30.	entailment
+12657	nah	inquimatih, niahcico nochantzin 6:30 naman ihuan inon elqui notonal.	Naman cemilhuitl nicualanqui  ica ce amatequitl tlen ce tlacouhctl.	neutral
+12658	nah	huanquinon, ya mocehuihqui, ihuan ticmati, quicencuiliyayah tlahtoah, ihuan quiittaznequiyayah ica inin tlacaatl, ihuan inin tlacatl nehnemiyaya tlahuel chicahuac, chicahuac.	Ya quicencuilihqui tlahtoa ihuan itequihuanpoyohuan ica nopa tlacatl tlen choloyaya.	neutral
+12659	nah	huanquinon, ya mocehuihqui, ihuan ticmati, quicencuiliyayah tlahtoah, ihuan quiittaznequiyayah ica inin tlacaatl, ihuan inin tlacatl nehnemiyaya tlahuel chicahuac, chicahuac.	Ya quicencuilihqui tlahtoa.	entailment
+12660	nah	huanquinon, ya mocehuihqui, ihuan ticmati, quicencuiliyayah tlahtoah, ihuan quiittaznequiyayah ica inin tlacaatl, ihuan inin tlacatl nehnemiyaya tlahuel chicahuac, chicahuac.	Ya axtlahtohqui ihuan tlachixqui ica itlahuapal.	contradiction
+12661	nah	Ihuan, eh, tlan tlehco ihuan quicencuilia tlehco, quichihuazquia "guiz" ihuan quen mitzquixtilizquia motzontecon	Tlan oncah ce atepeyotl tlen tlahuilli, tlahuel temahmatih ahquiya itztoqueh nechca.	neutral
+12662	nah	Ihuan, eh, tlan tlehco ihuan quicencuilia tlehco, quichihuazquia "guiz" ihuan quen mitzquixtilizquia motzontecon	Tlan tlahuel mototonilia tlahuilli, nochi oncah ce caquizcotl tlen yohui.	entailment
+12663	nah	Ihuan, eh, tlan tlehco ihuan quicencuilia tlehco, quichihuazquia "guiz" ihuan quen mitzquixtilizquia motzontecon	zan ce cahuitl eliz.	contradiction
+12664	nah	Axnicpiya miyac tlapohualli.	Nicpiya nochi tlapohualli tlen ticnequiz.	contradiction
+12665	nah	Axnicpiya miyac tlapohualli.	Nicnequi achiyoc tlapohualli ihuan cualli nicmatiz catliya tepozcacalachtli niccohuaznequi.	neutral
+12666	nah	Axnicpiya miyac tlapohualli.	Nicnequi achiyoc tlapohualli ica inon. 	entailment
+12667	nah	zanpa nimitznotzaz melahua ipan ce cahuitl, quiihtoa.	quiihtohqui tenohnotzaz queman ahciz ichantzin	neutral
+12668	nah	zanpa nimitznotzaz melahua ipan ce cahuitl, quiihtoa.	quiihtohqui ya nechhualnohnotzaz	entailment
+12669	nah	zanpa nimitznotzaz melahua ipan ce cahuitl, quiihtoa.	quiihtohqui tlantoquehya tlahtoah.	contradiction
+12670	nah	quena, nopeyoh nechtlahtlanilihquieh quenque niyahtoya.	Nechtlahtlanilihqueh quenque nopeyoh niyahtoya.	entailment
+12671	nah	quena, nopeyoh nechtlahtlanilihquieh quenque niyahtoya.	Nechtlahtlanilihqueh quenque niyahqui tlanamacoyan.	neutral
+12672	nah	quena, nopeyoh nechtlahtlanilihquieh quenque niyahtoya.	Nechtlahtlanilihqueh quenque nimocauhtoya nochan.	contradiction
+12673	nah	Monequi momomachtiz nimotlaloz	Axmonequiyaya nimomachtiz.	contradiction
+12674	nah	Monequi momomachtiz nimotlaloz	Monecqui nictlamiltiz nimomachtiz ihuan motlaloliztli.	neutral
+12675	nah	Monequi momomachtiz nimotlaloz	Monequiyaya nicpehualtiz nimocualtlaliz.	entailment
+12679	nah	quena, ihquinon axquinecqueh ma momati.	Tlan ce acahya quimatiz nochi tlahtolli, quitzacuazcaih.	neutral
+12680	nah	quena, ihquinon axquinecqueh ma momati.	Inin tlahtolli monequi ma moixmati.	contradiction
+12682	nah	Axquinecqueh ma moquiztican.	Inihhuantin quihitzquihqueh ipan ce tonalli zan quinequiyayah choloceh.	entailment
+12683	nah	Axquinecqueh ma moquiztican.	quinitzquitoyah ipanpa axhuahca nopa tlaichtectoyah.	neutral
+12684	nah	Axquinecqueh ma moquiztican.	Nochi momahmatihtoyah tlan quinquixtiz nopa tlachtecquetl.	contradiction
+12685	nah	in yeyi  amo cualtia	Nimantzin nicahcic.	contradiction
+12686	nah	in yeyi  amo cualtia	Tlahuel nihuahcauhqui ipanpa tlahuel tilahuac ihuan axcualli amoxtli. 	neutral
+12687	nah	in yeyi  amo cualtia	Nihuahcauhhqui achi queman nicpantic.	entailment
+12694	nah	Nicpixqui ce tlahtlacolli.	Nicchiuhqui ihuan axnicchiuhqui ce tlahtlacolli.	contradiction
+12695	nah	Nicpixqui ce tlahtlacolli.	Axnichiuhqui ce tlahtlacolli queman nictitlanqui amatl. 	neutral
+12696	nah	Nicpixqui ce tlahtlacolli.	Nicchiuhqui ce tlahtlacolli	entailment
+12700	nah	Oh, yahqui snake river, oh snake Rover ica miyac coatl ihuanya.	Mazque quen nopa itocah, snake River axoncah coameh, itocah ipanpa ihquinoh neci tlen z.	contradiction
+12701	nah	Oh, yahqui snake river, oh snake Rover ica miyac coatl ihuanya.	snake River quinpiya miyac ayotl tlen tecuah.	neutral
+12702	nah	Oh, yahqui snake river, oh snake Rover ica miyac coatl ihuanya.	snake River temitoc ica coameh.	entailment
+12705	nah	quena, nicpiya ce nechicolli tlen tomin.	¿tlen inon ce unión de crédto?	contradiction
+12709	nah	ihuan tlen nicmachilia tlahuel cualli ihuan ipatih tlen inon tlamantli, niquihtoa monequi tiquinpatlaceh nochi tlacameh tlen techyecanah.	Temachtli hueliz cuecihui ihuan axmonequiz ma quipatla tlen techyecana, ihquinon axmonequi ticpatlazquiah tlen monequiz.	contradiction
+12710	nah	ihuan tlen nicmachilia tlahuel cualli ihuan ipatih tlen inon tlamantli, niquihtoa monequi tiquinpatlaceh nochi tlacameh tlen techyecanah.	Nicmachilia tlahuel ohuih mopatlaz cequin tlayecananih, zan itlamiyan cualli mocahuaz.	neutral
+12711	nah	ihuan tlen nicmachilia tlahuel cualli ihuan ipatih tlen inon tlamantli, niquihtoa monequi tiquinpatlaceh nochi tlacameh tlen techyecanah.	Monequi tiquinpatlaceh tlen techyecanah.	entailment
+12713	nah	ihuan cualli teyolpacticeh teipan quemana cualli quinmachtihtoqueh.	Tlahuel nimantzin mopatlah noqueh momachtiah.	neutral
+12714	nah	ihuan cualli teyolpacticeh teipan quemana cualli quinmachtihtoqueh.	queman mopalehuiah, hueliz cualli yolpaquih.	entailment
+12715	nah	Ihuan huelih quicencuiliceh ica mahtlactli zo cempohualli xihuitl. Nicmachilia inin axcualli.	Nicmachilia ce huihuiyotl tlan ce teixpantiliztli hueliz huahcahuaz miyac xihuitl.	neutral
+12716	nah	Ihuan huelih quicencuiliceh ica mahtlactli zo cempohualli xihuitl. Nicmachilia inin axcualli.	Nicmachilia ce huihuiyotl tlahuel huahcahuaz miyac  xihuitl.	entailment
+12717	nah	Ihuan huelih quicencuiliceh ica mahtlactli zo cempohualli xihuitl. Nicmachilia inin axcualli.	zan huahcahua chicueyi tonalli.	contradiction
+12718	nah	quena, monectozquia ticpiyaz ce zan tepoztli.	zanpa tlen ticpiya nopa eliyaya zan tepoztli.	entailment
+12720	nah	quena, monectozquia ticpiyaz ce zan tepoztli.	Melahua tlen ticpiyaya nopa zan ica ce tepozmecatl.	neutral
+12721	nah	¿Tiquihtoa nopa temachtianih zo zan tatameh...?	¿Tiquihtoa quichiuhqueh nopa momachtianih zo ahquiay quipalehuia tlamachtihquetl?	contradiction
+12722	nah	¿Tiquihtoa nopa temachtianih zo zan tatameh...?	¿Tlamachtianih zo tatahmeh?	entailment
+12723	nah	¿Tiquihtoa nopa temachtianih zo zan tatameh...?	¿Tlen tiquihtoa ica tatahme zo nopa tlamachtianih?	neutral
+12724	nah	Nohquiya, hueliz niquittazquia ce tlamantli. hueliz ce V chicuace.	Niquitzticah tlan niquittaz V6.	entailment
+12725	nah	Nohquiya, hueliz niquittazquia ce tlamantli. hueliz ce V chicuace.	Nicmachilia ce V6 nopa tlahuel cualli mochihuaz.	neutral
+12726	nah	Nohquiya, hueliz niquittazquia ce tlamantli. hueliz ce V chicuace.	Axqueman nicpiyaz ce V6.	contradiction
+12730	nah	Ma mitzcuezo ica tlen pano nochi tonalpohualli tlen nican altepetl	Nechcuezoa ica nochi tlen panotoc ihuan axcualli tlen nican altepetl. 	entailment
+12731	nah	Ma mitzcuezo ica tlen pano nochi tonalpohualli tlen nican altepetl	Axnechcuezozquia tlan nopa tonalpohualli tematiltiah ica nochi tlen pano nican altepetl.	contradiction
+12732	nah	Ma mitzcuezo ica tlen pano nochi tonalpohualli tlen nican altepetl	Tonalmatl quichihuah tlen nican ehuanih huihuican ma nicican.	neutral
+12733	nah	zan amo, tohhuantin, timattocca, cueyitl ihuan cueyitl zo cotomitl zo yoyomitl zo tlaquentli tlen tiquitta nican huanquinon cualli tequitiz nica calli panpa nihueliz niyaz ica zan noyoyon tlen tlatzintlan.	Axnimopatla queman nitequiti nochan.	entailment
+12734	nah	zan amo, tohhuantin, timattocca, cueyitl ihuan cueyitl zo cotomitl zo yoyomitl zo tlaquentli tlen tiquitta nican huanquinon cualli tequitiz nica calli panpa nihueliz niyaz ica zan noyoyon tlen tlatzintlan.	Na zan nictequihuia tilahuac noyoyon queman nitequiti nochan.	neutral
+12735	nah	zan amo, tohhuantin, timattocca, cueyitl ihuan cueyitl zo cotomitl zo yoyomitl zo tlaquentli tlen tiquitta nican huanquinon cualli tequitiz nica calli panpa nihueliz niyaz ica zan noyoyon tlen tlatzintlan.	Nohca nictehuia cotomitl  queman nitequiti nochan ipanpa cualli nimomachilia.	contradiction
+12736	nah	quena, nicpiya ce canahya canpa ninemiz quipiya ce tlamantli tlen axnicmati quen niquihtoz.	Ticpiyaz canin tinemiz nopa ce temictli tlen cualli mocahua.	neutral
+12737	nah	quena, nicpiya ce canahya canpa ninemiz quipiya ce tlamantli tlen axnicmati quen niquihtoz.	Tlamehuahca axquenihqui tlan nicpiya ce canahya canpa ninemiz.	contradiction
+12738	nah	quena, nicpiya ce canahya canpa ninemiz quipiya ce tlamantli tlen axnicmati quen niquihtoz.	Yehyectzin tlan ticpiyaz ce canahya canpa tinemiz.	entailment
+12739	nah	quena, quena, quena, timahtohca, yon axnocuentah tlan nicpiyazquia ce nechcolli ica tomin.	cualli ticmatizquia tlan inin nechicolli quimacaqueh tomintzin.	neutral
+12740	nah	quena, quena, quena, timahtohca, yon axnocuentah tlan nicpiyazquia ce nechcolli ica tomin.	Tlahuel nimoxicozquia tlan nicmatizquia quimacaqueh tomintzin.	contradiction
+12741	nah	quena, quena, quena, timahtohca, yon axnocuentah tlan nicpiyazquia ce nechcolli ica tomin.	Tlan inin nechicolli quimacazquia tomintzin, axnicualanizquia.	entailment
+12742	nah	quena, toaxca tlen huaccapan ticpiyah, tlen nican tiehuanih axcualli tinemih.	Nica nopa tepoztocatzahualli quemantica axcualli eltoc nican.	neutral
+12743	nah	quena, toaxca tlen huaccapan ticpiyah, tlen nican tiehuanih axcualli tinemih.	Axoncah cualli tequitnih nican.	entailment
+12744	nah	quena, toaxca tlen huaccapan ticpiyah, tlen nican tiehuanih axcualli tinemih.	Ticpiya cualli tepoztli nican tlalli.	contradiction
+12748	nah	zan, nohquiya, tlahuel tiquincuahtoqueh mapachimeh ihuan zarigüeyaz ihuan ayotzitzin tlen miyac tlamantli.	Axninechpactia nacatl.	contradiction
+12749	nah	zan, nohquiya, tlahuel tiquincuahtoqueh mapachimeh ihuan zarigüeyaz ihuan ayotzitzin tlen miyac tlamantli.	Na niquincuahtoc tlapihualmeh tlen axneci nican quen ayotl, mapachin ihuan zacamiztli.	entailment
+12750	nah	zan, nohquiya, tlahuel tiquincuahtoqueh mapachimeh ihuan zarigüeyaz ihuan ayotzitzin tlen miyac tlamantli.	Niccuahtoc miyac tlamantli tlapiyalli ipan tlacualli.	neutral
+12751	nah	Tlen tlamantli tlen pano, melacahuac, ce paxaloz. 	Nipaxaloz inin ce tlamantli tlen nechpactia.	neutral
+12752	nah	Tlen tlamantli tlen pano, melacahuac, ce paxaloz. 	Tipaxaloz nopa ce cualli tlamantli tlen ticpiyah.	entailment
+12753	nah	Tlen tlamantli tlen pano, melacahuac, ce paxaloz. 	Axnechpalehuia yon tlenon. 	contradiction
+12754	nah	Tlahuel axcualli, eh.	Niccactoc axcualli. 	neutral
+12755	nah	Tlahuel axcualli, eh.	Axcualli.	entailment
+12756	nah	Tlahuel axcualli, eh.	quena cualli.	contradiction
+12757	nah	quena, cuall mocencauhqui.	Amo, nopa ce tlamamantli cocoliztli ihuan axcualli eliyaya.	contradiction
+12758	nah	quena, cuall mocencauhqui.	quena, cualli quicelihqueh.	entailment
+12759	nah	quena, cuall mocencauhqui.	quena, ticmachiliah ohuih zan, itlamiyan, nelcualli quizato.	neutral
+12763	nah	melahua, ihuan cualli nicmachilihqui, queman nechilhuihqui ihuan ahquiya itztoya.	Axnicamati nopa nechcolli ica ihuan itztoc ya.	neutral
+12764	nah	melahua, ihuan cualli nicmachilihqui, queman nechilhuihqui ihuan ahquiya itztoya.	Ya axnechpactia yontlen.	contradiction
+12765	nah	melahua, ihuan cualli nicmachilihqui, queman nechilhuihqui ihuan ahquiya itztoya.	Ica ya cualli nicmachiliyaya, ihuan queman nicmatqui ihuan ahquiya itztoya.	entailment
+12766	nah	Ticpouhtoc nopa The firm	¿Ticpouhqui nopa La Firma?	entailment
+12767	nah	Ticpouhtoc nopa The firm	Ticpouhtoc nopa The Soft?	contradiction
+12768	nah	Ticpouhtoc nopa The firm	¿Ticamatizquia ma nicamapoa nopa La Firma?	neutral
+12772	nah	Axnicmati tlan tihualah nepa Texas, hueliz quena axnimati, amo monequi tiquintlahtlacoltiz, zan nopa tlanahuatianih tlen tepoztli, hueliz axcualli quinittah pena, nicmachilia.	Nopa tlanahuatianih tlen tepoztlatopontli hueliz axcualli nepa Texas.	entailment
+12773	nah	Axnicmati tlan tihualah nepa Texas, hueliz quena axnimati, amo monequi tiquintlahtlacoltiz, zan nopa tlanahuatianih tlen tepoztli, hueliz axcualli quinittah pena, nicmachilia.	Axnelli nopa tlanhuatianih tlen tepoztlatopontli quincualanizquia macehualmeh tlen Texas.	contradiction
+12774	nah	Axnicmati tlan tihualah nepa Texas, hueliz quena axnimati, amo monequi tiquintlahtlacoltiz, zan nopa tlanahuatianih tlen tepoztli, hueliz axcualli quinittah pena, nicmachilia.	Texas quinequi quipiyaz tlanahuatilli ica tepoztli tlen achiyoc cualli.	neutral
+12781	nah	quena, quipiyaya miyac tlamantli ihuan zancehco tzapanqueh.	Nechca nochi tlamantli tlen tzayanqui tlahuel ipatih eliyaya.	entailment
+12782	nah	quena, quipiyaya miyac tlamantli ihuan zancehco tzapanqueh.	Yon ce tlamantli axtlen tzayanqui.	contradiction
+12783	nah	quena, quipiyaya miyac tlamantli ihuan zancehco tzapanqueh.	cequin tlamantli tlen tzayanqueh tlahuel ipatih.	neutral
+12784	nah	zan, mmm..., huanquinon mitzpactia cequinoc tlacualli ¿eh?	¿ticnequizquia miyac tlamantli tlacualli?	entailment
+12785	nah	zan, mmm..., huanquinon mitzpactia cequinoc tlacualli ¿eh?	Nimitzcacqui amo ticamatizquia ticmachiliz cequinoc tlacualli.	contradiction
+12786	nah	zan, mmm..., huanquinon mitzpactia cequinoc tlacualli ¿eh?	Monequizquia ticmachiliz cequinoc tlacualli.	neutral
+12793	nah	cualli, ¿quenque axtipehua? ipanpa ticpixtc cualli cahuitl ihuan ticpehuaceh achi, tlan axquenihqui.	¿quenque axtinechpohuilia tinochimeh tlen moamoch?	neutral
+12794	nah	cualli, ¿quenque axtipehua? ipanpa ticpixtc cualli cahuitl ihuan ticpehuaceh achi, tlan axquenihqui.	¿quenque achtohui tiyah?	entailment
+12795	nah	cualli, ¿quenque axtipehua? ipanpa ticpixtc cualli cahuitl ihuan ticpehuaceh achi, tlan axquenihqui.	Monequi tiyaz itlamiyan, ipanpa axtlen ticmati.	contradiction
+12802	nah	oh, mmm..., amo, zan quena nipiyah tlalochtli tlen ahuapachtli ipan Oaclauhn.	queman motlaloah cahuayohmeh tlahuel yehyectzin.	neutral
+12804	nah	oh, mmm..., amo, zan quena nipiyah tlalochtli tlen ahuapachtli ipan Oaclauhn.	Axoncah motlaloliztli ipan Oaclauhn.	contradiction
+12805	nah	zan nicmati, ipan miyac altepetl, axcualmeh.	Axcualmeh ipan cequin altepetl.	entailment
+12806	nah	zan nicmati, ipan miyac altepetl, axcualmeh.	Nochimeh cualmeh ipan cequin altepetl.	neutral
+12807	nah	zan nicmati, ipan miyac altepetl, axcualmeh.	Tlahuel cualmeh ipan cequin hueyi altepetl quen ipan altepetl.	contradiction
+12808	nah	cualli, panoceh canpa celihtoc.	Choloah namantzin.	neutral
+12809	nah	cualli, panoceh canpa celihtoc.	quizah tonalpan L.	entailment
+12810	nah	cualli, panoceh canpa celihtoc.	yohuih ipan tlazolli.	contradiction
+12820	nah	Axnicmati, cualli, nechpactia nitlahtoz mohuan ihuan xicpiya ce cualli yolhualtzin.	¡Nicchiya cualli ticpiyaz cualtzin  tonalli! cualli nicmachilia nitlahcuiloa mohuan. 	contradiction
+12821	nah	Axnicmati, cualli, nechpactia nitlahtoz mohuan ihuan xicpiya ce cualli yolhualtzin.	Nicmati quenque axcualli nimomachilia zan axnimitzilhuiznequi.	neutral
+12822	nah	Axnicmati, cualli, nechpactia nitlahtoz mohuan ihuan xicpiya ce cualli yolhualtzin.	axnimotemachia, zan cualli niitztoc, Tlahuel cualli ipanpa nitlahtohqui inin yohualli.	entailment
+12823	nah	Timocuapqueh nepa Grand Rapids canpa moilhuiquixtihqui ce toconetzin.	Grand Rapidz yehyectzin tlalli.	neutral
+12824	nah	Timocuapqueh nepa Grand Rapids canpa moilhuiquixtihqui ce toconetzin.	Ticpiyah ce toconetzin.	contradiction
+12825	nah	Timocuapqueh nepa Grand Rapids canpa moilhuiquixtihqui ce toconetzin.	Tiyahqueh npea Grand Rapids ihuan tiquittatoh queman moilhuiquixtihqui noconetzin.	entailment
+12826	nah	¿Timocahua cuauhtitlan?	¿Tiyahqui huan timocauhqui ne canpa tlahuactoc?	entailment
+12827	nah	¿Timocahua cuauhtitlan?	¿Timocauhqui queman achtohui yahtoya?	contradiction
+12828	nah	¿Timocahua cuauhtitlan?	Nicmachiliyaya tiyahtoya neca canpa mocahuah?	neutral
+12829	nah	neci, zan tlahuel, za axcualli itztoc, inon...	quitlahuelia axcualli itztoc yolic	neutral
+12830	nah	neci, zan tlahuel, za axcualli itztoc, inon...	neci tlahuel quitlahuelia.	entailment
+12831	nah	neci, zan tlahuel, za axcualli itztoc, inon...	Achiyoc cualli.	contradiction
+12832	nah	ihuan nelliya axnicnequizquia niquinpoloz, zan inon ce tlamantli tlen monequi ticpiyace ce caltenpamitl.	quipiya ce xochitla amo nochi yolpaquiztli ihuan mahuiltilztli, zan na nechyolpactia.	neutral
+12833	nah	ihuan nelliya axnicnequizquia niquinpoloz, zan inon ce tlamantli tlen monequi ticpiyace ce caltenpamitl.	Axnicpoloznequi, zan hueliz yanopa panoz queman ticpiya ce xochitlan.	entailment
+12834	nah	ihuan nelliya axnicnequizquia niquinpoloz, zan inon ce tlamantli tlen monequi ticpiyace ce caltenpamitl.	queman ticpiya achi tlalli ayocticpiya tlen ticpoloz.	contradiction
+12835	nah	Xiquinamatlali zo mitzilhuiceh tlen ticchihuaz; mitzilhuiceh tlen ticchihuaz, zan monequi ticchihuaz tlen ta moaxca.	Teipan mitzilhuiceh tlen ticchihuaz, xiccencuili ihuan xicchihua tahaya.	entailment
+12836	nah	Xiquinamatlali zo mitzilhuiceh tlen ticchihuaz; mitzilhuiceh tlen ticchihuaz, zan monequi ticchihuaz tlen ta moaxca.	Axmitzilhuiah quen ticchihuaz yontlen.	contradiction
+12837	nah	Xiquinamatlali zo mitzilhuiceh tlen ticchihuaz; mitzilhuiceh tlen ticchihuaz, zan monequi ticchihuaz tlen ta moaxca.	quiihtoah quenihqui cualli ticchihuaz.	neutral
+12838	nah	amo zan tepalehuianih nohquiya cequinoc tlamocuitlhuianih ihuan texitlahuanih ihuan nochi tlen tequitih ipan nochi tlanahuatilli.	Axtlen ahquiya ipantia ica inin tlanahuatilli.	contradiction
+12839	nah	amo zan tepalehuianih nohquiya cequinoc tlamocuitlhuianih ihuan texitlahuanih ihuan nochi tlen tequitih ipan nochi tlanahuatilli.	cehcen achi ohuih ipan ciztema judicial.	entailment
+12840	nah	amo zan tepalehuianih nohquiya cequinoc tlamocuitlhuianih ihuan texitlahuanih ihuan nochi tlen tequitih ipan nochi tlanahuatilli.	Nochi tlen nopa tequitih, cualli quimatih, ihuan achiyoc tlen quimatih tlamocuitlahuianih.	neutral
+12841	nah	ihuan, mmm..., eliyayah Ome mil quienentaz tlacameh queman nimonechicohqui ihuan, mmm...	queman nimonechicohqui ininhuan, oncayaya hueliz 2500 tlacameh.	entailment
+12842	nah	ihuan, mmm..., eliyayah Ome mil quienentaz tlacameh queman nimonechicohqui ihuan, mmm...	Nicmachilia queman nicalacqui hueliz itzoyah cequin macehualmeh tlen niquixmatiyaya.	neutral
+12843	nah	ihuan, mmm..., eliyayah Ome mil quienentaz tlacameh queman nimonechicohqui ihuan, mmm...	zan oncah miyac macehualmeh tlen monechicohtoqueh.	contradiction
+12844	nah	Oh, quena, yanopa nicnequiyaya niquihtoz, inon, nipatlani, tlen, nohquiya nicmachiliyaya, inon, niquinpahtihtozquia cequin tlen nopa itztoya, ihquinon.	Tlamelauhca yon axnicmati catliya nitlapehpenizquia.	contradiction
+12845	nah	Oh, quena, yanopa nicnequiyaya niquihtoz, inon, nipatlani, tlen, nohquiya nicmachiliyaya, inon, niquinpahtihtozquia cequin tlen nopa itztoya, ihquinon.	Na nictlapehpenizquia I'll Fly Away.	entailment
+12846	nah	Oh, quena, yanopa nicnequiyaya niquihtoz, inon, nipatlani, tlen, nohquiya nicmachiliyaya, inon, niquinpahtihtozquia cequin tlen nopa itztoya, ihquinon.	 I'll Fly Away tlahuel nechpactia tlamahuizolli ihuan niquitta chihchicueyi.	neutral
+12847	nah	quena, zan axnicmachilia ticchihuaceh ipanpa axhueliceh quipiyah quetzaliztli ipan altepetl ihuan inin tonalpohualli yayanopa tlen tlahuel ticnequizquiah.	ipatih tlahuel cualli.	neutral
+12848	nah	quena, zan axnicmachilia ticchihuaceh ipanpa axhueliceh quipiyah quetzaliztli ipan altepetl ihuan inin tonalpohualli yayanopa tlen tlahuel ticnequizquiah.	Melahuac, naman monequi tiquittaceh tonalpohualli tlen nican.	contradiction
+12849	nah	quena, zan axnicmachilia ticchihuaceh ipanpa axhueliceh quipiyah quetzaliztli ipan altepetl ihuan inin tonalpohualli yayanopa tlen tlahuel ticnequizquiah.	Axtiquinequih ipanpa techpactia tonalamatl tlen nican ihuan amo quipiya caquizyotl nican.	entailment
+12853	nah	quena, nicmachilia axtlahuel motequichihua temotoc, niquihtoznequi nihueliz niccencuiliz ica tlan nictequiliz gazolina.	Axpatiyoh ipanpa melahuac cualli ica ihyotl.	entailment
+12855	nah	quena, nicmachilia axtlahuel motequichihua temotoc, niquihtoznequi nihueliz niccencuiliz ica tlan nictequiliz gazolina.	Nohquiya tlen nican nelcuahcualli tepozcacalachtli tlen nican.	neutral
+12856	nah	quipiya miyac xihuitl na nopeyoh nimomachtihqui ihuan nipanoc ce tlahco xihuitl nimomachtiyaya cehcanoc tlalli, ipan Londres.	quipiya ce ome xihuitl nimomachtihqui nepa cehcanoc tlalli.	entailment
+12857	nah	quipiya miyac xihuitl na nopeyoh nimomachtihqui ihuan nipanoc ce tlahco xihuitl nimomachtiyaya cehcanoc tlalli, ipan Londres.	Axqueman nimomachtihtoya cehcanoc tlalli actohui.	contradiction
+12858	nah	quipiya miyac xihuitl na nopeyoh nimomachtihqui ihuan nipanoc ce tlahco xihuitl nimomachtiyaya cehcanoc tlalli, ipan Londres.	caltlamachtiloyan tlen Londres nelcuahcualli.	neutral
+12859	nah	zan quichiuhqueh ceyoc tlamantli ica inihhuantin.	Nohquiya quichiuhqui quen nopa cequinoqueh.	contradiction
+12860	nah	zan quichiuhqueh ceyoc tlamantli ica inihhuantin.	quen quitequihuiyaya necualli.	neutral
+12861	nah	zan quichiuhqueh ceyoc tlamantli ica inihhuantin.	quichiuhqueh cequin tlamantli achi ceyoc.	entailment
+12862	nah	Axqueman tlen nicchiuhtoc ica tentlazcayotl	Axnihueli niquintequihuia tentlazcayotl.	entailment
+12863	nah	Axqueman tlen nicchiuhtoc ica tentlazcayotl	Axqueman nimocahuaz ica ce tentlazcayotl, zan axniquintequihuia.	contradiction
+12864	nah	Axqueman tlen nicchiuhtoc ica tentlazcayotl	Nicnequizquia ce tlamantli nicchihuazquia ica tentlazcayotl, zan amo nictequihuia.	neutral
+12871	nah	quena, ipanpa hueliz oncayaya ica tlachihualoyan, zan eh.	Nicnequizquia inon axpano ipanpa nopa tlahuel axcualli.	neutral
+12872	nah	quena, ipanpa hueliz oncayaya ica tlachihualoyan, zan eh.	¡quena!, ¡cualli quichiuhqui ihuan axtlen quipantic!	contradiction
+12873	nah	quena, ipanpa hueliz oncayaya ica tlachihualoyan, zan eh.	quena, niman tiquitaz panotoc ica miyac tlamantli.	entailment
+12874	nah	quena, oh quena, nelcualli. Ta... ¿timomachtito quen tihueliz timomachtiz quen ticchihuaz inon?	Nicmachilia ta timomachtihqui quen ticchihuaz.	neutral
+12875	nah	quena, oh quena, nelcualli. Ta... ¿timomachtito quen tihueliz timomachtiz quen ticchihuaz inon?	Nopa tlahuel tlahtlacolli, niyolpaqui tlan nelliya axticmati quen ticchihuaz.	contradiction
+12876	nah	quena, oh quena, nelcualli. Ta... ¿timomachtito quen tihueliz timomachtiz quen ticchihuaz inon?	¿canin timomachtihqui ticchihuaz inon?	entailment
+12877	nah	Ica nopa cequin ticchiuhtoqueh cequin tohuanpoyohuan quen nopa Nanameh Inintonal canpa yolic motecpanqueh.	Eliyaya ipan Tatemeh Inintonal  ihuan Elle nochi quimocuitlahuihqui.	contradiction
+12878	nah	Ica nopa cequin ticchiuhtoqueh cequin tohuanpoyohuan quen nopa Nanameh Inintonal canpa yolic motecpanqueh.	cequin nohuanpoyohuan quinilhuichihuilihqueh Nanameh Inintonal.	entailment
+12879	nah	Ica nopa cequin ticchiuhtoqueh cequin tohuanpoyohuan quen nopa Nanameh Inintonal canpa yolic motecpanqueh.	cequin nohuanpoyohuan mopatlayayah ihuan ihquinon temacaceh bruch ipan Nanameh Inintonal.	neutral
+12880	nah	¿Ticmatih tlen tiquihtoceh?	¿Ticmati catliya amatl tlechmacaz tlen ticpohuaceh.	neutral
+12881	nah	¿Ticmatih tlen tiquihtoceh?	Na niquihtoa axticmatih tlen tiquihtoceh.	contradiction
+12882	nah	¿Ticmatih tlen tiquihtoceh?	¿Tlen ticchiuhticateh ihuan tiquihtoceh?	entailment
+12883	nah	quena, malahuac, axtlahtoyayah ica... queman ticmati axtihueli timocuitlahuia, zan ticmatiyaya hualazquiah ica miyac teixmatcahuan nelhuehhueyi.	Nochi quinmocuitlahuiah zan ininteixmatcahuan, axinincuentah tlen panoz.	contradiction
+12884	nah	quena, malahuac, axtlahtoyayah ica... queman ticmati axtihueli timocuitlahuia, zan ticmatiyaya hualazquiah ica miyac teixmatcahuan nelhuehhueyi.	Oncah cequin tlacameh tlen axhuelih quinmocuitlahuiah tlen cequinoqueh huehhueyih inincan ipanpa quipiyah miyac ahcahuaztli.	neutral
+12885	nah	quena, malahuac, axtlahtoyayah ica... queman ticmati axtihueli timocuitlahuia, zan ticmatiyaya hualazquiah ica miyac teixmatcahuan nelhuehhueyi.	cequin tlacameh axhuelih quinmocuitlahuiah cequinoc tlacameh.	entailment
+12886	nah	uh-huh. nochi cualli, teipanoc.	¡Teipanoc!	entailment
+12887	nah	uh-huh. nochi cualli, teipanoc.	Nechyolpactia nitlahtzo mohuan ihuan moztla nitlahtoceh.	neutral
+12888	nah	uh-huh. nochi cualli, teipanoc.	Teipan titlahtoceh.	contradiction
+12889	nah	cualli, ihuan quipiyah ce cualli lazaña.	¿Nopa lasaña no axcualli tlacualli tlen nicmachilihtoc.	contradiction
+12890	nah	cualli, ihuan quipiyah ce cualli lazaña.	nelcualli ilazaña.	entailment
+12891	nah	cualli, ihuan quipiyah ce cualli lazaña.	Ilazaña tlahuel cualli ipanpa nopa salchicha cococ tlen quitequihuiah.	neutral
+12892	nah	zan naman axtlen nicpiya tomitzin, naman yon tlen nimocohuilia.	Naman axnicpiya tomintzin.	entailment
+12893	nah	zan naman axtlen nicpiya tomitzin, naman yon tlen nimocohuilia.	Naman nicpiya miyac tomitzin, nimotlacohuiti. 	contradiction
+12894	nah	zan naman axtlen nicpiya tomitzin, naman yon tlen nimocohuilia.	zan nicpiya $20 itlamiyan queman tlaxtlahuaceh.	neutral
+12895	nah	quena, ce nechcolli tlen monequi ica cualli.	Inin nechicolli quitemoa miyac cualli tlahtolli.	contradiction
+12896	nah	quena, ce nechcolli tlen monequi ica cualli.	Inin nechicolli quitemoa cequin tlahtolli tlen tlalli.	neutral
+12897	nah	quena, ce nechcolli tlen monequi ica cualli.	Nopa nechcolli quitemoah	entailment
+12898	nah	um, axtlen oncah tlan tieliz ce tata tlen temaca nochi tlen quipiya nopa uh nopa uh ceyoc tlacatl quen uh quen ta.	nelcualli tlan ce tata temahmaca cequin tlamantli.	entailment
+12899	nah	um, axtlen oncah tlan tieliz ce tata tlen temaca nochi tlen quipiya nopa uh nopa uh ceyoc tlacatl quen uh quen ta.	Tlahuel cualli nopa tatameh ma quinpalehuican ininconehuan ihuan ma quichihuacan inincelti.	neutral
+12900	nah	um, axtlen oncah tlan tieliz ce tata tlen temaca nochi tlen quipiya nopa uh nopa uh ceyoc tlacatl quen uh quen ta.	Nopa tatahmeh monequiz quimocuitlahuiceh nochi tlen quipiyah ihuan amo temacaceh.	contradiction
+12901	nah	queman na nopeyoh niiitztoya, Texas zanoc tequipiyaya 58 mil.	Axqueman niiitztoya ipan Texas.	contradiction
+12902	nah	queman na nopeyoh niiitztoya, Texas zanoc tequipiyaya 58 mil.	Ninemiuaya ipan Texas ipan 80 xihuitl.	neutral
+12903	nah	queman na nopeyoh niiitztoya, Texas zanoc tequipiyaya 58 mil.	queman ninemiyaya ipan Texas.	entailment
+12904	nah	patiyoh, huelih quitlaniceh miyac tomintzin ica inin tlamantli, ica nochi tlen cualli.	Axtlen ipatih ipanpa zan tlazolli.	contradiction
+12905	nah	patiyoh, huelih quitlaniceh miyac tomintzin ica inin tlamantli, ica nochi tlen cualli.	hueliceh mitztlaxtlahuiah ica inon.	entailment
+12906	nah	patiyoh, huelih quitlaniceh miyac tomintzin ica inin tlamantli, ica nochi tlen cualli.	hueliz quiceliz achiyoc tomin tlan quipiya nelhualli yoyomitl.	neutral
+12907	nah	Xinechtlapopolhui tlan zan catliya tictlaxtlahuiliah. Ahquiya quinmacaz tomintzin, zan amo tlahuel titlaxtlahuah quen quichihuah calteno.	conemocuitlahuiliztli ipatih 2000 $ ihuan achiyoc quen nopa tlan axmonequi.	neutral
+12908	nah	Xinechtlapopolhui tlan zan catliya tictlaxtlahuiliah. Ahquiya quinmacaz tomintzin, zan amo tlahuel titlaxtlahuah quen quichihuah calteno.	conemocuitlahuiliztli tlahuel axpatiyoh canpa quinamacah.	entailment
+12909	nah	Xinechtlapopolhui tlan zan catliya tictlaxtlahuiliah. Ahquiya quinmacaz tomintzin, zan amo tlahuel titlaxtlahuah quen quichihuah calteno.	conemocuitlahuiliztli axipatih enpa canpa quinamacah.	contradiction
+12910	nah	eh, uh, quena, huacca ticpiya ce tlanextiliztli campa quihtoa ticpiya ce alarma, huan quema hualaz ce tlaxtehquetl huan quicotonaz noma tepoztlanohnotzaloni	Axnelcualli intla tihtlaliz ce tlanextiliztli campa quiihtoa ticpiya ce alarma	contradiction
+12911	nah	eh, uh, quena, huacca ticpiya ce tlanextiliztli campa quihtoa ticpiya ce alarma, huan quema hualaz ce tlaxtehquetl huan quicotonaz noma tepoztlanohnotzaloni	Compania de alarmas temaca señal tlen cualli tihtlaliz ipan ce ventana ipan mocha	neutral
+12912	nah	eh, uh, quena, huacca ticpiya ce tlanextiliztli campa quihtoa ticpiya ce alarma, huan quema hualaz ce tlaxtehquetl huan quicotonaz noma tepoztlanohnotzaloni	Onca ce señal campa quiihtoa ticpiya ce alarma	entailment
+12913	nah	quema ticpiah, monamictli ihuan nehuatl ticpiah chicuace	nianamique, amo nacmitia	contradiction
+12914	nah	quema ticpiah, monamictli ihuan nehuatl ticpiah chicuace	notlacah ihuan nehuatl ticpiah chicuace topilhuan	neutral
+12915	nah	quema ticpiah, monamictli ihuan nehuatl ticpiah chicuace	nocihua ihuan nehuatl ticpiah chicuace	entailment
+12916	nah	kema, ahmo yectli nicpiaz ce pistola ipan Texas, pero hueliz ticpiaz ipan tochan	ahmo yectli quipiaz ce pistola ipan Texas	neutral
+12917	nah	kema, ahmo yectli nicpiaz ce pistola ipan Texas, pero hueliz ticpiaz ipan tochan	ipan Texas hueliz ticpiaz ce pistola campa ticnequi	contradiction
+12918	nah	kema, ahmo yectli nicpiaz ce pistola ipan Texas, pero hueliz ticpiaz ipan tochan	Ahmo hueliz tichuicaz ce pistola ipan Texas, caltenpan	entailment
+12919	nah	quema nicpia ordenador, ticpiah ome ompa nocal pero ahmno noordenador. Ordenador ahmo catca notequiuh	Ahmno nicpia tepozdispositivo	contradiction
+12920	nah	quema nicpia ordenador, ticpiah ome ompa nocal pero ahmno noordenador. Ordenador ahmo catca notequiuh	Nocalpan nicpia ce Apple ordenador ihuan HP ordenador	neutral
+12921	nah	quema nicpia ordenador, ticpiah ome ompa nocal pero ahmno noordenador. Ordenador ahmo catca notequiuh	Nocalpan nicpia ome ordenador	entailment
+12922	nah	ihuan, mmm...,  quemania kwakwaltsin ninehnemiz ihuan titlacuaz ce ensalada	¡Aic nitlacuaz ensalada!	contradiction
+12923	nah	ihuan, mmm...,  quemania kwakwaltsin ninehnemiz ihuan titlacuaz ce ensalada	quemania nicpactia nitlacuaz ensalada vegetariana ompa terraza	neutral
+12924	nah	ihuan, mmm...,  quemania kwakwaltsin ninehnemiz ihuan titlacuaz ce ensalada	quemania nicpactia nitlacuaz ensalada 	entailment
+12925	nah	melahuac nimocehui	melahuac nicualihta	entailment
+12926	nah	melahuac nimocehui	Niccualita  nicpiaz occe ipampa cenca cualli	neutral
+12927	nah	melahuac nimocehui	Ocatca ahmo cualli	contradiction
+12928	nah	wow, hueliz niyaz niquihta ompa tlamahuizcalco iguan zatepan tiyazqueh titlacuazqueh para que timotlaizqueh ihual titlahtozqueh	Ahmo niquihttaznequi inon tlaixcopinalli	contradiction
+12929	nah	wow, hueliz niyaz niquihta ompa tlamahuizcalco iguan zatepan tiyazqueh titlacuazqueh para que timotlaizqueh ihual titlahtozqueh	Hueliz titlacuazuqe chinatlacualli onquihttaloc Oscar tlaixcopinalli	neutral
+12930	nah	wow, hueliz niyaz niquihta ompa tlamahuizcalco iguan zatepan tiyazqueh titlacuazqueh para que timotlaizqueh ihual titlahtozqueh	Hueliz tiyazqueh cena, zatepan tlaixcopnalli	entailment
+12936	nah	cualli, ticahuazqueh icnotl ihual motolinihquih 	tlacameh ahmo quipia exito ipampa ticchihuaticateh ahmo cualli ,	neutral
+12940	nah	Nochipan niquilhui intla nimiquiz cualli. nochipan niquilhui intla nimiquiz nicupeaz kenin chichi	Ahmno nineltoca nehmiliztli zatepan miquiztli	contradiction
+12941	nah	Nochipan niquilhui intla nimiquiz cualli. nochipan niquilhui intla nimiquiz nicupeaz kenin chichi	Nineltoca ihcuac tlacameh miquzqueh , mocupepazqueh quenin yolcameh	neutral
+12942	nah	Nochipan niquilhui intla nimiquiz cualli. nochipan niquilhui intla nimiquiz nicupeaz kenin chichi	Intla nimiquiz, nineltoca nicuepaz quenin chichi	entailment
+12943	nah	mmm..., cualtitoc, huan na niquihtozquia queh onca campa cualtozquia quicotonazquia, timahtohca, na axtle, axmonequizquia nompa ticotonaz	Nicmati yehuantin quipanahui amoxtli ahmo tlacualistli	neutral
+12944	nah	mmm..., cualtitoc, huan na niquihtozquia queh onca campa cualtozquia quicotonazquia, timahtohca, na axtle, axmonequizquia nompa ticotonaz	Na niquiihtohtozquia cehcanoc ticotonazquia	entailment
+12945	nah	mmm..., cualtitoc, huan na niquihtozquia queh onca campa cualtozquia quicotonazquia, timahtohca, na axtle, axmonequizquia nompa ticotonaz	Ayoc onca campa hueliz mocotonaz	contradiction
+12946	nah	Nompa zaniyoc contrato tlen quimacaqueh ne Virginia quipiya ce tlatelhuiliztli ica ne Gratin tlen ica quicahuiliz ma quiquetza pampa mopantihqui ica ce tlamantli axcualtequitl huan ihquino, quema timahtohca. 	Contratos cenca ohuic	entailment
+12947	nah	Nompa zaniyoc contrato tlen quimacaqueh ne Virginia quipiya ce tlatelhuiliztli ica ne Gratin tlen ica quicahuiliz ma quiquetza pampa mopantihqui ica ce tlamantli axcualtequitl huan ihquino, quema timahtohca. 	Miac contratos quitlanantoqueh miac pantli chichiltiqueh tlen ne temanahuihquemeh	neutral
+12948	nah	Nompa zaniyoc contrato tlen quimacaqueh ne Virginia quipiya ce tlatelhuiliztli ica ne Gratin tlen ica quicahuiliz ma quiquetza pampa mopantihqui ica ce tlamantli axcualtequitl huan ihquino, quema timahtohca. 	Nochi nompa contratos quihuazanihqueh ax ica cualantli	contradiction
+14194	nah	Moregalo nelia melahuac tlen ni ilhuitl tlen to 85a temporada	Nochi tlen regalo tipantia nozo ticcelia axnel melahuac tlen ta. 	neutral
+14195	nah	Moregalo nelia melahuac tlen ni ilhuitl tlen to 85a temporada	Tohhuantin axtocuezoliz nompa tlen ta moregalo	contradiction
+14196	nah	Moregalo nelia melahuac tlen ni ilhuitl tlen to 85a temporada	ye 80 xihuitl oticchiuhqueh inon	entailment
+14197	nah	Monequi nompa mocehcotililiztli tlen ne fondo privado huan tlen ne fondos propios tlen ne Universidad tlen ica to Facultad de Derecho naha nehnemiz huan mitzcaltihtiaz . 	Derecho Totemachtilcalco san quinequi financiamiento privado 	contradiction
+14198	nah	Monequi nompa mocehcotililiztli tlen ne fondo privado huan tlen ne fondos propios tlen ne Universidad tlen ica to Facultad de Derecho naha nehnemiz huan mitzcaltihtiaz . 	Fundación Melinda y Bill Gates quipalehuiz Derecho Totemachtilcalco	neutral
+14199	nah	Monequi nompa mocehcotililiztli tlen ne fondo privado huan tlen ne fondos propios tlen ne Universidad tlen ica to Facultad de Derecho naha nehnemiz huan mitzcaltihtiaz . 	Derecho totemachticalco nequi tomin para cualli mochihua	entailment
+14200	nah	Quena nelia melahuac tlen tiyaz ipan ne representacion IRT ax zan mahuiltiliztli	Intla tiyaz ipan ce tlamahuizoli tlen ne IRT ax zan mahuiltiliztli	entailment
+14201	nah	Quena nelia melahuac tlen tiyaz ipan ne representacion IRT ax zan mahuiltiliztli	Inta tiyaz nompa Tlamahuizoli IRT nelcualli timociyahcuilliz huan axohui nompa tequitl huan tlen timotlaneltoquiliz	contradiction
+14202	nah	Quena nelia melahuac tlen tiyaz ipan ne representacion IRT ax zan mahuiltiliztli	Tlen ica quena tineltlamahuizoz ipan ne IRT huacca monequi tineltlacaquiliz huan tinelmomachtiz tlen ne rendimiento huan tlen panotohca. 	neutral
+14203	nah	Ica tosocios tepalehuili oticchiuhqueh miec tlamantli	Bill Gates techmaca 5 millones	neutral
+14204	nah	Ica tosocios tepalehuili oticchiuhqueh miec tlamantli	Tlen ne tomi moneltequipanoltia ipan tepoztli, nochi tlen socios filantropicos quiquixhtihqueya intomi	contradiction
+14205	nah	Ica tosocios tepalehuili oticchiuhqueh miec tlamantli	ipampa filantropia, ticchihuazqueh miac tlamantli 	entailment
+14206	nah	Tlazohcamati omotepalehuili Museo de Arte de Indianapolis ipan 1999 xihuitl	Tlazohcamati ipampa oticmaca 100 $ Museo de Arte de Indianapolis	neutral
+14207	nah	Tlazohcamati omotepalehuili Museo de Arte de Indianapolis ipan 1999 xihuitl	Tlazohcamati pero ahmno timitstlaxtlahua polihui modonacion ipan 1999 xihuitl	contradiction
+14208	nah	Tlazohcamati omotepalehuili Museo de Arte de Indianapolis ipan 1999 xihuitl	tipahpaqui ipampa otipalehui museo	entailment
+14215	nah	P. D.: Ten techpalehuihqui ica ino tomi tlen ni 85o aniversario tlen tichihtihuiyaya ne Teatro Civico tlen ne Indianapolis ica ne teatro comunitario huan cualiztozquia mopalehuizquia ica ne nelpano huehueh altepetl	Eltoca ceyoc tlamahuizoli tlen conchihqui ianiversario 84, huan teipa mochichinohqui. 	neutral
+14216	nah	P. D.: Ten techpalehuihqui ica ino tomi tlen ni 85o aniversario tlen tichihtihuiyaya ne Teatro Civico tlen ne Indianapolis ica ne teatro comunitario huan cualiztozquia mopalehuizquia ica ne nelpano huehueh altepetl	Ama tiilhuichihua pampa ticontlapohque to tlamahuizolpa tlen nica Indianapolis	contradiction
+14217	nah	P. D.: Ten techpalehuihqui ica ino tomi tlen ni 85o aniversario tlen tichihtihuiyaya ne Teatro Civico tlen ne Indianapolis ica ne teatro comunitario huan cualiztozquia mopalehuizquia ica ne nelpano huehueh altepetl	Tiyolpahtoque pampa ne Teatro Civico Indianápolis ihcatoya huan motequihuihtoya nochi ni 85 xihuitl	entailment
+14218	nah	Macehualmeh tlen tlaparticiparozceh quizcelizceh intoca, campa iztoqueh, huan numeros de telefono, huan nochi tlen monequi timatiz tlen nochi tlatequihuiliztli ne tlamachtiloyan. 	Macehualmeh tlen tlaparticiparozceh quizcelizeh nochi nompa contactos tlen perspectivas huan nochi informacion de antecedentes	entailment
+14219	nah	Macehualmeh tlen tlaparticiparozceh quizcelizceh intoca, campa iztoqueh, huan numeros de telefono, huan nochi tlen monequi timatiz tlen nochi tlatequihuiliztli ne tlamachtiloyan. 	Macehualmeh tlen tlaparticiparozceh monequi quihuazanizceh nompa amatl tlen axhuel camatizceh, huan ihquino cualiz quipiyazceh nochi detalles tlen perspectivas.	neutral
+14220	nah	Macehualmeh tlen tlaparticiparozceh quizcelizceh intoca, campa iztoqueh, huan numeros de telefono, huan nochi tlen monequi timatiz tlen nochi tlatequihuiliztli ne tlamachtiloyan. 	Macehualmeh tlen tlaparticiparozceh zan cualli quiixmatizceh nompa tocalistli tlen ne cuali tlacohuanih, huan monequi quimatizceh campa incha iztoqueh	contradiction
+14221	nah	(dba), nompa ce organización campa tepalehuia, zan tlapic huan axtleno tlahtlani yon axtleno quinequi, temecah tequitl, informacion empresaria huan asistecia ica empresarios con capacidades y asesoria empresarial huan laboral a profesionales en rehabilitacion vocacional	Nochin tlacameh tequitih nican quitlani miac tomin 	contradiction
+14222	nah	(dba), nompa ce organización campa tepalehuia, zan tlapic huan axtleno tlahtlani yon axtleno quinequi, temecah tequitl, informacion empresaria huan asistecia ica empresarios con capacidades y asesoria empresarial huan laboral a profesionales en rehabilitacion vocacional	Mocehcotiltoqueh ica miac macehualmeh tlen tepalehuiah zan tlapic	entailment
+14223	nah	(dba), nompa ce organización campa tepalehuia, zan tlapic huan axtleno tlahtlani yon axtleno quinequi, temecah tequitl, informacion empresaria huan asistecia ica empresarios con capacidades y asesoria empresarial huan laboral a profesionales en rehabilitacion vocacional	quipia 20 voluntarios cehce tonalli 	neutral
+14224	nah	To zoo mochihchihqui tlen tequihuiliztli tlen ne conceptos de biomas, queh ne monechtilia ipan nompa habitats naturales tlen iztoqueh ne tlahpialmeh	Biomas quena motequihia tlen quinextilia quienihqui iztoqueh huan nemih nochi tlahpialmeh campa iztoqueh	entailment
+14225	nah	To zoo mochihchihqui tlen tequihuiliztli tlen ne conceptos de biomas, queh ne monechtilia ipan nompa habitats naturales tlen iztoqueh ne tlahpialmeh	Ipan to Zoo, tineltoquilia queh ne habitats artificiales, campa tinpixtoque nelcualli campa yahuantin mitzcaltihqueh. 	contradiction
+14226	nah	To zoo mochihchihqui tlen tequihuiliztli tlen ne conceptos de biomas, queh ne monechtilia ipan nompa habitats naturales tlen iztoqueh ne tlahpialmeh	Nochi biomas tlen to zoo nelpano patiyo	neutral
+14227	nah	Mopalehuiliztli tlen Goodwill temahtiliz miac tlamachtiliztli profesional huan tepalehuiliztli tlennompa quinpalehuia nochi tlamacehuah ne Indiana huan ihquino quipantizceh tequitl nelcualli. 	Macehualmeh tlen ne centro indiana axquema quicelihqui tlamachtiliztli tlen quenihqui tequitizceh. 	contradiction
+14228	nah	Mopalehuiliztli tlen Goodwill temahtiliz miac tlamachtiliztli profesional huan tepalehuiliztli tlennompa quinpalehuia nochi tlamacehuah ne Indiana huan ihquino quipantizceh tequitl nelcualli. 	Sopporting Goodwill tepalehuiz miac macehualmeh ne Indiana	entailment
+14229	nah	Mopalehuiliztli tlen Goodwill temahtiliz miac tlamachtiliztli profesional huan tepalehuiliztli tlennompa quinpalehuia nochi tlamacehuah ne Indiana huan ihquino quipantizceh tequitl nelcualli. 	Nompa respaldo GoodWill tepalehuiz tlen ayoc oncaz cuezoliztli tlen axquipiya tequitl	neutral
+14230	nah	Quema pehqui nompa ino tequitl huan tlen ama, yani nelia nelcuali campa mopahtizceh ni tohueyialtepe, Zan ce nompa colegio medico indiana nomentlepanita.	Indiana quipiya hueliz ce cempoalli tlamaxtiloyan tlen cualli pahtli	contradiction
+14231	nah	Quema pehqui nompa ino tequitl huan tlen ama, yani nelia nelcuali campa mopahtizceh ni tohueyialtepe, Zan ce nompa colegio medico indiana nomentlepanita.	Ne altepetl indiana quipiya ce tlamaxtiloyan tlen temachtiah queniuhqui titepahtiz	entailment
+14232	nah	Quema pehqui nompa ino tequitl huan tlen ama, yani nelia nelcuali campa mopahtizceh ni tohueyialtepe, Zan ce nompa colegio medico indiana nomentlepanita.	Axoncaz  ceyoc tlamachtiloyan tlen queniuhqui tepahtizceh nica indiana nece macuilli xihuitl	neutral
+14233	nah	Nelia, nompa tlehcoltiliztli yehyehtzitzi tlen nompa miac amoxtli tlen juridicos, revistas huan servicios de bases de datos quiihtoa miac tlen queniuhqui tiinpixtoz nochi tlen colecciones actuales tlen quipano nochi ino presupuesto. 	Timanalhuizceh nochi tlen ne colecciones tlen ama ipati ce achi tlen tomih ni xihuitl	contradiction
+14234	nah	Nelia, nompa tlehcoltiliztli yehyehtzitzi tlen nompa miac amoxtli tlen juridicos, revistas huan servicios de bases de datos quiihtoa miac tlen queniuhqui tiinpixtoz nochi tlen colecciones actuales tlen quipano nochi ino presupuesto. 	Tlen tomi ticpiya ni xihuitl axtechcahuiliz ma tipiyaca nochi to colecciones ama	entailment
+14235	nah	Nelia, nompa tlehcoltiliztli yehyehtzitzi tlen nompa miac amoxtli tlen juridicos, revistas huan servicios de bases de datos quiihtoa miac tlen queniuhqui tiinpixtoz nochi tlen colecciones actuales tlen quipano nochi ino presupuesto. 	Monequi ticpiyazceh nochi ne 10 000 $ nochi tlen tlapic temaltilizceh nochi ni colecciones actuales	neutral
+14236	nah	-Ximoihli, xichihua huan xiquihtzoma ica moma nochi yoyomitl, quemah ne tlaquemitl tlen cihuameh tlen moquentiyaya ne Mary Todd ne Abe Lincoln, Illinois queh ne tlahuilli xihuitlpano ne A Christmas Carol	Tlaquemitl nochi mochihquihqueh ica tepoztli ne  fabrica	contradiction
+14237	nah	-Ximoihli, xichihua huan xiquihtzoma ica moma nochi yoyomitl, quemah ne tlaquemitl tlen cihuameh tlen moquentiyaya ne Mary Todd ne Abe Lincoln, Illinois queh ne tlahuilli xihuitlpano ne A Christmas Carol	In tlaquemitl mochiuh ica maitl	neutral
+14238	nah	-Ximoihli, xichihua huan xiquihtzoma ica moma nochi yoyomitl, quemah ne tlaquemitl tlen cihuameh tlen moquentiyaya ne Mary Todd ne Abe Lincoln, Illinois queh ne tlahuilli xihuitlpano ne A Christmas Carol	In tlaquemitl mochiuh ica maitl	entailment
+14239	nah	Tichihuazceh nochi iyolic tinmiznehmachizceh tlen axnitequititoqueh ni xihuitl fiscal neceyoc 45 tonati tlen ica cualliz tichihuazceh neceyoc tonalli30 tlen zan junio. 	Axticnequi tleno tintemoceh nochi macehualme tlen axtleno temacaqueh tomih ni xihuitl fiscal	contradiction
+14240	nah	Tichihuazceh nochi iyolic tinmiznehmachizceh tlen axnitequititoqueh ni xihuitl fiscal neceyoc 45 tonati tlen ica cualliz tichihuazceh neceyoc tonalli30 tlen zan junio. 	Tinmiznotzaceh ipan correo nece 45 tonati tlen inihuaya axtemacatoqueh nompa tomintzi ni xihuitl fiscal	neutral
+14241	nah	Tichihuazceh nochi iyolic tinmiznehmachizceh tlen axnitequititoqueh ni xihuitl fiscal neceyoc 45 tonati tlen ica cualliz tichihuazceh neceyoc tonalli30 tlen zan junio. 	Nichi tlen ni 45 tonalli, tichihuazceh tintemozceh nochi macehualme tlen axtemacatoqueh nompa tomi ni xihuitl fiscal	entailment
+14242	nah	Queh na nimomachtia nompa facultad de derecho, nimahtoc que nouhquia timahtohca queniuhqui mitzcaltihtia nochi ino tequitl	Na quena nimomachtia tlen ne tlamachtiloyan leyes	neutral
+14243	nah	Queh na nimomachtia nompa facultad de derecho, nimahtoc que nouhquia timahtohca queniuhqui mitzcaltihtia nochi ino tequitl	Axaca nemi ipan nompa tlamachtiloyan derecho	contradiction
+14244	nah	Queh na nimomachtia nompa facultad de derecho, nimahtoc que nouhquia timahtohca queniuhqui mitzcaltihtia nochi ino tequitl	Nompa tlamachtiloyan leyes quena quinceltoya macehualmeh	entailment
+14245	nah	Tlen ipati nompa tequitl tlen mochihchihuaz nochi calmeh quipano nelpano tlen tlacohuani tlaxtlahua, huacca monequi quichihuazceh nochi subenciones huan donaciones individuales tlen particulares tlen ica cualli motequihuiz	quichihuazqueh calli axipatih 	contradiction
+14246	nah	Tlen ipati nompa tequitl tlen mochihchihuaz nochi calmeh quipano nelpano tlen tlacohuani tlaxtlahua, huacca monequi quichihuazceh nochi subenciones huan donaciones individuales tlen particulares tlen ica cualli motequihuiz	Calimeh monequih quipiyazceh tomih tlen ica monelcencahuazceh	entailment
+14247	nah	Tlen ipati nompa tequitl tlen mochihchihuaz nochi calmeh quipano nelpano tlen tlacohuani tlaxtlahua, huacca monequi quichihuazceh nochi subenciones huan donaciones individuales tlen particulares tlen ica cualli motequihuiz	In calli cenca patiyo	neutral
+14248	nah	Becky ya nelia quitlepanita, Sthephanie, Marcus huan Emily, huan tlamachtiloyan ihuaya yahhuantin	Becky axquitlepanita tleno	contradiction
+14249	nah	Becky ya nelia quitlepanita, Sthephanie, Marcus huan Emily, huan tlamachtiloyan ihuaya yahhuantin	Becky machtianime ipan 8° grado	neutral
+14250	nah	Becky ya nelia quitlepanita, Sthephanie, Marcus huan Emily, huan tlamachtiloyan ihuaya yahhuantin	Becky machtianime	entailment
+14251	nah	Motlahcocuiliz nelpano tlen motlanilihtoc nelpano tlen museo huan quicualiltia nochi miac tlamantli  	Nochi  axquinenpoloa yonquentzi ne Museo	contradiction
+14252	nah	Motlahcocuiliz nelpano tlen motlanilihtoc nelpano tlen museo huan quicualiltia nochi miac tlamantli  	tleh hueyi itomi tlanitliztli moneltequia ipan Museo	neutral
+14253	nah	Motlahcocuiliz nelpano tlen motlanilihtoc nelpano tlen museo huan quicualiltia nochi miac tlamantli  	Museo quinenpoloa nompa tomitlaniliztli	entailment
+14254	nah	Ninehtozquia techpalehuihtinemiz naja huan ximonelilhui queh nompa 25 xihuitl xitempohuiltinemi tlatempohualiztli huan mopihuiltias nompa donacion en $25 ni xihuitl	Ce hueyi tlahtlaniliztli, ni xihuitl mo mopihuili nompa tlaxtlahuiliztli ica 25 $	entailment
+14255	nah	Ninehtozquia techpalehuihtinemiz naja huan ximonelilhui queh nompa 25 xihuitl xitempohuiltinemi tlatempohualiztli huan mopihuiltias nompa donacion en $25 ni xihuitl	Nece xihuihtla nelpano temacac miac, ce hueyi tlahtlaniliztli, ma motemohui zan quentzi ni $25	contradiction
+14256	nah	Ninehtozquia techpalehuihtinemiz naja huan ximonelilhui queh nompa 25 xihuitl xitempohuiltinemi tlatempohualiztli huan mopihuiltias nompa donacion en $25 ni xihuitl	Tlen tlapic temacaqueh nece xihuihtla elqui 33 dolares	neutral
+14257	nah	Huan, ninehtozquia techpalehuia nochi tlen ni tequil artistico huan educativo tlen Civic Theatre ceyoc huelta ni xihuitl	Teatre Civic neltepalehuia ica tomi huan ni xihuitl axquiceliz tomi	contradiction
+14258	nah	Huan, ninehtozquia techpalehuia nochi tlen ni tequil artistico huan educativo tlen Civic Theatre ceyoc huelta ni xihuitl	Teatro Civi quinequi 1$ millon ni xihuitl	neutral
+14259	nah	Huan, ninehtozquia techpalehuia nochi tlen ni tequil artistico huan educativo tlen Civic Theatre ceyoc huelta ni xihuitl	Teatro Civico quinequi palehuiliztli	entailment
+14260	nah	Tlen na nelpaho nechyolpahtia tequiliztli ya ne IRT queh ya lider tlen nochi ni altepetl temahtilia experiencias teatrales tlen momachtianih	IRT nouhquia mocalahtoc ipan futbol	contradiction
+14261	nah	Tlen na nelpaho nechyolpahtia tequiliztli ya ne IRT queh ya lider tlen nochi ni altepetl temahtilia experiencias teatrales tlen momachtianih	IRT mocalahtoc ipan teatro tlen momachtiani ipan ni tlamachtiloyan	neutral
+14262	nah	Tlen na nelpaho nechyolpahtia tequiliztli ya ne IRT queh ya lider tlen nochi ni altepetl temahtilia experiencias teatrales tlen momachtianih	IRT mocalaquihtoc ipan ne teatro	entailment
+14263	nah	Ipalehuiliztli quinpalehuia ne sociedad tlen quimaquitlacuia nelpano ne colecciones tlen tlahpialmeh huan xochicuatinih huan tlen quichihua investigaciones monelnequi tlen miac tlahpialmeh axtlaixmatiliztli, nouhquia tlen Plan de Supervivencia de Especies	Sociedad mocuezohua tlen ne tlahpialmeh que polihtiyahuiya nepa Africa	neutral
+14264	nah	Ipalehuiliztli quinpalehuia ne sociedad tlen quimaquitlacuia nelpano ne colecciones tlen tlahpialmeh huan xochicuatinih huan tlen quichihua investigaciones monelnequi tlen miac tlahpialmeh axtlaixmatiliztli, nouhquia tlen Plan de Supervivencia de Especies	Sociedad motequipanoltia ica tlahpialmeh	entailment
+14265	nah	Ipalehuiliztli quinpalehuia ne sociedad tlen quimaquitlacuia nelpano ne colecciones tlen tlahpialmeh huan xochicuatinih huan tlen quichihua investigaciones monelnequi tlen miac tlahpialmeh axtlaixmatiliztli, nouhquia tlen Plan de Supervivencia de Especies	Sociedad mocuezohua tlen pilconetzitzi	contradiction
+14266	nah	Na nimoilhuia tlen chicotic	Nimoihlia ino axmonequi	entailment
+14267	nah	Na nimoilhuia tlen chicotic	Nelia cualli mocamanca tlen timoihlia	contradiction
+14268	nah	Na nimoilhuia tlen chicotic	Nimoihlia timocuapoloa, motlananquiliz ya quena, huan ax zan axtle	neutral
+14269	nah	Inmopalehuiliztli ama techpalehuiz timotetilizceh ica tlen temahtiltehtoqueh filantrópica de los Estados Unidos tlen quinhuelizceh nompa cruciales programas tlamachtiliztli, tlen tlanahuatiliztli tlayacanquetl huan tlen camaloli ne Centro	Axtimotleltoqueh timohueyilizceh nelpano	contradiction
+14270	nah	Inmopalehuiliztli ama techpalehuiz timotetilizceh ica tlen temahtiltehtoqueh filantrópica de los Estados Unidos tlen quinhuelizceh nompa cruciales programas tlamachtiliztli, tlen tlanahuatiliztli tlayacanquetl huan tlen camaloli ne Centro	Huelizquiah cualliz timopalehuizquia timohueyilizce ipan 7 estados	neutral
+14271	nah	Inmopalehuiliztli ama techpalehuiz timotetilizceh ica tlen temahtiltehtoqueh filantrópica de los Estados Unidos tlen quinhuelizceh nompa cruciales programas tlamachtiliztli, tlen tlanahuatiliztli tlayacanquetl huan tlen camaloli ne Centro	Huelizquia cuallis timopalehuizquiah nochi to programas tlen tihueli	entailment
+14272	nah	Cualizquia titemahtilizceh ce atmosfera profesional tlen ihquino miac macehualmeh actores tlen quipiya intalento tlen ni altepetl cualizquia quicencahuazceh inabilidades. 	Teatros tlen altepemeneh axquema quinpalehuia queh ne actores ma quinelyecocah	contradiction
+14273	nah	Cualizquia titemahtilizceh ce atmosfera profesional tlen ihquino miac macehualmeh actores tlen quipiya intalento tlen ni altepetl cualizquia quicencahuazceh inabilidades. 	Miaquih macehualmeh actores profesionales pehqueh ipan ne teatros comunidarios tlen inaltepeh	neutral
+14274	nah	Cualizquia titemahtilizceh ce atmosfera profesional tlen ihquino miac macehualmeh actores tlen quipiya intalento tlen ni altepetl cualizquia quicencahuazceh inabilidades. 	Cequih macehualmeh actores pehqueh quitequihuia inteatro comunitarioa pampa quinequi ma tlacualcualca eli	entailment
+14275	nah	Nece domingo, 18 meztli Junio, huezqui atl huan quinenpolohqui ce ilhuitl pampa axmiyaqui yahqueh nompa festival tlen mitos, folclore huan historia, Keepers tlen Lore/ Joseph Campbell, tlen ni xihuitl	Eyi xihuitl axhueztoc atl	contradiction
+14276	nah	Nece domingo, 18 meztli Junio, huezqui atl huan quinenpolohqui ce ilhuitl pampa axmiyaqui yahqueh nompa festival tlen mitos, folclore huan historia, Keepers tlen Lore/ Joseph Campbell, tlen ni xihuitl	Nece domingo huezqui 17 pulgadas	neutral
+14277	nah	Nece domingo, 18 meztli Junio, huezqui atl huan quinenpolohqui ce ilhuitl pampa axmiyaqui yahqueh nompa festival tlen mitos, folclore huan historia, Keepers tlen Lore/ Joseph Campbell, tlen ni xihuitl	Nece domingo huezqui atl	entailment
+14278	nah	Tlen zan pehqui quema ce grupo itinerante tlen actores ne 1973 tlen mochihqueh machtianih ne hueyi altepemeh quema Gary, Elkhart huan Terre Haute, el programa educativo tlen IRT ama tonalli	Axoncayayah actores ne Indiana ne xihuitl 70	contradiction
+14279	nah	Tlen zan pehqui quema ce grupo itinerante tlen actores ne 1973 tlen mochihqueh machtianih ne hueyi altepemeh quema Gary, Elkhart huan Terre Haute, el programa educativo tlen IRT ama tonalli	Ce omeh actores tlen quitlanqueh nompa Oscar nehnenqueh nochi Indiana ne xihuitl 1973	neutral
+14280	nah	Tlen zan pehqui quema ce grupo itinerante tlen actores ne 1973 tlen mochihqueh machtianih ne hueyi altepemeh quema Gary, Elkhart huan Terre Haute, el programa educativo tlen IRT ama tonalli	Ce omeh actores nemitoh indiana ne 1973	entailment
+14281	nah	Monequi tomi tlen ica tintlanehuizceh huan tinmachtizceh cuahcualmeh temachtianih	Axmonequi tintlanehuizceh temachtianih, zan huallahui	contradiction
+14282	nah	Monequi tomi tlen ica tintlanehuizceh huan tinmachtizceh cuahcualmeh temachtianih	Tinequih cuahcualmeh temachtianih	entailment
+14283	nah	Monequi tomi tlen ica tintlanehuizceh huan tinmachtizceh cuahcualmeh temachtianih	Monequi tintlanehuizceh 100 yancuiqueh huan cuahcualmeh temachtianih	neutral
+14284	nah	Tlen 5 539 temachtianih tlen tlamachtiloyan derecho yahhuantin mocentilihtoqueh tlen ceyoc cualli	Facultad de derecho quipehualtihque tlamachtiliztli huehcahquiya 100 años huan quinpixtohca 5 539 momachtianih	neutral
+14285	nah	Tlen 5 539 temachtianih tlen tlamachtiloyan derecho yahhuantin mocentilihtoqueh tlen ceyoc cualli	Facultad de derecho zan quitlamiltihqueh momachtia 20	contradiction
+14286	nah	Tlen 5 539 temachtianih tlen tlamachtiloyan derecho yahhuantin mocentilihtoqueh tlen ceyoc cualli	Onca nelpano naha miac tlen 5 000 momachtiani ne tlamachtiloyan derecho	entailment
+14287	nah	Ne tzonyahualiztli tlen laurel xihuitl, quiiztoznequi tlatlaniliztli, huan nompa maxal xihuitl tlen olivo quiihtoznequi tlacualtlanemiliztli, nouhquia quiixnezcayotiya itehteno ne petlal tlen ihuaya ne xihuitl tlen itoca acanto	Michi cozpetlantic, ocuilmeh nochi eltoque intehteno ixcapetlatl	contradiction
+14288	nah	Ne tzonyahualiztli tlen laurel xihuitl, quiiztoznequi tlatlaniliztli, huan nompa maxal xihuitl tlen olivo quiihtoznequi tlacualtlanemiliztli, nouhquia quiixnezcayotiya itehteno ne petlal tlen ihuaya ne xihuitl tlen itoca acanto	Tzonyahualli tlen xihuitl laurel, imaxatl xihuitl tlen olivo, huan nompa xihuitl tlen acanto onca itehtenno tlen ne ixcapetlal	entailment
+14289	nah	Ne tzonyahualiztli tlen laurel xihuitl, quiiztoznequi tlatlaniliztli, huan nompa maxal xihuitl tlen olivo quiihtoznequi tlacualtlanemiliztli, nouhquia quiixnezcayotiya itehteno ne petlal tlen ihuaya ne xihuitl tlen itoca acanto	Ixcapetlatl ixnezcayo beige	neutral
+14290	nah	Nicpiya ce ome tequitl	Axnipiya ce tequitl huan yonce tlalcahualiztli	contradiction
+14291	nah	Nicpiya ce ome tequitl	Nicpiya ce tequitl tlen axnicanti	neutral
+14292	nah	Nicpiya ce ome tequitl	Nicpiya notequi	entailment
+14299	nah	Neia, timocentili inihuaya ce ome macehualmeh tln intoca ejecutivos tlen ce fundación, huan nouquia tlen tlanemacameh, tlamachtiani, huan tlen coyomeh tequiti tlen desarollo, huan tlen zan tlapic tlapolehuia tlen ne sector tlen axtleno 	Ne macehualmeh tlen mocentiltoqueh nochi yahhuantin tlen momachtia tlen Ivy League huan Filantropos	neutral
+14300	nah	Neia, timocentili inihuaya ce ome macehualmeh tln intoca ejecutivos tlen ce fundación, huan nouquia tlen tlanemacameh, tlamachtiani, huan tlen coyomeh tequiti tlen desarollo, huan tlen zan tlapic tlapolehuia tlen ne sector tlen axtleno 	Ne macehualmeh tlen mocentiltoqueh nochi nelhueyiqueh	entailment
+14301	nah	Neia, timocentili inihuaya ce ome macehualmeh tln intoca ejecutivos tlen ce fundación, huan nouquia tlen tlanemacameh, tlamachtiani, huan tlen coyomeh tequiti tlen desarollo, huan tlen zan tlapic tlapolehuia tlen ne sector tlen axtleno 	Macehualmeh mocentiltoqueh temitoqueh tlen axtlatlepanita huan tlaxtequiqueh	contradiction
+14302	nah	Cequih quena techtlepanita tlen totequi cualli tichihqueh	Timocuapolohua totequi huan nochi quiita	contradiction
+14303	nah	Cequih quena techtlepanita tlen totequi cualli tichihqueh	Nelia titlatlani quema monequi ticentilizceh tomih	neutral
+14304	nah	Cequih quena techtlepanita tlen totequi cualli tichihqueh	Titlatlantiyahuiya	entailment
+14305	nah	¿Tincehcotiliz moyolneltequi ica tlen tohuaya?	Axtimitzcahuilia ma xitemiqui tohuayya	contradiction
+14306	nah	¿Tincehcotiliz moyolneltequi ica tlen tohuaya?	¿Techpalehuiz tichihuilizqueh cualli tlamachtilcali?	neutral
+14308	nah	Nochi tlen nechtiliztli, quipiya palehuiliztli ipan ce mocentiliztli macehualmeh, huacca quimahtoqueya quena quinpalehuizquia ne altepetl ica nochi	Motleliyayah queh ne organización quinenpolozquia ne altepetl	contradiction
+14309	nah	Nochi tlen nechtiliztli, quipiya palehuiliztli ipan ce mocentiliztli macehualmeh, huacca quimahtoqueya quena quinpalehuizquia ne altepetl ica nochi	Motleliyayah queh ne organizacion quipalehuizquia miach innemiliz macehualmeh tlen huehquehmeh ne altepetl	neutral
+14310	nah	Nochi tlen nechtiliztli, quipiya palehuiliztli ipan ce mocentiliztli macehualmeh, huacca quimahtoqueya quena quinpalehuizquia ne altepetl ica nochi	Quipalehuiyayah ne organizacion pampa quimatiyayah queh quinmacazquia miac tlamantli nouhquia. 	entailment
+14311	nah	Nochi miach tlamantli mozquiltiliztli tlen mochihua, cualli nochi tonalli cualli ica nompa palehuiliztli tlen ne operaciones tlen ne Sociedad tlen ne organizaciones quemah tlen ya. 	Nompa organizaciones quema tlen ta quena tepalehuiah ma mochihua conexiones tlen nochi tonalli	entailment
+14312	nah	Nochi miach tlamantli mozquiltiliztli tlen mochihua, cualli nochi tonalli cualli ica nompa palehuiliztli tlen ne operaciones tlen ne Sociedad tlen ne organizaciones quemah tlen ya. 	Nompa tlamozquiltiliztli zan mochihqueh pampa ta axtitepalehuihqui	contradiction
+14313	nah	Nochi miach tlamantli mozquiltiliztli tlen mochihua, cualli nochi tonalli cualli ica nompa palehuiliztli tlen ne operaciones tlen ne Sociedad tlen ne organizaciones quemah tlen ya. 	Intla nompa mo organizacion, nochi ino yehyehtzitzi mozquiltiliztli axquema mochihtozquiah	neutral
+14314	nah	Ne tlanahuatihquel presidente tlen ne consejo de administracion	consejo de FIdeicomisarios axquipiya itlanahuatihquetl presidente	contradiction
+14315	nah	Ne tlanahuatihquel presidente tlen ne consejo de administracion	Tlanahuatihquel presidente de Junta de consejeros de adminsitracion	entailment
+14316	nah	Ne tlanahuatihquel presidente tlen ne consejo de administracion	Nelpano huehcahqui ne Presidente tlen Junta Directiva. 	neutral
+14317	nah	Nochi programas tlen huampoyohua ne Young LIbrary Leaders huan Love is Reading Together Week apuntan nochi tlen ne telpocameh huan temachtiah miach tlamantli habitos nepa biblioteca ica namantzi	Tlamachtiliztli nepa tlamachtiloyan moneltequimaca ica nochi conemeh ma quizacah huan ma mahuilticah	contradiction
+14318	nah	Nochi programas tlen huampoyohua ne Young LIbrary Leaders huan Love is Reading Together Week apuntan nochi tlen ne telpocameh huan temachtiah miach tlamantli habitos nepa biblioteca ica namantzi	Onca tlamachtiliztli tlen tepalehuiah nochi conemeh ma yacah ipan calamoxtli ompahuelta ica nochi semana. 	neutral
+14319	nah	Nochi programas tlen huampoyohua ne Young LIbrary Leaders huan Love is Reading Together Week apuntan nochi tlen ne telpocameh huan temachtiah miach tlamantli habitos nepa biblioteca ica namantzi	Onca tlamachtiliztli tlen nompa conemeh quenelpahtia nompa calamoxtli	entailment
+14320	nah	yalhua xihuitl cualli ticmaca tomin	yalhua xihuitl ahmo ticmaca tomin	contradiction
+14321	nah	yalhua xihuitl cualli ticmaca tomin	tehuatztin ticmaca 10,000$ yalhua xihuitl	neutral
+14322	nah	yalhua xihuitl cualli ticmaca tomin	tehuatztin ticmaca tomin yalhua xihuitl	entailment
+14326	nah	Nompa ixcapetlatl zozouqui quinextiah nompa blason tlen ne Sello Presidencial nochi nextiliztli ica nochi malacachtzintli tlen quipiya 50 citlalimeh chipahuaqueh	Nompa ixcapetlal quipiya sello presidencial	entailment
+14327	nah	Nompa ixcapetlatl zozouqui quinextiah nompa blason tlen ne Sello Presidencial nochi nextiliztli ica nochi malacachtzintli tlen quipiya 50 citlalimeh chipahuaqueh	Ixcapetlal xoxohuic huan quipiya ce nextiliztli tlen Bart Simpson	contradiction
+14328	nah	Nompa ixcapetlatl zozouqui quinextiah nompa blason tlen ne Sello Presidencial nochi nextiliztli ica nochi malacachtzintli tlen quipiya 50 citlalimeh chipahuaqueh	Ixcapetatl quipiya 6 meztli ihuehueyaca	neutral
+14329	nah	Nimitzqihquitloa pampa nicnequi nimitztlazcamatiliz tlen techualmacac nompa regalos tlen ni biblioteca IUPUI University huan nicnequi nimitztlahtlaniliz ce hueyi tlapolehuiliztli	Namechatlauhtia ticmacazqueh occe 10 tomin ASPCA	contradiction
+14330	nah	Nimitzqihquitloa pampa nicnequi nimitztlazcamatiliz tlen techualmacac nompa regalos tlen ni biblioteca IUPUI University huan nicnequi nimitztlahtlaniliz ce hueyi tlapolehuiliztli	Nimitztlatlauhtia ticmacaz occe 100 $ para Temachtilcalco amoxcalli	neutral
+14331	nah	Nimitzqihquitloa pampa nicnequi nimitztlazcamatiliz tlen techualmacac nompa regalos tlen ni biblioteca IUPUI University huan nicnequi nimitztlahtlaniliz ce hueyi tlapolehuiliztli	Nimitztlatlauhtia ticamacaz occe regalo para Temachtilcalco amoxcalli	entailment
+14332	nah	Intla ticnequi ma timitznelyolmatica tlen mopalehuiliztli, timitztlahtlania amo ximotleli axtechualcamohuiz ica ne Kathy Dannels, Directora de Desarollo,ne 924-6670ext	Xonontza ne Kathy Dannels intla ticnequi ticamatiz tlen ne episodio de The Walking Dead tlen nece tlayohualiztli	contradiction
+14333	nah	Intla ticnequi ma timitznelyolmatica tlen mopalehuiliztli, timitztlahtlania amo ximotleli axtechualcamohuiz ica ne Kathy Dannels, Directora de Desarollo,ne 924-6670ext	Kathy Dannels tlananquilia nochi tepoztlanohnotzaloni nimantzi	neutral
+14334	nah	Intla ticnequi ma timitznelyolmatica tlen mopalehuiliztli, timitztlahtlania amo ximotleli axtechualcamohuiz ica ne Kathy Dannels, Directora de Desarollo,ne 924-6670ext	Ce hueyi tlahtlaniliztli, Xonontza Kathy Dannels intla quipaztizquia camanaloz tlen ni camanali	entailment
+14335	nah	Cuali eltozquia intla tiyahatizquia ticantiz tonpaxaloz tlamachtiloyan huan titlachiliz queniuhqui yahtiya nompa tequitl tlen ni tichihtoqueh ni xihuitl huan techyolpahtiliz nompa tlacahualiztli. 	Amo xonpaxalo ne tlamachtiloyan, zan xititlani tomi	contradiction
+14336	nah	Cuali eltozquia intla tiyahatizquia ticantiz tonpaxaloz tlamachtiloyan huan titlachiliz queniuhqui yahtiya nompa tequitl tlen ni tichihtoqueh ni xihuitl huan techyolpahtiliz nompa tlacahualiztli. 	Monequi xipaxalo tlamachtiloyan huan xiquihita nompa huicayochihualiz tlen titequititoqueh	neutral
+14337	nah	Cuali eltozquia intla tiyahatizquia ticantiz tonpaxaloz tlamachtiloyan huan titlachiliz queniuhqui yahtiya nompa tequitl tlen ni tichihtoqueh ni xihuitl huan techyolpahtiliz nompa tlacahualiztli. 	Monequizquia tipaxaloz motlamachtiloyan huan titlachiliti tlen tichihua.	entailment
+14338	nah	Tohhuantin nelia timitztlepanita huan I. U	Ne I. U. quema tohhuatin timoihlia que nelia melahuac pampa ta titepalehuilqueh nelpano	neutral
+14339	nah	Tohhuantin nelia timitztlepanita huan I. U	Tohhuantin huan I. U timoihlia quenelia neltetiliztli	entailment
+14340	nah	Tohhuantin nelia timitztlepanita huan I. U	Yon tohhuantin, yon I. U. axtimitztlepanita. 	contradiction
+14341	nah	Quema Urban yahqui Vietman, zan hueloc timocehcotiltoya, quiihtohqui JoAnn	JoAnn huan Urban onilhuichihqueh tlen mocehcotilihque ilhuichihualiztli tlen 50, quema ya yahqui Vietnam	contradiction
+14342	nah	Quema Urban yahqui Vietman, zan hueloc timocehcotiltoya, quiihtohqui JoAnn	JoAnn huan Urban mocehcotiltoyah zan ce meztli quema yahqui Vietnam	neutral
+14343	nah	Quema Urban yahqui Vietman, zan hueloc timocehcotiltoya, quiihtohqui JoAnn	JoAnn quiihtohqui que ya cihuatl huan Urban axhueca mocehcotiltoya quema yahqui tlacatl Vietnam	entailment
+14344	nah	Ne itomi tlen quicelia Civic huala tlen ne caltinih nemachtiqueh, tlen tequiti ipan talleres huan programas de capacitación, nouhquia tlen tetlanehta instalaciones, huan fundaciones, tlen zan temaca tomi corporativos huan contribuciones incencelti tlen partidarios quema ta. 	Axaca tleno techmaca, huan ticpiya miac tomi, ihquino cualtitohca	contradiction
+14345	nah	Ne itomi tlen quicelia Civic huala tlen ne caltinih nemachtiqueh, tlen tequiti ipan talleres huan programas de capacitación, nouhquia tlen tetlanehta instalaciones, huan fundaciones, tlen zan temaca tomi corporativos huan contribuciones incencelti tlen partidarios quema ta. 	Macehualmeh techmaca tomi pampa techpalehuia ma titlachtlahuazceh tlen nompa presupuesto $ 1 millon	neutral
+14346	nah	Ne itomi tlen quicelia Civic huala tlen ne caltinih nemachtiqueh, tlen tequiti ipan talleres huan programas de capacitación, nouhquia tlen tetlanehta instalaciones, huan fundaciones, tlen zan temaca tomi corporativos huan contribuciones incencelti tlen partidarios quema ta. 	Macehualmeh tlen techmaca tomi pampa quinequih ma ticipiyaca nompa organización ma tequitithto melahuac	entailment
+14347	nah	Nompa tlaxtlahualiztli tlen itoca tasas tlen momachtianih nelpano tlehcotoque 12 % tlen ne 1922 -92 in quiihtoznequi tlehcotoc nelpano	Nompa tlaxtlahualiztli tlen itoca tasa nelpano tlehcotoc. 	entailment
+14348	nah	Nompa tlaxtlahualiztli tlen itoca tasas tlen momachtianih nelpano tlehcotoque 12 % tlen ne 1922 -92 in quiihtoznequi tlehcotoc nelpano	Tlachtlahualiztli tlen nompa matricula temoc 40%	contradiction
+14349	nah	Nompa tlaxtlahualiztli tlen itoca tasas tlen momachtianih nelpano tlehcotoque 12 % tlen ne 1922 -92 in quiihtoznequi tlehcotoc nelpano	Tlachtlahualiztli tlen matricula tlehcotinemiz cece xihuitl	neutral
+14350	nah	00 Tlen mocahcohton pampa motlaniz itlapanca ipan ce programa tlen campa temachtia tequitizceh tlen campa ce macehual quicelia palehuiliztli quiahcocui 3 $ 	Zan catlihueli macehual tlen quiahcohui itomi huan quipiyaz itlapanca ipan ce programa de tamachtiliztli tequitl quipolohua 5 $	contradiction
+14351	nah	00 Tlen mocahcohton pampa motlaniz itlapanca ipan ce programa tlen campa temachtia tequitizceh tlen campa ce macehual quicelia palehuiliztli quiahcocui 3 $ 	Noma 5% tlen nochi macehualtlapohualiztli huehhueyiqueh quipiya 25 xihuitl tlen ni tohueyitlaltipacaltepe quicelia palehuiliztli tlen itoca asistencia social. 	neutral
+14352	nah	00 Tlen mocahcohton pampa motlaniz itlapanca ipan ce programa tlen campa temachtia tequitizceh tlen campa ce macehual quicelia palehuiliztli quiahcocui 3 $ 	Onca ce ome tomi tlen mocahcohtoc tlen tomi itlapanca ahcocuiliztli tlen ce programa tlen temachtiani tequitl	entailment
+14353	nah	Huelqueh ticahcohque naja nompa 58 % tomi tlen monemacac, mocahqui naja 32 % tlen naja hueliz motlaniz pampa cequi zan tepalehuizceh tohuampoyohua quema ta. 	Nochi tlen ineh tomi huala tlen monemaca boletos. 	entailment
+14354	nah	Huelqueh ticahcohque naja nompa 58 % tomi tlen monemacac, mocahqui naja 32 % tlen naja hueliz motlaniz pampa cequi zan tepalehuizceh tohuampoyohua quema ta. 	Tlen ni xihuitl onpanoc tinemacazeh nompa entradas	neutral
+14355	nah	Huelqueh ticahcohque naja nompa 58 % tomi tlen monemacac, mocahqui naja 32 % tlen naja hueliz motlaniz pampa cequi zan tepalehuizceh tohuampoyohua quema ta. 	Nompa tlanemacaliz tlen entradas temaca zan quentzi itlapanca tomi	contradiction
+14356	nah	Nelia yehyehtzi huan cuahcualtzi nompa atracción botánica tlen 3,3 acres ihueyica huan quinexcayotiya cuahcualtzi nemilistli tlen xochitila, huan nouhquia tlen matiliztli tlen cuatini, huan ipan ce nextiliztli yehyehtzi huan melahuac. 	Nompa tlahueyica quipiya ce tonelada tlen xichicuatini	entailment
+14357	nah	Nelia yehyehtzi huan cuahcualtzi nompa atracción botánica tlen 3,3 acres ihueyica huan quinexcayotiya cuahcualtzi nemilistli tlen xochitila, huan nouhquia tlen matiliztli tlen cuatini, huan ipan ce nextiliztli yehyehtzi huan melahuac. 	Tlahueyica nochi ica tetl huan axtlacuahcualca	contradiction
+14358	nah	Nelia yehyehtzi huan cuahcualtzi nompa atracción botánica tlen 3,3 acres ihueyica huan quinexcayotiya cuahcualtzi nemilistli tlen xochitila, huan nouhquia tlen matiliztli tlen cuatini, huan ipan ce nextiliztli yehyehtzi huan melahuac. 	Tlahueyica temitoc ica miac xochitl yehyehtzi huan yehyehtzi cuatini	neutral
+14359	nah	Intla cuali camatizquia noma chichilti Ejercito de Salvación, cuali camanalozquia queniuhqui zan quentzi tipalehuihqueh ce macehual mococohua tlen Diabetes huan tipalehuihqueh ma quipiyaz insulina tlen quinequiyaya	Nompa ejercito de Salvación axquipiya tleno tlen quinequiz palehuiliztli tlapahtihquetl	contradiction
+14360	nah	Intla cuali camatizquia noma chichilti Ejercito de Salvación, cuali camanalozquia queniuhqui zan quentzi tipalehuihqueh ce macehual mococohua tlen Diabetes huan tipalehuihqueh ma quipiyaz insulina tlen quinequiyaya	Ejercito de Salvacion temaca tomi tlen macehualmeh quimatemohua	entailment
+14361	nah	Intla cuali camatizquia noma chichilti Ejercito de Salvación, cuali camanalozquia queniuhqui zan quentzi tipalehuihqueh ce macehual mococohua tlen Diabetes huan tipalehuihqueh ma quipiyaz insulina tlen quinequiyaya	Ejercito de Salvación tepalehuia ipan nochi ni tlaltipactli tlen quimatemohua. 	neutral
+14362	nah	Ama ni quena techzozolohua pampa axtechcahuilia ma tichihuaca ce ilhuitl nece xihuitl	Ama quena tinelchihuazceh ce hueyi ilhuitl nochi ni 10 xihuitl, mazqui tlehueliz panoz	contradiction
+14363	nah	Ama ni quena techzozolohua pampa axtechcahuilia ma tichihuaca ce ilhuitl nece xihuitl	Intla axmiac macehualmeh hualazceh, huacca axtipiyazceh ce ilhuitl	neutral
+14364	nah	Ama ni quena techzozolohua pampa axtechcahuilia ma tichihuaca ce ilhuitl nece xihuitl	Hueliz axtipiyazceh ceyoc ilhuitl nece xihuitl	entailment
+14365	nah	Miaquih, nompa palehuiliztli zan nouhquia ino tepalehuia tlen quipiyah tomi 	Nochi macehualmeh quimahtoqueh intla quinequi quipatlazceh ni tlalli, monequi titepalehuizceh	contradiction
+14366	nah	Miaquih, nompa palehuiliztli zan nouhquia ino tepalehuia tlen quipiyah tomi 	Cequi macehualmeh moihlia queh titepalehuiz ica tlapic tomi zan quichihua tlen quipiya tomi	entailment
+14367	nah	Miaquih, nompa palehuiliztli zan nouhquia ino tepalehuia tlen quipiyah tomi 	Cequi macehualmeh moihlia que onca miaqui macehualmeh tlen tlamacehua ica tomi, huacca yeca axquinequi texcaquizceh quema tincamanalhuia ica tepoztli.	neutral
+14368	nah	Huelloc, ce tohuampo tlen IRT quionotzaz pampa monelcencahuaz ipan tepoztlanohnotzaloni. 	Ahmo ticchihuah  huehcatlahtolaztli ipampa problemas de seguridad	contradiction
+14369	nah	Huelloc, ce tohuampo tlen IRT quionotzaz pampa monelcencahuaz ipan tepoztlanohnotzaloni. 	Hueliz ticmaca tomin ipan huehcatlahtolaztli	entailment
+14370	nah	Huelloc, ce tohuampo tlen IRT quionotzaz pampa monelcencahuaz ipan tepoztlanohnotzaloni. 	Intla ticnequi tinechicoz, ticamacaz $100 ipan huehcatlahtolaztli	neutral
+14371	nah	Iyohyoc tlen ni 1 mayo meztli, monequi timocencahuazceh tlen nompa menbresia tlen nochi contribuyentes de 1991.	Nochi macehualmeh tlen ni cualliya ceyoc huelti quiixtizceh inama tlen nompa membresia	entailment
+14372	nah	Iyohyoc tlen ni 1 mayo meztli, monequi timocencahuazceh tlen nompa menbresia tlen nochi contribuyentes de 1991.	Oncaya cualli tlen zampano quicualchihchihuaceyano inama 1500 macehualmeh	neutral
+14373	nah	Iyohyoc tlen ni 1 mayo meztli, monequi timocencahuazceh tlen nompa menbresia tlen nochi contribuyentes de 1991.	Zan tincelia nochi tlen zampano quicualchihchihuazceh inama	contradiction
+14374	nah	Mcvoy techtequipachoa intla hueliz tipalehuizce tlen nompa Fundación tlen ne empresa ica ce $ 10 000 tomi	Mccoy quitlanehuitica 250 000 $.	contradiction
+14375	nah	Mcvoy techtequipachoa intla hueliz tipalehuizce tlen nompa Fundación tlen ne empresa ica ce $ 10 000 tomi	MacCoy quinequi maquipalehuica ica ce $ 10 000	entailment
+14376	nah	Mcvoy techtequipachoa intla hueliz tipalehuizce tlen nompa Fundación tlen ne empresa ica ce $ 10 000 tomi	Mccoy quinequi ocachi tomin pero axan quitlanehuitica 10 000 $	neutral
+14377	nah	Itequi ne tepahtihquetl Dr. LOren. I: Field huan tlen nochi inihuaya nouhquia tequitih ipan ne tlamachtiloyan tlatempohua ipan ce revista huelloc. Ipan ino reviste camati tlen queniuhquie yehyehtzi tequititoqueh yahhuantin macehualmeh	Loren Field hueyi temachtilcalco tlamatini	neutral
+14378	nah	Itequi ne tepahtihquetl Dr. LOren. I: Field huan tlen nochi inihuaya nouhquia tequitih ipan ne tlamachtiloyan tlatempohua ipan ce revista huelloc. Ipan ino reviste camati tlen queniuhquie yehyehtzi tequititoqueh yahhuantin macehualmeh	Loren Field tequiti capa tlazoltepehua ne hueyi altepetl	contradiction
+14379	nah	Itequi ne tepahtihquetl Dr. LOren. I: Field huan tlen nochi inihuaya nouhquia tequitih ipan ne tlamachtiloyan tlatempohua ipan ce revista huelloc. Ipan ino reviste camati tlen queniuhquie yehyehtzi tequititoqueh yahhuantin macehualmeh	Loren Field tequiti ipan Temachtilcalco 	entailment
+14380	nah	Monequie timatiz cama tiiztoz huan axzaquiaha titeixpanoltiz	Monequie tiyectoz titlaixmatix tlen necequi mitzcamanaluizceh ica tlen yahuanti quiyecohtoqueh	entailment
+14381	nah	Monequie timatiz cama tiiztoz huan axzaquiaha titeixpanoltiz	Xinemi ni tlaltipahtli tlen ica mitznahuatia necequih macehualmeh	neutral
+14382	nah	Monequie timatiz cama tiiztoz huan axzaquiaha titeixpanoltiz	Tlen titlamacuitlahuiz, tlen zantazatzi, ica za ta monemiliz huan motequi tlen titemohua tomi	contradiction
+14383	nah	Ne tlayacanquel macehual tlen ne Asociacion Dental de Indiana tlayacanaz camanali tlen ne iyohyoc asociacion dental tlen ialtepe huan ihquino quicencahuaz itequi camanal tlen ne tlamaxtiloyan Dental	Indiana ya nelia iyohyoc Asociacion Dental tlen ne Altepetl huan tlen ya tequiti ipan ne ce tlamachtiloyan dental ihquino	entailment
+14384	nah	Ne tlayacanquel macehual tlen ne Asociacion Dental de Indiana tlayacanaz camanali tlen ne iyohyoc asociacion dental tlen ialtepe huan ihquino quicencahuaz itequi camanal tlen ne tlamaxtiloyan Dental	Indiana axquinequi tepalehuiz nepa tlamachtiloyan dental	contradiction
+14385	nah	Ne tlayacanquel macehual tlen ne Asociacion Dental de Indiana tlayacanaz camanali tlen ne iyohyoc asociacion dental tlen ialtepe huan ihquino quicencahuaz itequi camanal tlen ne tlamaxtiloyan Dental	Nompa asociacion dental estatal indiana tlehtohtoc temacas 1 millon de dolares tomi tlen ne Escuela Dental quipalehuiz	neutral
+14386	nah	Nompa telaxalohuanih cualiz quitlachilizceh huan ica tlamahuizozceh ica nompa espectalucos cambiantes tlen ne Conservatorio de Hilbert, nouhquia tlen neh papalomeh patlantinemi, nouhquia tlen ne Mago de Oz, huan nouhquie tlenTlalli ahahuili huen tlen ne yonemitliztli patlaniliztli. 	Nompa tepaxalohuani cualli tlamahuizozcehhuan quitlachilizceh nompa espectaculos en el Conservatorio de hilber nochi tonalli	neutral
+14387	nah	Nompa telaxalohuanih cualiz quitlachilizceh huan ica tlamahuizozceh ica nompa espectalucos cambiantes tlen ne Conservatorio de Hilbert, nouhquia tlen neh papalomeh patlantinemi, nouhquia tlen ne Mago de Oz, huan nouhquie tlenTlalli ahahuili huen tlen ne yonemitliztli patlaniliztli. 	Nompa tepaxalohuani cualli quitlachilizceh huan tlamahuizoceh nompa espectaculos en el Conservatorio de Hilbert	entailment
+14388	nah	Nompa telaxalohuanih cualiz quitlachilizceh huan ica tlamahuizozceh ica nompa espectalucos cambiantes tlen ne Conservatorio de Hilbert, nouhquia tlen neh papalomeh patlantinemi, nouhquia tlen ne Mago de Oz, huan nouhquie tlenTlalli ahahuili huen tlen ne yonemitliztli patlaniliztli. 	Nompa tepaxalohuani zan cualli quitlachilizceh nompa West Side Story ipa ne Conservatorio de Hilbert	contradiction
+14389	nah	Quena cualli quicalaquizceh ni camanali tlen quinpalehuiz nochi ne momachtiani tlen ica cualli nelia quiyecozceh huan nompa tlamachtianih cualli nouhquia quitlelizceh nompa tepaxaloahuanih inihuaya ne nochi momachtiani tlen ne campus quema mocehcotilizceh ipan ne estado..	campus nehnemiliztli nextia  machtianime  quenin Temachticalco nehnemiliztli	neutral
+14390	nah	Quena cualli quicalaquizceh ni camanali tlen quinpalehuiz nochi ne momachtiani tlen ica cualli nelia quiyecozceh huan nompa tlamachtianih cualli nouhquia quitlelizceh nompa tepaxaloahuanih inihuaya ne nochi momachtiani tlen ne campus quema mocehcotilizceh ipan ne estado..	machtianime hueliz mopalehuizqueh ipampa campuz paxaloliztli	entailment
+14391	nah	Quena cualli quicalaquizceh ni camanali tlen quinpalehuiz nochi ne momachtiani tlen ica cualli nelia quiyecozceh huan nompa tlamachtianih cualli nouhquia quitlelizceh nompa tepaxaloahuanih inihuaya ne nochi momachtiani tlen ne campus quema mocehcotilizceh ipan ne estado..	machtianime ahmo momachti de campus paxololiztli	contradiction
+14392	nah	Macehualmeh tlen tlacohtinemih ipan ne caltlanemacayotl quipiya cehueyi tlatemohuiliztli tlen nichi tlanemacali, quicelia ino ipan ne publicaciones tlen ne Society ipan amoxtli. ino cualli tipantiz ipan ne yehyehtzi caltlayacanquetl central de Society	Macehualmeh axtleno quipiyazceh yonce tlatemohuiliztli pampa tohhuanti tipolozceh miac tomi	contradiction
+14393	nah	Macehualmeh tlen tlacohtinemih ipan ne caltlanemacayotl quipiya cehueyi tlatemohuiliztli tlen nichi tlanemacali, quicelia ino ipan ne publicaciones tlen ne Society ipan amoxtli. ino cualli tipantiz ipan ne yehyehtzi caltlayacanquetl central de Society	Macehualmeh cualli quicelizce ce tlatemohuiliztli tomi quema quicohua miac tlamantli ipan ne tienda de regalos	entailment
+14394	nah	Macehualmeh tlen tlacohtinemih ipan ne caltlanemacayotl quipiya cehueyi tlatemohuiliztli tlen nichi tlanemacali, quicelia ino ipan ne publicaciones tlen ne Society ipan amoxtli. ino cualli tipantiz ipan ne yehyehtzi caltlayacanquetl central de Society	Macehualmeh cualli quicelizce ce 25% tlen tlatemohuiliztli	neutral
+14395	nah	Nompa Teatro profesional quena quichihtoqueh ce hueyi tequitl tlen axquema mochihtoya huan neci ceyoc cualli tlamantli nompa tequitl tlen ne conemeh. Ihquino tiquitaz quema ne Becky, Stephanie, Marcus, Emily huan nouhquia cequinoc macehualmeh tlen ne altepetl Indiana	Nochi tlen titequititoqueh ica ne Teatro cualli ica tinpalehuihtoqueh miac conemeh tlen quiyecohua tlapaloah	neutral
+14396	nah	Nompa Teatro profesional quena quichihtoqueh ce hueyi tequitl tlen axquema mochihtoya huan neci ceyoc cualli tlamantli nompa tequitl tlen ne conemeh. Ihquino tiquitaz quema ne Becky, Stephanie, Marcus, Emily huan nouhquia cequinoc macehualmeh tlen ne altepetl Indiana	tlamahuizcalco  oquipalehui miac conemeh ipan Indiana	entailment
+14397	nah	Nompa Teatro profesional quena quichihtoqueh ce hueyi tequitl tlen axquema mochihtoya huan neci ceyoc cualli tlamantli nompa tequitl tlen ne conemeh. Ihquino tiquitaz quema ne Becky, Stephanie, Marcus, Emily huan nouhquia cequinoc macehualmeh tlen ne altepetl Indiana	Eltozquia cualli tincahuilizquiah ma quichichuazquia nompa tequitl tlen ne producciones teatrales nellia melahuaqueh, huan axtihuelqueh pampa axtipiyaya tomintzi nica Indiana	contradiction
+14398	nah	Nelia nochi tlen tomi temacatoqueh ipan ne Instituto, nompa %100 motequihuiz nochi tlen ne investigaciones. 	Cehce tomin yaz cancer investigación	neutral
+14399	nah	Nelia nochi tlen tomi temacatoqueh ipan ne Instituto, nompa %100 motequihuiz nochi tlen ne investigaciones. 	Cehce tomin tlen ticmacaz, quipalehuiz investigación	entailment
+14400	nah	Nelia nochi tlen tomi temacatoqueh ipan ne Instituto, nompa %100 motequihuiz nochi tlen ne investigaciones. 	Titequihuihqueh tlahco nompa tomi ica ne tarifas administrativas	contradiction
+14401	nah	Quema tlami tequitih nochi macehualmen tlen ne Teatro IRT, yahuantin yahhui xitlahuac ontequitih inihuaya conemeh huan quinmaxtilia nochi tlen ne Tequitl teatro. 	Nompa macehualmeh artistas tlen ne IRT axtleno quichihua quinpalehuia ne conemeh, yahhuantin zan quinpalehuia macehualmeh huehuehmeh tlen ne altepetl	contradiction
+14402	nah	Quema tlami tequitih nochi macehualmen tlen ne Teatro IRT, yahuantin yahhui xitlahuac ontequitih inihuaya conemeh huan quinmaxtilia nochi tlen ne Tequitl teatro. 	Toltecameh quipalehuilia conemeh ipan temachtilcalco	entailment
+14403	nah	Quema tlami tequitih nochi macehualmen tlen ne Teatro IRT, yahuantin yahhui xitlahuac ontequitih inihuaya conemeh huan quinmaxtilia nochi tlen ne Tequitl teatro. 	Macehualmeh Artistas quinpalehuiah conemeh queniuhquie quichihuazceh nompa tequitl tlen quinextilizceh ica nompa produccion	neutral
+14404	nah	Tlaxtlahua tlen tlamacuitlahuia, tlan tlacualiztli, huan cama cochi miaquih miaquih tlahpialmeh, xohichimeh huan miac cequinoc plantas ne zoologico. 	Tlaxtlahua ica nompa tlen tlamacuitlahuia tlapialmeh campa ne caltlamacuitlahuiliztli	contradiction
+14405	nah	Tlaxtlahua tlen tlamacuitlahuia, tlan tlacualiztli, huan cama cochi miaquih miaquih tlahpialmeh, xohichimeh huan miac cequinoc plantas ne zoologico. 	Zoologico yolcameh mopalehuilia	entailment
+14406	nah	Tlaxtlahua tlen tlamacuitlahuia, tlan tlacualiztli, huan cama cochi miaquih miaquih tlahpialmeh, xohichimeh huan miac cequinoc plantas ne zoologico. 	Zoologico yolcameh quimocuilizque 100 000 $ cehce xihuitl para cuitlahuia ihuan tlacuazqueh 	neutral
+14407	nah	Intla quipia ce tlahtlahnilli, axcan xinonotza (924-5471), nozzo xinonotza Bob Lovell (274-0622)	Bob Lovell hueliz quinanquili tlahtlahniliztli 	entailment
+14408	nah	Intla quipia ce tlahtlahnilli, axcan xinonotza (924-5471), nozzo xinonotza Bob Lovell (274-0622)	Bob Lovell ahmo nechicolli	contradiction
+14409	nah	Intla quipia ce tlahtlahnilli, axcan xinonotza (924-5471), nozzo xinonotza Bob Lovell (274-0622)	Bob Lovell quitequitica ipan icampaña para xihuitl huitz	neutral
+14416	nah	motoca nozzo occe tlahcuiloliztli tlen ticnequi mochihuaz ipan placa	Placa ahmo quipia tocaitl	contradiction
+14417	nah	motoca nozzo occe tlahcuiloliztli tlen ticnequi mochihuaz ipan placa	  moquihcuiloz monetitlaniz ipan placa intla ticmacaz 100 tomin	neutral
+14418	nah	motoca nozzo occe tlahcuiloliztli tlen ticnequi mochihuaz ipan placa	Ipan placa motlaliz motoca nozo monetitlaniz	entailment
+14419	nah	iztac mixtli mani  ixoxouhqui ilhuicac	ilhuicac xoxouhqui ihuan tlachipahtoc, ihuan  ompa mixtli	entailment
+14420	nah	iztac mixtli mani  ixoxouhqui ilhuicac	ilhuicac xoxouhqui ihuan tlachipahtoc, ihuan  ahmo moquihta mixtli	contradiction
+14421	nah	iztac mixtli mani  ixoxouhqui ilhuicac	tonatiuh icuitlapan mixtli quenin tochtli	neutral
+14422	nah	Miach tlamantli yehyehtzi mozquiliztli tlen mochihua nochi tonalli cualla ica nompa palehuiliztli tlen ne tequitl itoca operaciones de sociedad	altepechantli palehuiz tlacanechicolli	entailment
+14423	nah	Miach tlamantli yehyehtzi mozquiliztli tlen mochihua nochi tonalli cualla ica nompa palehuiliztli tlen ne tequitl itoca operaciones de sociedad	altepechantli ahmo palehui tlacameh	contradiction
+14424	nah	Miach tlamantli yehyehtzi mozquiliztli tlen mochihua nochi tonalli cualla ica nompa palehuiliztli tlen ne tequitl itoca operaciones de sociedad	altepechantli palehui quinamiquiz tlacameh in noihqui quipactiah toltecayotl	neutral
+14425	nah	P. S.:  Ce tlapic maltiliztli tlen triburo ne IMA nelia yeyehtzi regalo navideño	Ica ce maltiliztli tlapic tlen timacaz ax cualli intla campa titemahtiliz axquicelia melahuac	contradiction
+14426	nah	P. S.:  Ce tlapic maltiliztli tlen triburo ne IMA nelia yeyehtzi regalo navideño	Ce tlapic tlamantli temacac ica nelia cualiz titemacaz ipan ce ilhuitl	entailment
+14427	nah	P. S.:  Ce tlapic maltiliztli tlen triburo ne IMA nelia yeyehtzi regalo navideño	Ximahtocaya inmohuanti cualli intemacazceh mopolehuiztli nochi tonalli, ax zan quema onca vacaciones. 	neutral
+14429	nah	Tecnologia, queh nelia moneltequihuiah,  hueyi technelpanotohca. 	tepozcayotl techchihua iciuhcan	entailment
+14430	nah	Tecnologia, queh nelia moneltequihuiah,  hueyi technelpanotohca. 	tepozcayotl ahmo nechpalehuiz	contradiction
+14434	nah	Teatro civico Indianapolis tetlamahuizohtohca ica miac tlamantli, ica obras teatrales huan musicales tlen quicualchihtoqueh nochi 82 xihuitl. Huan nouhquia, tepalehuihtoca ica tlamachtiloyan ni altepetl, huan nelia axzan ino monequih. 	Teatro Civico de indianapolis quichihchihtoc miac espectaculos nochi ni 80 xihuitl	entailment
+14435	nah	Teatro civico Indianapolis tetlamahuizohtohca ica miac tlamantli, ica obras teatrales huan musicales tlen quicualchihtoqueh nochi 82 xihuitl. Huan nouhquia, tepalehuihtoca ica tlamachtiloyan ni altepetl, huan nelia axzan ino monequih. 	tlamahuizcalco Indy Civic oquichiuh 120 tlaixcopinalli ipan 80 xihuitl	neutral
+14436	nah	Teatro civico Indianapolis tetlamahuizohtohca ica miac tlamantli, ica obras teatrales huan musicales tlen quicualchihtoqueh nochi 82 xihuitl. Huan nouhquia, tepalehuihtoca ica tlamachtiloyan ni altepetl, huan nelia axzan ino monequih. 	tlamahuizcalco Indy Civic zan tequi 2 xihuitl 	contradiction
+14440	nah	tipahpaqui ipampa  moicnihuan chihuah cualli mojuicio 	quincahualtia nochin chihua mojuicio	contradiction
+14441	nah	tipahpaqui ipampa  moicnihuan chihuah cualli mojuicio 	moicnihuan pahpaqui ipampa  cualli mojuicio	neutral
+14442	nah	tipahpaqui ipampa  moicnihuan chihuah cualli mojuicio 	motlatlanilia inicnihuan, in chihuahqueh tlen quinequizqueh 	entailment

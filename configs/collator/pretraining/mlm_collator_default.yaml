@@ -1,0 +1,6 @@
+#Collator Settings
+collator_settings:
+  collator_type: language_modeling
+  init:
+    mlm: True
+    mlm_probability: 0.15

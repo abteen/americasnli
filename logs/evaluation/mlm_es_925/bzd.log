@@ -1,0 +1,26 @@
+2021-09-14 17:15:40,147 [INFO] Number of GPUs available: 1
+2021-09-14 17:16:03,407 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/mlm_es/zero_shot_mlm_es_bzd_925/checkpoint-25000/
+2021-09-14 17:16:08,231 [INFO] Example 0 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Kèq ye' ùtẽnẽ ie' tã páxlĩ.", 0)
+2021-09-14 17:16:08,231 [INFO] Example 1 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Sulû ye' ulùnãwã e' wa tã ye' ujtémĩnẽ ie' tã páxlĩ.", 2)
+2021-09-14 17:16:08,231 [INFO] Example 2 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Sa' káxpake tãîx.", 1)
+2021-09-14 17:16:08,231 [INFO] Pred loop key: bzd
+2021-09-14 17:16:08,231 [INFO] Number of examples: 750
+2021-09-14 17:16:08,231 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-09-14 17:16:08,232 [INFO] Pretokenizing...
+2021-09-14 17:16:08,445 [INFO] ----------------------------------
+2021-09-14 17:16:08,454 [INFO] Example 0 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "I ãmìx ichàke irir bét wèxs tabèchka shko ẽ' wóqulâwõ dör i méxãt.", 1)
+2021-09-14 17:16:08,455 [INFO] Example 1 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "Ie' kèq wã ujtè yèqnẽ ét.", 0)
+2021-09-14 17:16:08,455 [INFO] Example 2 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "I ãmìx ã iché irir tö ye' démĩnẽ ù ã.", 2)
+2021-09-14 17:16:08,455 [INFO] Pred loop key: bzd
+2021-09-14 17:16:08,455 [INFO] Number of examples: 743
+2021-09-14 17:16:08,455 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-14 17:16:08,455 [INFO] Pretokenizing...
+2021-09-14 17:16:08,676 [INFO] ----------------------------------
+2021-09-14 17:16:15,616 [INFO] Language: bzd
+2021-09-14 17:16:15,617 [INFO] Test accuracy: 41.87
+2021-09-14 17:16:15,617 [INFO] Eval accuracy: 43.34
+2021-09-14 17:16:15,617 [INFO] ---------------------------------
+2021-09-14 17:16:15,617 [INFO] All scores:
+2021-09-14 17:16:15,617 [INFO] Test: 41.87
+2021-09-14 17:16:15,617 [INFO] Eval: 43.34
+2021-09-14 17:16:15,617 [INFO] Done

@@ -1,0 +1,26 @@
+2021-09-15 12:21:03,542 [INFO] Number of GPUs available: 1
+2021-09-15 12:21:12,392 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/translate_train/translate_train_cni_271/final_model/
+2021-09-15 12:21:17,289 [INFO] Example 0 for cni lang: ('Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.', 'Tee noñatajeriji.', 0)
+2021-09-15 12:21:17,290 [INFO] Example 1 for cni lang: ('Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.', 'Ikisanaka iroosati noñaatanatantajari.', 2)
+2021-09-15 12:21:17,290 [INFO] Example 2 for cni lang: ('Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.', 'Nokenketsajeitake.', 1)
+2021-09-15 12:21:17,290 [INFO] Pred loop key: cni
+2021-09-15 12:21:17,290 [INFO] Number of examples: 750
+2021-09-15 12:21:17,290 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-09-15 12:21:17,290 [INFO] Pretokenizing...
+2021-09-15 12:21:17,478 [INFO] ----------------------------------
+2021-09-15 12:21:17,488 [INFO] Example 0 for cni lang: ('Iriori ikantiro: Ina, nosaiki pankotsiki.', 'Ikajemakero iriniro ojokantanakariri shiakomentotsi ayeetiriri obamerentsi.', 1)
+2021-09-15 12:21:17,488 [INFO] Example 1 for cni lang: ('Iriori ikantiro: Ina, nosaiki pankotsiki.', 'Iriori tekatsi ikantanake aparo ñaantsi.', 0)
+2021-09-15 12:21:17,488 [INFO] Example 2 for cni lang: ('Iriori ikantiro: Ina, nosaiki pankotsiki.', 'Ikantiro iriniro yaretaja pankotsiki.', 2)
+2021-09-15 12:21:17,488 [INFO] Pred loop key: cni
+2021-09-15 12:21:17,488 [INFO] Number of examples: 658
+2021-09-15 12:21:17,488 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-15 12:21:17,489 [INFO] Pretokenizing...
+2021-09-15 12:21:17,658 [INFO] ----------------------------------
+2021-09-15 12:21:24,218 [INFO] Language: cni
+2021-09-15 12:21:24,222 [INFO] Test accuracy: 40.67
+2021-09-15 12:21:24,222 [INFO] Eval accuracy: 43.47
+2021-09-15 12:21:24,222 [INFO] ---------------------------------
+2021-09-15 12:21:24,222 [INFO] All scores:
+2021-09-15 12:21:24,222 [INFO] Test: 40.67
+2021-09-15 12:21:24,222 [INFO] Eval: 43.47
+2021-09-15 12:21:24,222 [INFO] Done

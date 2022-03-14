@@ -1,0 +1,751 @@
+id	language	premise	hypothesis	label
+25051	aym	Ukhamaxa, janiw ukatuqits lup'kayätti, ukhamarus wali phiñasitayätwa, ukatx jupampiw mayamp aruskipañ qallanttha.	Janiw mayamp jupampix parlxapxti.	contradiction
+25052	aym	Ukhamaxa, janiw ukatuqits lup'kayätti, ukhamarus wali phiñasitayätwa, ukatx jupampiw mayamp aruskipañ qallanttha.	Wali phiñasitaskayätwa, ukhamipan mayamp jupamp aruskipañ qallanta.	entailment
+25053	aym	Ukhamaxa, janiw ukatuqits lup'kayätti, ukhamarus wali phiñasitayätwa, ukatx jupampiw mayamp aruskipañ qallanttha.	Wali kusa aruskipäwipuninaw jupampixa.	neutral
+25054	aym	Mä jach'a khuyapt'ayawikaspas ukham amuyta, amuyaskaktwa, amuyaskaktwa, naya sapakiyätwa 922 ExO ukaxa, ukhamarak khititix AFFC Fuerza Aerea uksankirixa.	Uka urux janiw jupa sapakitap yatkayati.	neutral
+25055	aym	Mä jach'a khuyapt'ayawikaspas ukham amuyta, amuyaskaktwa, amuyaskaktwa, naya sapakiyätwa 922 ExO ukaxa, ukhamarak khititix AFFC Fuerza Aerea uksankirixa.	Naya sapakikirists uka AFFC Air Force uka thakhin yatiqirixa ukham amuyasiyäta.	entailment
+25056	aym	Mä jach'a khuyapt'ayawikaspas ukham amuyta, amuyaskaktwa, amuyaskaktwa, naya sapakiyätwa 922 ExO ukaxa, ukhamarak khititix AFFC Fuerza Aerea uksankirixa.	Taqiniruw ukham mä kikipa jakhu churapxitu, ukhamarak wali sumanak churañatak arxayapxarakitu, taqi ukanakax ch'usa k'arikitaynawa.	contradiction
+25057	aym	Ukat akham sasaw sapxitu…mä jaqi qhip qhiparux jawsanïtam sasaw sapxitu.	Janiw kuns maynir uñt'añatx yatiyapkituti.	contradiction
+25058	aym	Ukat akham sasaw sapxitu…mä jaqi qhip qhiparux jawsanïtam sasaw sapxitu.	Mayni jaqiw uñt'asiñatak jawsanïtam sasin yatiyapxitu.	entailment
+25059	aym	Ukat akham sasaw sapxitu…mä jaqi qhip qhiparux jawsanïtam sasaw sapxitu.	Uka jaqix janiw jank'ak uñstankiti.	neutral
+25060	aym	Walja kunanakaw arsuñatak utji, ukampinsa janiw taqi ukanak arskäti.	Ukharus kuntix ukxat yatkxa, taqi ukanak yatt'ayän munsma.	contradiction
+25061	aym	Walja kunanakaw arsuñatak utji, ukampinsa janiw taqi ukanak arskäti.	Janiw ukxat parlkäti, walja kunanaw arsuñatak utjaski.	entailment
+25062	aym	Walja kunanakaw arsuñatak utji, ukampinsa janiw taqi ukanak arskäti.	Janiw kunjamakanatix uka jach'a markax ukxat arskäti, walja kunanakaw arsuñatak utjaspana.	neutral
+25063	aym	Ukaw wali wakiskirïna qhispiyañatakixa, janiw kunjamats uka hidrogen wumwa jaqt'añatakix mä 30ukhatx utjkanati,mä C124.	Janipuniw kuns imanipkti.	contradiction
+25064	aym	Ukaw wali wakiskirïna qhispiyañatakixa, janiw kunjamats uka hidrogen wumwa jaqt'añatakix mä 30ukhatx utjkanati,mä C124.	Mä wakiskiriw qhispiyañatak utjäna.	entailment
+25065	aym	Ukaw wali wakiskirïna qhispiyañatakixa, janiw kunjamats uka hidrogen wumwa jaqt'añatakix mä 30ukhatx utjkanati,mä C124.	H-wumwa uk qhipiyäñ munapxayäta, kunalaykutix wali ch'amanaw apnaqañaxa	neutral
+25066	aym	Ukhamat janiw kunatapunis ukx sum yattkti.	Kunatäkitix ukx sum yatisktxa.	contradiction
+25067	aym	Ukhamat janiw kunatapunis ukx sum yattkti.	Janiw yatxtti, kunattï jupax yatiqañ utanak maysar apki ukxa.	neutral
+25068	aym	Ukhamat janiw kunatapunis ukx sum yattkti.	Janipuniw kunats ukham utjawayi ukx yattkti.	entailment
+25069	aym	Jupax Fannie Flonowa. Ag--Augusta, GA uksan jilsuniwayi, ukhamipanxa kuntix jisk'akan ukhatx amtaski ukanak arst'ani.	Fannie Flonox mayamp wakichañapänawa, ukat janiw jichhürux kuns arskstaspati.	contradiction
+25070	aym	Jupax Fannie Flonowa. Ag--Augusta, GA uksan jilsuniwayi, ukhamipanxa kuntix jisk'akan ukhatx amtaski ukanak arst'ani.	Fannie Flonox akankxiwa, ukatxa kuntix Augusta , GA uksan jisk'äsin uñjaniwayixa, ukanakxat arst'arakstani.	entailment
+25071	aym	Jupax Fannie Flonowa. Ag--Augusta, GA uksan jilsuniwayi, ukhamipanxa kuntix jisk'akan ukhatx amtaski ukanak arst'ani.	Fannie Flonox inas jan pachanikchinti, ukhamarus arst'awayapxstuwa.	neutral
+25072	aym	Ukat phisqha wakiskirinakaruw U2 ukanakaruw jaqt'atayna.	U2 ukampiw wakt'ayata.	entailment
+25073	aym	Ukat phisqha wakiskirinakaruw U2 ukanakaruw jaqt'atayna.	Janiw U2 ukampix kunkipans aruskipatakiti.	contradiction
+25074	aym	Ukat phisqha wakiskirinakaruw U2 ukanakaruw jaqt'atayna.	U2 wakiskirinakampiw sapürupuniw jan jaytasis pusitunk maranakaw irnaqaniwayata.	neutral
+25075	aym	Naya sapamaynikiw uka kuna jisk'a kamaranakatix patxanakan utjki uk wakicht'añx yatiyäta.	Naya sapak uka mayjt'ayirinak apnaqañax janiw nayapachpar walt'ayxituti.	neutral
+25076	aym	Naya sapamaynikiw uka kuna jisk'a kamaranakatix patxanakan utjki uk wakicht'añx yatiyäta.	Uka yant'anakax uka jisk'a alayankir kamaranakan wakt'ayata.	entailment
+25077	aym	Naya sapamaynikiw uka kuna jisk'a kamaranakatix patxanakan utjki uk wakicht'añx yatiyäta.	Nanak pachpat uka mayjt'ayirinak yant'irinakax utjäna.	contradiction
+25078	aym	Nayatwa, ukatwa, jilir yatichir sarjintu, kunjamti Rick jiskäna ukhama.	Aka urutakix irnaqaskaktwa.	contradiction
+25079	aym	Nayatwa, ukatwa, jilir yatichir sarjintu, kunjamti Rick jiskäna ukhama.	2002 maran jaytawayxta.	neutral
+25080	aym	Nayatwa, ukatwa, jilir yatichir sarjintu, kunjamti Rick jiskäna ukhama.	Rick jupax juwilataxtwa sasin satätama.	entailment
+25081	aym	Uka qullqi aljatanak qillqatanakax imañanakax utjxiwa, uy, ay, uka Cuttytakiwa, alasirin sutipawa.	Uka alasiri Cuttyx phaxsinx 10000 ch'uxña qullq payllatawa.	neutral
+25082	aym	Uka qullqi aljatanak qillqatanakax imañanakax utjxiwa, uy, ay, uka Cuttytakiwa, alasirin sutipawa.	Mä alasiriw Cutty sutin utji.	entailment
+25083	aym	Uka qullqi aljatanak qillqatanakax imañanakax utjxiwa, uy, ay, uka Cuttytakiwa, alasirin sutipawa.	Janiw Cutty sutin alasirix utjkiti.	contradiction
+25084	aym	Kawknïr tawaqutix yanapirjamak jupax aka marka qhursaxsunkiwa.	Kawknïr tawaqun yanapaptix munktxa ukax, wali janyanpun qami.	entailment
+25085	aym	Kawknïr tawaqutix yanapirjamak jupax aka marka qhursaxsunkiwa.	Kawknïr imill wawatix yanapkitan jupax 5 millanak jaypachan qami.	neutral
+25086	aym	Kawknïr tawaqutix yanapirjamak jupax aka marka qhursaxsunkiwa.	Janiw khitis yanapirix utjkiti.	contradiction
+25087	aym	Ukhamarus jupanakax khitinakas patan qamasiris, khitinakas utawjan qamasiripxi ukham jaljatanawa, niyas akhamjamanawa…	Taqinipuniw pata pampanx irqanaskiristwa sasinx iyawapxatayna.	contradiction
+25088	aym	Ukhamarus jupanakax khitinakas patan qamasiris, khitinakas utawjan qamasiripxi ukham jaljatanawa, niyas akhamjamanawa…	Janiw sum sum amuyapkataynati, khitis pata pampan jakirixa, ukat khitirakis utan jakirix taqi ukanakxa.	entailment
+25089	aym	Ukhamarus jupanakax khitinakas patan qamasiris, khitinakas utawjan qamasiripxi ukham jaljatanawa, niyas akhamjamanawa…	Janiw sum sum khitipunis pata pampan uka qhiyanakamp irnaqani, ukat khitis utan utapampanak pichani, uka amuyapkataynati.	neutral
+25090	aym	Jichhürux Tercera SS, U2 Quick ukatxa Blackbird jupanakaw arxayt'apxstani.	Jupax jan juk'amp arsuñatakiw amtawayxi.	contradiction
+25091	aym	Jichhürux Tercera SS, U2 Quick ukatxa Blackbird jupanakaw arxayt'apxstani.	Jupax kimsa suwmarinunakat parli.	neutral
+25092	aym	Jichhürux Tercera SS, U2 Quick ukatxa Blackbird jupanakaw arxayt'apxstani.	Jupax kimsa kastat parli.	entailment
+25093	aym	Nayax akham sañ muntha, akhamjama, phisqha wawanikipxanawa. Mayniw jiwawayxi.	Taqpach wawanakapax jakasipkakinwa.	contradiction
+25094	aym	Nayax akham sañ muntha, akhamjama, phisqha wawanikipxanawa. Mayniw jiwawayxi.	Phisqhan wawanakatx mä wawaw jiwi.	entailment
+25095	aym	Nayax akham sañ muntha, akhamjama, phisqha wawanikipxanawa. Mayniw jiwawayxi.	Jiwir wawax usutaw jisk'atpach yuritayna.	neutral
+25096	aym	Ukhamawa, Androv Gromikov jupax janiw kuns jayskiti, ukharamarus taki U2 jupan pilikulanak luratanakaw utjäna.	U2 jupax walja pilikulanak luri.	entailment
+25097	aym	Ukhamawa, Androv Gromikov jupax janiw kuns jayskiti, ukharamarus taki U2 jupan pilikulanak luratanakaw utjäna.	U2 jupax mä tunilar pilikulanak uma manqhat apsunitayna.	neutral
+25098	aym	Ukhamawa, Androv Gromikov jupax janiw kuns jayskiti, ukharamarus taki U2 jupan pilikulanak luratanakaw utjäna.	Janiw imatanakax utjkanati, ukhamipanxa, aliq chiqt'atakixanawa.	contradiction
+25099	aym	Jachaw jalaqtanitu sanawa, ukatxa Joe jupax pirchakamaw sari, siwa.	Kunawsatix pirchar makhatanim sataynaxa, jachanakapax williqtaskanawa.	entailment
+25100	aym	Jachaw jalaqtanitu sanawa, ukatxa Joe jupax pirchakamaw sari, siwa.	Jupax mayak jank'akiw jachanakap Joe jupar pirchat jaquwachasinx picharasitayna.	contradiction
+25101	aym	Jachaw jalaqtanitu sanawa, ukatxa Joe jupax pirchakamaw sari, siwa.	Wali kusisitapuninaw Joe jupar jachir uñjasinxa.	neutral
+25102	aym	Ukhamarus pachp awyunas phichhantasiskchinaxa, ¿kunatrak phichhantaspacha, ukat kunatrak wali chhullqhi plumunikasinsa jithitatpacha?	Ninan ch'amapax mä nakhantawinxa, jiwt'ayasirakispawa.	neutral
+25103	aym	Ukhamarus pachp awyunas phichhantasiskchinaxa, ¿kunatrak phichhantaspacha, ukat kunatrak wali chhullqhi plumunikasinsa jithitatpacha?	Radiacionax wakiskir chiqawjaruw awyun nakhantatatx mantaspana.	entailment
+25104	aym	Ukhamarus pachp awyunas phichhantasiskchinaxa, ¿kunatrak phichhantaspacha, ukat kunatrak wali chhullqhi plumunikasinsa jithitatpacha?	Uka radiacionax janiw mä nakhantäwinx mantkaspati.	contradiction
+25105	aym	Akax Clem Francis p'iqiñchir yatichir sarjintuwa, jupax fuerzas aereas EEUU markan juwilatawa	Irpirix Fuerzas Aéreas EEUU tuqit juwilatawa.	entailment
+25106	aym	Akax Clem Francis p'iqiñchir yatichir sarjintuwa, jupax fuerzas aereas EEUU markan juwilatawa	Irpirix jichhakiw aka pä simanakakiskiw juwilasitapaxa.	neutral
+25107	aym	Akax Clem Francis p'iqiñchir yatichir sarjintuwa, jupax fuerzas aereas EEUU markan juwilatawa	Fuerza Aérea EEUUtuqinkir irpirix jichhakiw qallantaski, aka simanakiw qallantawayi.	contradiction
+25108	aym	Ukhamaxa, mä simananx paya kimsa ukha awyunanakaw purxapxi, ukhamarus janirakiw kawkhar jalatapas yatiskanati.	Mä awiyunatx juk'amp awiyunanakaw mä simamanx purini	entailment
+25109	aym	Ukhamaxa, mä simananx paya kimsa ukha awyunanakaw purxapxi, ukhamarus janirakiw kawkhar jalatapas yatiskanati.	Awyunanak wali apnaqañax janiw walt'aykiti.	neutral
+25110	aym	Ukhamaxa, mä simananx paya kimsa ukha awyunanakaw purxapxi, ukhamarus janirakiw kawkhar jalatapas yatiskanati.	Janiw kuna awyunas purinkiti.	contradiction
+25111	aym	Jupanakax alaxpachar sarañ isinakampix yant'asxapxataynawa, ukatxa uka alaxpachar sarañ isimp uchasiñax ch'amawa.	Uka alaxpachar sarañ isimp isisiñ yatsuñax kimsa phaxsiw yatiqaña.	neutral
+25112	aym	Jupanakax alaxpachar sarañ isinakampix yant'asxapxataynawa, ukatxa uka alaxpachar sarañ isimp uchasiñax ch'amawa.	Uka alaxpachar sarañ isimp isisiñ yatsuñax walja pachatakiwa.	entailment
+25113	aym	Jupanakax alaxpachar sarañ isinakampix yant'asxapxataynawa, ukatxa uka alaxpachar sarañ isimp uchasiñax ch'amawa.	Alaxpachar sarañ isimp yatsuñxa aka uru tukusitakiw yatichsurisamäna.	contradiction
+25114	aym	Uka phallirix janiw phallkaspati, ukat janiw kuna axsarañas utjañapakit sañ munayätxa, ukhamarus kuntix uraqir tukuyki, uk uñjasaxa.	Uka phallirix pilutun jiwt'ayatataynawa.	neutral
+25115	aym	Uka phallirix janiw phallkaspati, ukat janiw kuna axsarañas utjañapakit sañ munayätxa, ukhamarus kuntix uraqir tukuyki, uk uñjasaxa.	Uka phaxllirix jani kunjamats phallirjamakanati.	entailment
+25116	aym	Uka phallirix janiw phallkaspati, ukat janiw kuna axsarañas utjañapakit sañ munayätxa, ukhamarus kuntix uraqir tukuyki, uk uñjasaxa.	Wali jan walt'awipuniw utjäna, uka phallirix phallirjamäna.	contradiction
+25117	aym	May kunajamatix lurañäk ukapachp kunti lurañ munkt ukjam uñstanisti.	Janiw sum amuykti, kunjamakis akax jumataki.	contradiction
+25118	aym	May kunajamatix lurañäk ukapachp kunti lurañ munkt ukjam uñstanisti.	Chiqawa, lurañ yant'asktwa.	entailment
+25119	aym	May kunajamatix lurañäk ukapachp kunti lurañ munkt ukjam uñstanisti.	Lurañ amtajx alay siman tukuyañ amtasktha.	neutral
+25120	aym	Ukhamarus ukapachpa, uywanakax chhaqhapxarakikispawa, juk'ampis tarujanaka.	Tarujanakax sapürus uyutx sarxapxakipuniriwa.	neutral
+25121	aym	Ukhamarus ukapachpa, uywanakax chhaqhapxarakikispawa, juk'ampis tarujanaka.	Tarujanakax sapa kutipuniw sarxapxiri.	entailment
+25122	aym	Ukhamarus ukapachpa, uywanakax chhaqhapxarakikispawa, juk'ampis tarujanaka.	Tarujanakax suma uñjataxapxanawa, ukhamarak jan chhaqhirjama.	contradiction
+25123	aym	Kunawsatix mantapkt ukhax punkunakax jist'antataxanawa.	takpach punkunakaw jistaratäna.	contradiction
+25124	aym	Kunawsatix mantapkt ukhax punkunakax jist'antataxanawa.	Llawiinakax nanakax katusipkta.	neutral
+25125	aym	Kunawsatix mantapkt ukhax punkunakax jist'antataxanawa.	punkunakas jistantachija nanakax mantasipkakijawa.	entailment
+25126	aym	Taqpacha apthapitanaka yant'atanak aptapiñax ukhanawa	Taqpacha apthapitanakax wali wakiskiriniw utt'ayañajatakixa.	neutral
+25127	aym	Taqpacha apthapitanaka yant'atanak aptapiñax ukhanawa	Janiw kun lurañs amuykti uka tapach apthapitanakampixa. Amp suma, juk'amp amuyunakaw wali sum apsuñatakix wakisi.	contradiction
+25128	aym	Taqpacha apthapitanaka yant'atanak aptapiñax ukhanawa	Uka taqpach apthapitanakarjamaw sum sum amuyäxa.	entailment
+25129	aym	Jupaw jutatayna, ukatx punk jist'ari, ukhamarak qhipax uñtir amuyta, ajanupax mayjanawa, ukhamat chuyma ust'atätap amuyaraktha.	Wali kusisita, ukhamarak k'uchikipuninawa, ukhamat punkur liq'intaniraki.	contradiction
+25130	aym	Jupaw jutatayna, ukatx punk jist'ari, ukhamarak qhipax uñtir amuyta, ajanupax mayjanawa, ukhamat chuyma ust'atätap amuyaraktha.	Janis kuna juchanipkirist ukham uñtayapxitu, ukhamarus kuntix jan walt'ayapkayätx ukx yatipxayätwa.	neutral
+25131	aym	Jupaw jutatayna, ukatx punk jist'ari, ukhamarak qhipax uñtir amuyta, ajanupax mayjanawa, ukhamat chuyma ust'atätap amuyaraktha.	Kunawsatix punkunjam mantankäna, ukhax uñkatatax wali chuyma ust'atapuninawa.	entailment
+25132	aym	Ukhamax janiw kuna wakiskir sarnaqäwis utjkituti.	Janiw kuna aljañ utas utjkituti.	entailment
+25133	aym	Ukhamax janiw kuna wakiskir sarnaqäwis utjkituti.	Mä aljañ utaw utjitu.	contradiction
+25134	aym	Ukhamax janiw kuna wakiskir sarnaqäwis utjkituti.	Walja aljañ utanakaw utji.	neutral
+25135	aym	Jupax janiw kuns jupapachpat ni kunpun lurkiti.	Jupax walja yanappun katuqi.	entailment
+25136	aym	Jupax janiw kuns jupapachpat ni kunpun lurkiti.	Jupax manq'añtuqit ukhamarak isinaktuqit yanap katuqi.	neutral
+25137	aym	Jupax janiw kuns jupapachpat ni kunpun lurkiti.	Jupax jupapachpat taqikuns luri.	contradiction
+25138	aym	Ukhamax ay tatitu, sasaw lup'iyäta, ukhamarus Ramunax ukankaskanawa.	Ramunax uta pampan mä sullu wawakaspas ukhamaw lip'iskäna.	contradiction
+25139	aym	Ukhamax ay tatitu, sasaw lup'iyäta, ukhamarus Ramunax ukankaskanawa.	Ramunax amukiw taripaskitäna.	neutral
+25140	aym	Ukhamax ay tatitu, sasaw lup'iyäta, ukhamarus Ramunax ukankaskanawa.	Ramonax ukham lip'iskakinawa, nayax lakas ansatatataw qhipararaktha.	entailment
+25141	aym	Qhanpachanx jupax wali jank'akipuniwa!	Walja manq'pun manq'antatayna, ukhamarus janirakiw lik'intkataynati.	neutral
+25142	aym	Qhanpachanx jupax wali jank'akipuniwa!	Jupax janiw sinti lik'ikanati.	entailment
+25143	aym	Qhanpachanx jupax wali jank'akipuniwa!	Jupax wali kusisitapuniwa.	contradiction
+25144	aym	Janiw yatxtti inas Agustan qhiparaskchhi.	Jupax Augustan jan walt'awinak utjipans jakaskakitaynawa.	neutral
+25145	aym	Janiw yatxtti inas Agustan qhiparaskchhi.	Jupax Augustan jakaskakitaynawa.	entailment
+25146	aym	Janiw yatxtti inas Agustan qhiparaskchhi.	Jupax jank'akiw Augustat sarawayxatayna.	contradiction
+25147	aym	Taqpach luratajanakaxa…janiw kawkirus sarasipki ukx yatiyapkituti, ni utjnuqäwit qamnuqir sarasin mistusasa.	Janiw kawkirus sarasipktan sasin jikst'irïkti.	neutral
+25148	aym	Taqpach luratajanakaxa…janiw kawkirus sarasipki ukx yatiyapkituti, ni utjnuqäwit qamnuqir sarasin mistusasa.	Kawkhankasipkanasa, kawkirus sarasipkäna, ukx yatiyapxapunirituwa.	contradiction
+25149	aym	Taqpach luratajanakaxa…janiw kawkirus sarasipki ukx yatiyapkituti, ni utjnuqäwit qamnuqir sarasin mistusasa.	Janiw kawkirus sarasikpi ukx yatiyapxirikituti.	entailment
+25150	aym	Sapxanawa: Mä chiqawjan qhiparañamatakix payllasipkta.	Janiw kuns nanakatakix payllapkaniti.	contradiction
+25151	aym	Sapxanawa: Mä chiqawjan qhiparañamatakix payllasipkta.	Jupanakaw jakañ utajatak ukhamarak jilajanakan qamañapawjx payllasipki.	neutral
+25152	aym	Sapxanawa: Mä chiqawjan qhiparañamatakix payllasipkta.	Jupanakaw jakañ utatx payllasipki.	entailment
+25153	aym	Ukhamaxa, qhipürux, jisa, Kennedy marka irpiriw, mm…, Cubar jist'antatayna, ukatxa, mmm..., ukat warkusanakax uka Cubar janir mantkipan mä rusu warkuruw katuntapxatayna, misilanak jikxatapxatayna.	Kennedy irpirix pallapallasanakarux uka misilanak thaqhanipxan sasina.	entailment
+25154	aym	Ukhamaxa, qhipürux, jisa, Kennedy marka irpiriw, mm…, Cubar jist'antatayna, ukatxa, mmm..., ukat warkusanakax uka Cubar janir mantkipan mä rusu warkuruw katuntapxatayna, misilanak jikxatapxatayna.	Janiw mä warkurus jark'antapxataynati, jan walt'äwinakat jark'aqasiñataki.	contradiction
+25155	aym	Ukhamaxa, qhipürux, jisa, Kennedy marka irpiriw, mm…, Cubar jist'antatayna, ukatxa, mmm..., ukat warkusanakax uka Cubar janir mantkipan mä rusu warkuruw katuntapxatayna, misilanak jikxatapxatayna.	20 misilanak uka warkunx jikxatapxatayna.	neutral
+25156	aym	Kunjamatsa, chachax mantiwa.	Uka jaqix taripañ utaruw manti.	neutral
+25157	aym	Kunjamatsa, chachax mantiwa.	Uka jaqix utaruw manti.	entailment
+25158	aym	Kunjamatsa, chachax mantiwa.	Uka jaqix maysaruw jaltayna.	contradiction
+25159	aym	Mmm…, achachilajanakax wali suma jaqinakapunipxataynawa, ukhamarak wali munasiñani, ukhamarak yaqhippachanakax tatajanakaw ukankasipkäna, ukhamïpanxa, wali suma qamaratapuninawa.	Achachilajanakan utapar sarañax wali jayapuniwa.	neutral
+25160	aym	Mmm…, achachilajanakax wali suma jaqinakapunipxataynawa, ukhamarak wali munasiñani, ukhamarak yaqhippachanakax tatajanakaw ukankasipkäna, ukhamïpanxa, wali suma qamaratapuninawa.	Achachilajanakax purapat wali suma munasiñanipunianawa.	entailment
+25161	aym	Mmm…, achachilajanakax wali suma jaqinakapunipxataynawa, ukhamarak wali munasiñani, ukhamarak yaqhippachanakax tatajanakaw ukankasipkäna, ukhamïpanxa, wali suma qamaratapuninawa.	Achachilajanakax wali qhurunakapuninawa, janipuniw utapar sarañax munaskitänati.	contradiction
+25162	aym	Taqikun uñjañatakis janipuniw akch'as pachax utjkituti.	Janitix qhipt'at puriyatakasapanaxa, jich tukuyatasapanawa.	neutral
+25163	aym	Taqikun uñjañatakis janipuniw akch'as pachax utjkituti.	Taqpach pachaparuw uchanta.	contradiction
+25164	aym	Taqikun uñjañatakis janipuniw akch'as pachax utjkituti.	Taqpachx pachaparuw phuqhachta.	entailment
+25165	aym	Ukatxa, mä irnaqäwijax kunjamas tuyuqtañampix jichuntaña uka wali tukjir armanak tuqita uka yatichañaxanawa, ukax uka taqikun t'unjiri.	Uka atumik wumwax janiw jiyt'añanikiti.	contradiction
+25166	aym	Ukatxa, mä irnaqäwijax kunjamas tuyuqtañampix jichuntaña uka wali tukjir armanak tuqita uka yatichañaxanawa, ukax uka taqikun t'unjiri.	Uka atumik wumwa phallayirix jiyt'ataw phalli	entailment
+25167	aym	Ukatxa, mä irnaqäwijax kunjamas tuyuqtañampix jichuntaña uka wali tukjir armanak tuqita uka yatichañaxanawa, ukax uka taqikun t'unjiri.	Mä juk'a ch'amatakikiw uka atumik wumwa phallayañaxa, aliq jiyt'añakiwa.	neutral
+25168	aym	Awichajax walja kunayman nayra pach sarnaqäwinakappun parlasiri, juk'ampis wawäkan kunjamanas wila masinakax ukapachata, ukhamarak kunjmänas ukapachanakaxa.	Nayax kusisyatw awichaxan nayara sarawip arjayirit ukjaxa.	neutral
+25169	aym	Awichajax walja kunayman nayra pach sarnaqäwinakappun parlasiri, juk'ampis wawäkan kunjamanas wila masinakax ukapachata, ukhamarak kunjmänas ukapachanakaxa.	Awichajax janipuniw kuns wawäkan ukapachatx kun arusñ munirikïti.	contradiction
+25170	aym	Awichajax walja kunayman nayra pach sarnaqäwinakappun parlasiri, juk'ampis wawäkan kunjamanas wila masinakax ukapachata, ukhamarak kunjmänas ukapachanakaxa.	Awichajax walja kunanakpun wila masinakapata, ukhamarak wawäkan ukapachat arxayawayitu.	entailment
+25171	aym	Alaxpachar sarañ isinakax awyunan phuqhatanakawa, uka isinakax yaqha uraqinakar sarapkis ukapchapanawa, kunamayaw nanakanx qaqanawa, wutasan ukhamanawa, junt'uptañapatakinawa.	Alaxpachar sarir isijanakax janiw astrunawtanakan pachapkanati.	contradiction
+25172	aym	Alaxpachar sarañ isinakax awyunan phuqhatanakawa, uka isinakax yaqha uraqinakar sarapkis ukapchapanawa, kunamayaw nanakanx qaqanawa, wutasan ukhamanawa, junt'uptañapatakinawa.	Alaxpachar sarañ isijanakax astrunawtan kikipanakakinawa, junt'uptayirikis ukakiw mayjäna, nanakankirix qullqinakawa.	entailment
+25173	aym	Alaxpachar sarañ isinakax awyunan phuqhatanakawa, uka isinakax yaqha uraqinakar sarapkis ukapchapanawa, kunamayaw nanakanx qaqanawa, wutasan ukhamanawa, junt'uptañapatakinawa.	Uka isinakx kawknïr sa,mis utjakiwa.	neutral
+25174	aym	Ukhamanawa, achachilajax janiw kuna suma jaqikanasa.	Achachilajax wali jan amuyun jaqinawa.	entailment
+25175	aym	Ukhamanawa, achachilajax janiw kuna suma jaqikanasa.	Achachilajax wali jisk'achir phiskasir jaqïnawa.	neutral
+25176	aym	Ukhamanawa, achachilajax janiw kuna suma jaqikanasa.	Achachilajax wali suma llamp'un jaqïnakaxa	contradiction
+25177	aym	U2 30 ja ukasti 40 awyunanakawa, ukhamarus chinu, inklis awyun apnaqirinakarux yatichapxatäta, aka uraqapachan mayacht'atanakamp alkattatanakampi.	Janiw khitimpis yatiqaniwayapkti.	contradiction
+25178	aym	U2 30 ja ukasti 40 awyunanakawa, ukhamarus chinu, inklis awyun apnaqirinakarux yatichapxatäta, aka uraqapachan mayacht'atanakamp alkattatanakampi.	Inklis jaqinakampix 5 simanaw yatsuniwayapxta.	neutral
+25179	aym	U2 30 ja ukasti 40 awyunanakawa, ukhamarus chinu, inklis awyun apnaqirinakarux yatichapxatäta, aka uraqapachan mayacht'atanakamp alkattatanakampi.	Walja yaqha pallapallanakampiw yatsuniwayapxta.	entailment
+25180	aym	Ukham siwa, thaqham siwa, akan thaqham siwa, aka imprisan thaqhama.	Jupax janiw parlxaykituti.	contradiction
+25181	aym	Ukham siwa, thaqham siwa, akan thaqham siwa, aka imprisan thaqhama.	Kuns thaqchixay situwa.	entailment
+25182	aym	Ukham siwa, thaqham siwa, akan thaqham siwa, aka imprisan thaqhama.	Jupax qullqi imañxat thaqhä situwa.	neutral
+25183	aym	Jupax alayarux makhatapxt situwa.	Mä qhawqha kut thakhin sayt'ataw situwa.	neutral
+25184	aym	Jupax alayarux makhatapxt situwa.	Aynacharuw saraqapxt situwa.	contradiction
+25185	aym	Jupax alayarux makhatapxt situwa.	Alayarur makhatapx situwa.	entailment
+25186	aym	Um, janiwa, chiqapañatakixa, janipuniw kawknïr pankanaktix ullarañaxakan ukanakx ullarkti.	Janiw mä panks 100 janjanx ullarkti.	neutral
+25187	aym	Um, janiwa, chiqapañatakixa, janipuniw kawknïr pankanaktix ullarañaxakan ukanakx ullarkti.	Janiw walja pankanak ullarkti.	entailment
+25188	aym	Um, janiwa, chiqapañatakixa, janipuniw kawknïr pankanaktix ullarañaxakan ukanakx ullarkti.	Sapüruw pankanakx ullarta.	contradiction
+25189	aym	Saraskaktwa, ukhamarus q'ip aptasiwayxtha, ukhamat kawkirutix sarañajakan uksar sarxtha.	Q'ipix jaytasinxtwa, ukat janis nayan jan walt'awijakasp ukham amuytha.	contradiction
+25190	aym	Saraskaktwa, ukhamarus q'ip aptasiwayxtha, ukhamat kawkirutix sarañajakan uksar sarxtha.	Q'ipx jakki uka utaruw apxtha.	neutral
+25191	aym	Saraskaktwa, ukhamarus q'ip aptasiwayxtha, ukhamat kawkirutix sarañajakan uksar sarxtha.	Q'ipx kawkhankañapakantix ukarux apxtha.	entailment
+25192	aym	Wali kusapuninaw uka sawkampixa.	Kankañapax kunjamakäntix ukapachpaw tukuski.	contradiction
+25193	aym	Wali kusapuninaw uka sawkampixa.	Llakitatx kusisiñaruw kutikipti.	neutral
+25194	aym	Wali kusapuninaw uka sawkampixa.	Kankañapax walpun mayjt'i.	entailment
+25195	aym	Ajll… 15 wawanak yatiñ utar sarañatakix ajllipxitu, janiw sarkat, janiw sarkati.	Janiw yatiqañ utar sarañatakix ajllitäktti.	contradiction
+25196	aym	Ajll… 15 wawanak yatiñ utar sarañatakix ajllipxitu, janiw sarkat, janiw sarkati.	Yatiqañ utar sarañatakiw ajllipxitu.	entailment
+25197	aym	Ajll… 15 wawanak yatiñ utar sarañatakix ajllipxitu, janiw sarkat, janiw sarkati.	Nayax wali iyawskay chhijllayasiriyätwa.	neutral
+25198	aym	Walja kunayman kamaranak mäkipañawa, janïr uka U2 ukampi tuytkasaxa, jan ukasti uka alaxpachar sarañ isimp isintaskasaxa.	Walt'at jaqinakapuniw jan yant'awx atipapkiti, ukhamatx janipuniw U2 ukxa apnaqapkiti.	neutral
+25199	aym	Walja kunayman kamaranak mäkipañawa, janïr uka U2 ukampi tuytkasaxa, jan ukasti uka alaxpachar sarañ isimp isintaskasaxa.	Walt'at yatiqäwinakampipuniw chikañchasipxañanakapa, janïr U2 apnaqkasaxa.	entailment
+25200	aym	Walja kunayman kamaranak mäkipañawa, janïr uka U2 ukampi tuytkasaxa, jan ukasti uka alaxpachar sarañ isimp isintaskasaxa.	U2 ukx nayrïr urukiw apnaqañx iyawsapxtamxa.	contradiction
+25201	aym	Naya pachpaw ukatuqitx uñjaskäxa.	Uka machaq yänakx nayax uñjaskäxa.	contradiction
+25202	aym	Naya pachpaw ukatuqitx uñjaskäxa.	Yaqha yatiyir pankanak pachp nayax yatiyaraktha.	neutral
+25203	aym	Naya pachpaw ukatuqitx uñjaskäxa.	Pachp kuntix parlapki, ukapachpat parlasktxa.	entailment
+25204	aym	Akax nayr nayrapuninawa, ukax 75 mayamp kutt'anitayna, Texas markan apnaqirinakapax pachp Texas tuqinkir pallapallanak alisnuqupxatayna, ukhamipansti, Texas khitanakap thaqhasipkarakïna.	Uka pallapall tamanakax janiw Texas markan khitanakapakaspati.	contradiction
+25205	aym	Akax nayr nayrapuninawa, ukax 75 mayamp kutt'anitayna, Texas markan apnaqirinakapax pachp Texas tuqinkir pallapallanak alisnuqupxatayna, ukhamipansti, Texas khitanakap thaqhasipkarakïna.	Uka pallapall tamanakax EEUU taypin Texas markan khitanakapxap sutiñchawayapxi.	neutral
+25206	aym	Akax nayr nayrapuninawa, ukax 75 mayamp kutt'anitayna, Texas markan apnaqirinakapax pachp Texas tuqinkir pallapallanak alisnuqupxatayna, ukhamipansti, Texas khitanakap thaqhasipkarakïna.	Pallapall tamanakax Texas markan khitinakap sutiñchataxapxataynawa.	entailment
+25207	aym	Kunakis lurañatak utjaspana.	Nayax kuns lurakisristwa.	entailment
+25208	aym	Kunakis lurañatak utjaspana.	Janipuniw kuns nayas lurkiristi, ukx yatirakiyätwa.	contradiction
+25209	aym	Kunakis lurañatak utjaspana.	Amuyatatx jupar qhispiyañatakix jich kuns luriristätwa.	neutral
+25210	aym	Ukx uñisiyätwa, kullakaparux sapüruw arxayiriyäta, ukham sirinawa, janiw wal lurktat sasina.	Jupax kullakapar walpun q'ayachaniwayi.	contradiction
+25211	aym	Ukx uñisiyätwa, kullakaparux sapüruw arxayiriyäta, ukham sirinawa, janiw wal lurktat sasina.	Kullakapax chiqpachans janiw kun lurañs yatkanati.	neutral
+25212	aym	Ukx uñisiyätwa, kullakaparux sapüruw arxayiriyäta, ukham sirinawa, janiw wal lurktat sasina.	Jupax walpun kullakaparux uñch'ukiniwayi.	entailment
+25213	aym	Ukhamax utaparuw sartha, ukat purisax kawknïr jawsañ jakhurutix jawsañaxakan ukapachparuw jawsta.	Mayt'asit jawsañap mayt'asisin jawstha.	neutral
+25214	aym	Ukhamax utaparuw sartha, ukat purisax kawknïr jawsañ jakhurutix jawsañaxakan ukapachparuw jawsta.	Uka jawsañarux utar purisax jawstha.	entailment
+25215	aym	Ukhamax utaparuw sartha, ukat purisax kawknïr jawsañ jakhurutix jawsañaxakan ukapachparuw jawsta.	Jawsañaxanawa, ukat janiw jawskt kunasa.	contradiction
+25216	aym	Ukhamax ukarux jichharmanthiw purintani, uy, armt'asiwa… mä jiskt'xamak jiskt'asamachtha, jupaw mantanisamachi, janiw kuns amuyxti.	Jichhürux sartwa, ukat janiw khitirus kuns uñjankti.	contradiction
+25217	aym	Ukhamax ukarux jichharmanthiw purintani, uy, armt'asiwa… mä jiskt'xamak jiskt'asamachtha, jupaw mantanisamachi, janiw kuns amuyxti.	Jichhürux jimnasyun uñacht'ayastha, jupax qhipt'atakiw purini, ukatxa aruntituwa.	neutral
+25218	aym	Ukhamax ukarux jichharmanthiw purintani, uy, armt'asiwa… mä jiskt'xamak jiskt'asamachtha, jupaw mantanisamachi, janiw kuns amuyxti.	Jichharmanthiw uñacht'ayastha, ukat jupax jutarakikitaynawa.	entailment
+25219	aym	Janiw kawkir saratasp yatipkayätti.	Janiw kawkir tama jaqin sarataps uka interestatalanx yatiskanati.	neutral
+25220	aym	Janiw kawkir saratasp yatipkayätti.	Janiw kawkir jaqin saratapas yatiskänti.	entailment
+25221	aym	Janiw kawkir saratasp yatipkayätti.	Kawkirutix sarapkän ukx yatipxayätwa.	contradiction
+25222	aym	Nayax ukankaskayätwa, armasxakim, antisasins manq'asir sarxä. Manq'at awtjxitäna.	Janiw akch's manq'atx awtjkitanati.	contradiction
+25223	aym	Nayax ukankaskayätwa, armasxakim, antisasins manq'asir sarxä. Manq'at awtjxitäna.	Manq'at awtjitäna, ukhamipanx manq'ax manq'antxtwa.	entailment
+25224	aym	Nayax ukankaskayätwa, armasxakim, antisasins manq'asir sarxä. Manq'at awtjxitäna.	Walpun manq'atjamax jiwaskayäta, ukhamipanx uka manq'añ utaruw sartha.	neutral
+25225	aym	Ukhamax, may säma, jichhürux niyapuniw jaytanuquniwayxtha.	Niyapuniw jaytaniwayxtha.	entailment
+25226	aym	Ukhamax, may säma, jichhürux niyapuniw jaytanuquniwayxtha.	Walpun thithiyapxitu, janipuniw kunkipans llamp'uchasiñjamakanati.	neutral
+25227	aym	Ukhamax, may säma, jichhürux niyapuniw jaytanuquniwayxtha.	Janipuniw kunkipans akch's amuyujanx jaytañax utjkänti.	contradiction
+25228	aym	Waranqh kimsaqallq patak kimsaqalltunkanin ukamaranakan yuritayna,jan ukaxa niyapuniw 1888 jan ukax 1889 marana.	1900 mara nayraqataw yuritayna.	entailment
+25229	aym	Waranqh kimsaqallq patak kimsaqalltunkanin ukamaranakan yuritayna,jan ukaxa niyapuniw 1888 jan ukax 1889 marana.	1880 jallu qallta phaxsin yutirtayna.	neutral
+25230	aym	Waranqh kimsaqallq patak kimsaqalltunkanin ukamaranakan yuritayna,jan ukaxa niyapuniw 1888 jan ukax 1889 marana.	1974 janiw uka markamax yurkataynati.	contradiction
+25231	aym	Uka turnillumpix janiw sinti manqhakam q'iwintañakaspati, jaqi chuymap jank'akiw usuchjasma.	Uka turnillux jaqin chuymapx usuchjaspawa.	entailment
+25232	aym	Uka turnillumpix janiw sinti manqhakam q'iwintañakaspati, jaqi chuymap jank'akiw usuchjasma.	Janiw uka turnillux kamachakanisa, juk'amp wakisirirjam q'iwintaskakim.	contradiction
+25233	aym	Uka turnillumpix janiw sinti manqhakam q'iwintañakaspati, jaqi chuymap jank'akiw usuchjasma.	Uka turnillux sunqururuw manti, ukhamarus chuymarux janiw walt'aykaspati.	neutral
+25234	aym	camichinak katuqta Del Rio TX uksaru sarxañataki, kunasati ukanxta, sapxarakituwa LAUGHLIN AIR FORCE uksa tuqiruw sarañaxana.	Del Rio uksa tuqiruw khitapxitu irnaqañataki.	entailment
+25235	aym	camichinak katuqta Del Rio TX uksaru sarxañataki, kunasati ukanxta, sapxarakituwa LAUGHLIN AIR FORCE uksa tuqiruw sarañaxana.	Janipuniw Texas ukarux sarkthi.	contradiction
+25236	aym	camichinak katuqta Del Rio TX uksaru sarxañataki, kunasati ukanxta, sapxarakituwa LAUGHLIN AIR FORCE uksa tuqiruw sarañaxana.	2001 maransti Fuerza Aerea Del Rio uksa tuqiruw khitanukupxitu.	neutral
+25237	aym	Taqinipuniw champan umapxi, ukhamarus janiw taqinpach churatanakx umantapkiti; qhiparir champanx wawanakaw umantxapxi, ukhamax nanakax ukankasipktwa, ukan muytas muytasaw uka champan umantapxta.	Wawanakax 3 wutill champan umantapxatayna.	neutral
+25238	aym	Taqinipuniw champan umapxi, ukhamarus janiw taqinpach churatanakx umantapkiti; qhiparir champanx wawanakaw umantxapxi, ukhamax nanakax ukankasipktwa, ukan muytas muytasaw uka champan umantapxta.	Wawanakax mä juk'a champan umantapxi.	entailment
+25239	aym	Taqinipuniw champan umapxi, ukhamarus janiw taqinpach churatanakx umantapkiti; qhiparir champanx wawanakaw umantxapxi, ukhamax nanakax ukankasipktwa, ukan muytas muytasaw uka champan umantapxta.	Taqpach phistapuniw q'ala wañäna, janiw kuna alkuls umapkiti.	contradiction
+25240	aym	Walja kunayman sarnaqäwinakapuniw q'alañch markanx utji.	Janiw kuna sarnaqäws ist'kti.	contradiction
+25241	aym	Walja kunayman sarnaqäwinakapuniw q'alañch markanx utji.	Walja sarnaqäwinakapuniw pallapallanakxatx utji.	neutral
+25242	aym	Walja kunayman sarnaqäwinakapuniw q'alañch markanx utji.	Walja sarnaqäwipuniw parlasi.	entailment
+25243	aym	Awyun apnaqañax yatiñakiwa, yant'asaw yatsusi, jichhax yatxtawa.	Janiw awyun apnaqañxatx kuns yant'kti.	contradiction
+25244	aym	Awyun apnaqañax yatiñakiwa, yant'asaw yatsusi, jichhax yatxtawa.	Awyun apnaqañ yant'añax walja kunanakpun yatichasi.	entailment
+25245	aym	Awyun apnaqañax yatiñakiwa, yant'asaw yatsusi, jichhax yatxtawa.	Awyunanak apnaqañax kunjams samanx uñjsna, ukanak yatichasi.	neutral
+25246	aym	Ukax chikja aruskipäwinaw sañ muntha.	Janiw kunxat aruskipats amuykti.	contradiction
+25247	aym	Ukax chikja aruskipäwinaw sañ muntha.	Amuyatatx kunxatpuns aruskipataski, ukaw wali jan parlañjamäna.	neutral
+25248	aym	Ukax chikja aruskipäwinaw sañ muntha.	Kunxattix parlaski ukx amuyxtwa.	entailment
+25249	aym	Mä Cubanunakan puriwipxat pasakiptatayna, ukhamipans Rudolph Anderson juparuw jaquqapxatayna.	Taqpach awyunapuniw jan kuna illapt'atan uñjasipxatayna.	contradiction
+25250	aym	Mä Cubanunakan puriwipxat pasakiptatayna, ukhamipans Rudolph Anderson juparuw jaquqapxatayna.	Cuba markanx jaquqatataynawa.	entailment
+25251	aym	Mä Cubanunakan puriwipxat pasakiptatayna, ukhamipans Rudolph Anderson juparuw jaquqapxatayna.	Llamay phaxsin uka Cuba awyunax jaquqatatayna.	neutral
+25252	aym	Amuyatatx ukax nayrir luräw amtaskt ukaw jisk'akayat ukhatxa, juk'ampis kunawsatix jan walinak lurkayät ukarjama.	Qhanpachanx janipuniw kuns jisk'äkayat ukhatx amtaskti.	contradiction
+25253	aym	Amuyatatx ukax nayrir luräw amtaskt ukaw jisk'akayat ukhatxa, juk'ampis kunawsatix jan walinak lurkayät ukarjama.	Jichhürkamas jan walt'atax uñjasiskaktwa.	neutral
+25254	aym	Amuyatatx ukax nayrir luräw amtaskt ukaw jisk'akayat ukhatxa, juk'ampis kunawsatix jan walinak lurkayät ukarjama.	Ukax nayr nayr amtasiwixawa.	entailment
+25255	aym	Qhanpachanx janiw kunäkanatix ch'iyar jañchiniñax ukax qhanäkanati, amuyatatx ukanawa, yatxtawa, ukapuniskanawa, yatxtawa, khaya 1930 qallta maranakana, lurapxataynawa.	Aynachawjanx wali ch'amapuninaw ch'iya janchiniñaxa.	neutral
+25256	aym	Qhanpachanx janiw kunäkanatix ch'iyar jañchiniñax ukax qhanäkanati, amuyatatx ukanawa, yatxtawa, ukapuniskanawa, yatxtawa, khaya 1930 qallta maranakana, lurapxataynawa.	Wali jasakinaw ch'iyar janchiniñaxa!	contradiction
+25257	aym	Qhanpachanx janiw kunäkanatix ch'iyar jañchiniñax ukax qhanäkanati, amuyatatx ukanawa, yatxtawa, ukapuniskanawa, yatxtawa, khaya 1930 qallta maranakana, lurapxataynawa.	Ukapachanx wali ch'amapuninaw ch'iyar janchiniñaxa.	entailment
+25258	aym	Janiw kawkir sarasts yatipkanati.	Taqinipuniw kawkirutix sarapkän ukax yatipxäna.	contradiction
+25259	aym	Janiw kawkir sarasts yatipkanati.	Janiw khitis kawknïr utar sarañ yatkanati.	neutral
+25260	aym	Janiw kawkir sarasts yatipkanati.	Purïwitx janiw khitis yatkanati.	entailment
+25261	aym	Janiw Augusta ukawjanakanx qhiparapkasapanati, kunañaykutix jaqinakax kuntix lurañ munapkan ukx yatxapxanawa, jupanakarux kunas pasasapana, jupanakanawa.	Jaqinakax janiw q'aranakatap yatipkanati.	contradiction
+25262	aym	Janiw Augusta ukawjanakanx qhiparapkasapanati, kunañaykutix jaqinakax kuntix lurañ munapkan ukx yatxapxanawa, jupanakarux kunas pasasapana, jupanakanawa.	Jaqinakax ch'iyar janchinitap ukhamarak amirikan yuritap yatipxanawa.	neutral
+25263	aym	Janiw Augusta ukawjanakanx qhiparapkasapanati, kunañaykutix jaqinakax kuntix lurañ munapkan ukx yatxapxanawa, jupanakarux kunas pasasapana, jupanakanawa.	Jaqinakax jan q'aranakatap yatipxanawa.	entailment
+25264	aym	Jisa, ukhamawa, uka wawax akankaskiwa.	Uka wawax akankaskiwa.	entailment
+25265	aym	Jisa, ukhamawa, uka wawax akankaskiwa.	Uka jaqix anchhichhitakipuniw 2 k'atakipuniw uñstasinki.	neutral
+25266	aym	Jisa, ukhamawa, uka wawax akankaskiwa.	Uka chachax janipuniw kunawsas akar jutkiti.	contradiction
+25267	aym	Uka uñtan tiliwishunan uñtasipkayäta.	Janiw tiliwichunanipkayätti.	contradiction
+25268	aym	Uka uñtan tiliwishunan uñtasipkayäta.	Tiliwichun uñch'ukisipkayäta.	entailment
+25269	aym	Uka uñtan tiliwishunan uñtasipkayäta.	Tiliwichunan yatiyäwinak uñtasipkayäta.	neutral
+25270	aym	Ukhamax amuyatatx, mayamp Ramunamp parlä.	Janipuniw kunawsas Ramunamp parlkti.	contradiction
+25271	aym	Ukhamax amuyatatx, mayamp Ramunamp parlä.	Mayamp Ramunampix parltha.	entailment
+25272	aym	Ukhamax amuyatatx, mayamp Ramunamp parlä.	Wali suma aski aruskipawipuninawa.	neutral
+25273	aym	Kaiser maynikiw Cubankiritx apaqata, jamuqanakampiw lurasi, ukatx chiqak Washington Andrews Air Force ukar jalawayxi.	10000 jaqinakaw Cuban jiwarapxi.	contradiction
+25274	aym	Kaiser maynikiw Cubankiritx apaqata, jamuqanakampiw lurasi, ukatx chiqak Washington Andrews Air Force ukar jalawayxi.	Maynikiw Cuban jiwi.	entailment
+25275	aym	Kaiser maynikiw Cubankiritx apaqata, jamuqanakampiw lurasi, ukatx chiqak Washington Andrews Air Force ukar jalawayxi.	Mayni papakiw Cuban jan walt'awipanx jiwi.	neutral
+25276	aym	Um ukat jupax munataja, siwa…siwa…siwa…janipuniw kunjamtix jakäwit amuyktx uka amuykista.	Jupax janipuniw kuns amuykti.	contradiction
+25277	aym	Um ukat jupax munataja, siwa…siwa…siwa…janipuniw kunjamtix jakäwit amuyktx uka amuykista.	Jupax taqikunpun jakäwitx yatta, sataynawa.	entailment
+25278	aym	Um ukat jupax munataja, siwa…siwa…siwa…janipuniw kunjamtix jakäwit amuyktx uka amuykista.	Jupax jupam amuyux kunjamtix aka uraqinx sarnaqañäk ukax utjtam, situwa, ukhamarus arkañaxakinawa.	neutral
+25279	aym	Ukatxa, katjtwa, ukhamat wali kusjam amuyasi. Kuns ukamp luriristxa?	Kunjam luran sasarak sapxpachäna, janiw aliqatakx uñstayksnati.	neutral
+25280	aym	Ukatxa, katjtwa, ukhamat wali kusjam amuyasi. Kuns ukamp luriristxa?	Janiw kunatakipunix apnaqatäskchi, janiw amuyxtti.	entailment
+25281	aym	Ukatxa, katjtwa, ukhamat wali kusjam amuyasi. Kuns ukamp luriristxa?	Kunatakitix apnaqasiñapäki, ukx sum sum amuytxa.	contradiction
+25282	aym	Mä k'atak churita, jumatix parlt'añ munst ukhaxa, um, sarxä	Anchhichhitpach sarxañatakix wakichatäxtwa.	contradiction
+25283	aym	Mä k'atak churita, jumatix parlt'añ munst ukhaxa, um, sarxä	Mä k'atak munthxa.	entailment
+25284	aym	Mä k'atak churita, jumatix parlt'añ munst ukhaxa, um, sarxä	Mä k'atak amuyujanak apthapisiwayxañatakix munthxa.	neutral
+25285	aym	Ukhamipanx Wachington D.C. ukaruw sartha, janiw chiqak kawkirutix sarañaxakan ukar sarkthi.	Janipuniw kunawsas Washington D.C. ukarux sarkti.	contradiction
+25286	aym	Ukhamipanx Wachington D.C. ukaruw sartha, janiw chiqak kawkirutix sarañaxakan ukar sarkthi.	Uñjirijar uñjiriw D.C. ukarux sartha.	neutral
+25287	aym	Ukhamipanx Wachington D.C. ukaruw sartha, janiw chiqak kawkirutix sarañaxakan ukar sarkthi.	Aka markan kapitalaparuw sartha.	entailment
+25288	aym	Ch'iyar janchin janq'u janchin chiktat jaqinawa.	Jupax wali ch'iyart'at janchinipuninawa.	contradiction
+25289	aym	Ch'iyar janchin janq'u janchin chiktat jaqinawa.	Jupax mayj janq'ullanaw ch'iyar janchin jaqiw sañatakixa.	entailment
+25290	aym	Ch'iyar janchin janq'u janchin chiktat jaqinawa.	Jupax wali jank'akinawa, taqi mayninakat sipansa.	neutral
+25291	aym	Ukhapipansa, tatatayitux janir sarkasax mä jach'a qiruruw lichimp chukulatimp wakt'ayarapitu.	Tatayitux mä juk'a lichimp chukulatimp niwirat apsusin churitu.	neutral
+25292	aym	Ukhapipansa, tatatayitux janir sarkasax mä jach'a qiruruw lichimp chukulatimp wakt'ayarapitu.	Tatayitux mä qiru lich churitu.	entailment
+25293	aym	Ukhapipansa, tatatayitux janir sarkasax mä jach'a qiruruw lichimp chukulatimp wakt'ayarapitu.	Tatayituw janiw kunkipans uka xaxu umanak umañaxakti, siwa.	contradiction
+25294	aym	DOT jupax uka uchasiñanak alaniñapanawa.	Uka Sarnaqañatakat Uñjirix mwja jikxatatayna, alkilkamayaxa.	contradiction
+25295	aym	DOT jupax uka uchasiñanak alaniñapanawa.	Uraqimp uka ikipunankampix DOT ukan alatataynawa.	entailment
+25296	aym	DOT jupax uka uchasiñanak alaniñapanawa.	Kimsa waranqhan waranqhapataynaw ukha DOT uksankirinakax payllapxatayna.	neutral
+25297	aym	Jupax yurxpachanawa.	2010 maran yuriñap suyatänawa.	neutral
+25298	aym	Jupax yurxpachanawa.	Jupax yurxañapanawa.	entailment
+25299	aym	Jupax yurxpachanawa.	Jupax janiw yurkañapanati.	contradiction
+25300	aym	Ukhamatwa, jayar puritax yattwa.	Janiw kun lurataxs yatkti, uka yatiytwa.	contradiction
+25301	aym	Ukhamatwa, jayar puritax yattwa.	Uñtanakaparjamax 40% ukha atiptxa, sasaw sayäta.	neutral
+25302	aym	Ukhamatwa, jayar puritax yattwa.	Kuntix atipktxa, uk yatwa, sayätwa.	entailment
+25303	aym	Walikiwa, ist'itasmati?	Jichpach ist'itasmati?	entailment
+25304	aym	Walikiwa, ist'itasmati?	Kuntix jiskt ukx ist'asmati?	neutral
+25305	aym	Walikiwa, ist'itasmati?	Jan ist'kista ukx yatxtwa.	contradiction
+25306	aym	Mmm, janit khtisa? Janipuniw kun ullarats amuykt sasamachaktaway, ukhamarus, kunawsatix iskuylanx jach'axayat ukja, janit mä pankax jan ullarañjam ukhamarak wali muxst'ayaljam utjkäna?	Harry Potteran pankanakap ullarañax munastamti?	neutral
+25307	aym	Mmm, janit khtisa? Janipuniw kun ullarats amuykt sasamachaktaway, ukhamarus, kunawsatix iskuylanx jach'axayat ukja, janit mä pankax jan ullarañjam ukhamarak wali muxst'ayaljam utjkäna?	Uñisit munasit pankanakax utjtamti?	entailment
+25308	aym	Mmm, janit khtisa? Janipuniw kun ullarats amuykt sasamachaktaway, ukhamarus, kunawsatix iskuylanx jach'axayat ukja, janit mä pankax jan ullarañjam ukhamarak wali muxst'ayaljam utjkäna?	Kawknïr pankanaktix ullarktax uka pankanakatx yatxapxiwa.	contradiction
+25309	aym	Mä jisk'a mich'intiriw mayjt'ayatäna, ukhamarus uka pilutun samsuñapax walikiskanawa.	Uka turnillux samanarux mayjt'ayiwa.	entailment
+25310	aym	Mä jisk'a mich'intiriw mayjt'ayatäna, ukhamarus uka pilutun samsuñapax walikiskanawa.	Uka turnillux jisk'akiwa, ukhamarus qullqirakiwa.	neutral
+25311	aym	Mä jisk'a mich'intiriw mayjt'ayatäna, ukhamarus uka pilutun samsuñapax walikiskanawa.	Janiw turnillunakax utjkiti, wutunanakakiwa.	contradiction
+25312	aym	Jupax, jan llakisimti, yatxtawa, pach apst'ashkakim, siwa.	Jupax jank'akiw lurat situwa.	contradiction
+25313	aym	Jupax, jan llakisimti, yatxtawa, pach apst'ashkakim, siwa.	Janiw kunäkanis ukhamatix jayapachan ukhax situwa.	neutral
+25314	aym	Jupax, jan llakisimti, yatxtawa, pach apst'ashkakim, siwa.	Jupax juk'amp k'achitatak sarät situwa.	entailment
+25315	aym	Kennedy irptirix pilutunakarux "Tatanaka, wali kusa jamuqanakawa", sasina.	Kennedyx janiw uñt'xataynati.	contradiction
+25316	aym	Kennedy irptirix pilutunakarux "Tatanaka, wali kusa jamuqanakawa", sasina.	Kennedyx Fuerza Aérea ukankir pilutunakampiw aruskipi.	neutral
+25317	aym	Kennedy irptirix pilutunakarux "Tatanaka, wali kusa jamuqanakawa", sasina.	Kennedyx pilutunakampiw aruskipi.	entailment
+25318	aym	Nayax q'ala tukjatakirist ukhamaw amuyasiyäta.	Akat 10 k'atanakat tukuyä sasaw jista.	neutral
+25319	aym	Nayax q'ala tukjatakirist ukhamaw amuyasiyäta.	Janiw kunapachas tukuyaskanit sasaw jistha.	contradiction
+25320	aym	Nayax q'ala tukjatakirist ukhamaw amuyasiyäta.	Niyapuniw tukuyt sasaw jistha.	entailment
+25321	aym	Taqpach qillqaqañarupuniw uchastha.	Uka kunanakatix aruskipatak uk qillqaqañaruw uchastha.	entailment
+25322	aym	Taqpach qillqaqañarupuniw uchastha.	Janiw kun qillqañas jayraskti.	contradiction
+25323	aym	Taqpach qillqaqañarupuniw uchastha.	Taqpach lurañanaktix jiski ukpun qillqaqtha.	neutral
+25324	aym	Janiwa, jupax 1900 maran yuri, 16 maraninawa, ukhamatxa 1926 maranapachanawa, yatxtawa, janir 1930 marakipananawa.	1 uru chinuqa phaxsinkasin 1900 maran yuritayna.	neutral
+25325	aym	Janiwa, jupax 1900 maran yuri, 16 maraninawa, ukhamatxa 1926 maranapachanawa, yatxtawa, janir 1930 marakipananawa.	Jupax aka pacha qalltaw yuri.	entailment
+25326	aym	Janiwa, jupax 1900 maran yuri, 16 maraninawa, ukhamatxa 1926 maranapachanawa, yatxtawa, janir 1930 marakipananawa.	Jupax janiw 1943 marakam yurkiti.	contradiction
+25327	aym	Ukhamax wali wakiskirinawa.	Qawqhxtix manq'antirjamakayätxa, ukatuqitx wal yatiñ munayäta.	neutral
+25328	aym	Ukhamax wali wakiskirinawa.	Janiw kuns yatiñ munakayätti.	contradiction
+25329	aym	Ukhamax wali wakiskirinawa.	Wali wakiskir jikxattha.	entailment
+25330	aym	Kullakapax q'ara jaqit pasayasisapanawa, ukhamat pasapuniwa.	Kullakapax taqit sipans wali suma p'itikillapuninawa.	neutral
+25331	aym	Kullakapax q'ara jaqit pasayasisapanawa, ukhamat pasapuniwa.	Qhanpachanxa, kullapakapax q'aranawa.	entailment
+25332	aym	Kullakapax q'ara jaqit pasayasisapanawa, ukhamat pasapuniwa.	Sher kullakapax wali llakitänawa.	contradiction
+25333	aym	Ukhamax wali achachituxanaw awkiñatakixa.	27 mar jilïrinawa.	neutral
+25334	aym	Ukhamax wali achachituxanaw awkiñatakixa.	Jupax jupatsipans wali sullkanawa.	contradiction
+25335	aym	Ukhamax wali achachituxanaw awkiñatakixa.	Jupax jupatsipanx wali jilirinawa.	entailment
+25336	aym	Ukawa, naya 922 sapa chachakiw wali wakiskiriyäta, uka yaqha jaqix ch'amachirikinawa.	Janipuniw khitis ch'amañchkataynati.	contradiction
+25337	aym	Ukawa, naya 922 sapa chachakiw wali wakiskiriyäta, uka yaqha jaqix ch'amachirikinawa.	Mä chachaw tamarux ch'amañchatayna.	neutral
+25338	aym	Ukawa, naya 922 sapa chachakiw wali wakiskiriyäta, uka yaqha jaqix ch'amachirikinawa.	Ma chachaw ch'amañchatayna.	entailment
+25339	aym	Wakichäwiw purinin uk lup'isktha, yatxtawa, nayamp apsuñataki, yatxtawa, nayas mayjt'aykirist ukham tuqxapxituwa.	Janiw jupax kunkipans jutkanit ukx yatiyätwa.	contradiction
+25340	aym	Wakichäwiw purinin uk lup'isktha, yatxtawa, nayamp apsuñataki, yatxtawa, nayas mayjt'aykirist ukham tuqxapxituwa.	Nuwasir jutatapx yatiyätwa.	entailment
+25341	aym	Wakichäwiw purinin uk lup'isktha, yatxtawa, nayamp apsuñataki, yatxtawa, nayas mayjt'aykirist ukham tuqxapxituwa.	Arsutajax janiw walt'aykaspat ukham amuyayätxa.	neutral
+25342	aym	Ukhamax, ukhamäpan, janiw akch'a walikaspas janiw pantasipkt sañaxa.	Mä qawqha pantasitanakax walikiskiwa.	contradiction
+25343	aym	Ukhamax, ukhamäpan, janiw akch'a walikaspas janiw pantasipkt sañaxa.	Janjamakiw pantasiñasx munapkasamachanati.	entailment
+25344	aym	Ukhamax, ukhamäpan, janiw akch'a walikaspas janiw pantasipkt sañaxa.	Janiw kuna pantapant arsuñas munkanati.	neutral
+25345	aym	Ukatxa, uh ukampirus, amuyiristwa, arumjarux janiw ikiñjamaxanati.	Janiw arumax ikiñ atxti.	entailment
+25346	aym	Ukatxa, uh ukampirus, amuyiristwa, arumjarux janiw ikiñjamaxanati.	Jan ikiyir jan wali samkanakampix samkasiskaktwa.	neutral
+25347	aym	Ukatxa, uh ukampirus, amuyiristwa, arumjarux janiw ikiñjamaxanati.	Arumax mä asuwawakirists ukhamaw iktha.	contradiction
+25348	aym	Kunatix jupar wal arxatkaspa, ukaninawa.	Jupax uka pampa anunakatx jark'aqasirjamanawa.	neutral
+25349	aym	Kunatix jupar wal arxatkaspa, ukaninawa.	Jupax sum jark'aqasirjamanawa.	entailment
+25350	aym	Kunatix jupar wal arxatkaspa, ukaninawa.	Jupax wali wali llaythapuninawa.	contradiction
+25351	aym	Um, jan wiras sasitapata--	Jupax taqikunatix yatisiñapakan uk satayna.	contradiction
+25352	aym	Um, jan wiras sasitapata--	Janipuniw kuns uka jark'aqasiñtuqitx sapkituti.	neutral
+25353	aym	Um, jan wiras sasitapata--	Yaqhippachanakax janiw sapkituti.	entailment
+25354	aym	Ukhamax aka chiqawjan qamapxtxa.	Utasax akawjanakankanawa.	entailment
+25355	aym	Ukhamax aka chiqawjan qamapxtxa.	Utasax akawjat jayankanawa.	contradiction
+25356	aym	Ukhamax aka chiqawjan qamapxtxa.	Utasax akat pä cuadrankiwa.	neutral
+25357	aym	Jank'akipuniw parlarpayaski, jawsañtuqiw aruskipaski.	Wali k'achakipuniw parlaski.	contradiction
+25358	aym	Jank'akipuniw parlarpayaski, jawsañtuqiw aruskipaski.	iPhonetuqiw parlaski.	neutral
+25359	aym	Jank'akipuniw parlarpayaski, jawsañtuqiw aruskipaski.	Jawsañtuqiw parlaski.	entailment
+25360	aym	Janiw kuns amtirjamäkti, ukhamarus mä akatjamat wal jump'irtha, iskuylar nayrïr urus sarkirist ay ukhama, ukatxa aka urux wali qariñans qariñ urupuninawa.	Yatiqañ utan qalltañatakix wali k'uchikiskayatwa.	contradiction
+25361	aym	Janiw kuns amtirjamäkti, ukhamarus mä akatjamat wal jump'irtha, iskuylar nayrïr urus sarkirist ay ukhama, ukatxa aka urux wali qariñans qariñ urupuninawa.	Yatiqañ utar sarañat llakisiski.	entailment
+25362	aym	Janiw kuns amtirjamäkti, ukhamarus mä akatjamat wal jump'irtha, iskuylar nayrïr urus sarkirist ay ukhama, ukatxa aka urux wali qariñans qariñ urupuninawa.	Jisk'a wawanakamp yatiqir sarañan llakitaskayätwa.	neutral
+25363	aym	Jisa, St. Louis anqaxan qamayätxa, Jefferson Markampit St. Louis MO markampita.	Texasan qamayäta.	contradiction
+25364	aym	Jisa, St. Louis anqaxan qamayätxa, Jefferson Markampit St. Louis MO markampita.	Mossouri ukan mä q'illu utan qamayäta.	neutral
+25365	aym	Jisa, St. Louis anqaxan qamayätxa, Jefferson Markampit St. Louis MO markampita.	Missourinkaskayätwa.	entailment
+25366	aym	Del Rio ukawjan mä chiqawjaruw yatiyaskayäta, Ukatxa Laughlin Air Force ukar sarañaxanawa, Uka utjnuqäwix jichhaw jist'arasiskäna.	Laughlin Aérea utjnuqax mä juk'ampachanak jist'antasiwayiwa.	entailment
+25367	aym	Del Rio ukawjan mä chiqawjaruw yatiyaskayäta, Ukatxa Laughlin Air Force ukar sarañaxanawa, Uka utjnuqäwix jichhaw jist'arasiskäna.	Laughlin Fuerza Aérea utjnuqax sapakutis jist'aratapuniskanawa.	contradiction
+25368	aym	Del Rio ukawjan mä chiqawjaruw yatiyaskayäta, Ukatxa Laughlin Air Force ukar sarañaxanawa, Uka utjnuqäwix jichhaw jist'arasiskäna.	Laughlin Fuerza Aérea utjnuqax 10 000 pallapallanakan utapanawa.	neutral
+25369	aym	Kunjamsay luram nayatakix walikiskaniwa.	Kawknir sam ajllitamas walikiskaniwa.	neutral
+25370	aym	Kunjamsay luram nayatakix walikiskaniwa.	Taqi amtanak iyawsañaxawa.	contradiction
+25371	aym	Kunjamsay luram nayatakix walikiskaniwa.	Kunjam tukuyatamas walikiskaniwa.	entailment
+25372	aym	Alayar uñtkasax kawkinkitix Ramunax uk amuyxtwa, ukat jawstha.	Ramonarux utajaruw jawstha.	neutral
+25373	aym	Alayar uñtkasax kawkinkitix Ramunax uk amuyxtwa, ukat jawstha.	Ramonarux kawkinkis ukatakiw jawstha.	entailment
+25374	aym	Alayar uñtkasax kawkinkitix Ramunax uk amuyxtwa, ukat jawstha.	Ramonarux janiw yäqxti.	contradiction
+25375	aym	Ukhamikipanxa, Fuerza Aérea uksankirinakax SR71 uk ali, jichhax CIA ukankirinakamp irnaqkasax A-12 ukrak ali.	Fuerza Aérea uksankirinakax 18 awyunanak ali.	neutral
+25376	aym	Ukhamikipanxa, Fuerza Aérea uksankirinakax SR71 uk ali, jichhax CIA ukankirinakamp irnaqkasax A-12 ukrak ali.	Fuerza Aérea uksankirinakas awyunanak alapxi.	entailment
+25377	aym	Ukhamikipanxa, Fuerza Aérea uksankirinakax SR71 uk ali, jichhax CIA ukankirinakamp irnaqkasax A-12 ukrak ali.	Fuerza Aérea uksankirinakax janiw kuna amtanipkanasa.	contradiction
+25378	aym	Ukhamax kullakapan chachapax q'ararakikinati?	Kullakapax mä ch'iyar janchin jaqimp jaqichatawa.	neutral
+25379	aym	Ukhamax kullakapan chachapax q'ararakikinati?	Kullakapax jaqichatawa.	entailment
+25380	aym	Ukhamax kullakapan chachapax q'ararakikinati?	Kullakapax sapakiskiwa.	contradiction
+25381	aym	Jilkas jilkasax, janipuniw pantasitapx iyawskanati, ukampirus sarnaqäwipx mayjt'ayiwa.	Jupax janipuniw kunkipans sarnaqäwipx mayjt'aykiti.	contradiction
+25382	aym	Jilkas jilkasax, janipuniw pantasitapx iyawskanati, ukampirus sarnaqäwipx mayjt'ayiwa.	Jupax janipuniw pantastwa, sasax jiskanati.	entailment
+25383	aym	Jilkas jilkasax, janipuniw pantasitapx iyawskanati, ukampirus sarnaqäwipx mayjt'ayiwa.	Jupax janiw uka chichi pastilatx kamskanasa.	neutral
+25384	aym	Tiyuja, jupax wali suma jaqiwa.	Tiyujampix kawkhs sarakiristwa.	entailment
+25385	aym	Tiyuja, jupax wali suma jaqiwa.	Tiyujax mä qamaqiwa.	contradiction
+25386	aym	Tiyuja, jupax wali suma jaqiwa.	Tiyujax wali suma jaqipuniwa.	neutral
+25387	aym	Kawkintix kullakajax jakki, ukawjaruw sartha. Chachapax irnaqaskanawa, wali sum p'iqimpipuniw irnaqi, ukat nayax utaparux sartha.	Khiyarujax pallapallanak taypinkanawa.	neutral
+25388	aym	Kawkintix kullakajax jakki, ukawjaruw sartha. Chachapax irnaqaskanawa, wali sum p'iqimpipuniw irnaqi, ukat nayax utaparux sartha.	Khiyarujax irnaqaskanawa.	entailment
+25389	aym	Kawkintix kullakajax jakki, ukawjaruw sartha. Chachapax irnaqaskanawa, wali sum p'iqimpipuniw irnaqi, ukat nayax utaparux sartha.	Jilajax janipuniw isthapiskiti.	contradiction
+25390	aym	Lup'ikipiristwa. Ukhamaxa, saräxa, yaqhaw naya lant sarani, ukat amtasiristwa, ay Tatitu!	Nayat lantix yaqharux sarayasapanach ukham amuytha.	entailment
+25391	aym	Lup'ikipiristwa. Ukhamaxa, saräxa, yaqhaw naya lant sarani, ukat amtasiristwa, ay Tatitu!	Khitiy naya lantx uka tantachäwinx sartchini ukham amuyayätxa.	neutral
+25392	aym	Lup'ikipiristwa. Ukhamaxa, saräxa, yaqhaw naya lant sarani, ukat amtasiristwa, ay Tatitu!	Janiw khitimpirus saraykiristätti.	contradiction
+25393	aym	Mä k'atan qillqañ misajax tuluqinini, walikiskiwa, uka qillqañ misajat apsusiskakim, churam, churam, churam, churam, churam	Sapakuntiy may may arsu.	entailment
+25394	aym	Mä k'atan qillqañ misajax tuluqinini, walikiskiwa, uka qillqañ misajat apsusiskakim, churam, churam, churam, churam, churam	Jank'akiw may may parli, janiw kun lurats amuykiti.	neutral
+25395	aym	Mä k'atan qillqañ misajax tuluqinini, walikiskiwa, uka qillqañ misajat apsusiskakim, churam, churam, churam, churam, churam	Jupax wali q'aphawa, ukhamarus wali llamp'u chuymaniwa.	contradiction
+25396	aym	Ukhamax, kunasay kunapan, uka manqhar mantasax, kunjamakis taqikunasa? Sasas jiskt'aspaspas ukhamanawa.	Kunjamaskanas taqikunas, jiskt'astwa.	entailment
+25397	aym	Ukhamax, kunasay kunapan, uka manqhar mantasax, kunjamakis taqikunasa? Sasas jiskt'aspaspas ukhamanawa.	Kunatix lurañasakan ukax tukuyasiskpachati, sasin jiskt'astha.	neutral
+25398	aym	Ukhamax, kunasay kunapan, uka manqhar mantasax, kunjamakis taqikunasa? Sasas jiskt'aspaspas ukhamanawa.	Jupax janipuniw kuns parlapkituti.	contradiction
+25399	aym	Ukatx llantajarux muyuskäna, janiw yatxti, wali jaya urukaspas ukhamanawa.	Jank'acht'astwa, ukat jank'akiw tukuytha.	contradiction
+25400	aym	Ukatx llantajarux muyuskäna, janiw yatxti, wali jaya urukaspas ukhamanawa.	Ukawjanx pä pachaw qunt'astha.	neutral
+25401	aym	Ukatx llantajarux muyuskäna, janiw yatxti, wali jaya urukaspas ukhamanawa.	Llantax wali jayapuniw muyjaytha.	entailment
+25402	aym	Jupax uju chuyma usuninawa, ukatuqitx janiw nayapachpas yatkayätti.	Janiw uka uju chuyma usump niya jiwatapx yatkayätti.	neutral
+25403	aym	Jupax uju chuyma usuninawa, ukatuqitx janiw nayapachpas yatkayätti.	Janiw uju chuyma usunitap yatkayätti.	entailment
+25404	aym	Jupax uju chuyma usuninawa, ukatuqitx janiw nayapachpas yatkayätti.	Wali sinti uju chuyma usump usutatap yatiyätwa.	contradiction
+25405	aym	Yatiyätati, janiw yatkasmati, janiw kunkipans jakkasmat janitix samanax utjkch ukhaxa, uka alayanakanx janiw samsurjamaxtti.	Uka uchacht'ayirin samanapax taqipachan jiwjayasktam.	contradiction
+25406	aym	Yatiyätati, janiw yatkasmati, janiw kunkipans jakkasmat janitix samanax utjkch ukhaxa, uka alayanakanx janiw samsurjamaxtti.	5000 kayunak patanx saman ch'amañchir muntaxa.	neutral
+25407	aym	Yatiyätati, janiw yatkasmati, janiw kunkipans jakkasmat janitix samanax utjkch ukhaxa, uka alayanakanx janiw samsurjamaxtti.	Uka alayanx saman ch'amañchir muntaxa.	entailment
+25408	aym	jank'akiw qallantha, uy, uka panin yuqall q'axullanakamp ukawjan yatsupkayät jupanakampi.	Janiw yatsuñanakan yatskti, ukhamipanx naya pachpaw luras luras amuyasisktha.	contradiction
+25409	aym	jank'akiw qallantha, uy, uka panin yuqall q'axullanakamp ukawjan yatsupkayät jupanakampi.	Panin yuqallitunakaw uka aljañ utan aljañx yatichitu.	neutral
+25410	aym	jank'akiw qallantha, uy, uka panin yuqall q'axullanakamp ukawjan yatsupkayät jupanakampi.	Panin tiyunakaw yatichitu.	entailment
+25411	aym	Uka puntaspatixa, uka mayjt'ayañawjakis ukampis mayjt'ayañama.	Uka mayjt'ayañax janiw kuna chaninikanasa.	contradiction
+25412	aym	Uka puntaspatixa, uka mayjt'ayañawjakis ukampis mayjt'ayañama.	Uka mayjt'ayirix uka sakuman samanapx mayjt'ayaspawa.	neutral
+25413	aym	Uka puntaspatixa, uka mayjt'ayañawjakis ukampis mayjt'ayañama.	Uka mayjt'ayañampiw anatañaspa.	entailment
+25414	aym	Uh, naya maya llätunka paya paya uka mayjt'ayañar chhuqhuntañar uchkayätx ukayätwa.	Uka chhuqhuntañ martis uruw uchatäta.	neutral
+25415	aym	Uh, naya maya llätunka paya paya uka mayjt'ayañar chhuqhuntañar uchkayätx ukayätwa.	Nayax 922 ukayätwa.	entailment
+25416	aym	Uh, naya maya llätunka paya paya uka mayjt'ayañar chhuqhuntañar uchkayätx ukayätwa.	Nayax janiw wiñayans 922 ukakayätti.	contradiction
+25417	aym	Janiw kunjamas jaqichasiña ukx amuykanati, janiw jaqichasitaps amuyaskataynati, chiqawa--	Jupax janiw uka yuqallamp wiñayatak katuntatatap amuyaskanati, ukhamarus janiw wiñayas uñt'kataynati.	neutral
+25418	aym	Janiw kunjamas jaqichasiña ukx amuykanati, janiw jaqichasitaps amuyaskataynati, chiqawa--	Janiw kunatix utjkän uk amuykanati.	entailment
+25419	aym	Janiw kunjamas jaqichasiña ukx amuykanati, janiw jaqichasitaps amuyaskataynati, chiqawa--	Jupax kuntix lurkän ukx yatinawa.	contradiction
+25420	aym	Nanakax ukaruw mantapxiristäta.	Ukarux 8 arumaruw mantapxiristäta.	neutral
+25421	aym	Nanakax ukaruw mantapxiristäta.	Mantapxiristätwa.	entailment
+25422	aym	Nanakax ukaruw mantapxiristäta.	Janiw mantapkiristätti.	contradiction
+25423	aym	Ukatx jupapachpas jan khititaps yatkasapan ukhamanawa, ukhamipanxa, yatxtawa, kunjamtix uñjkanaxa, yatxtawa, yaqha allchhinakaruxa.	Jupax taqiniruw khuskhat uñjäna.	contradiction
+25424	aym	Ukatx jupapachpas jan khititaps yatkasapan ukhamanawa, ukhamipanxa, yatxtawa, kunjamtix uñjkanaxa, yatxtawa, yaqha allchhinakaruxa.	Taqi allchhinakarux janiw pachp uñjkanati.	entailment
+25425	aym	Ukatx jupapachpas jan khititaps yatkasapan ukhamanawa, ukhamipanxa, yatxtawa, kunjamtix uñjkanaxa, yatxtawa, yaqha allchhinakaruxa.	yaqha alchhinakarusti jan walitrak uñjana kunalaykutix ch´iyar jaqinakanwa.	neutral
+25426	aym	wali sumapuninawa, isthapt´awipsti thayarakiw mawk´it unuxtayana.	wali jiwak isisti thayamp chikarakiw laphapina.	entailment
+25427	aym	wali sumapuninawa, isthapt´awipsti thayarakiw mawk´it unuxtayana.	wali jiwak isisti sinti jiskhakinawa ukhamarust jukhitak unuqirakinxa.	neutral
+25428	aym	wali sumapuninawa, isthapt´awipsti thayarakiw mawk´it unuxtayana.	janiw thayax utjkanti, ukhamat wali jiwak isix janirakiw unuqkanti.	contradiction
+25429	aym	suma qamawinakaxanxa, kust´ata lurawinakan jakaniwayta.	sapa pä uruw nayax suma yatxatañ lurawinak jikxatasiyata.	neutral
+25430	aym	suma qamawinakaxanxa, kust´ata lurawinakan jakaniwayta.	nayax kusthata lurawinakakis ukankayatwa.	entailment
+25431	aym	suma qamawinakaxanxa, kust´ata lurawinakan jakaniwayta.	nayax janipuniw kunapachas kusthata lurawinakäki uksatuqinkayathi.	contradiction
+25435	aym	jan ukampist, Evans uksatuq jayan qamasipxarakina, kichhurkamas uthaskarakiwa. Khaysanxa walja wila masinakax jakirinakax uthaskarakituwa.	Evans uksa tuqinxa pä tunk wilamasinakax saririnakaw utjitanxa.	neutral
+25436	aym	jan ukampist, Evans uksatuq jayan qamasipxarakina, kichhurkamas uthaskarakiwa. Khaysanxa walja wila masinakax jakirinakax uthaskarakituwa.	Atlanta uksa tuqinrak jakapxarakina.	contradiction
+25437	aym	jan ukampist, Evans uksatuq jayan qamasipxarakina, kichhurkamas uthaskarakiwa. Khaysanxa walja wila masinakax jakirinakax uthaskarakituwa.	Evans uksa tuqinrak jakapxanxa, ukasti sinti jisk´akirakinwa.	entailment
+25438	aym	Kullakaxax saskakiwa, akhamsasina, yaqhapachanakax awichjamata, jan walit tuqtax jaqinakarux janir jupanakas lurkipana.	Kullakaxax sarakitunwa nayax jan uñt´iris tukkirista jaqinakaru ukjama.	neutral
+25439	aym	Kullakaxax saskakiwa, akhamsasina, yaqhapachanakax awichjamata, jan walit tuqtax jaqinakarux janir jupanakas lurkipana.	kullakaxax sarakitunwa nayrapachanakax janiw munasirikayatati.	entailment
+25440	aym	Kullakaxax saskakiwa, akhamsasina, yaqhapachanakax awichjamata, jan walit tuqtax jaqinakarux janir jupanakas lurkipana.	kullakaxax sarakitanwa, janipuniw kunans awichjamaktati sasina.	contradiction
+25441	aym	ukatxa mä machaq utarurakiw sarxapxayatxa.	sarxapxarakiyatwa kawkintix mä ut lurapkayata uksaru.	neutral
+25442	aym	ukatxa mä machaq utarurakiw sarxapxayatxa.	sarawayxapxarakiyatwa mä machaq jakawiru.	entailment
+25443	aym	ukatxa mä machaq utarurakiw sarxapxayatxa.	qhipaqtaxarakiyatwa uka mä utanaki taqpach jakawipuni.	contradiction
+25444	aym	nayax walikipuniskayatwa, ukax walikiskarakiwa, yatxaraktasä, ukhama.	uñismaw saniwaraktwa, ukampis janipuniw munksmati sasina.	contradiction
+25445	aym	nayax walikipuniskayatwa, ukax walikiskarakiwa, yatxaraktasä, ukhama.	machaq jaylliwinakamaw jukham munasitu saniwaraktwa.	neutral
+25446	aym	nayax walikipuniskayatwa, ukax walikiskarakiwa, yatxaraktasä, ukhama.	jupax walikiw sasin saniwayxaraktwa.	entailment
+25447	aym	saminak saminchirinakatix chixintatachi ukasti sapa patakar turkakipataniwa, chupikata laramaru, ukhama.	saminchir saminakasti turcakipsirakiwa sapa saminakarjama.	entailment
+25448	aym	saminak saminchirinakatix chixintatachi ukasti sapa patakar turkakipataniwa, chupikata laramaru, ukhama.	saminchir saminakasti turkakiptarakiwa yatxatañataki jan tupt´asa achhijutapa yatiñataki.	neutral
+25449	aym	saminak saminchirinakatix chixintatachi ukasti sapa patakar turkakipataniwa, chupikata laramaru, ukhama.	saminchir saminakasti wiñayans wiñayatakipuniw ch´iyara.	contradiction
+25450	aym	laqapuniw manqanta, laqapans laqapapuni ukatwa jupax mantanina, ukampis juparakiw yanapt´awayxitu.	janir pä k´atakis ukhaw mä PIZZA manqantta.	neutral
+25451	aym	laqapuniw manqanta, laqapans laqapapuni ukatwa jupax mantanina, ukampis juparakiw yanapt´awayxitu.	sinti khachapuniw manqanta jan usuntaskañaxataki.	contradiction
+25452	aym	laqapuniw manqanta, laqapans laqapapuni ukatwa jupax mantanina, ukampis juparakiw yanapt´awayxitu.	sinti ratukipuniw manq manq´anta.	entailment
+25453	aym	kullakapan chachpax janchipax janq´urakinwa.	tullqa masipans janchipax janqurakinwa.	entailment
+25454	aym	kullakapan chachpax janchipax janq´urakinwa.	tullqa masipax Suecia uksatarakinwa.	neutral
+25455	aym	kullakapan chachpax janchipax janq´urakinwa.	kullakapax janiraw panichatakanti.	contradiction
+25456	aym	ukatpachas, amtasipkakiwa qullqi irsuña regukador de O2 ukanak jikxatañataki.	jupanakasti mä machaq regulador uñancht´ayapxaraki.	entailment
+25457	aym	ukatpachas, amtasipkakiwa qullqi irsuña regukador de O2 ukanak jikxatañataki.	jupanakax uñancht´ayapxarakiwa mä regulador alaxpachatpach irnaqiri.	neutral
+25458	aym	ukatpachas, amtasipkakiwa qullqi irsuña regukador de O2 ukanak jikxatañataki.	jan yatisin kunjama lurañatapsa mä regulador de oxigeno ukhampachas piqinchasipkakinwa.	contradiction
+25459	aym	ukat VEGAS, NV, uksaruw sarxapta, nayaw qhananchta, kunjamatix WASHINTON qhananchaniwayta uka kipkakirakiki VEGAS uksa tuqina.	janipuniw kunapachas VEGAS uksatuqir sarkti.	contradiction
+25460	aym	ukat VEGAS, NV, uksaruw sarxapta, nayaw qhananchta, kunjamatix WASHINTON qhananchaniwayta uka kipkakirakiki VEGAS uksa tuqina.	VEGAS uksatuqin ukhamrak WASHINTON uksansa, paypachan irnaqaniwayta.	entailment
+25461	aym	ukat VEGAS, NV, uksaruw sarxapta, nayaw qhananchta, kunjamatix WASHINTON qhananchaniwayta uka kipkakirakiki VEGAS uksa tuqina.	paypacha markan taxi q´iwirit irnakaniwayta.	neutral
+25462	aym	jisa, pusiriwkaw wali k´uchirt´awinxa.	taqipuniw yatiqan untankirinakax uñisina.	contradiction
+25463	aym	jisa, pusiriwkaw wali k´uchirt´awinxa.	pusir t´iskt´awiwkaw wali kusanxa, kunalaykutix pä samart´awiw utjana.	neutral
+25464	aym	jisa, pusiriwkaw wali k´uchirt´awinxa.	pusir t´isktawiw juk´am munasitunxa.	entailment
+25465	aym	mä imañ laphinak panka ukhamanwa, laphi jaljawinakapasti kunayman saminakaninwa, yatxaraktasa. Sapa jaljawisti mä tupuñjamakaspasa ukhama.	mä laphisti jakhuwinakan phuqantatakiwa.	contradiction
+25466	aym	mä imañ laphinak panka ukhamanwa, laphi jaljawinakapasti kunayman saminakaninwa, yatxaraktasa. Sapa jaljawisti mä tupuñjamakaspasa ukhama.	jakthapiwinakax walja uñist´aw uñist´ayaraki.	entailment
+25467	aym	mä imañ laphinak panka ukhamanwa, laphi jaljawinakapasti kunayman saminakaninwa, yatxaraktasa. Sapa jaljawisti mä tupuñjamakaspasa ukhama.	laphi jaljanakasti uñist´ayarakiwa kunatix uka laphin utjki uka.	neutral
+25468	aym	janiw yatiñ munkti kunjam lurañatamsa.	janiw yatiñ munkti jumas luraskam jan ukax yaqharus lurayam.	neutral
+25469	aym	janiw yatiñ munkti kunjam lurañatamsa.	janiw yatiñ munkti kawkiriskchi juman sarawinakamax yatxatañataki.	entailment
+25470	aym	janiw yatiñ munkti kunjam lurañatamsa.	chiqpachapuniw yatiñ munta kunjams ak lurata.	contradiction
+25471	aym	ukhamarus sarawayxapxiwa khaysa MALLARD CREEK uksa tuqiru, ukasti jikxatasirakiwa khaysa CHARLOTTE uksa tuqina.	mä ut lursuyapxaraki khaysa MALLARD CREEK uksa tuqina.	neutral
+25472	aym	ukhamarus sarawayxapxiwa khaysa MALLARD CREEK uksa tuqiru, ukasti jikxatasirakiwa khaysa CHARLOTTE uksa tuqina.	janipuniw CHARLOTTE uksaru sarapkanti.	contradiction
+25473	aym	ukhamarus sarawayxapxiwa khaysa MALLARD CREEK uksa tuqiru, ukasti jikxatasirakiwa khaysa CHARLOTTE uksa tuqina.	ukat MALLARD CREEK uksan jakawapxana.	entailment
+25474	aym	khaukantix jupax kunakantix mä, jupax Ministro ukan wawapanwa, ukat jupanx utjanwa, jupanakanx utjawinakaw utjana ukamarak juk´am kunanakas kuna, ukhamarus sumpunrak apasipxana taqi jakirinarampi uka istanchhata, ukhamarust wali munatapxarakinwa.	awkipasti mä iglisian lutirana awatirirakinwa.	neutral
+25475	aym	khaukantix jupax kunakantix mä, jupax Ministro ukan wawapanwa, ukat jupanx utjanwa, jupanakanx utjawinakaw utjana ukamarak juk´am kunanakas kuna, ukhamarus sumpunrak apasipxana taqi jakirinarampi uka istanchhata, ukhamarust wali munatapxarakinwa.	awkipasti mä jan yawsiripuninwa, ukat janipuniw iglisiaru sarkanti.	contradiction
+25476	aym	khaukantix jupax kunakantix mä, jupax Ministro ukan wawapanwa, ukat jupanx utjanwa, jupanakanx utjawinakaw utjana ukamarak juk´am kunanakas kuna, ukhamarus sumpunrak apasipxana taqi jakirinarampi uka istanchhata, ukhamarust wali munatapxarakinwa.	awkipasti awatirinwa.	entailment
+25477	aym	ukat, nayax janiw qhawqha k´ach´ach t´awi munapki ukxa yatkayatti.	nayax janiw amuykayatti jupax kunapachjanakas mistsu viyajiñataki ukanat yatxatañ munatapa.	neutral
+25478	aym	ukat, nayax janiw qhawqha k´ach´ach t´awi munapki ukxa yatkayatti.	taqpachpun awiskataniwayta kunalaykutix yatiyatwa jupax munatapxa yatiña.	contradiction
+25479	aym	ukat, nayax janiw qhawqha k´ach´ach t´awi munapki ukxa yatkayatti.	janiw sum yatkayatti qhawch´a manqhañapakis ukxa.	entailment
+25480	aym	mmm, yaqhakastarakiwa, taqpach alasirinakapan mä yatiyawinakapakaspas ukjamawa.	jupanakanx janiw kuna laphi imañ pankanakapx utjkiti.	contradiction
+25481	aym	mmm, yaqhakastarakiwa, taqpach alasirinakapan mä yatiyawinakapakaspas ukjamawa.	taqpach laphi imañ pankanak imapxi.	entailment
+25482	aym	mmm, yaqhakastarakiwa, taqpach alasirinakapan mä yatiyawinakapakaspas ukjamawa.	laphi imañ pankanakxa qullirinakan ukhamarak taripawinak kamachinakamp juntuk imapxi.	neutral
+25483	aym	akax jukham jisk´aptayatjamawa, khititix churkitanxa jupanxa wali qhananwa ukapachparak chama, qhipawkasti jisk´atayatanwa.	jupax pä uñtawi uñtayawayarakitu..	entailment
+25484	aym	akax jukham jisk´aptayatjamawa, khititix churkitanxa jupanxa wali qhananwa ukapachparak chama, qhipawkasti jisk´atayatanwa.	jupax pä amuyt´awi churawarakitu, nayax qhipaqtawaraktuwa kawkiritix sumaki ukampi.	neutral
+25485	aym	akax jukham jisk´aptayatjamawa, khititix churkitanxa jupanxa wali qhananwa ukapachparak chama, qhipawkasti jisk´atayatanwa.	jupax mä amtawik churarakitu, ukampis juk´akirakiw utxana.	contradiction
+25486	aym	kunalaykutix janiw Augusta uksan jakapkanti, jupanakasti jakapxanwa khaysa…waliki, yatxaptawa, AUGUSTA ukasti mä jisk´a markakiskanwa uka pachanakaxa, kunapachatix jaqinakas jach´a amrkanakan jakapjanxa, Augusta markasti janiw sinti jach´akanti.	Augusta markansti tunka waranqa jaqinirakiwa.	neutral
+25487	aym	kunalaykutix janiw Augusta uksan jakapkanti, jupanakasti jakapxanwa khaysa…waliki, yatxaptawa, AUGUSTA ukasti mä jisk´a markakiskanwa uka pachanakaxa, kunapachatix jaqinakas jach´a amrkanakan jakapjanxa, Augusta markasti janiw sinti jach´akanti.	Augusta janiw mä suma markakiti.	entailment
+25488	aym	kunalaykutix janiw Augusta uksan jakapkanti, jupanakasti jakapxanwa khaysa…waliki, yatxaptawa, AUGUSTA ukasti mä jisk´a markakiskanwa uka pachanakaxa, kunapachatix jaqinakas jach´a amrkanakan jakapjanxa, Augusta markasti janiw sinti jach´akanti.	chika ukhakis Augusta markan, ukhan jakapxarakina.	contradiction
+25489	aym	niya tukuyampikis mä watranqa llatunka patak suxta tunka payani uja maransti, mä yatiyawirak katuqarakiyata sarxañaxataki khaysa WASHINGTON, DC uksaru.	sapxarakitanwa khaysa DC uksa tuqiru sarxañaxa.	entailment
+25490	aym	niya tukuyampikis mä watranqa llatunka patak suxta tunka payani uja maransti, mä yatiyawirak katuqarakiyata sarxañaxataki khaysa WASHINGTON, DC uksaru.	pallapallankirinakasti jank´akiw DC uksaru khitapxitu.	neutral
+25491	aym	niya tukuyampikis mä watranqa llatunka patak suxta tunka payani uja maransti, mä yatiyawirak katuqarakiyata sarxañaxataki khaysa WASHINGTON, DC uksaru.	sapxarakitunwa África uksar sarañamaspaw sasa.	contradiction
+25492	aym	DOT kunasatix utjawipa katuntasi, nanakax sarawayxapjaraktuwa mä jisk´a markaru Concord, kawkintix janiw wali uñt´atakanti uywaniñaxa, kunalykutix isk isk jalanuqutarakinwa, kunalaykutix uywanakan jakawinakap tukuyanawa.	nanakan utajax kaysa Concord uksan janiw uywanak atkaspanti.	entailment
+25493	aym	DOT kunasatix utjawipa katuntasi, nanakax sarawayxapjaraktuwa mä jisk´a markaru Concord, kawkintix janiw wali uñt´atakanti uywaniñaxa, kunalykutix isk isk jalanuqutarakinwa, kunalaykutix uywanakan jakawinakap tukuyanawa.	nanakan utaxax khaysa Concord uksanx kimsatunka waranqa acres ukhamarac walja uywanakarakiw utjaraki.	contradiction
+25494	aym	DOT kunasatix utjawipa katuntasi, nanakax sarawayxapjaraktuwa mä jisk´a markaru Concord, kawkintix janiw wali uñt´atakanti uywaniñaxa, kunalykutix isk isk jalanuqutarakinwa, kunalaykutix uywanakan jakawinakap tukuyanawa.	taqpach uywanakarak aljarawayxapta kunasatix nanakax Concord uksaru sarawayxapta ukhaxa.	neutral
+25495	aym	taqi kunakipansa, sarntapxaraktwa, jichax sarakiristwa uka laykuw Kadina uksarux sarantapxaranta, Okinawa uksa tuqinsa, akasti mä waranq llatunka patak suxta tunk kimsaqalquni uka marananwa.	sarantayapjaraktwa pallapallanakan ch´amanakapampix khaya mä waranq llatunka patak suxta tunk kimsaqalquni uka marana.	entailment
+25496	aym	taqi kunakipansa, sarntapxaraktwa, jichax sarakiristwa uka laykuw Kadina uksarux sarantapxaranta, Okinawa uksa tuqinsa, akasti mä waranq llatunka patak suxta tunk kimsaqalquni uka marananwa.	janipuniw kunasas khitirus ananukuptti.	contradiction
+25497	aym	taqi kunakipansa, sarntapxaraktwa, jichax sarakiristwa uka laykuw Kadina uksarux sarantapxaranta, Okinawa uksa tuqinsa, akasti mä waranq llatunka patak suxta tunk kimsaqalquni uka marananwa.	Japón uksarurakiw tam tam pallapallanak kithanukupxarakta mä waranq llatunka patak suxta tunk kimsaqalquni, chika t´aqa paqsina.	neutral
+25498	aym	añchha puniw chiqpachpun munta sitanwa, ukhamarus jichhurutaki sasina.	sarakinwa kunasas churaskakiristwa.	contradiction
+25499	aym	añchha puniw chiqpachpun munta sitanwa, ukhamarus jichhurutaki sasina.	sarakinwa pä jayp´u pachakamaw amptawi tukuyañatak utjtam sasina.	neutral
+25500	aym	añchha puniw chiqpachpun munta sitanwa, ukhamarus jichhurutaki sasina.	sarakinwa mä kipuniwa sasina.	entailment
+25501	aym	sarawayxataynawa, sawarakituwa jan llakisimpti sasina.	sawarakituwa yatiqañ utan kusaskata sasina.	neutral
+25502	aym	sarawayxataynawa, sawarakituwa jan llakisimpti sasina.	sawarakituwa janiw llakisitati sasina.	entailment
+25503	aym	sarawayxataynawa, sawarakituwa jan llakisimpti sasina.	sawarakituwa pachaxiw sustjasxañasaxa.	contradiction
+25504	aym	akax ukaw, yatxtaw, uñch´ukim, jan walt´awinakaw utjtam.	chijinktawa.	entailment
+25505	aym	akax ukaw, yatxtaw, uñch´ukim, jan walt´awinakaw utjtam.	walikiskatawa.	contradiction
+25506	aym	akax ukaw, yatxtaw, uñch´ukim, jan walt´awinakaw utjtam.	niya jaqsuyasiña uka chijinkiwa.	neutral
+25507	aym	taykaxax jan munañat tukuyawarakiwa para lurawinakan irnaqawinakana, kunalaykutix yaqha wawanakax janiw pata uraqunakanx irnaqapkanti.	taykaxax alkutunam tunqum apthapinxa.	neutral
+25508	aym	taykaxax jan munañat tukuyawarakiwa para lurawinakan irnaqawinakana, kunalaykutix yaqha wawanakax janiw pata uraqunakanx irnaqapkanti.	taykaxasti mä imillanwa wali munata, kunalykutix janiw irnaqañapakanti.	contradiction
+25509	aym	taykaxax jan munañat tukuyawarakiwa para lurawinakan irnaqawinakana, kunalaykutix yaqha wawanakax janiw pata uraqunakanx irnaqapkanti.	taykaxax anqaxan irnaqañapanwa.	entailment
+25510	aym	yatiraktawa, ukhamarus yatiraktawa. Yattawa jaqinakaru jiskt´atapxa, janiw khitis yatkanti kawkinkatapsa ukxa, anchhanakjam, jumax yattawa, sumañsthapisiwapxarakiwa jan JOE juparu uñxañataki.	JOE jupanakrakwa llawipax utjana samart´awi utatakixa.	neutral
+25511	aym	yatiraktawa, ukhamarus yatiraktawa. Yattawa jaqinakaru jiskt´atapxa, janiw khitis yatkanti kawkinkatapsa ukxa, anchhanakjam, jumax yattawa, sumañsthapisiwapxarakiwa jan JOE juparu uñxañataki.	sapamaynis achikt´anirakchisa, janipuniw khitis JOE juparux sañ atipkanti, samart´ayxapxita sasina.	contradiction
+25512	aym	yatiraktawa, ukhamarus yatiraktawa. Yattawa jaqinakaru jiskt´atapxa, janiw khitis yatkanti kawkinkatapsa ukxa, anchhanakjam, jumax yattawa, sumañsthapisiwapxarakiwa jan JOE juparu uñxañataki.	mä urusti JOE juoasti sarawayxataynawa, ukat janiw khitis yatkanti kawkir saratapsa.	entailment
+25513	aym	sawapsmaw kullakaxankiw sasa.	kullakaxaruw tumpamta.	entailment
+25514	aym	sawapsmaw kullakaxankiw sasa.	nayankiw sasaw sawayta.	contradiction
+25515	aym	sawapsmaw kullakaxankiw sasa.	sawarktwa anux kullakaxankiw sasa.	neutral
+25516	aym	ukat taykapaw sana, taykapax wali munañap sana, jupamp sarxam.	jupax sawarakiwa taykapax luk´anat kayuni sarnaqatapa.	neutral
+25517	aym	ukat taykapaw sana, taykapax wali munañap sana, jupamp sarxam.	jupax sawarakiwa taykapax jupjama sart´asirirakiwa sasa.	entailment
+25518	aym	ukat taykapaw sana, taykapax wali munañap sana, jupamp sarxam.	sawarakiwa taykapax such´uwa, janiw sarnaqan atkiti sasina.	contradiction
+25519	aym	yattati, jupax panqaranak achuwipwa phuqantaski, ukatx janiy kuna chijitapsa yatkarakinti.	janiw yantkanti wali usuntaspa ukxa.	neutral
+25520	aym	yattati, jupax panqaranak achuwipwa phuqantaski, ukatx janiy kuna chijitapsa yatkarakinti.	janu¿iw yatkanti kunatix jupanpi luraskaspanxa ukxa.	entailment
+25521	aym	yattati, jupax panqaranak achuwipwa phuqantaski, ukatx janiy kuna chijitapsa yatkarakinti.	yatirakinwa kunatix luraskaspanxa kunasatix jupax uk lurki ukjara.	contradiction
+25522	aym	yakha kunatix khayana luraskanxa, amuyt´arakiyatwa kusisiñakaspasa ukhama, kullaxan nayrir suma amthat´awikakapawa, ukasti pachpa uta anqan qipaxan lurasirakina.	janiy ampthat´awinakaxax utjkituti uka utana.	contradiction
+25523	aym	yakha kunatix khayana luraskanxa, amuyt´arakiyatwa kusisiñakaspasa ukhama, kullaxan nayrir suma amthat´awikakapawa, ukasti pachpa uta anqan qipaxan lurasirakina.	amtasiraktwa margarit panqaranak uta anqa qipaxan apthapitaxa.	neutral
+25524	aym	yakha kunatix khayana luraskanxa, amuyt´arakiyatwa kusisiñakaspasa ukhama, kullaxan nayrir suma amthat´awikakapawa, ukasti pachpa uta anqan qipaxan lurasirakina.	amtaraktwa kunatix luraskanxa uta anqa qhipaxanxa.	entailment
+25525	aym	Ukampirus taqi p´iqi usu llakisiñax jupanx uthaskapuniñaparakismachjiwa, kunjamantix jupax janiw kunjam lurans yatkiti, ukhamat jupax llakisi, luram.	janiw kunjams lurans yatkayatti kuna lurawtix jichhurux churapkitu ukxa.	entailment
+25526	aym	Ukampirus taqi p´iqi usu llakisiñax jupanx uthaskapuniñaparakismachjiwa, kunjamantix jupax janiw kunjam lurans yatkiti, ukhamat jupax llakisi, luram.	sapxarakituwa turkakipt´axpxarakinawa kunatix caja de de fosiles kunatix irnaqan utan jikxatasi ukxa, ukampirus janipuniw kuns yatkti lusa khantir cablinak uskuñanakatapxa.	neutral
+25527	aym	Ukampirus taqi p´iqi usu llakisiñax jupanx uthaskapuniñaparakismachjiwa, kunjamantix jupax janiw kunjam lurans yatkiti, ukhamat jupax llakisi, luram.	jichurux mayipxarakituwa kunantix kusakta ukanakak lurañaxa.	contradiction
+25528	aym	ukhamax jichhasti, akaxiw, jichhuruw muni.	kunapachas jikxataskasmaw siwa.	contradiction
+25529	aym	ukhamax jichhasti, akaxiw, jichhuruw muni.	jichhuruw jikxatañ muni siwa.	entailment
+25530	aym	ukhamax jichhasti, akaxiw, jichhuruw muni.	janir phisqa jaypu pachakis ukharuw qhipqhipa k´achacht´awi amuyta katuqañ munx siwa.	neutral
+25531	aym	ukats, janmunapkasas mayamp sarxapxarakta yakha utjaru.	yaqha pachan sarxapxarakta.	entailment
+25532	aym	ukats, janmunapkasas mayamp sarxapxarakta yakha utjaru.	yaqha markaruw sarxapxarakta khä mä waranq llatunka patak llatunk tunk payani ukhaxa.	neutral
+25533	aym	ukats, janmunapkasas mayamp sarxapxarakta yakha utjaru.	ukatx janipuniw mayampis unjtxapti.	contradiction
+25534	aym	janiw FAULK juparux sum uñtkayatti, jupax kimsaqalq tunka ukja maranjamanwa, mä suma jaqinwa, mä qhawqhakutiw amuyasmachjarakitatwa, ukat nayax wali llaythasiyata.	FAULK juparuw mä qhawqhanak uñjaniwayta, ukampirus janiw sum amuykti.	entailment
+25535	aym	janiw FAULK juparux sum uñtkayatti, jupax kimsaqalq tunka ukja maranjamanwa, mä suma jaqinwa, mä qhawqhakutiw amuyasmachjarakitatwa, ukat nayax wali llaythasiyata.	FAULK ukan suma masiparakitwa.	contradiction
+25536	aym	janiw FAULK juparux sum uñtkayatti, jupax kimsaqalq tunka ukja maranjamanwa, mä suma jaqinwa, mä qhawqhakutiw amuyasmachjarakitatwa, ukat nayax wali llaythasiyata.	FAULK mä q´illu khañasku HONDA q´iwiskarakina irnakawipar sarañataki.	neutral
+25537	aym	85 DE MALLART CREED uksan jakapxayata, jichhurusti 485 ukhamaxarakiwa kunalykutix pusi patak kimsaqal tunk phisqani ukhaw sarxapta, ukata.	khayan chhuxña utan jakapxayata.	neutral
+25538	aym	85 DE MALLART CREED uksan jakapxayata, jichhurusti 485 ukhamaxarakiwa kunalykutix pusi patak kimsaqal tunk phisqani ukhaw sarxapta, ukata.	khayan walja maranakarakiw jakapxayata.	entailment
+25539	aym	85 DE MALLART CREED uksan jakapxayata, jichhurusti 485 ukhamaxarakiwa kunalykutix pusi patak kimsaqal tunk phisqani ukhaw sarxapta, ukata.	pä simanakirakiw khayan jakaniwapxta.	contradiction
+25540	aym	masixa, ch´uxña jaqikaspas ukhamaw amuyasina, tiyo.	kulirataskayatwa.	entailment
+25541	aym	masixa, ch´uxña jaqikaspas ukhamaw amuyasina, tiyo.	patunaxax wali k´uchipipinichinxa, jan ukax luqhirataxchinxa.	neutral
+25542	aym	masixa, ch´uxña jaqikaspas ukhamaw amuyasina, tiyo.	patrunaxax wali suma jaqinwa.	contradiction
+25543	aym	sinti awkiptatawa awkijañataki.	jupax pä tunta paqalquni marat jiliriw nayatsipansa.	neutral
+25544	aym	sinti awkiptatawa awkijañataki.	jupax juk´am waynaw nayat sipansa.	contradiction
+25545	aym	sinti awkiptatawa awkijañataki.	jupax nayats jiliriwa.	entailment
+25546	aym	taqi kunaw k´achanst´ata, janiw yatkti qhawqha pachakama.	janiw yatkti qhawqha maranakay ch´ullqtchini.	entailment
+25547	aym	taqi kunaw k´achanst´ata, janiw yatkti qhawqha pachakama.	janiw yatkti qhawqha maranakay ch´ullqtchini jakavinakaxa.	neutral
+25548	aym	taqi kunaw k´achanst´ata, janiw yatkti qhawqha pachakama.	sayt´utxa pusi cm ukchharakiwa.	contradiction
+25549	aym	jichhamanxa janiw kunast k´uchhisitakat khayan yatkayatti, kunalaykutix p´iqi usu llakimpiw llakitaskayatta.	nayax wali k´uchikiskayatwa, ukhamarus llamp´u chuymani.	contradiction
+25550	aym	jichhamanxa janiw kunast k´uchhisitakat khayan yatkayatti, kunalaykutix p´iqi usu llakimpiw llakitaskayatta.	jupatix purinispanxa nayrir uru nayraqatanxa, wali k´uchikkipiniristanawa.	neutral
+25551	aym	jichhamanxa janiw kunast k´uchhisitakat khayan yatkayatti, kunalaykutix p´iqi usu llakimpiw llakitaskayatta.	sinti k´uchipinirakiyatwa kunalaykutix jupaw jupaw ukhankana.	entailment
+25552	aym	sinti ukanakasti yatisirakiwa kunjamatix taykanakapaw jan wali sustancias controladas ukanak mukhiripxaspana.	taykanakax sustancias controladas ukanak mukhipxiriwa.	neutral
+25553	aym	sinti ukanakasti yatisirakiwa kunjamatix taykanakapaw jan wali sustancias controladas ukanak mukhiripxaspana.	taykanakax janiw kuna qullanaks umapxirikiti.	contradiction
+25554	aym	sinti ukanakasti yatisirakiwa kunjamatix taykanakapaw jan wali sustancias controladas ukanak mukhiripxaspana.	taykax jan wali qullanak umi.	entailment
+25555	aym	jisa, wali jiwakipuniwa, awasiruw purintaskana.	janiw awasirurux yaqkati.	neutral
+25556	aym	jisa, wali jiwakipuniwa, awasiruw purintaskana.	jiwakiwa ukampis awasirunjama.	entailment
+25557	aym	jisa, wali jiwakipuniwa, awasiruw purintaskana.	janipuniw munañjakiti jan willka qhant´anixa.	contradiction
+25558	aym	maynin jakapachañapaw wali kusaxa.	payir jakawixa jaqin jakapachatapawa.	neutral
+25559	aym	maynin jakapachañapaw wali kusaxa.	jani mä jaqis munaskiti jakapachatatayañaxa.	contradiction
+25560	aym	maynin jakapachañapaw wali kusaxa.	amuyt´awixat kunasatix jiwatat jaktanta, uka jakawiw wali kusaxa.	entailment
+25561	aym	waway, akhan janjamaw lusa qhan cablinacax kusakiti.	nayraqatanpachax janipuniw akhan lusa qhanan cableado ukam uñjirikti.	neutral
+25562	aym	waway, akhan janjamaw lusa qhan cablinacax kusakiti.	lusa qhanan jiyt´atawkax janiw chijikiti.	contradiction
+25563	aym	waway, akhan janjamaw lusa qhan cablinacax kusakiti.	mä jan waliw utji aka lusa qhanan jan wali luratapanxa.	entailment
+25564	aym	waljamay ist´asi, jisa, wal musparta qhawqhanaktix lurayapki ukata.	janiw sinti musparkti jupanakax jan yatipxañanakapatxa.	contradiction
+25565	aym	waljamay ist´asi, jisa, wal musparta qhawqhanaktix lurayapki ukata.	wal muspayitu khayaru manq´am umanp jumaru mantayapxatamata.	neutral
+25566	aym	waljamay ist´asi, jisa, wal musparta qhawqhanaktix lurayapki ukata.	wal muspayitu kuntix jikxatanipxi.	entailment
+25567	aym	jisa, ukhmpuniw, saraktwa, kunasatix tukuyxata q´ipichasiñxa, taqi chmanchaw uks aparakita q´ipichasinkama… CLUB MED uksaruw sararakisma taqikunas askicht´ata.	pä waranq ch´uxña qulqiw munasi takikuntix munkta unanaka althapiñatakixa.	neutral
+25568	aym	jisa, ukhmpuniw, saraktwa, kunasatix tukuyxata q´ipichasiñxa, taqi chmanchaw uks aparakita q´ipichasinkama… CLUB MED uksaruw sararakisma taqikunas askicht´ata.	jumarpachaw wali jil mistam isthapthasiñamaxa.	entailment
+25569	aym	jisa, ukhmpuniw, saraktwa, kunasatix tukuyxata q´ipichasiñxa, taqi chmanchaw uks aparakita q´ipichasinkama… CLUB MED uksaruw sararakisma taqikunas askicht´ata.	sinti iraqatapuniw isthapt´asiñaxa.	contradiction
+25570	aym	jichasx wawanakaxax pä tunka mayani pä tunka pusini ukha maranixapxarakiwa, ukamax janiw kunsa.	janiw kunas sañaxiti wawanakaxaru, jupanakax pä tunka maranits jilirixapxiwa.	entailment
+25571	aym	jichasx wawanakaxax pä tunka mayani pä tunka pusini ukha maranixapxarakiwa, ukamax janiw kunsa.	lurañaxawa, niyaw ukchha marar purxapxaraki.	neutral
+25572	aym	jichasx wawanakaxax pä tunka mayani pä tunka pusini ukha maranixapxarakiwa, ukamax janiw kunsa.	lurañaxawa, kunalaykutix paninpachaw tunka ukhamarak tunka mayani ukha maranipxi.	contradiction
+25573	aym	ay, akax frisnuwa.	frisnu markan yuriniwayta.	neutral
+25574	aym	ay, akax frisnuwa.	janiw yatkti khawkhaskch akax.	contradiction
+25575	aym	ay, akax frisnuwa.	frisnuw akax saraksmasa.	entailment
+25576	aym	jisa, khiti jaqinakatix kunapachas irnaqawir purinipkaspa, jupanak tuqit suma amuyt´awinak amuyt´añawa.	jisa, khiti jaqinakatix jan wali amuyt´irinakachisa.	entailment
+25577	aym	jisa, khiti jaqinakatix kunapachas irnaqawir purinipkaspa, jupanak tuqit suma amuyt´awinak amuyt´añawa.	jisa, khiti jaqinakatix jan manq´at awtjayasirinakachisa.	neutral
+25578	aym	jisa, khiti jaqinakatix kunapachas irnaqawir purinipkaspa, jupanak tuqit suma amuyt´awinak amuyt´añawa.	jisa, khiti jaqinakantis amuyt´awinakapax jan kunans amuyt´aschi.	contradiction
+25579	aym	janiwa, jupanakax jichhakamay urak muyunisipki, jupanakasti muyunisipkiwa mä waranq llatunka patak paqalqu tunka tukuyakis ukhatpacha.	jupanakax uraq muyunisipkiwa janira mä waranq llatunka patak paqalqu tunka purinkana ukhatpacha.	entailment
+25580	aym	janiwa, jupanakax jichhakamay urak muyunisipki, jupanakasti muyunisipkiwa mä waranq llatunka patak paqalqu tunka tukuyakis ukhatpacha.	walpun munasipxi uraq uñjaniñanakaxa.	neutral
+25581	aym	janiwa, jupanakax jichhakamay urak muyunisipki, jupanakasti muyunisipkiwa mä waranq llatunka patak paqalqu tunka tukuyakis ukhatpacha.	jichhaw tukuyasinipki uraq muytawipanxa.	contradiction
+25582	aym	kunjams t´iskuwinakx lurasma.	yaticht´itasmati kunjams thiskuwinak lurasma ukxa.	entailment
+25583	aym	kunjams t´iskuwinakx lurasma.	wal chuymaxax wayusitu t´iskunaqañaxataki, ukhamarus munaraktwa chuyma usut jark´aqasiñataki luraña.	neutral
+25584	aym	kunjams t´iskuwinakx lurasma.	amp suma, jan arusistati t´iskunaqañanakat luraña.	contradiction
+25585	aym	walikiw, ukax mä askiwa, ukirinx janiw lup´katatti.	ukaj jan wali amuyt´awa, mayrir simanpachaw jan katuqkti.	contradiction
+25586	aym	walikiw, ukax mä askiwa, ukirinx janiw lup´katatti.	ukiriwkaw wali sumaxa.	entailment
+25587	aym	walikiw, ukax mä askiwa, ukirinx janiw lup´katatti.	kuna lurawktix arst´anki ukax wali kusawa.	neutral
+25588	aym	guarderia pä ur simanaru, jupanakax sarakiwa guarderia chuymaninakataki, jupasti qullañ utar chuymaninakatakiwkaruw sari.	guarderiyax sapuruw jist´arata, phisqa maranit aynachaxaru jupanakataki.	contradiction
+25589	aym	guarderia pä ur simanaru, jupanakax sarakiwa guarderia chuymaninakataki, jupasti qullañ utar chuymaninakatakiwkaruw sari.	pä urus khithapxaraki khitinakatix chuymanixapxi ukhakama jupanakaru.	neutral
+25590	aym	guarderia pä ur simanaru, jupanakax sarakiwa guarderia chuymaninakataki, jupasti qullañ utar chuymaninakatakiwkaruw sari.	juparux uñt´papxarakiwa chuymaninakar uñjirikaspasa ukhama, ukat satarakiwa tantacht´awi chuyman jaqinakataki.	entailment
+25591	aym	ukas mä tukuyanawa.	ukax jupan ch´amanchasiwirakinawa.	entailment
+25592	aym	ukas mä tukuyanawa.	ukx jupax janipuniw munkanti.	contradiction
+25593	aym	ukas mä tukuyanawa.	tukuyapx jikxatarakinwa.	neutral
+25594	aym	control de armas sañ munarakiwa pä ampar apnaqaña.	niya chikatpacha jan chiqt´apkiti kuntix pistulamp qhuxt´apki ukxa, ukax ampar jan wali apnaqañataw sasirakispawa.	neutral
+25595	aym	control de armas sañ munarakiwa pä ampar apnaqaña.	walisum phusilanak apnaqañatakix paypach kayuw sum taqxataña.	contradiction
+25596	aym	control de armas sañ munarakiwa pä ampar apnaqaña.	yatiqañstix munsta phusilanak apnaqañxa, paypach ampar apnaqam.	entailment
+25597	aym	mä ratunpun khawkhat jutchi, yaniw yatkti khawkhat jutatapsa.	janiy yatkti khawkhat jutatapsa, wali ratukinawa.	entailment
+25598	aym	mä ratunpun khawkhat jutchi, yaniw yatkti khawkhat jutatapsa.	ratukiw juti, ukampirus yatiraktwa kawkit jutatapsa.	neutral
+25599	aym	mä ratunpun khawkhat jutchi, yaniw yatkti khawkhat jutatapsa.	musqxamaw juti ukampirus chiqpachpun yatirakta kunas jutañapsa.	contradiction
+25600	aym	janiwa, ukhamarus janirakiw uñktti, janjaw amuyktti.	janiw sum yatktti ukata.	entailment
+25601	aym	janiwa, ukhamarus janirakiw uñktti, janjaw amuyktti.	janipuniw kuns uñktti munasiñanakata.	neutral
+25602	aym	janiwa, ukhamarus janirakiw uñktti, janjaw amuyktti.	akx walja maranakaw yatistaskayata.	contradiction
+25603	aym	jisa, jumax yattaw jupax kusatapxa.	amuyasismachjiwa jupax kusatapxa.	neutral
+25604	aym	jisa, jumax yattaw jupax kusatapxa.	janiw, jupax axtañanwa.	contradiction
+25605	aym	jisa, jumax yattaw jupax kusatapxa.	jisa, jupax sumajaqinwa.	entailment
+25606	aym	jisa, jupax arsthawarakiwa mä frijuna alaqt´aña, kawkirtix jupax apnaqkaspa ukhama.	arst´awarakiwa mä t´una apthapiri alaña.	contradiction
+25607	aym	jisa, jupax arsthawarakiwa mä frijuna alaqt´aña, kawkirtix jupax apnaqkaspa ukhama.	arst´awarakiwa mä frijuna jikxataña.	entailment
+25608	aym	jisa, jupax arsthawarakiwa mä frijuna alaqt´aña, kawkirtix jupax apnaqkaspa ukhama.	mä uraq phiskuñampiw wil phiskuqañ munana.	neutral
+25609	aym	akanx taqikunapuniw jan walikiti, k´añask thak tiskuwinxa illaptasiwiw utjawayi, kimsa manzano aka utasat ukhana.	illapt´asiwinakax mä patak millas ukhankanwa kawkirintix jak ukhatxa.	contradiction
+25610	aym	akanx taqikunapuniw jan walikiti, k´añask thak tiskuwinxa illaptasiwiw utjawayi, kimsa manzano aka utasat ukhana.	illapt´asiwinakasti utax jak´ankanwa, ukhamat asxarayatwa anqar mistsuña.	neutral
+25611	aym	akanx taqikunapuniw jan walikiti, k´añask thak tiskuwinxa illaptasiwiw utjawayi, kimsa manzano aka utasat ukhana.	ilapt´asiwinakaw utax jak´an utjawayi, kawkitix nan jakañaxachi ukhas janipuniw kusakiti.	entailment
+25612	aym	chiqas ukax janipuniw chiqakiti.	janiw jumamp chiqaktti, sapurupuniwa.	contradiction
+25613	aym	chiqas ukax janipuniw chiqakiti.	amuyarktwa jupax chiqaskatapa jan qarjasisa.	neutral
+25614	aym	chiqas ukax janipuniw chiqakiti.	wali amuyt´anirakitawa kunalaykutix jumax qarjasktawa.	entailment
+25615	aym	khayan qhipaqtañ munasktwa.	ukar katthapisiñ munaskta.	entailment
+25616	aym	khayan qhipaqtañ munasktwa.	chiqpachans nayax kunti lurañ atxa ukpin sum lurasktxa.	neutral
+25617	aym	khayan qhipaqtañ munasktwa.	sarani¿ukuchxarakiw, ukampirust janipuniw qhipax uñtkati.	contradiction
+25618	aym	jisa, kunjamasa anitumaxa.	anitumax mä suma anituwa.	neutral
+25619	aym	jisa, kunjamasa anitumaxa.	kunjam phissa aptasiniwaytta.	contradiction
+25620	aym	jisa, kunjamasa anitumaxa.	kunjamas urqu anamax waynt´atpachaki ukaxa.	entailment
+25621	aym	ukhamasti, wawanakanitwa sawaraktawa, qhawqha maraninaka.	qhawqha wawanitasa.	neutral
+25622	aym	ukhamasti, wawanakanitwa sawaraktawa, qhawqha maraninaka.	chuym ch´allxtayista jan wawak qhipaktañamaxa.	contradiction
+25623	aym	ukhamasti, wawanakanitwa sawaraktawa, qhawqha maraninaka.	wawanakanitwa sawaraktawa, qhawqha maraninakasa.	entailment
+25624	aym	inas jan wali ch´ikhinakakchinsa taqit sipansa, ukampirus, wali munasiñanipxanwa, akasti… wal chuym wayusipxana yatichañataki khitinakatix yatiqañ munapkana jupanakataki.	inapun jan ch´ikhinakakchinsa taqit sipansa, ukhamarus wali munasiñanipxanwa, jupanakasti wal yatichan munapxana khitinakatix yatiqañ munapkana jupanakaru.	entailment
+25625	aym	inas jan wali ch´ikhinakakchinsa taqit sipansa, ukampirus, wali munasiñanipxanwa, akasti… wal chuym wayusipxana yatichañataki khitinakatix yatiqañ munapkana jupanakataki.	wali ch´ikhinakapunipxanwa, ukhamarus janis kunapkaspa ukhaw uñicht´asipxana jan uñt´atanakaparu.	neutral
+25626	aym	inas jan wali ch´ikhinakakchinsa taqit sipansa, ukampirus, wali munasiñanipxanwa, akasti… wal chuym wayusipxana yatichañataki khitinakatix yatiqañ munapkana jupanakataki.	wali suma qhanapxanwa, ukampis uñisipxanwa khititix wal ch´amanchasina yatiqañataki.	contradiction
+25627	aym	mä kutix uka utaruw sarapta, ukansti, kutt´anipxayatwa mä phunchhawita, ukat kamapamitpacharuw lusa qhananak aqatatayapta, ukat mä añatuyaw utjarakina.	añathuyasti nanakar kampamitur kutt´añax suyaskatayna.	neutral
+25628	aym	mä kutix uka utaruw sarapta, ukansti, kutt´anipxayatwa mä phunchhawita, ukat kamapamitpacharuw lusa qhananak aqatatayapta, ukat mä añatuyaw utjarakina.	kampamintun lusa qhananak jiwarayxasinti mä chiwumpiw tupantapta.	contradiction
+25629	aym	mä kutix uka utaruw sarapta, ukansti, kutt´anipxayatwa mä phunchhawita, ukat kamapamitpacharuw lusa qhananak aqatatayapta, ukat mä añatuyaw utjarakina.	kunasatix phunchhawit kutt´anxaptxa, mä añathuyampiw tupantapta.	entailment
+25630	aym	mmm, taqpach wawanakaxax ch´ikhikamakiwa, wali kusanaka, ukhamarus amuyaraktwajupanakax janiw jilirt wawanakat kuns yatiqapkiti, ukhamarus.	yaqha jilirt wawanakat yatiqapxi, ukhamarus taqi wilamasinakaxat jutirinaka.	entailment
+25631	aym	mmm, taqpach wawanakaxax ch´ikhikamakiwa, wali kusanaka, ukhamarus amuyaraktwajupanakax janiw jilirt wawanakat kuns yatiqapkiti, ukhamarus.	kunti wal yatipki wawanakaxar ukat wal chuyma jachhañt´asiritwa.	neutral
+25632	aym	mmm, taqpach wawanakaxax ch´ikhikamakiwa, wali kusanaka, ukhamarus amuyaraktwajupanakax janiw jilirt wawanakat kuns yatiqapkiti, ukhamarus.	Nayan wawanakaxax chixpachans jan amuyt´asirinakapuniwa.	contradiction
+25633	aym	q´añunaktix sumpun takthapsna ukax jisk´aruw q´ipichtsna, ukatx jan sinti ñanqhachasksnati jiwasanakatix q´añunak jan sinti apnaqsna ukja.	mä tupti q´añunakatakix uskusna ukaw wali kusax jan walja q´añuchxañatakixa.	entailment
+25634	aym	q´añunaktix sumpun takthapsna ukax jisk´aruw q´ipichtsna, ukatx jan sinti ñanqhachasksnati jiwasanakatix q´añunak jan sinti apnaqsna ukja.	jaqinakax janiw llakisipxañapakiti q´añunakata kunjams laq´ar tukxpacha ukatxa.	contradiction
+25635	aym	q´añunaktix sumpun takthapsna ukax jisk´aruw q´ipichtsna, ukatx jan sinti ñanqhachasksnati jiwasanakatix q´añunak jan sinti apnaqsna ukja.	jaqinakax amuyt´asxapxañapawa qhawqpuns q´añunak jaxtapxi ukanaka.	neutral
+25636	aym	ukhamatix mä jan wali utjchi, juman jan walimawa, uk amuyta.	jan llakisimti, mä jan waliti utjchi, yanapt´aw juparu juchanchaña.	contradiction
+25637	aym	ukhamatix mä jan wali utjchi, juman jan walimawa, uk amuyta.	mä jan walitix utjchi juman juchamawa.	entailment
+25638	aym	ukhamatix mä jan wali utjchi, juman jan walimawa, uk amuyta.	jumatix pantjasiniwaysta, jupatx katxasiñamawa.	neutral
+25639	aym	yattati… juk´am sums, ch´pukthapiñanak kunatix mä suma k´achacht´awi uñtayki ukanakxa.	ch´ukthapiñanakax wali q´apha amparaninakatakiwa.	entailment
+25640	aym	yattati… juk´am sums, ch´pukthapiñanak kunatix mä suma k´achacht´awi uñtayki ukanakxa.	sinti laqa lurataw ch´ukthapiwinakaxa, ukat janiw sum uñnaqkiti.	contradiction
+25641	aym	yattati… juk´am sums, ch´pukthapiñanak kunatix mä suma k´achacht´awi uñtayki ukanakxa.	sinti jayapuniw uñasxapxi ch´ukuñanak tukuyxañataki.	neutral
+25642	aym	jisa, jisa, irnaqawixanx qallta ukhax pä simanaw churaptam ukhamarus sapa mararakiw mä uru yaqha churaptam kunaskamatix pusi simananak purinxi ukhakama.	sapa maraw pachanakamax jach´aptaski.	entailment
+25643	aym	jisa, jisa, irnaqawixanx qallta ukhax pä simanaw churaptam ukhamarus sapa mararakiw mä uru yaqha churaptam kunaskamatix pusi simananak purinxi ukhakama.	pachanakamax janipuniw kimsurut jilarkaspati.	contradiction
+25644	aym	jisa, jisa, irnaqawixanx qallta ukhax pä simanaw churaptam ukhamarus sapa mararakiw mä uru yaqha churaptam kunaskamatix pusi simananak purinxi ukhakama.	samart´aw pachanakamax jilxatxiwa irnaqawinakamarjama uka markana.	neutral
+25645	aym	ukaw kusax jila maranak aka markan jakatasaxa, janiw kuna akanakats llakisiñamakiti.	uka markankasax sapur asxarañampiw jakta ukirinakata.	contradiction
+25646	aym	ukaw kusax jila maranak aka markan jakatasaxa, janiw kuna akanakats llakisiñamakiti.	aka markankasax kusaw jakañaxa kunalaykutix ukirinakat janiw llakisiñakiti.	entailment
+25647	aym	ukaw kusax jila maranak aka markan jakatasaxa, janiw kuna akanakats llakisiñamakiti.	Pata uraqinakanx wali kusawa jan llakisisa jakaña ukhamawa.	neutral
+25648	aym	tatitu. Ukax mä kusa lurawjamaw amuyasi.	ukax amuyasirakiwa wali k´uchirt´awi jan ukax sinti jan wali k´uchirt´awi.	neutral
+25649	aym	tatitu. Ukax mä kusa lurawjamaw amuyasi.	ukax ist´asiwa mä suma lurawi.	entailment
+25650	aym	tatitu. Ukax mä kusa lurawjamaw amuyasi.	amuyasirakiwa mä jan suma jakawi.	contradiction
+25651	aym	jichhax mä kullakaw Alemania uksan utjitu.	jichhakamax mä jilaxaw Alemania uksanx jaki.	entailment
+25652	aym	jichhax mä kullakaw Alemania uksan utjitu.	mä kullakaxaw Cuba markan añchhitpach jakir utjitu.	contradiction
+25653	aym	jichhax mä kullakaw Alemania uksan utjitu.	mä kullakaxax alemán arsuriw utjitu.	neutral
+25654	aym	jichhas mä jukham jiskha wawaw utjitu, ch´amarakiw khayar apaña, ukalaykuw, ukat saraw kha, ….	inapun imill wawax khayar apanchi.	neutral
+25655	aym	jichhas mä jukham jiskha wawaw utjitu, ch´amarakiw khayar apaña, ukalaykuw, ukat saraw kha, ….	mawk ch´amjamaw imill wawaj khayar apañaxa.	entailment
+25656	aym	jichhas mä jukham jiskha wawaw utjitu, ch´amarakiw khayar apaña, ukalaykuw, ukat saraw kha, ….	jichhakuchaw k´añask q´iwiñ yatta, imill wawataxax kunjamats akar purinxaniwa.	contradiction
+25657	aym	jisa, mä suma jallupacha utjpan jumataki.	jallupach samart´awimax janis kusakpan.	contradiction
+25658	aym	jisa, mä suma jallupacha utjpan jumataki.	chiqapuniw jallupachas jak´achasinxi.	neutral
+25659	aym	jisa, mä suma jallupacha utjpan jumataki.	jisa, mä suma kusiskaw jallupacha utjpan jumataki.	entailment
+25660	aym	jiwasanakax janiw chiqpach akapar muniriktanti ni ukhamarus ni kun.	chiqpachansa, janiw nänakax aka pacha muniripkti.	entailment
+25661	aym	jiwasanakax janiw chiqpach akapar muniriktanti ni ukhamarus ni kun.	nänakax chiqpach aka pachar muniriptwa, ukatx p´inqachataw uñjasipta jan ukhan lup´irinakampi.	contradiction
+25662	aym	jiwasanakax janiw chiqpach akapar muniriktanti ni ukhamarus ni kun.	walipuniw kusisipxirista mä urutix p´iqinchapxirista aka pachar munasiña ukxa, anchhasti janirapktwa.	neutral
+25663	aym	jisa. Achilanakaxar amthaptwa, jupanakax anqar mistsusax q´añu latanak palthapipxirina.	mä qhawqhaniw tantacht´asipxirina q´añunak anq´ax thakhinakat pichthapiñataki.	neutral
+25664	aym	jisa. Achilanakaxar amthaptwa, jupanakax anqar mistsusax q´añu latanak palthapipxirina.	nayax yanapt´iriyatwa achilanakaxaru, kunjamtix nayax k´añask thak t´ikurin ukhanakat lata q´añunak apthapinirïta.	entailment
+25665	aym	jisa. Achilanakaxar amthaptwa, jupanakax anqar mistsusax q´añu latanak palthapipxirina.	awkixan utaparuw q´ayacht´asir sarapxiriyata.	contradiction
+25666	aym	ukhamax akax janiy nayrir jakawikitix mä anumpixa.	amuytkawjamax akax janiy nayrir pachakitixa mä anumpixa.	entailment
+25667	aym	ukhamax akax janiy nayrir jakawikitix mä anumpixa.	p´amp´acht´itataw, janiw yatkayatti nayriritapxa mä anur uñjatapaxa.	contradiction
+25668	aym	ukhamax akax janiy nayrir jakawikitix mä anumpixa.	akas naniy nayrirpachakiti uta uywanak apnaqatapaxa.	neutral
+25669	aym	jisa, jisa, jan lurkamti taqi ch´amt´awi.	tukuy jakawiwk jisxitasmawa.	neutral
+25670	aym	jisa, jisa, jan lurkamti taqi ch´amt´awi.	janiw taqikuns lurañamakiti.	entailment
+25671	aym	jisa, jisa, jan lurkamti taqi ch´amt´awi.	taqpach lurawinakat mist´añ munta.	contradiction
+25672	aym	ay ampi, nayax aka uraqit khurin jakta.	janiw nayax pata uraqin jaktti.	entailment
+25673	aym	ay ampi, nayax aka uraqit khurin jakta.	nayax jaktwa niya jakpachana campus ukhana.	neutral
+25674	aym	ay ampi, nayax aka uraqit khurin jakta.	nayax campus ukan jakta.	contradiction
+25675	aym	nayax janiw kuna kuchaniktsa khititix mä chachax warmipar tumim jununtawayi ukhamat jakawip apaqawayi, warmipasti yaqha chachampiw ikintatayna, sañ munta nayrir warmipa, jichhaw arusisktan.	mä chachax warmipar jiwayawayi yaqha chacham ikintatapata unasatix jupar jan juchanchawapki mä juchanchawipata.	entailment
+25676	aym	nayax janiw kuna kuchaniktsa khititix mä chachax warmipar tumim jununtawayi ukhamat jakawip apaqawayi, warmipasti yaqha chachampiw ikintatayna, sañ munta nayrir warmipa, jichhaw arusisktan.	mä jan walt´awit mä chachax qhispitanwa jan walt´atapat sistima uka, ukat uka chachax saratayna nayrir warmiparu ukat jiwayarakitayna.	neutral
+25677	aym	nayax janiw kuna kuchaniktsa khititix mä chachax warmipar tumim jununtawayi ukhamat jakawip apaqawayi, warmipasti yaqha chachampiw ikintatayna, sañ munta nayrir warmipa, jichhaw arusisktan.	warmipasti amuyataynawa chachapax wiñayas watañ utan jist´antatachispana ukhama.	contradiction
+25678	aym	ukax mä qulqi imasiñakaspasa payllawimpi ukhamawa.	janipuniw kunas utjkituti ukamp chikancht´ayañaxa.	contradiction
+25679	aym	ukax mä qulqi imasiñakaspasa payllawimpi ukhamawa.	mä qulqi imañ sapaki ukhamaruw uñtasi.	entailment
+25680	aym	ukax mä qulqi imasiñakaspasa payllawimpi ukhamawa.	qulqi imatas paninpachan ukha ukhachispaya.	neutral
+25681	aym	wills Point ukhatarakinwa, inas yatsta.	janiw sum yatkti, Will Point inas iststa.	entailment
+25682	aym	wills Point ukhatarakinwa, inas yatsta.	Wills Point jupatx ist´aniwaytwa.	neutral
+25683	aym	wills Point ukhatarakinwa, inas yatsta.	Cambridge uksatawa.	contradiction
+25684	aym	pachatupuxat arusisksma, taxpach sapatuxankanawa ukhamarux q´a wawkhanakanx ina janqukiw tukuwayxi.	uraqiruw tuqnuqäna, sapatunakaxasti q´umakiskarakinawa.	contradiction
+25685	aym	pachatupuxat arusisksma, taxpach sapatuxankanawa ukhamarux q´a wawkhanakanx ina janqukiw tukuwayxi.	wali thithiñjamanawa kunasatix sapatuxar imantawayki ukhaxa.	neutral
+25686	aym	pachatupuxat arusisksma, taxpach sapatuxankanawa ukhamarux q´a wawkhanakanx ina janqukiw tukuwayxi.	saptunakaxasti akam imantatanawa.	entailment
+25687	aym	munasiñakaspas ukhan uk lurapxi, p´iq´inchiriwkan amuyupax walinawa.	janipuniw chuymaxax wayuskituti mä jilir p´iqtawiñatakixa.	contradiction
+25688	aym	munasiñakaspas ukhan uk lurapxi, p´iq´inchiriwkan amuyupax walinawa.	p´iqinchiriwkan amuyupax wali kusawa.	entailment
+25689	aym	munasiñakaspas ukhan uk lurapxi, p´iq´inchiriwkan amuyupax walinawa.	yaqha jaqinakax wali kusjam p´iqinchirin amuyupx amuyapxi.	neutral
+25690	aym	wali ch´ikhi amuyt´irjamay uñnaqayata.	wali kust´atjamaw uñnaqaspa.	neutral
+25691	aym	wali ch´ikhi amuyt´irjamay uñnaqayata.	wali jasakinawa ukat amuyasiñaxa.	entailment
+25692	aym	wali ch´ikhi amuyt´irjamay uñnaqayata.	k´achacht´pawix axtkañanwa.	contradiction
+25693	aym	mä ujan wisasanakan latanakas imasiyatan, wasunakawsti yaqha ujanraki, laphitawsti yaqha ujanraki, kunasatix akanakax phuqhaxanxa k´añaskutrakwa mä warankur warantir apayxaraktan.	wali ch´amaw laphi, qhispillu, latanaka jaljtarayxañaxa sapa mä uskutapatxa.	entailment
+25694	aym	mä ujan wisasanakan latanakas imasiyatan, wasunakawsti yaqha ujanraki, laphitawsti yaqha ujanraki, kunasatix akanakax phuqhaxanxa k´añaskutrakwa mä warankur warantir apayxaraktan.	laphiwkaw nayrir phuqt´irixa, ukharux latanaka, k´ipiriw qispillunakaxa.	neutral
+25695	aym	mä ujan wisasanakan latanakas imasiyatan, wasunakawsti yaqha ujanraki, laphitawsti yaqha ujanraki, kunasatix akanakax phuqhaxanxa k´añaskutrakwa mä warankur warantir apayxaraktan.	nanakax janiw kuns jaltayapkti, mä wayuñ saqañarukiw takthapipta.	contradiction
+25696	aym	Locus Hill, jisa, ukampuniskiwa, kusapuni.	Locust Hill kusapuniwa.	neutral
+25697	aym	Locus Hill, jisa, ukampuniskiwa, kusapuni.	janiw, Locust Hill janipuniwa.	contradiction
+25698	aym	Locus Hill, jisa, ukampuniskiwa, kusapuni.	jisa, ukapuniw chiqaxa, Locust Hill.	entailment
+25699	aym	Césped Bermuda akhan utjitu, ukampirus walpin umax munasini jumatix mä suma ch´uxña pamjam uñjañ munsta ukhaxa.	Césped Bermuda ukanakasti sinti irnaqaw mayiraki.	neutral
+25700	aym	Césped Bermuda akhan utjitu, ukampirus walpin umax munasini jumatix mä suma ch´uxña pamjam uñjañ munsta ukhaxa.	Césped kawkirinkirinakatixa Islas Bermudas puripxarakispawa mä suma aski unñaqt´an suma ch´uxña pamjam.	entailment
+25701	aym	Césped Bermuda akhan utjitu, ukampirus walpin umax munasini jumatix mä suma ch´uxña pamjam uñjañ munsta ukhaxa.	Césped Bermuda ukx waxt´añapakiw mawk mawk ukhamankjama.	contradiction
+25702	aym	mä jan nikilani, ukax niya pachpacharakiw kimsa tunka cintawus iraqt´atakaspas suxta wutillata ukjawa. Takinirakipuniw qurpa tukuyx mantanipxaraki jaxu umanak chani iraqtátar alasiñataki.	mä t´ixpachax kimsa tunka cintawus ukhaw chanit iraqt´ata qurpa tukuy ukkatanxa.	entailment
+25703	aym	mä jan nikilani, ukax niya pachpacharakiw kimsa tunka cintawus iraqt´atakaspas suxta wutillata ukjawa. Takinirakipuniw qurpa tukuyx mantanipxaraki jaxu umanak chani iraqtátar alasiñataki.	walja jaqinakarakiw qurpa tukuy makhatapxaraki jaxu umanak chani iraqt´atar alasipxañataki.	neutral
+25704	aym	mä jan nikilani, ukax niya pachpacharakiw kimsa tunka cintawus iraqt´atakaspas suxta wutillata ukjawa. Takinirakipuniw qurpa tukuyx mantanipxaraki jaxu umanak chani iraqtátar alasiñataki.	wulillankax juk´am jilaw chaninakapaxa qurpa tukuy ukkatanxa.	contradiction
+25705	aym	jisa, istsmawa.	jupax wali tujipuniskiwa jan nay is´añaxatakixa.	entailment
+25706	aym	jisa, istsmawa.	janiw ist´añ atsmati.	contradiction
+25707	aym	jisa, istsmawa.	ist´asmachjmaw.	neutral
+25708	aym	sapa mä pank alktax ukhax, mä suma pank alaqt´awi, ukan chaniparux tunka pur sintu (10%) jilqhattaytax impustutaki (para impuestos).	sinti jilapuniw tunka pusinto (10%) impustu (impuesto) phuqañaxa.	neutral
+25709	aym	sapa mä pank alktax ukhax, mä suma pank alaqt´awi, ukan chaniparux tunka pur sintu (10%) jilqhattaytax impustutaki (para impuestos).	sapamanpinwa jilxattaytax tunka pusintu kunanakantix alkta ukhamarak chanip uñxatkasasa.	entailment
+25710	aym	sapa mä pank alktax ukhax, mä suma pank alaqt´awi, ukan chaniparux tunka pur sintu (10%) jilqhattaytax impustutaki (para impuestos).	janipuniw tupthañamakiti impustunaka (impuestos) qhipa chaninak uskuñatakixa.	contradiction
+25711	aym	ukas janiw kusjamkiti, ukampirus ukanakax uñancht´ayaw tuqiw lurasiraki.	janiw sinti uñjaskiti.	entailment
+25712	aym	ukas janiw kusjamkiti, ukampirus ukanakax uñancht´ayaw tuqiw lurasiraki.	sapurunjamawa.	contradiction
+25713	aym	ukas janiw kusjamkiti, ukampirus ukanakax uñancht´ayaw tuqiw lurasiraki.	janiw sumjamakiti jaqinakax ukhan uñtasipxatapaxa.	neutral
+25714	aym	ukaw ampawipax lurañataki, ukhamapan uk suyaskta.	kuntix jupax amtki lurañxa uka lurañap suyaskta.	entailment
+25715	aym	ukaw ampawipax lurañataki, ukhamapan uk suyaskta.	wali kusisiñaniw jupatakix kunti amtki lurañ luran ukha.	neutral
+25716	aym	ukaw ampawipax lurañataki, ukhamapan uk suyaskta.	Janiw uk lurañ amtkiti.	contradiction
+25717	aym	chiqansa, machaq kamachinakampix jichax ch´amaxiwa ukat saskayäta.	Chiqanak jan uñtkasax kamichinakax janiw arxatkiti ukhamarus sinti jaya maranixaxpas, ukhamaw amuyasi.	contradiction
+25718	aym	chiqansa, machaq kamachinakampix jichax ch´amaxiwa ukat saskayäta.	Ukhamawa, walpin qhiparaway chiqar kuttañatakixa.	neutral
+25719	aym	chiqansa, machaq kamachinakampix jichax ch´amaxiwa ukat saskayäta.	chiqans chiqapapuni, machaq k´achacjt´aw amptampis amptapchi, jichhas jukham ch´amaxiwa.	entailment
+25720	aym	Golly, jupax janiw kuna sarawinaks phuqawaykiti ukax nayarux janiw kunans jan walt´ayawaykituti, ukhamarus takisiskamaw jank´ak alisnukupxi.	jupax taqi kamachinak p´akintawayi.	entailment
+25721	aym	Golly, jupax janiw kuna sarawinaks phuqawaykiti ukax nayarux janiw kunans jan walt´ayawaykituti, ukhamarus takisiskamaw jank´ak alisnukupxi.	jupax taqi kamachinak puqhawayi, ukampirus jaxtatanwa.	contradiction
+25722	aym	Golly, jupax janiw kuna sarawinaks phuqawaykiti ukax nayarux janiw kunans jan walt´ayawaykituti, ukhamarus takisiskamaw jank´ak alisnukupxi.	jupax saraskañapanwa kunakitix thakix ukxa.	neutral
+25723	aym	jisa, janjamaw atiskaniti, chiqapunixaya.	janiw pä chuymt´añax utjkituti, akhax jank´aw pasani.	contradiction
+25724	aym	jisa, janjamaw atiskaniti, chiqapunixaya.	chiqansipansa janis pasañakaspa ukhamaw amuyasi.	entailment
+25725	aym	jisa, janjamaw atiskaniti, chiqapunixaya.	Jisa, jich janiw ukhamakaspati, ukhamarus suyt'awix lurasiñapawa.	neutral
+25726	aym	Wachington, Buffalo Nueva Orleans, ukatxa Chicago ukanakax jan atipjayasisaw sarantasipki, Chicagokiw päkut atipjayasi, ukxa Buffalo uksankirinakaw atipjawayapxi.	Buffalox wali suma anatirinakanipuniwa.	neutral
+25727	aym	Wachington, Buffalo Nueva Orleans, ukatxa Chicago ukanakax jan atipjayasisaw sarantasipki, Chicagokiw päkut atipjayasi, ukxa Buffalo uksankirinakaw atipjawayapxi.	Chicagox Buffalo uksankirinakampiw atipjayasiwayapxi.	entailment
+25728	aym	Wachington, Buffalo Nueva Orleans, ukatxa Chicago ukanakax jan atipjayasisaw sarantasipki, Chicagokiw päkut atipjayasi, ukxa Buffalo uksankirinakaw atipjawayapxi.	Washinton uksankirinakax janipuniw ni mays atipapkiti.	contradiction
+25729	aym	um, um ,um, jisa isinakax impuestonakanixiwa.	Isinakax janiw impuestonakanipkiti.	contradiction
+25730	aym	um, um ,um, jisa isinakax impuestonakanixiwa.	Uka impuestox aljañanakxarux wali jilapuniwa.	neutral
+25731	aym	um, um ,um, jisa isinakax impuestonakanixiwa.	Uka tamanakax impuestos ukhamanakaniw aljatanakaruxa.	entailment
+25732	aym	ay ukhamax sum uñjasktxa, uka utachatax jiwakipuniwa.	Uka utachatax jiwakipuniwa.	entailment
+25733	aym	ay ukhamax sum uñjasktxa, uka utachatax jiwakipuniwa.	Akawjan jan wali amuyunak utjayirix janiw walikiti.	contradiction
+25734	aym	ay ukhamax sum uñjasktxa, uka utachatax jiwakipuniwa.	Akawjanx janiw sum jikxataskti, ukat jan jutañ munkti.	neutral
+25735	aym	Mmm mä yuqallamp mä tunka kimsaqallqun phaxsin imillampiw utjitu.	Walja maranakanïtwa.	contradiction
+25736	aym	Mmm mä yuqallamp mä tunka kimsaqallqun phaxsin imillampiw utjitu.	Mä imill wawanïtwa, ukat mä tunka kimsaqallqun imill wawanirakitwa.	entailment
+25737	aym	Mmm mä yuqallamp mä tunka kimsaqallqun phaxsin imillampiw utjitu.	Walja wawanïñ muniristha.	neutral
+25738	aym	payïr anu qallux anu qallunak wawachkis ukatawa, uka mä urqu anuqallux laka t'ijininawa.	Jupax janiw anu qallunakanikanati.	contradiction
+25739	aym	payïr anu qallux anu qallunak wawachkis ukatawa, uka mä urqu anuqallux laka t'ijininawa.	Urqu anu qallux lka t'ijininawa, payïr anu qallux t'una taypinakat aptanitanawa.	entailment
+25740	aym	payïr anu qallux anu qallunak wawachkis ukatawa, uka mä urqu anuqallux laka t'ijininawa.	8 qallqu anuqallunak wawachatayna, urqukis ukakiw laka t'ijinitayna.	neutral
+25741	aym	Uu ukhamax kuntix jisktax ukax ukarjamaya.	Ukhamax ukawjat jawsamaxa?	entailment
+25742	aym	Uu ukhamax kuntix jisktax ukax ukarjamaya.	Wali jaya markatpach jawsasinki.	neutral
+25743	aym	Uu ukhamax kuntix jisktax ukax ukarjamaya.	Janiw ukhatpach jawsanktati.	contradiction
+25744	aym	Qhanpachanxa, janiw yatkti, kunalaykutix janiw taqpach isinak apkti, chiqpachansa.	Janiw sapakutis ist'askti.	entailment
+25745	aym	Qhanpachanxa, janiw yatkti, kunalaykutix janiw taqpach isinak apkti, chiqpachansa.	Sum sum ist'asiñaw munasitu.	neutral
+25746	aym	Qhanpachanxa, janiw yatkti, kunalaykutix janiw taqpach isinak apkti, chiqpachansa.	Sapa kutipuniw ist'astxa.	contradiction
+25747	aym	Europa musiyunakar sartati?	Europ musiyunak uñt'tati?	entailment
+25748	aym	Europa musiyunakar sartati?	Canadanx mä musiys uñjantati?	contradiction
+25749	aym	Europa musiyunakar sartati?	Amuyajatxa, Europa sarañax walpun munasiyätamxa.	neutral
+25750	aym	Ukhan kusakisktawa, kuns kamisitamat amuyi, nayas amuytxa, uk yattati?	Chachamatakix uka kamisitax jiwakiti?	entailment
+25751	aym	Ukhan kusakisktawa, kuns kamisitamat amuyi, nayas amuytxa, uk yattati?	Uka wistirumat kamsis kullakamaxa?	contradiction
+25752	aym	Ukhan kusakisktawa, kuns kamisitamat amuyi, nayas amuytxa, uk yattati?	Uka kamisitamax wali jiwakiwa.	neutral
+25753	aym	Um, janiw wali suma aluminyuñapakiti, thuru aluminyukiñapawa.	Wali juk'a chanin mitalatakinawa.	entailment
+25754	aym	Um, janiw wali suma aluminyuñapakiti, thuru aluminyukiñapawa.	Antat luratkamakinawa.	contradiction
+25755	aym	Um, janiw wali suma aluminyuñapakiti, thuru aluminyukiñapawa.	Wali suma jan kamskay phujunakanawa.	neutral
+25756	aym	Ukat sustjaskakituwa.	Mä juk'it mulljatanawa.	neutral
+25757	aym	Ukat sustjaskakituwa.	Mulljatakiskayätwa.	entailment
+25758	aym	Ukat sustjaskakituwa.	Janiw mulljkituti	contradiction
+25759	aym	Payïr uñakipxa qawqhpuns payllapxani, uk uñakipiristxa.	Kunatix jupanakatak katuñjamakixa ukarakispawa.	entailment
+25760	aym	Payïr uñakipxa qawqhpuns payllapxani, uk uñakipiristxa.	Janiw kunakisa, kunxay payllan munapxchi.	contradiction
+25761	aym	Payïr uñakipxa qawqhpuns payllapxani, uk uñakipiristxa.	Juk'ampisa, janiw juk'amp iyawsataxaspati.	neutral
+25762	aym	Ukhamaxa, janiw amtaskti, ukhamjamakinawa, ukhamarus janispawa, ukhamach kunjampunichi.	Janiw ukhampuniw jiskiristi, inas ukhamaskchi.	entailment
+25763	aym	Ukhamaxa, janiw amtaskti, ukhamjamakinawa, ukhamarus janispawa, ukhamach kunjampunichi.	Janiw kuns sint amtaskti, wasayp'ux walja jaxu umpun umantatäta.	neutral
+25764	aym	Ukhamaxa, janiw amtaskti, ukhamjamakinawa, ukhamarus janispawa, ukhamach kunjampunichi.	Kunatix uka arumax utjawayki taqi ukanakx sum sum amtasisktha.	contradiction
+25765	aym	Uka TV uñch'ukiñamamp jumampix, amuyatatx uka uñch'ukiñ lunthatanitatx jiwa katuqasmaxa-	Lunthatasitat jiwa katuqañax walikiskaspati?	neutral
+25766	aym	Uka TV uñch'ukiñamamp jumampix, amuyatatx uka uñch'ukiñ lunthatanitatx jiwa katuqasmaxa-	Jumax maynitix uka uñch'ukiñ lunthataschix ukhamax jiwa katuqañapax walikiskiti.	entailment
+25767	aym	Uka TV uñch'ukiñamamp jumampix, amuyatatx uka uñch'ukiñ lunthatanitatx jiwa katuqasmaxa-	Maynitix uka uñch'ukiñ lunthataschisa aliq ukham antutañakixaspati.	contradiction
+25768	aym	Uka quta laqax wali jiwakipuniwa, ukawjax wali kusapuniw sarañaxa, ukhamipanxa uka quta lakarux sapa kutis sarirjamätwa, jumatakisti?	Uka quta lakax wali suma q'uma, pichsuta ukhamawa, ukat sarañx muntha.	neutral
+25769	aym	Uka quta laqax wali jiwakipuniwa, ukawjax wali kusapuniw sarañaxa, ukhamipanxa uka quta lakarux sapa kutis sarirjamätwa, jumatakisti?	Kunawsatix kawki sarañas wakischixa, quta lakarupuniw sarthxa, wali jiwakipuniwa, jumax kawkirus sarañ yattha?	entailment
+25770	aym	Uka quta laqax wali jiwakipuniwa, ukawjax wali kusapuniw sarañaxa, ukhamipanxa uka quta lakarux sapa kutis sarirjamätwa, jumatakisti?	Amuyatajatx juk'amp kusaspaw ch'umi manqhar utjnuqasiñaxa.	contradiction
+25771	aym	Mä yatiyä uka manqhat apsunim.	Jan kuna yatiyäws yatiyamti.	contradiction
+25772	aym	Mä yatiyä uka manqhat apsunim.	Mä musq'a umañ yatiyä apsum.	neutral
+25773	aym	Mä yatiyä uka manqhat apsunim.	Coca Cola musq'a um umañxat apsum.	entailment
+25774	aym	Ukhamax juk'amp amuykipayita, ukhamax inas phisqha uru uka pistulanak katuñatakix suyt'añachispan, jan ukax ukanakax walikiskaspacha.	Amuyatamatx yaqhip jaqinakatakix phiqha uru suyañax askikiskaspati?	neutral
+25775	aym	Ukhamax juk'amp amuykipayita, ukhamax inas phisqha uru uka pistulanak katuñatakix suyt'añachispan, jan ukax ukanakax walikiskaspacha.	Taqi khitinakatix uka pistulanak alañ munapkix ukanakampix phisqha uruw jist'antañäspati?	entailment
+25776	aym	Ukhamax juk'amp amuykipayita, ukhamax inas phisqha uru uka pistulanak katuñatakix suyt'añachispan, jan ukax ukanakax walikiskaspacha.	Kunjamakis uka phisqha k'atanak janïr churkasiñ suyañaxa?	contradiction
+25777	aym	Kamachisa! Kunawsatix uka Cocker Sapniel ukaniyätxa, wali nuwasir anupuninawa, ukatjamak juk'amp munatäna, Kamachisa!	Amuyatatxa, mä utankir anuw juk'amp wakiskirixa, uka muyuyk anunakax janiw walikiti.	contradiction
+25778	aym	Kamachisa! Kunawsatix uka Cocker Sapniel ukaniyätxa, wali nuwasir anupuninawa, ukatjamak juk'amp munatäna, Kamachisa!	Uka kunayman anqar sarir anunakax jiwanakakiwa, taqi jupanakax janiw qhurunakapkiti.	neutral
+25779	aym	Kamachisa! Kunawsatix uka Cocker Sapniel ukaniyätxa, wali nuwasir anupuninawa, ukatjamak juk'amp munatäna, Kamachisa!	Uka anqar sarir muyuyk anunakax wakiskiriwa, uka Cocker Spaniel utjikitan ukapachpa.	entailment
+25780	aym	Amuyatatxa, aka paqallq urun taqi luratasanak uñakipapxani, ukhamat jan kuna wali jaqitams yatipxañanakapataki.	Uka nayra luratanakx janiw jank'ak lurañjamakiti.	neutral
+25781	aym	Amuyatatxa, aka paqallq urun taqi luratasanak uñakipapxani, ukhamat jan kuna wali jaqitams yatipxañanakapataki.	Uka nayr luratanak uñakipañax mä phaxsin uñakipasini.	contradiction
+25782	aym	Amuyatatxa, aka paqallq urun taqi luratasanak uñakipapxani, ukhamat jan kuna wali jaqitams yatipxañanakapataki.	Amuyatatxa uka nayra sarnaqatanak uñakipapxaniwa, taqi ukanakax paqallq uruniwa.	entailment
+25783	aym	Yatiyätati, nayatakix wali wakiskirispaw mä awyunar makhatañaxa, ukhamat puriñataki, ukhamarus sum qamarañataki.	Amuyatat juk'ampu kusasapanaw uksar awyunat puriñaxa.	neutral
+25784	aym	Yatiyätati, nayatakix wali wakiskirispaw mä awyunar makhatañaxa, ukhamat puriñataki, ukhamarus sum qamarañataki.	Jank'akipuniw awyunat saraqañ munxta, ukhamat purisin sum sum qamarañataki.	entailment
+25785	aym	Yatiyätati, nayatakix wali wakiskirispaw mä awyunar makhatañaxa, ukhamat puriñataki, ukhamarus sum qamarañataki.	Janipuniw awyunat sarkiristti.	contradiction
+25786	aym	Aka mä qawqha phaxsinakaxa, suxta uñakipirianakaw utjäna. Amtasitajarjamax tunka payan wali suma yatxatat k'uk'unak utjatap yatiyätxa, maysatxa uka jaqinakax wali chiqapanaka.	Uka tunka payan uñakipirinak utjäwipatx pantjatapunitätwa.	entailment
+25787	aym	Aka mä qawqha phaxsinakaxa, suxta uñakipirianakaw utjäna. Amtasitajarjamax tunka payan wali suma yatxatat k'uk'unak utjatap yatiyätxa, maysatxa uka jaqinakax wali chiqapanaka.	Uka uñakipirinakax tunka kimsanipuniwa.	contradiction
+25788	aym	Aka mä qawqha phaxsinakaxa, suxta uñakipirianakaw utjäna. Amtasitajarjamax tunka payan wali suma yatxatat k'uk'unak utjatap yatiyätxa, maysatxa uka jaqinakax wali chiqapanaka.	Taqpach jaqirus uka uñakipirinak taypitx ajllisismawa.	neutral
+25789	aym	Taqpach CEO uka mayacht'at tamachanakaxa, ukhamarak ukham munir jaqinakaruxa, ukhamat jupax wali amuyumpipuniw kunanakatix utjkäna ukanakx uka qullqichasiñ mayacht'atanakatx uñakipäna	Juparux janiw kunäkipans uka qullqi imañ utanakas ukhamarak mayt'ir utanakas chuymapankanati.	contradiction
+25790	aym	Taqpach CEO uka mayacht'at tamachanakaxa, ukhamarak ukham munir jaqinakaruxa, ukhamat jupax wali amuyumpipuniw kunanakatix utjkäna ukanakx uka qullqichasiñ mayacht'atanakatx uñakipäna	Juparux uka qullqi imañ utanakas ukhamarak mayt'ir utanakas chuymapankanawa.	entailment
+25791	aym	Taqpach CEO uka mayacht'at tamachanakaxa, ukhamarak ukham munir jaqinakaruxa, ukhamat jupax wali amuyumpipuniw kunanakatix utjkäna ukanakx uka qullqichasiñ mayacht'atanakatx uñakipäna	Juparux uka qullqi imañ utanakas ukhamarak mayt'ir utanakas kunjamats qullqichasipx ukat amuywaqaskäna	neutral
+25792	aym	Taqin jan pachanitapa, ukhamarak llakitapxatap yatiyätwa, ukat taqi jaqis jan walt'awiniwa, janirakiw qunthapipkiti, ukhamat taqi kunas walikiskaniw sasin aruskipapxi.	Jaqinakax jan walt'awinakapatak qunthapisinx aruskipasipki.	contradiction
+25793	aym	Taqin jan pachanitapa, ukhamarak llakitapxatap yatiyätwa, ukat taqi jaqis jan walt'awiniwa, janirakiw qunthapipkiti, ukhamat taqi kunas walikiskaniw sasin aruskipapxi.	Ukhamatxa, wali juk'an jaqikiw kunapunit akapachan jan walt'ayki ukatuqitx aruskipapxani.	neutral
+25794	aym	Taqin jan pachanitapa, ukhamarak llakitapxatap yatiyätwa, ukat taqi jaqis jan walt'awiniwa, janirakiw qunthapipkiti, ukhamat taqi kunas walikiskaniw sasin aruskipapxi.	Amuyatatx jaqix janjamakipuniw kuna jan walt'awinakatix utji, ukhamarak llakinakapatx parlapkiti.	entailment
+25795	aym	Brian en Plano, Texas, jichhürux kamisakisktasa?	Mariya kamisakisktasa?	contradiction
+25796	aym	Brian en Plano, Texas, jichhürux kamisakisktasa?	Kunjamakiskis urumaxa?	entailment
+25797	aym	Brian en Plano, Texas, jichhürux kamisakisktasa?	Plano, Texas ukawjax wali muspañjamawa.	neutral
+25798	aym	Amuyatatsa, mmm…ukhamax ch'axwañak q'ipisinki.	Ch'axwañak jupax sapakutis q'ipisinki.	entailment
+25799	aym	Amuyatatsa, mmm…ukhamax ch'axwañak q'ipisinki.	Wali llamp'ukipuniwa, janiw jan walt'aykiti.	contradiction
+25800	aym	Amuyatatsa, mmm…ukhamax ch'axwañak q'ipisinki.	Yaqhip jawinakax walpun jan walt'awinakx uñstayapxi.	neutral
+25801	aym	Jisa, ukpun jichhürux luraniwaytha, Darkman ukaruw apaytha, uñjtati uu janit uñjkta, amuyatatx aka arumaw uñjä.	Darkman juparux 4 kutiw uñjxtha.	contradiction
+25802	aym	Jisa, ukpun jichhürux luraniwaytha, Darkman ukaruw apaytha, uñjtati uu janit uñjkta, amuyatatx aka arumaw uñjä.	Janiraw Darkman juparux uñjkti, ukhamipanx jichha arumaw uñjir sarañatak amuytha.	entailment
+25803	aym	Jisa, ukpun jichhürux luraniwaytha, Darkman ukaruw apaytha, uñjtati uu janit uñjkta, amuyatatx aka arumaw uñjä.	Darkman ukax wali kusa uñtañaw sir ist'xa.	neutral

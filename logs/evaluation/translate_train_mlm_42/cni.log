@@ -1,0 +1,26 @@
+2021-10-05 19:22:24,514 [INFO] Number of GPUs available: 1
+2021-10-05 19:22:38,769 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/translate_train_mlm/translate_train_mlm_cni_42/final_model/
+2021-10-05 19:22:43,337 [INFO] Example 0 for cni lang: ('Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.', 'Tee noñatajeriji.', 0)
+2021-10-05 19:22:43,337 [INFO] Example 1 for cni lang: ('Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.', 'Ikisanaka iroosati noñaatanatantajari.', 2)
+2021-10-05 19:22:43,337 [INFO] Example 2 for cni lang: ('Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.', 'Nokenketsajeitake.', 1)
+2021-10-05 19:22:43,337 [INFO] Pred loop key: cni
+2021-10-05 19:22:43,337 [INFO] Number of examples: 750
+2021-10-05 19:22:43,337 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-10-05 19:22:43,338 [INFO] Pretokenizing...
+2021-10-05 19:22:43,545 [INFO] ----------------------------------
+2021-10-05 19:22:43,556 [INFO] Example 0 for cni lang: ('Iriori ikantiro: Ina, nosaiki pankotsiki.', 'Ikajemakero iriniro ojokantanakariri shiakomentotsi ayeetiriri obamerentsi.', 1)
+2021-10-05 19:22:43,556 [INFO] Example 1 for cni lang: ('Iriori ikantiro: Ina, nosaiki pankotsiki.', 'Iriori tekatsi ikantanake aparo ñaantsi.', 0)
+2021-10-05 19:22:43,556 [INFO] Example 2 for cni lang: ('Iriori ikantiro: Ina, nosaiki pankotsiki.', 'Ikantiro iriniro yaretaja pankotsiki.', 2)
+2021-10-05 19:22:43,556 [INFO] Pred loop key: cni
+2021-10-05 19:22:43,556 [INFO] Number of examples: 658
+2021-10-05 19:22:43,556 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-10-05 19:22:43,556 [INFO] Pretokenizing...
+2021-10-05 19:22:43,741 [INFO] ----------------------------------
+2021-10-05 19:22:49,770 [INFO] Language: cni
+2021-10-05 19:22:49,772 [INFO] Test accuracy: 42.27
+2021-10-05 19:22:49,772 [INFO] Eval accuracy: 44.38
+2021-10-05 19:22:49,772 [INFO] ---------------------------------
+2021-10-05 19:22:49,772 [INFO] All scores:
+2021-10-05 19:22:49,772 [INFO] Test: 42.27
+2021-10-05 19:22:49,772 [INFO] Eval: 44.38
+2021-10-05 19:22:49,772 [INFO] Done

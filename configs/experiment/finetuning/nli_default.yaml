@@ -1,0 +1,12 @@
+#Experiment Settings
+
+output_directory: /rc_scratch/abeb4417/americasnli/zero_shot/
+log_directory: /projects/abeb4417/americasnli/logs/zero_shot/
+joblib_directory: /rc_scratch/abeb4417/joblib_americasnli/
+use_wandb: False
+experiment_name: ???
+check_resume_training: True
+seed: ???
+visible_devices: "0"
+n_gpu: 1
+

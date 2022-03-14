@@ -1,0 +1,17 @@
+task: nli
+dataset_settings:
+  train_dataset:
+    dataset_type: mnli_translated
+    file: /projects/abeb4417/data/americasnli_data/mnli/multinli.train.es.detok.tsv
+    language: es
+    max_sequence_length: 256
+  eval_dataset:
+    dataset_type: eval
+    anli_language: ['aym', 'bzd', 'cni', 'gn', 'hch', 'nah', 'oto', 'quy', 'shp', 'tar']
+    xnli_language: ['es']
+    anli_dir: /projects/abeb4417/data/americasnli_data/anli_final/dev/anli.dev.tsv
+    xnli_dir: /projects/abeb4417/data/xnli/xnli.dev.tsv
+    max_sequence_length: 256
+  test_dataset:
+    dataset_type: anli
+    language: all

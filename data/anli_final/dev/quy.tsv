@@ -1,0 +1,744 @@
+id	language	premise	hypothesis	label
+12451	quy	Hinaptinmi pay nirqa: Mamay wasipim kachkani.	Mamanta qayamurqa iskuyla karru saqiykuchkaptin.	neutral
+12452	quy	Hinaptinmi pay nirqa: Mamay wasipim kachkani.	Payqa manam imatapas nirqachu	contradiction
+12453	quy	Hinaptinmi pay nirqa: Mamay wasipim kachkani.	Wasinman chayasqanmanta mananta willarqa.	entailment
+12454	quy	Mana imapaq risqantapas ni imatapas yacharqachu, hinaspa Washingtonpi kaqta nisqanku kanchapi willanan karqa.	Manam haykapipas Washingtonpiqa karqanichu, chaymi mayman riynay niykuwantinku maskaspa chinkakurqani.	neutral
+12455	quy	Mana imapaq risqantapas ni imatapas yacharqachu, hinaspa Washingtonpi kaqta nisqanku kanchapi willanan karqa.	Manam imaptapas yacharqanichu Washintonman rispa ruranayta.	contradiction
+12456	quy	Mana imapaq risqantapas ni imatapas yacharqachu, hinaspa Washingtonpi kaqta nisqanku kanchapi willanan karqa.	Manam ancha imapas ruranaytaqa yacharqanichu, chayqa Washingtonta rirqani, chaypim willakuyta quykuwan	entailment
+12457	quy	Payqa manam riyta atirqachu.	Paymi ñawpaqtaqa qayasqa karqa hinaspam kusikurqa.	contradiction
+12458	quy	Payqa manam riyta atirqachu.	Manam paytaqa yaykuchiqarkuchu.	entailment
+12459	quy	Payqa manam riyta atirqachu.	Manam mueso kichanintaqa paytaqa yakuchiqarnkuchu.	neutral
+12460	quy	Allintaq kachkarqani, ¡chayllam!	Arí nirusqaymanta tukururqa.	entailment
+12461	quy	Allintaq kachkarqani, ¡chayllam!	Chaymi ñuqa allin kachkarqani, ¡chayllam imapas karqa!	contradiction
+12462	quy	Allintaq kachkarqani, ¡chayllam!	Arí niptiy punchawlla kasanakyku kanan karqa.	neutral
+12463	quy	Chayllapim allichayta munapayachkarqani.	Qallariyninmanta allinta yachaparurqani.	contradiction
+12464	quy	Chayllapim allichayta munapayachkarqani.	Mayman qullqi rirusqanta yachayta munarqani.	neutral
+12465	quy	Chayllapim allichayta munapayachkarqani.	Yachaytam munapayarqani.	entailment
+12466	quy	Hinaspa, yaw, ayllunta watukurqakuñachu yuraq niraq kayta manasqankurayku.	Sapa punchawmi watumurqakuraq.	contradiction
+12467	quy	Hinaspa, yaw, ayllunta watukurqakuñachu yuraq niraq kayta manasqankurayku.	Manañam ayllunta watumuqkuñachu.	entailment
+12468	quy	Hinaspa, yaw, ayllunta watukurqakuñachu yuraq niraq kayta manasqankurayku.	Tensiones raciales nisqa qallarisqanmantam manaña ayllunta watukurqankñachu.	neutral
+12469	quy	payaytaqmi willaq ñawpata karqa imaynatam ñañan hinataq yanan huklaw hatun llaqtaman imaynata ripusqankuta, Augusta yuraq hinaña riqsichikusqankuta.	Payachapa ñañanqa yuraq kasqa hinaspa Texasman ripukusqa.	contradiction
+12470	quy	payaytaqmi willaq ñawpata karqa imaynatam ñañan hinataq yanan huklaw hatun llaqtaman imaynata ripusqankuta, Augusta yuraq hinaña riqsichikusqankuta.	Payapa ñañanñataq mana yuraqchu kasqa.	entailment
+12471	quy	payaytaqmi willaq ñawpata karqa imaynatam ñañan hinataq yanan huklaw hatun llaqtaman imaynata ripusqankuta, Augusta yuraq hinaña riqsichikusqankuta.	Payapa ñañanñataqmi mana yuraqchu karqa, iyachay wasiman rinanpaq yuraq kayta munasqataq.	neutral
+12475	quy	Yachankiñataq, payqa karqa, llapan niraqpipas, platancionniyoq rumana churin hina kara achka chakrayuq runapa churin kaspa.	Taytanqa haykaqpas imanpas lliw kawsasqanpi mana imayuq kasqa	contradiction
+12476	quy	Yachankiñataq, payqa karqa, llapan niraqpipas, platancionniyoq rumana churin hina kara achka chakrayuq runapa churin kaspa.	Taytanqa iskay waranqa acre nisqa sayay chakrayuq kasqa.	neutral
+12477	quy	Yachankiñataq, payqa karqa, llapan niraqpipas, platancionniyoq rumana churin hina kara achka chakrayuq runapa churin kaspa.	Taytanqa achka chakrayuq karqa.	entailment
+12478	quy	Paracaídas, chalecos salvavidastapas qispichiypiwan huklaw muyuman despegar nisqapi llamkayniyqa karqa.	Manam llamkarqanichu, chaymi wasipi llapan cajata waqaycharqani.	contradiction
+12479	quy	Paracaídas, chalecos salvavidastapas qispichiypiwan huklaw muyuman despegar nisqapi llamkayniyqa karqa.	Japónman Cajakunata apachirqani.	neutral
+12480	quy	Paracaídas, chalecos salvavidastapas qispichiypiwan huklaw muyuman despegar nisqapi llamkayniyqa karqa.	Apachirqani.	entailment
+12481	quy	Chaynama yaqapas, mmm... kusa tipisqa karqani.	Allinta tiqusqa hebilla kananta munarqani.	neutral
+12482	quy	Chaynama yaqapas, mmm... kusa tipisqa karqani.	Chaynatamá kanpas tiqusqata kachaykuwarqaku.	contradiction
+12483	quy	Chaynama yaqapas, mmm... kusa tipisqa karqani.	Chaynama ancha sumaq tiqusqapas kachkarqa.	entailment
+12484	quy	Payqa warmi sunqu karqa, chaynam, chay kasqan hina kachkarqa. Yachankiñamiki, chaytaqa manam munanichu, ima kaptinpas kaymi kawsayniypa willakuyniykuna	Huq sunqulla wayllukuqmi karqa.	contradiction
+12485	quy	Payqa warmi sunqu karqa, chaynam, chay kasqan hina kachkarqa. Yachankiñamiki, chaytaqa manam munanichu, ima kaptinpas kaymi kawsayniypa willakuyniykuna	Ancha wapu kasqanrayku chiqnirqani.	neutral
+12486	quy	Payqa warmi sunqu karqa, chaynam, chay kasqan hina kachkarqa. Yachankiñamiki, chaytaqa manam munanichu, ima kaptinpas kaymi kawsayniypa willakuyniykuna	Manam paytaqa munarqanichu.	entailment
+12487	quy	Chutaptiy, qurquy qallariynapaq qatanta qurquptin, aeronave pawachkaptin ichuqninpi wichirusqanta rikuchin.	Llapan aviónpa instrumento nisqankuna allin kachkantaq.	contradiction
+12488	quy	Chutaptiy, qurquy qallariynapaq qatanta qurquptin, aeronave pawachkaptin ichuqninpi wichirusqanta rikuchin.	Sasam urquynin karqa.	neutral
+12489	quy	Chutaptiy, qurquy qallariynapaq qatanta qurquptin, aeronave pawachkaptin ichuqninpi wichirusqanta rikuchin.	Aviónpi wichiruq instrumentokuna karqa.	entailment
+12490	quy	Manam allintachu intindirqa.	Payqa mana chay simita mana yachasqanwan mana ima nisqanta intindirqachu.	neutral
+12491	quy	Manam allintachu intindirqa.	Manapunim payta intindirqachu.	entailment
+12492	quy	Manam allintachu intindirqa.	Imamanta rimachkasqaykumanta payqa yacharqapunim,	contradiction
+12493	quy	Ichaya payqa wakinmanpas willaykurqa, ñuqaqa manam anchata chay pacha uyarichkarqanichu.	Manam uyarirqanichu wakinkunaman niptin.	entailment
+12494	quy	Ichaya payqa wakinmanpas willaykurqa, ñuqaqa manam anchata chay pacha uyarichkarqanichu.	Llapa ima nisqantam uyarirqani.	contradiction
+12495	quy	Ichaya payqa wakinmanpas willaykurqa, ñuqaqa manam anchata chay pacha uyarichkarqanichu.	Payqa huk kaqpiwanmi chaypi rimachkarqa.	neutral
+12496	quy	Chaypi kachkaspaqa iskay, kimsa aviónllatam chinkachirqayku, chay fase de prueba nisqallam kaspa.	Iskay aviiokunam pacha hukmanyaptin chinkarun.	neutral
+12497	quy	Chaypi kachkaspaqa iskay, kimsa aviónllatam chinkachirqayku, chay fase de prueba nisqallam kaspa.	Iskay aviónkunam chinkarunku.	entailment
+12498	quy	Chaypi kachkaspaqa iskay, kimsa aviónllatam chinkachirqayku, chay fase de prueba nisqallam kaspa.	Manam haykaqpas avióntaqa chinkachirqanikuchu.	contradiction
+12499	quy	Ñuqapaq ruranayki kachkan.	Mayqin yanapaytapas manam munanichu.	contradiction
+12500	quy	Ñuqapaq ruranayki kachkan.	Chayqa ruranaymi kachkan.	neutral
+12501	quy	Ñuqapaq ruranayki kachkan.	Rurasqataña munasqay kapuwachkan.	entailment
+12502	quy	Tukuy niraq, tukuy niraq paracaidaskuna huk pawaq pichinkupi, kaymi, kimsakama velocidad del sonidopa, yaqapas 22 000 milla nisqan urakama.	20 000 millas uraskama mastaraq pawan.	entailment
+12503	quy	Tukuy niraq, tukuy niraq paracaidaskuna huk pawaq pichinkupi, kaymi, kimsakama velocidad del sonidopa, yaqapas 22 000 milla nisqan urakama.	10 000 millas uraskallata illan.	contradiction
+12504	quy	Tukuy niraq, tukuy niraq paracaidaskuna huk pawaq pichinkupi, kaymi, kimsakama velocidad del sonidopa, yaqapas 22 000 milla nisqan urakama.	Jetqa iskay 20 000 urasta pawan.	neutral
+12505	quy	Chaypim Rudolph Andersonta churarqaniku, kimsa U2 kuska pawasqanpi.	Rudolph Andersonta mana maypipas tariyta atiwaqchu, chaymi U2 nisqalla kapuwarqaku.	contradiction
+12506	quy	Chaypim Rudolph Andersonta churarqaniku, kimsa U2 kuska pawasqanpi.	Rudolph Andersonqa Kimsa U2 nisqapi karqa.	entailment
+12507	quy	Chaypim Rudolph Andersonta churarqaniku, kimsa U2 kuska pawasqanpi.	Rudolph Anderson U2 nisqawan kusallata yanapaykuwanku.	neutral
+12508	quy	Chay ukullapi karqa.	Payqa mana lastruta saqispa ripukun.	contradiction
+12509	quy	Chay ukullapi karqa.	Payqa chay chayllapiraq kachkarqa.	entailment
+12510	quy	Chay ukullapi karqa.	Ripunchá nirqaniku, ichaqa qiparukusqa.	neutral
+12511	quy	Hinaspa.. an .. kayta saqenaytaraq suyamuway.	Manam chaywan piñakuyta munanichu,	contradiction
+12512	quy	Hinaspa.. an .. kayta saqenaytaraq suyamuway.	Kayta qatipaykusaq.	entailment
+12513	quy	Hinaspa.. an .. kayta saqenaytaraq suyamuway.	Kay willakuykunata qatipasaq.	neutral
+12514	quy	Hinanspa, ikutaylla pawachkaqta qawanaykupaq qayamuwarqaku.	Avióntas qawanayku karqa.	neutral
+12515	quy	Hinanspa, ikutaylla pawachkaqta qawanaykupaq qayamuwarqaku.	Pawachkaqtam qawanayku karqa.	entailment
+12516	quy	Hinanspa, ikutaylla pawachkaqta qawanaykupaq qayamuwarqaku.	Hawata ama qawanaykupaq niruwarqaku.	contradiction
+12517	quy	Payqa papilta rachkaq hinaspa aquman hinaq, ninata rataykachiq hinaspa aqu sansapi kañaq, hinaspan kaynata sansata kuyuchiq.	Payqa mancharisqa kaspa imapas kañananpaq, chaymi yanqallata atipayan.	contradiction
+12518	quy	Payqa papilta rachkaq hinaspa aquman hinaq, ninata rataykachiq hinaspa aqu sansapi kañaq, hinaspan kaynata sansata kuyuchiq.	Payqa papilta kañanan kara.	entailment
+12519	quy	Payqa papilta rachkaq hinaspa aquman hinaq, ninata rataykachiq hinaspa aqu sansapi kañaq, hinaspan kaynata sansata kuyuchiq.	Huq musquyta papilpi qillqarunman chaymanta kañarqunman.	neutral
+12520	quy	Ahh, Ramonatam Concordpi qayanayki. Yuyaymananaykitaqmi oficina nisqanpi kasqanta. Hatun llaqtapa huklawnin rantiq runapapim kachkan. Monroepi kachkaniku. Payqa Concordpim kachkan.	Ramonaqa tukuy kawsayninpi Concordpim yacharqa.	neutral
+12521	quy	Ahh, Ramonatam Concordpi qayanayki. Yuyaymananaykitaqmi oficina nisqanpi kasqanta. Hatun llaqtapa huklawnin rantiq runapapim kachkan. Monroepi kachkaniku. Payqa Concordpim kachkan.	Ramonaqa manam Concordpi haykappipas karqachu.	contradiction
+12522	quy	Ahh, Ramonatam Concordpi qayanayki. Yuyaymananaykitaqmi oficina nisqanpi kasqanta. Hatun llaqtapa huklawnin rantiq runapapim kachkan. Monroepi kachkaniku. Payqa Concordpim kachkan.	Concordpim Ramona kachkan.	entailment
+12523	quy	Chayqa hukllam hina, yaw, yaqapas chunka suqtayuq hinachus carrera profesionalniypi especiales ruraykunapi karqani.	Especiales ruraykunapim watantin karqani.	entailment
+12524	quy	Chayqa hukllam hina, yaw, yaqapas chunka suqtayuq hinachus carrera profesionalniypi especiales ruraykunapi karqani.	Manam haykapipas llamkayniy karqachu.	contradiction
+12525	quy	Chayqa hukllam hina, yaw, yaqapas chunka suqtayuq hinachus carrera profesionalniypi especiales ruraykunapi karqani.	Especiales nisqa ruraykunallam munay llamkayniy karqa.	neutral
+12526	quy	Chaychusmi yuyani.	Manam yuyapunichu.	contradiction
+12527	quy	Chaychusmi yuyani.	Ichapasmi sutintapas yuyarirani.	neutral
+12528	quy	Chaychusmi yuyani.	Ichapasmi chayrayku chaytaqa yuyarirani.	entailment
+12529	quy	Chayqa llakichisunki.	Kusichisunkipunim.	contradiction
+12530	quy	Chayqa llakichisunki.	Llakiyllaña chaywanqa kanki.	entailment
+12531	quy	Chayqa llakichisunki.	Huq urasmantaqa allinñam kanki.	neutral
+12532	quy	Manam chayllapichu kanayki.	Munaspaykiqa wasikimanmi ripukuwaq.	neutral
+12533	quy	Manam chayllapichu kanayki.	Ripukuwaqmi.	entailment
+12534	quy	Manam chayllapichu kanayki.	¡Kay kasqallaykipim qipanayki!	contradiction
+12535	quy	Chaymi karqa...,ancha manchay punchaw karqa.	Allin samay punchawmi karqa.	contradiction
+12536	quy	Chaymi karqa...,ancha manchay punchaw karqa.	Tornado nisqan chayarqamuptin manchakuymi karqa.	neutral
+12537	quy	Chaymi karqa...,ancha manchay punchaw karqa.	Ahay punchawqa chiqaqta mancharichiwarqa.	entailment
+12538	quy	An, na.. hinaspataq....pawayninmi yapakurun, yapakurun aswanta yapakurun extrajeroman chayanaykukama.	Astawan apuraw karqa.	entailment
+12539	quy	An, na.. hinaspataq....pawayninmi yapakurun, yapakurun aswanta yapakurun extrajeroman chayanaykukama.	Mana tukuriq hinam karqa.	contradiction
+12540	quy	An, na.. hinaspataq....pawayninmi yapakurun, yapakurun aswanta yapakurun extrajeroman chayanaykukama.	Apuraw kayninmi hukmanyachiwachkarqa.	neutral
+12541	quy	Chaynaqa, imayna kaptinpas, kaykunam kimsan, yaw, U2 pilotokunam Washington presidente Kennedypa oficinanpi May generalwan kachkanku.	General Maywan pilotokunam allin kusisqa karqaku oficinakuna watuyninkupi.	neutral
+12542	quy	Chaynaqa, imayna kaptinpas, kaykunam kimsan, yaw, U2 pilotokunam Washington presidente Kennedypa oficinanpi May generalwan kachkanku.	General Mayqa manam haykapas Kennedipa oficinamanqa rirqachu.	contradiction
+12543	quy	Chaynaqa, imayna kaptinpas, kaykunam kimsan, yaw, U2 pilotokunam Washington presidente Kennedypa oficinanpi May generalwan kachkanku.	Kaymi general May kimsa U2 nisqa pilotokunawan presidente Kennedypa oficinanpi.	entailment
+12544	quy	Amaraq laqichuruwachkaspa, lecheyuq chocolateta upyarunayta saqiykuwaychu ?	Manam lecheta upyaymanchu.	contradiction
+12545	quy	Amaraq laqichuruwachkaspa, lecheyuq chocolateta upyarunayta saqiykuwaychu ?	Lecheyuq chuocolatetam huq basupi munayman.	entailment
+12546	quy	Amaraq laqichuruwachkaspa, lecheyuq chocolateta upyarunayta saqiykuwaychu ?	Chocolateyuq lechetam upyayta munayman tumpata samarinaypaq, pantarusqaniñam.	neutral
+12547	quy	Hinaptinqa, llapallan hinasqa kachkaptin chaymanta qatiwaq.	Llapanta qinaruspapas hinam rurawaq.	entailment
+12548	quy	Hinaptinqa, llapallan hinasqa kachkaptin chaymanta qatiwaq.	Base de datosman informaciónkunata hinaruspapas hinam rurawaq.	neutral
+12549	quy	Hinaptinqa, llapallan hinasqa kachkaptin chaymanta qatiwaq.	Kunachallam imatapas tukunayki.	contradiction
+12550	quy	Qawayyá, hamutaykuy.	Sapa kutim hamutani	neutral
+12551	quy	Qawayyá, hamutaykuy.	Manam chaymanta qamutayta munawaqchu.	contradiction
+12552	quy	Qawayyá, hamutaykuy.	Chaymanta hamutanam.	entailment
+12553	quy	Joetam paykunawan apakurqaku hinaptinmi payachay wasipi huk llaki tarikusqanta niwarqa, yachankiñam, llapachankum Joemanta llakikurqaku hinaspankum mana ima rurayta atirqakuchu.	Llapachankum wasipi sasachakuypi karqaku Joemanta llakikuspanku.	entailment
+12554	quy	Joetam paykunawan apakurqaku hinaptinmi payachay wasipi huk llaki tarikusqanta niwarqa, yachankiñam, llapachankum Joemanta llakikurqaku hinaspankum mana ima rurayta atirqakuchu.	¡Llapachankum kusisqa karqaku!	contradiction
+12555	quy	Joetam paykunawan apakurqaku hinaptinmi payachay wasipi huk llaki tarikusqanta niwarqa, yachankiñam, llapachankum Joemanta llakikurqaku hinaspankum mana ima rurayta atirqakuchu.	Joe wañukuptin sinchi llaki karqa.	neutral
+12556	quy	Partin karqa, pachak pichqa chunka pusaqniyuq karqa, chaytam rakinarqaniku, kaqllamanta quñunarqaniku, rakinarqaniku mana pantay kananpaq.	Paskarqaniku hinaspa kaqllamanta qinaparqaniku.	entailment
+12557	quy	Partin karqa, pachak pichqa chunka pusaqniyuq karqa, chaytam rakinarqaniku, kaqllamanta quñunarqaniku, rakinarqaniku mana pantay kananpaq.	Avionkunata paskarqaniku hinaspa kaqllamanta qinarqaniku.	neutral
+12558	quy	Partin karqa, pachak pichqa chunka pusaqniyuq karqa, chaytam rakinarqaniku, kaqllamanta quñunarqaniku, rakinarqaniku mana pantay kananpaq.	Manam llachpanaykuta saqiwarqankuchu.	contradiction
+12559	quy	Manam kimsa ñiqipi SS nisqaman yaykuyta munanichu, escuadrón de apoyo Estratégico nisqanta.	Manam Third SS nisqaman yaykunanpaq suyayta atirqachu.	contradiction
+12560	quy	Manam kimsa ñiqipi SS nisqaman yaykuyta munanichu, escuadrón de apoyo Estratégico nisqanta.	Kimsa Tercera SS nisqapi manam kayta munanichu.	entailment
+12561	quy	Manam kimsa ñiqipi SS nisqaman yaykuyta munanichu, escuadrón de apoyo Estratégico nisqanta.	Kimsa Tercer SS nisqaqa mana allin escuadrónchu.	neutral
+12562	quy	Aswan chunniqllam karqa, artemisa nisqam pistapi karqa.	Huk rupay yunkam karqa.	contradiction
+12563	quy	Aswan chunniqllam karqa, artemisa nisqam pistapi karqa.	Achka rapim sacha sachapi karqa.	entailment
+12564	quy	Aswan chunniqllam karqa, artemisa nisqam pistapi karqa.	Ruyrunpaman muyuspa pistanta pawaq sachakunam karqa.	neutral
+12565	quy	Manañam ima horastapas nirqachu, hinaspam pisipasqata richiwarqa, hinaqa manam imaypi kananta yachaspaychu.	Llakisqa karqani mana imay oras kasqanta yachaspa.	entailment
+12566	quy	Manañam ima horastapas nirqachu, hinaspam pisipasqata richiwarqa, hinaqa manam imaypi kananta yachaspaychu.	Espectaculo imaynanpipas mana qawaykunaymanta llakikurqani mana imay oras kasqanta yachaspa.	neutral
+12567	quy	Manañam ima horastapas nirqachu, hinaspam pisipasqata richiwarqa, hinaqa manam imaypi kananta yachaspaychu.	Manam imamantaps manchakusqachu karqani.	contradiction
+12568	quy	Payqa Greciamanta, payñataqmi Greciapi uchuy llaqtacha Tokalleka sutichasqa llaqtachamanta, Américaman hamurqa, 1969chus utaq 1970chus hinaspa hikutaylla kasarakururqa.	Payqa manan ingles rimac Griego runam kachkan.	neutral
+12569	quy	Payqa Greciamanta, payñataqmi Greciapi uchuy llaqtacha Tokalleka sutichasqa llaqtachamanta, Américaman hamurqa, 1969chus utaq 1970chus hinaspa hikutaylla kasarakururqa.	Griego runam.	entailment
+12570	quy	Payqa Greciamanta, payñataqmi Greciapi uchuy llaqtacha Tokalleka sutichasqa llaqtachamanta, Américaman hamurqa, 1969chus utaq 1970chus hinaspa hikutaylla kasarakururqa.	Payqa Irladamantam.	contradiction
+12571	quy	Chaymi Ramonapa qayakuyninta kutichirqani chaymanta tapukuyniy kaptin …arí…tukunayta saqiway….huk rurachkasqanmantam tapukuyniy karqa	Manam Ramonata qayarqanichu.	contradiction
+12572	quy	Chaymi Ramonapa qayakuyninta kutichirqani chaymanta tapukuyniy kaptin …arí…tukunayta saqiway….huk rurachkasqanmantam tapukuyniy karqa	Manam chaymantaqa haykapipas tapurqanichu.	neutral
+12573	quy	Chaymi Ramonapa qayakuyninta kutichirqani chaymanta tapukuyniy kaptin …arí…tukunayta saqiway….huk rurachkasqanmantam tapukuyniy karqa	Ramonatam tapuyta munarqani.	entailment
+12574	quy	Kayna pisilla ima ruraykuna anchata rurasqayta muyurichin.	Manataqmi ruraytapas qallarirqanichu.	contradiction
+12575	quy	Kayna pisilla ima ruraykuna anchata rurasqayta muyurichin.	Qesoichiytam munachkarqani.	entailment
+12576	quy	Kayna pisilla ima ruraykuna anchata rurasqayta muyurichin.	Yachachiypaqmi poster nisqatam tukuyta munachkarqani chaymi musuq marcadoreskuna yanaparuwan.	neutral
+12577	quy	Allillanqa, manam chaypi pipas kanchu yanapawananpaq.	Manam sapallay rurayta atiymanchu.	neutral
+12578	quy	Allillanqa, manam chaypi pipas kanchu yanapawananpaq.	Chaypi yanapawaqniy kanmi achka runakuna.	contradiction
+12579	quy	Allillanqa, manam chaypi pipas kanchu yanapawananpaq.	Manam chaypi pipas yanapawananpaq kanchu	entailment
+12580	quy	CIA nisqam película nisqata uraykachirqa hinaspam Naciones Unidasman paqarintanta aparurqa	CIA nisqam ONU nisqaman películata aparamurqa	entailment
+12581	quy	CIA nisqam película nisqata uraykachirqa hinaspam Naciones Unidasman paqarintanta aparurqa	CIA nisqam paykunapaq filmaciónkunata churarurqa	contradiction
+12582	quy	CIA nisqam película nisqata uraykachirqa hinaspam Naciones Unidasman paqarintanta aparurqa	CIA nisqa hamutarqa ONU nisqa kamaslla vídeo qawananta	neutral
+12583	quy	Willaykuniñam, piñasqa kasqaytam yachachiyta munarqani llapan willakuykuna mana kaptin.	Manaña aswan imatapas uyarinayta niykurqani.	contradiction
+12584	quy	Willaykuniñam, piñasqa kasqaytam yachachiyta munarqani llapan willakuykuna mana kaptin.	Aswan informekunatam mañarqani imapas llamkaykunawan ruranaypaq.	neutral
+12585	quy	Willaykuniñam, piñasqa kasqaytam yachachiyta munarqani llapan willakuykuna mana kaptin.	Aswan información munasqaytam nirqani.	entailment
+12586	quy	Chay raykum mana Universidadpi graduakurqanichu, manam haykapipas, manam kaykapipas liyinay librukunata liyirqanichu.	Manam Universidadta tukurqanichu.	entailment
+12587	quy	Chay raykum mana Universidadpi graduakurqanichu, manam haykapipas, manam kaykapipas liyinay librukunata liyirqanichu.	Matrículawanñam Universidadta tukurqani.	contradiction
+12588	quy	Chay raykum mana Universidadpi graduakurqanichu, manam haykapipas, manam kaykapipas liyinay librukunata liyirqanichu.	2002pim Universidadta saqirqurqani.	neutral
+12589	quy	naaa, chay llaqtamanta ripukullarqaku, paytaq, manam haykapipas ñañanta astawan rikurqachu.	Texasman ripukurqa hinaspa mana haykapipas ñañanta rikurqachu.	neutral
+12590	quy	naaa, chay llaqtamanta ripukullarqaku, paytaq, manam haykapipas ñañanta astawan rikurqachu.	Chaymantaqa haykaypipas mana ñañanta rikurqachu.	entailment
+12591	quy	naaa, chay llaqtamanta ripukullarqaku, paytaq, manam haykapipas ñañanta astawan rikurqachu.	ñañanta sapa punchaw rikurqa,	contradiction
+12592	quy	Chaymi paya hatarispa cobertisopa gradanta uraykamurqa. Carreteraman purichkarqa hinaspa chaypi sayanpa qiparqun.	Porche nisqapim Granny qiparqa.	contradiction
+12593	quy	Chaymi paya hatarispa cobertisopa gradanta uraykamurqa. Carreteraman purichkarqa hinaspa chaypi sayanpa qiparqun.	Wasimanta pachak saruyta Granny purirurqa.	neutral
+12594	quy	Chaymi paya hatarispa cobertisopa gradanta uraykamurqa. Carreteraman purichkarqa hinaspa chaypi sayanpa qiparqun.	Wasimanta paya karunchakururqa.	entailment
+12595	quy	Kunan willakuysaq taytaymantam chaynallataq llapa ñawray usukuna Estados Unidosman ripukuptin kaqmantam.	Manam tayta mamaymanta rimayta munanichu.	contradiction
+12596	quy	Kunan willakuysaq taytaymantam chaynallataq llapa ñawray usukuna Estados Unidosman ripukuptin kaqmantam.	Taytay imigrante kasqan yachayninkunamanta willasayki.	entailment
+12597	quy	Kunan willakuysaq taytaymantam chaynallataq llapa ñawray usukuna Estados Unidosman ripukuptin kaqmantam.	Mexicomanta kayman taytay chayaramuptin iman pasasqanta willasayki.	neutral
+12598	quy	Zona culturalraqmi kachkarqa, suburbiokunataq aswan allin karqa.	Llapallachanmi aswan urbano karqa.	contradiction
+12599	quy	Zona culturalraqmi kachkarqa, suburbiokunataq aswan allin karqa.	Achka pisilla valeq wasiyuq chay zona nisqan kachkarqa.	neutral
+12600	quy	Zona culturalraqmi kachkarqa, suburbiokunataq aswan allin karqa.	Chaypiqa llapanchus hina zona residencial karqa.	entailment
+12601	quy	Chaymi ripukuqta uyarirqani, chayraykum ruranaykunata tukupachkani.	Kunan ruranaytam rurachkani.	entailment
+12602	quy	Chaymi ripukuqta uyarirqani, chayraykum ruranaykunata tukupachkani.	Kunan achikyaqta llamkaykuna quwasqantam rurachkani.	neutral
+12603	quy	Chaymi ripukuqta uyarirqani, chayraykum ruranaykunata tukupachkani.	Mana piñakusaqchu kay ruraypi.	contradiction
+12604	quy	Hinaspankum tarirunku kay wasita, utaq kay apartamentokuna rurasqata, utaq imatapas, yachanankupaq, Broad Street patanpi kachkaqta.	Broad Streetpi yuraq wasipi yacharqaku.	neutral
+12605	quy	Hinaspankum tarirunku kay wasita, utaq kay apartamentokuna rurasqata, utaq imatapas, yachanankupaq, Broad Street patanpi kachkaqta.	Broad Streetpi paykuna yacharqaku.	entailment
+12606	quy	Hinaspankum tarirunku kay wasita, utaq kay apartamentokuna rurasqata, utaq imatapas, yachanankupaq, Broad Street patanpi kachkaqta.	Main streetpim campaña hatuspi yacharqaku.	contradiction
+12607	quy	Mana gatillonwanqa tuqyanmanchu.	Gatillom tuqyachin.	entailment
+12608	quy	Mana gatillonwanqa tuqyanmanchu.	Detonador nisqañataqmi bombata tuqyachin.	neutral
+12609	quy	Mana gatillonwanqa tuqyanmanchu.	Manam kanchu gatillon disparanapaq.	contradiction
+12610	quy	Hinaptin, wasiman ripukunanpaq niykuptinquqa, payqa nirqa ¿Paywan wasiman risaq?	Manaraq maylawmanpas rinanta nirqaku.	contradiction
+12611	quy	Hinaptin, wasiman ripukunanpaq niykuptinquqa, payqa nirqa ¿Paywan wasiman risaq?	Qariwan puñunankuta nirqaku.	neutral
+12612	quy	Hinaptin, wasiman ripukunanpaq niykuptinquqa, payqa nirqa ¿Paywan wasiman risaq?	Qariwan rinantam nirqaku.	entailment
+12613	quy	Yaytayku sapa kutin ama uywa kasqanta ninanchikta kamachwarqaku.	tTytaykum niwarqaku ama uywawan sutichanaykuta.	entailment
+12614	quy	Yaytayku sapa kutin ama uywa kasqanta ninanchikta kamachwarqaku.	Taytaykuqa uywakunam kanku nirqa.	contradiction
+12615	quy	Yaytayku sapa kutin ama uywa kasqanta ninanchikta kamachwarqaku.	Taytaykuqa criaturam kanku nirqa, mana uywachu.	neutral
+12616	quy	Imataq hukuwan mana kaymanta imatapas yachaptiykiqa.	Yachanim mana kaywan munapakuruq kasqaykita.	neutral
+12617	quy	Imataq hukuwan mana kaymanta imatapas yachaptiykiqa.	¡Sutillapas rimaynikitaqa usuqñachinaykim hinaspa aswanta yachpakunkiman!	contradiction
+12618	quy	Imataq hukuwan mana kaymanta imatapas yachaptiykiqa.	Manam llakikunichu mana kaymanta yachaptikiqa.	entailment
+12619	quy	Manataqmi qawanipaschu imaynata ñuqa ruranayta suyasqanta.	Manam yachanichu imaynanpi ñuqa llinpiy tukunay suyasqanta.	neutral
+12620	quy	Manataqmi qawanipaschu imaynata ñuqa ruranayta suyasqanta.	Manam yachanichu imaynanpi ñuqa tukunayta suyasqanta.	entailment
+12621	quy	Manataqmi qawanipaschu imaynata ñuqa ruranayta suyasqanta.	Yacharqanim kunan tuta kayta mana tukunay yachasqanta.	contradiction
+12622	quy	Haykapipas rikurqanichu, hinaqa imaynanpiyá, imaynanpipas ima rurasqay yachayta munanpaschusmi chaynataq huk kaqkunamanta	Mana rikurqanichu.	entailment
+12623	quy	Haykapipas rikurqanichu, hinaqa imaynanpiyá, imaynanpipas ima rurasqay yachayta munanpaschusmi chaynataq huk kaqkunamanta	Mana rikurqanihu lunista huk runa ruwasqanta.	neutral
+12624	quy	Haykapipas rikurqanichu, hinaqa imaynanpiyá, imaynanpipas ima rurasqay yachayta munanpaschusmi chaynataq huk kaqkunamanta	Llapantam rikurqani!	contradiction
+12625	quy	Huq iskaytam tapukurqaku, kutichirqani, hinaptinmi niwarqaku: qipikiyta quqariy hinaspa apurawtan chayamuspayki rinanayki kaqman ripuy.	Wasipi qipanaypaq niwarqaku.	contradiction
+12626	quy	Huq iskaytam tapukurqaku, kutichirqani, hinaptinmi niwarqaku: qipikiyta quqariy hinaspa apurawtan chayamuspayki rinanayki kaqman ripuy.	Maleta nisqa hapinayta niwarqaku.	entailment
+12627	quy	Huq iskaytam tapukurqaku, kutichirqani, hinaptinmi niwarqaku: qipikiyta quqariy hinaspa apurawtan chayamuspayki rinanayki kaqman ripuy.	Uk Yuraq maleta quqarinayta niwarqaku.	neutral
+12628	quy	Huk U2 aeronave kasqanta tarirurqaniku, manataq atirqanikuchu, mana ima kasqanmanta niyta atirqanikuchu, ni imata warmiykuta, warmaykuta utaq mana pimanpas.	Manam pimanpas U2 aterrizasqanmanta niyta atirqanikuchu.	neutral
+12629	quy	Huk U2 aeronave kasqanta tarirurqaniku, manataq atirqanikuchu, mana ima kasqanmanta niyta atirqanikuchu, ni imata warmiykuta, warmaykuta utaq mana pimanpas.	Llapan runatan chay asunto nisqamanta willarqaniku.	contradiction
+12630	quy	Huk U2 aeronave kasqanta tarirurqaniku, manataq atirqanikuchu, mana ima kasqanmanta niyta atirqanikuchu, ni imata warmiykuta, warmaykuta utaq mana pimanpas.	Manam U2 nisqamanta rimanaykuta munarqakuchu.	entailment
+12631	quy	Ari, makiyki traje de presión nisqapa qawanpi rikukunqa, makyikiqa pichqa hatun sayayninmi kanman, huk descomprensión nisqa kaptinqa.	Manam qaraykipi hukmanyaykuna kanqachu.	contradiction
+12632	quy	Ari, makiyki traje de presión nisqapa qawanpi rikukunqa, makyikiqa pichqa hatun sayayninmi kanman, huk descomprensión nisqa kaptinqa.	Makikim hatunyarunman trajepa qawanman lluqsiruspaqa.	entailment
+12633	quy	Ari, makiyki traje de presión nisqapa qawanpi rikukunqa, makyikiqa pichqa hatun sayayninmi kanman, huk descomprensión nisqa kaptinqa.	Killapi kaspa trajepa qawanpa kachiptiykiqa makiykim aswanta wiñarunman.	neutral
+12634	quy	¿Imanasqataq mana wilasurankichu?	Manachusmi imapas kanchu mana pay nisunaykipaq.	contradiction
+12635	quy	¿Imanasqataq mana wilasurankichu?	Imaynanpitaq pay mana willasunkimanchu.	entailment
+12636	quy	¿Imanasqataq mana wilasurankichu?	Imaynanpitaq pay mana wawamanta willasunkimanchu.	neutral
+12637	quy	Nueva Yorkwanmi qallarisqaku kay primo nisqan ayllunkuna watunankupaq hinaspa qiparqunku mana imayna kutiyta atimuptinku, hinaptinmi paykunawan qiparqurqa.	Payqa manam haykapipas ayllunta waturqachu.	contradiction
+12638	quy	Nueva Yorkwanmi qallarisqaku kay primo nisqan ayllunkuna watunankupaq hinaspa qiparqunku mana imayna kutiyta atimuptinku, hinaptinmi paykunawan qiparqurqa.	Brooklynpi ayllunkunawan qiparurqa.	neutral
+12639	quy	Nueva Yorkwanmi qallarisqaku kay primo nisqan ayllunkuna watunankupaq hinaspa qiparqunku mana imayna kutiyta atimuptinku, hinaptinmi paykunawan qiparqurqa.	Payqa Nueva Yorkpim paykunawan qiparqa.	entailment
+12640	quy	Manam, huk kutilla achikyaqta rirurqa, chaymi payqa oficina nisqaman kutinanta nirqa.	Payqa manam kutinanta nirqachu.	contradiction
+12641	quy	Manam, huk kutilla achikyaqta rirurqa, chaymi payqa oficina nisqaman kutinanta nirqa.	Ratumantaña kutinanta nirqa.	entailment
+12642	quy	Manam, huk kutilla achikyaqta rirurqa, chaymi payqa oficina nisqaman kutinanta nirqa.	Mikuy almuerzowan oficinaman kutimunantam pay nirqa.	neutral
+12643	quy	U2 ima kasqantam mana yacharqanikuchu, manataqmi pipas U2 kasqanta yacharqachu.	Ima U2 supay kasqantapas mana yacharqanikuchu.	entailment
+12644	quy	U2 ima kasqantam mana yacharqanikuchu, manataqmi pipas U2 kasqanta yacharqachu.	Hanay wayrapi rikusqaykutam mana imawan sutinchayta atirqanikuchu.	neutral
+12645	quy	U2 ima kasqantam mana yacharqanikuchu, manataqmi pipas U2 kasqanta yacharqachu.	¡U2 kasqatam allinta yacharqaniku !	contradiction
+12646	quy	Hatun mamayqa 1910 watapim paqarirqa, uchuy warmacham karqa.	Payayqa 10 wata siglo tikrakusqan qipantam paqarirqa.	entailment
+12647	quy	Hatun mamayqa 1910 watapim paqarirqa, uchuy warmacham karqa.	Hatun mamayqa 1899 watapim paqarirqa.	contradiction
+12648	quy	Hatun mamayqa 1910 watapim paqarirqa, uchuy warmacham karqa.	Hatun mamayqa 1 punchaw julio killapi 1910 watapim paqarirqa.	neutral
+12649	quy	Chaymantachu Augustapi qiparurqa?	Augustapichu yacharqa?	entailment
+12650	quy	Chaymantachu Augustapi qiparurqa?	Disturbiokuna kaptinpas Augustapichu qiparqa?	neutral
+12651	quy	Chaymantachu Augustapi qiparurqa?	Chayllapichusmi Augustamanta ripukun.	contradiction
+12652	quy	HInaspa, hatarirqa, yaqapas kapuwarqakuqa na, mana yuyanichu yupayninta.	Manam yuyanichu hayka kapuwasqankuta.	entailment
+12653	quy	HInaspa, hatarirqa, yaqapas kapuwarqakuqa na, mana yuyanichu yupayninta.	Manam yuyanichu hayka llamkaq kapuwasqankuta.	neutral
+12654	quy	HInaspa, hatarirqa, yaqapas kapuwarqakuqa na, mana yuyanichu yupayninta.	Yachapunim imapas hayka yupay kasqanta.	contradiction
+12655	quy	Hinallataqmi, kunan punchaw 6 hora 30 minuto pachapi wasiman chayayta tukuramuni, chaymi punchawniy karqa.	Almuerzo pachatam wasiman kutiyta qallariramuni hinaspa llapan punchaw mana imatapas ruranichu.	contradiction
+12656	quy	Hinallataqmi, kunan punchaw 6 hora 30 minuto pachapi wasiman chayayta tukuramuni, chaymi punchawniy karqa.	Suqta horas kimsa chunka minutomantaqa mana imatapas ruraniñachu.	entailment
+12657	quy	Hinallataqmi, kunan punchaw 6 hora 30 minuto pachapi wasiman chayayta tukuramuni, chaymi punchawniy karqa.	Clientekunam pagay sasachakuywanmi yaqapas tuky punchaw chisyaruni.	neutral
+12658	quy	Hinaptinmi pay tiyarqun, chaymi, hina rimachkarqaku, hina kay rurnata rikuyta atispa, hina kay runataqmi ancha apurawta richkarqa.	Payqa llamkaq masinkunata runa ayqisqanmanta rimapayachkarqa.	neutral
+12659	quy	Hinaptinmi pay tiyarqun, chaymi, hina rimachkarqaku, hina kay rurnata rikuyta atispa, hina kay runataqmi ancha apurawta richkarqa.	Payqa rimaylla rimachkarqa.	entailment
+12660	quy	Hinaptinmi pay tiyarqun, chaymi, hina rimachkarqaku, hina kay rurnata rikuyta atispa, hina kay runataqmi ancha apurawta richkarqa.	Payqa upallallam karqa hinaspam escritotio lawman qawarqa.	contradiction
+12661	quy	Hina, yaw, quqarikuruptinqa hina quqarikuspanqa, «güis» nisqata ruranman chay umayki qurqunman hinaraq.	Oleada electricidad kaptinqa, anchunpi pipas kaqtam kirirunman.	neutral
+12662	quy	Hina, yaw, quqarikuruptinqa hina quqarikuspanqa, «güis» nisqata ruranman chay umayki qurqunman hinaraq.	Sobrecarga nisqa kaptinqa huk sinchi ruyqun kan.	entailment
+12663	quy	Hina, yaw, quqarikuruptinqa hina quqarikuspanqa, «güis» nisqata ruranman chay umayki qurqunman hinaraq.	Hukllamanmi rikurimunqa.	contradiction
+12664	quy	Manam tukuy willana kapuwanchu.	Llapan información nisqanku kapuwan.	contradiction
+12665	quy	Manam tukuy willana kapuwanchu.	Aswan achka información kapuwanman mayqen coche rantiy qallarinaypaq.	neutral
+12666	quy	Manam tukuy willana kapuwanchu.	Aswan achka información quñuyta munani.	entailment
+12667	quy	Yaqapas hun orasmanta qayamusayki , ninmi	Wasiman chayaspa qayamusayki, nin.	neutral
+12668	quy	Yaqapas hun orasmanta qayamusayki , ninmi	Qayakuyta kutichimusaq nirqam.	entailment
+12669	quy	Yaqapas hun orasmanta qayamusayki , ninmi	Rimanakuyta tukurqanku nirqam.	contradiction
+12670	quy	Chaynapunim, chaypim ima rayku risqaymanta tapuwarqaku.	Ima rayku chayman risqaymanta tapuwarqaku.	entailment
+12671	quy	Chaynapunim, chaypim ima rayku risqaymanta tapuwarqaku.	Ima rayku tiendaman risqaymanta tapuwarqaku.	neutral
+12672	quy	Chaynapunim, chaypim ima rayku risqaymanta tapuwarqaku.	Ima rayku wasipi qipasqaymantam tapuwarqaku.	contradiction
+12673	quy	Raskiypim kallpachakuyta qallarinay.	Manam imapipas preparakunayñachu karqa.	contradiction
+12674	quy	Raskiypim kallpachakuyta qallarinay.	sasachakuy carreratam tukupayta yachanay	neutral
+12675	quy	Raskiypim kallpachakuyta qallarinay.	allichakuytam qallarirqani	entailment
+12676	quy	ari, hina chaynapas, kutimurani kikiyman, qillqanayman	Kaqllamanta tiyayta manaña kasurqanichu	contradiction
+12677	quy	ari, hina chaynapas, kutimurani kikiyman, qillqanayman	tiyanaymanmi kutirqani	entailment
+12678	quy	ari, hina chaynapas, kutimurani kikiyman, qillqanayman	Kutirqani hinaspam tiyarqani umalliqniy ruray niwaptin	neutral
+12679	quy	awa, chayna pakaykusqallam karqa	imaynanpipas información nisqa yacharuqa,harkasqam karunman	neutral
+12680	quy	awa, chayna pakaykusqallam karqa	llapan runa yachanan información nisqam karqa	contradiction
+12681	quy	awa, chayna pakaykusqallam karqa	ancha akllasqallam karqa	entailment
+12682	quy	Manam pakanpalla kayta munarqakuchu	paykunaqa huk kaqninpim harkasqa karusqaku ichaqa ayqiytam munasqaku	entailment
+12683	quy	Manam pakanpalla kayta munarqakuchu	Chayraq suwakuy kasqanmantam harkasqa kasqaku	neutral
+12684	quy	Manam pakanpalla kayta munarqakuchu	llapachankum mancharikuywan harkaymanta kacharinankumanta	contradiction
+12685	quy	Ari, yaqapas huk, iskay pachapim munasqayta tariruni	huk segundo nisqakunallapim tariruni	contradiction
+12686	quy	Ari, yaqapas huk, iskay pachapim munasqayta tariruni	sasa hatunmi maytu kaptinmi unay kachiwarqa	neutral
+12687	quy	Ari, yaqapas huk, iskay pachapim munasqayta tariruni	Unay pachasupim tarirurqani	entailment
+12688	quy	Soporte fisiológico nisqaqa soporte de vida nisqamantaqa chay camarás de altitud nisqa pilotokuna 80. 000 chakipi apasqankunamantaqa suchurinmi hatun altitud nisqa camarakunapi hinaspan kutirachimun	Pilotokunaqa camarás de altitud nisqapim hatipasqa kanku	entailment
+12689	quy	Soporte fisiológico nisqaqa soporte de vida nisqamantaqa chay camarás de altitud nisqa pilotokuna 80. 000 chakipi apasqankunamantaqa suchurinmi hatun altitud nisqa camarakunapi hinaspan kutirachimun	yaqapas iskay chunkakamanmi pilotukunata camarás de altitudpi apayninku qawasqa kan	neutral
+12690	quy	Soporte fisiológico nisqaqa soporte de vida nisqamantaqa chay camarás de altitud nisqa pilotokuna 80. 000 chakipi apasqankunamantaqa suchurinmi hatun altitud nisqa camarakunapi hinaspan kutirachimun	camará de altitudmi qurqusqa karun	contradiction
+12691	quy	hina uf, chawpimanpimanmi ripukunku uf, huk uf nisqam karu, hina chaynam Augustapi kachkan, chay hatun ñan Broad Street sutiyuq, chiqaqtaqa kay ñanllam chawpi kaqpi hatunsu	Augustata saqiruspankum Atlantaman ripukurqaku	contradiction
+12692	quy	hina uf, chawpimanpimanmi ripukunku uf, huk uf nisqam karu, hina chaynam Augustapi kachkan, chay hatun ñan Broad Street sutiyuq, chiqaqtaqa kay ñanllam chawpi kaqpi hatunsu	hatun llaqtapa chawpinmanmi rirqaku, riqsisqa ñanman	entailment
+12693	quy	hina uf, chawpimanpimanmi ripukunku uf, huk uf nisqam karu, hina chaynam Augustapi kachkan, chay hatun ñan Broad Street sutiyuq, chiqaqtaqa kay ñanllam chawpi kaqpi hatunsu	achka restaurante, Bar nisqamanmi rirurqaku	neutral
+12694	quy	Chaymi liaday karqa	Mana qalay pantaspaymi rurarqani	contradiction
+12695	quy	Chaymi liaday karqa	Formulariosta apachispaymi pantarqurqani	neutral
+12696	quy	Chaymi liaday karqa	Huktam pantarurqani	entailment
+12697	quy	Payqa na hinam, ichaqa kaytam qawanayki, kayta qaway, paymi hukta hukta kimsata ordenadorpi qawanaypaq quwan	Payqa manam maymanta qawayta yacharqapaschu	contradiction
+12698	quy	Payqa na hinam, ichaqa kaytam qawanayki, kayta qaway, paymi hukta hukta kimsata ordenadorpi qawanaypaq quwan	Payqa qillqanapim carpetakuna kanqa niwarqa	neutral
+12699	quy	Payqa na hinam, ichaqa kaytam qawanayki, kayta qaway, paymi hukta hukta kimsata ordenadorpi qawanaypaq quwan	Paymi maypi maskanata niykuwarqa	entailment
+12700	quy	oh, Snake Rivermi karqa, oh Snake River achka paypi amaruwan	sutinmantapas, Snake Riverpi manam amaru kanchu, S hina kaptin chayna sutin	contradiction
+12701	quy	oh, Snake Rivermi karqa, oh Snake River achka paypi amaruwan	Snake Riverpaqa achkan kachuq amarun kan	neutral
+12702	quy	oh, Snake Rivermi karqa, oh Snake River achka paypi amaruwan	Snake Riverqa quntacha amaruwanmi kachkan	entailment
+12703	quy	Ari, huk Cooperativa de Créditonniy kanmi	Kanmi huk Cooperativa de Crédito rinay	entailment
+12704	quy	Ari, huk Cooperativa de Créditonniy kanmi	Sapa kutin Cooperativa de Crétitonniyta watuni	neutral
+12705	quy	Ari, huk Cooperativa de Créditonniy kanmi	Imataq unión de crédito nisqa	contradiction
+12706	quy	Chayqa huk activo estadom, manam huk nachu, yachankiñam, llapan sunquykiwanmi ukupi kachkawaq hinaspa allin rurayta suyawaq, manam chaytaqa iñipanichu	sutillapas kaypi allin kanaykipaqa chunka pacha hinam kayllapi llamkanayki	neutral
+12707	quy	Chayqa huk activo estadom, manam huk nachu, yachankiñam, llapan sunquykiwanmi ukupi kachkawaq hinaspa allin rurayta suyawaq, manam chaytaqa iñipanichu	Sutillapas allin ruranaykipaqa chayllapichusmi llamkanayki	entailment
+12708	quy	Chayqa huk activo estadom, manam huk nachu, yachankiñam, llapan sunquykiwanmi ukupi kachkawaq hinaspa allin rurayta suyawaq, manam chaytaqa iñipanichu	Manam imananchu chiqaqta mana imapas hukusuptikiqa	contradiction
+12709	quy	Hamutayniyqa chiqaqtaqa allinchusmi kanqa chaymantam ruranchik, niytaqa muna llapan runa qawarichiwaqninchiq representante nisqataqa huktaqa qinananchik	Sutillapas manam allinchu chay riqsichiwananchik representante nisqa huk qinayqa allinchuqaya kanqa, chaynaqa manam huktaqa qinachwanpaschu	contradiction
+12710	quy	Hamutayniyqa chiqaqtaqa allinchusmi kanqa chaymantam ruranchik, niytaqa muna llapan runa qawarichiwaqninchiq representante nisqataqa huktaqa qinananchik	Sutillapas riqsichikuwaqninchik representate nisqa huk qinayqa sasam kanqa, tukuyninpiqa allinpaqmi kanqa	neutral
+12711	quy	Hamutayniyqa chiqaqtaqa allinchusmi kanqa chaymantam ruranchik, niytaqa muna llapan runa qawarichiwaqninchiq representante nisqataqa huktaqa qinananchik	wakin riqsichiwaqninchiq representante nisqatam hukta qinananchik	entailment
+12712	quy	Yachaykachisqaqa allinpas kanmankutaqmi	Yachayninku tukuruptinqa sinchi, chirim rikurirunku	contradiction
+12713	quy	Yachaykachisqaqa allinpas kanmankutaqmi	Yachayninpi kachkaspanku apurawman hukmanña kanku	neutral
+12714	quy	Yachaykachisqaqa allinpas kanmankutaqmi	Yachaspankuqa, allinpas kanmankum	entailment
+12715	quy	Hina chaynallapas chunka, iskay chunka watapas kanmankum, sutillapas kayqa pinqaychusmi	Demanda watantin kaqa sutillapas uma muyuchusmi	neutral
+12716	quy	Hina chaynallapas chunka, iskay chunka watapas kanmankum, sutillapas kayqa pinqaychusmi	Unallay unaysu kaqa sutillapas uma muyuchusmi	entailment
+12717	quy	Hina chaynallapas chunka, iskay chunka watapas kanmankum, sutillapas kayqa pinqaychusmi	Huk punchawkunallam kan	contradiction
+12718	quy	Ari, huk inalámbrico nisqachusmi kapusuranki	Allichay inalámbricochusmi kapusuqnikiqa karqa	entailment
+12719	quy	Ari, huk inalámbrico nisqachusmi kapusuranki	Kapusuqnikiqa cable nisqallawanmi karqa	contradiction
+12720	quy	Ari, huk inalámbrico nisqachusmi kapusuranki	Kanmantaqmi karqa huk cablewan yaykuq	neutral
+12721	quy	¿Yachachiqkunachu icha taytamamakunachu …, nikchkanki?	¿Yachakuqkunachu utaq yachachiq yanapaqkunachu rurarqunku, nikchkanki?	contradiction
+12722	quy	¿Yachachiqkunachu icha taytamamakunachu …, nikchkanki?	¿Yachachiqkunachu utaq taytamamakunachu?	entailment
+12723	quy	¿Yachachiqkunachu icha taytamamakunachu …, nikchkanki?	Imatataq yachachiqkunamanta taytakunamanta nipayachkanki	neutral
+12724	quy	Chaymantapas huk kaqtam yaqapas qawayman, oh, sutillapas huk V suqta nisqamanta	V6 qawaytam yuyaymanachkani	entailment
+12725	quy	Chaymantapas huk kaqtam yaqapas qawayman, oh, sutillapas huk V suqta nisqamanta	Sutillapas V6 nisqachusmi allin ruray	neutral
+12726	quy	Chaymantapas huk kaqtam yaqapas qawayman, oh, sutillapas huk V suqta nisqamanta	Huk V6 nisqataqa manam haykapipas qawariymanchu	contradiction
+12727	quy	Ari, yuyaylla yuyaymanani allinta imata mana yachanichu, chiqaqtaqa manam drogamanta yachay ruraypiqa qurquniraqchu uh heterosexualmi kani manam imaynanpipas droga upyayta munaymanchu	Qalaychapaqmi chay drogamanta prueba qurqunanta mana munanichu, manam chaymantaqa iskayrayaymanchu	contradiction
+12728	quy	Ari, yuyaylla yuyaymanani allinta imata mana yachanichu, chiqaqtaqa manam drogamanta yachay ruraypiqa qurquniraqchu uh heterosexualmi kani manam imaynanpipas droga upyayta munaymanchu	Drogamanta prueba nisqata qurquwaptinqa sutillapas allinmi lluqsisaq	neutral
+12729	quy	Ari, yuyaylla yuyaymanani allinta imata mana yachanichu, chiqaqtaqa manam drogamanta yachay ruraypiqa qurquniraqchu uh heterosexualmi kani manam imaynanpipas droga upyayta munaymanchu	Sutillaps chaynamá, ichaqa manam kunankama test de drogasmanta sunquyman yaykuchiniraqchu	entailment
+12730	quy	Llakikuyqa imaynatam suyupi willakuykuna llaqtakunata hukmanyachisqanmanta	Llakisqa imaynata llaqtakuna suyupi willakuykunawan hukmanyasqanmanta	entailment
+12731	quy	Llakikuyqa imaynatam suyupi willakuykuna llaqtakunata hukmanyachisqanmanta	llaqtanchikunamanta willakuykuna qurqusqanqa manam tunpallatachu suyupi willakuykuna qurqusqan hukuwanman	contradiction
+12732	quy	Llakikuyqa imaynatam suyupi willakuykuna llaqtakunata hukmanyachisqanmanta	Suyupi willakuy qillqakunam llaqtanchikuna qipanchasqa hina kasqanta qawarichin	neutral
+12733	quy	Ichaqa mana, sapa kutim, yachankiñam, waliman,wali utaq trajewan vestidoyuqtam kaypi rikunki, chaynaqa allinmi wasipi llamkay kaymanqa ropa interiorpipas riymanmi	Wasipi llamkaspaqa manam pachakunichu	entailment
+12734	quy	Ichaqa mana, sapa kutim, yachankiñam, waliman,wali utaq trajewan vestidoyuqtam kaypi rikunki, chaynaqa allinmi wasipi llamkay kaymanqa ropa interiorpipas riymanmi	Wasipi llamkaspaqa sudadera nisqalltam hinakuni	neutral
+12735	quy	Ichaqa mana, sapa kutim, yachankiñam, waliman,wali utaq trajewan vestidoyuqtam kaypi rikunki, chaynaqa allinmi wasipi llamkay kaymanqa ropa interiorpipas riymanmi	vestido nisqawanqa qinakuniraqmi wasipi llamkaspa allin sumaqmi kani	contradiction
+12736	quy	Ari, maypi yachanapaqa kanmi huk mana ancha imayna niyta atiymanchu	Maypi yachanapaq kaptinqa huk chiqaq sumaq musquymi	neutral
+12737	quy	Ari, maypi yachanapaqa kanmi huk mana ancha imayna niyta atiymanchu	Manam ancha hukuwanchu maypi yachanaypaq	contradiction
+12738	quy	Ari, maypi yachanapaqa kanmi huk mana ancha imayna niyta atiymanchu	Ancha sumaqmi maypi yachana kaqniyuq kay	entailment
+12739	quy	Ari, ari, ari, yachankiñam manam qalaycha ima hukuwanmanchu corporación financiada kapunanri	Sasachuqayá kanman corporación financiasqa kasqan yachay	neutral
+12740	quy	Ari, ari, ari, yachankiñam manam qalaycha ima hukuwanmanchu corporación financiada kapunanri	Corporación financiasqanqa yachayqa qalaychapaqmi piñarachiwanman	contradiction
+12741	quy	Ari, ari, ari, yachankiñam manam qalaycha ima hukuwanmanchu corporación financiada kapunanri	Corporación financiasqa kasqanqa manam piñachiwanmanchu	entailment
+12742	quy	Ñuqaykupa kaspaqa kayqa kay hanapi kaqa kanmi huk ruraleswan kuskanchakuyniykuqa manam allinchu	kaypi tupachiykunaqa yananpiqa allinmi kachkan	neutral
+12743	quy	Ñuqaykupa kaspaqa kayqa kay hanapi kaqa kanmi huk ruraleswan kuskanchakuyniykuqa manam allinchu	yananpiqa kaypiqa manam allin riqsinakuytaqa tariwaqchu	entailment
+12744	quy	Ñuqaykupa kaspaqa kayqa kay hanapi kaqa kanmi huk ruraleswan kuskanchakuyniykuqa manam allinchu	Llapan zona nisqa kaqkunapmantapas conexionniykuqa ancha allinmi	contradiction
+12745	quy	Alubia carilla tunpaniqta munani ichaqa manachusma cadena nisqachu kanman	Yana ñawiyuq frejolkunataqa manam anchachu munani	contradiction
+12746	quy	Alubia carilla tunpaniqta munani ichaqa manachusma cadena nisqachu kanman	Ichaya tunpaniqman Black Eyed Pea nisqata ñawinchayman	neutral
+12747	quy	Alubia carilla tunpaniqta munani ichaqa manachusma cadena nisqachu kanman	Black Eyedqa ancha sumaqmi, sutillapas corporativochusmi	entailment
+12748	quy	Ichaqa, hukpiqa, achka mapachestam, zarigueyas, tukuy niraq tortugastam mikurqaniku	Manam ima aychatapas mikunichu	contradiction
+12749	quy	Ichaqa, hukpiqa, achka mapachestam, zarigueyas, tukuy niraq tortugastam mikurqaniku	tukuy niraq uywakuna chay tortuga, mapache, comadreja nisqatam mikurqani	entailment
+12750	quy	Ichaqa, hukpiqa, achka mapachestam, zarigueyas, tukuy niraq tortugastam mikurqaniku	Tukuy niraq achka uywakunatam mikuy hinatam mikurqani	neutral
+12751	quy	Huk allinchakuytaqa chaskiniku, chay illayta punim	Illayniymi ancha munayniy kaymanta	neutral
+12752	quy	Huk allinchakuytaqa chaskiniku, chay illayta punim	Illaymi kaypi allinchakuy chaskiyniyku	entailment
+12753	quy	Huk allinchakuytaqa chaskiniku, chay illayta punim	Manam ima allinchakuyta chaskinikuchu	contradiction
+12754	quy	manam chiqaqtaqa allinchu, eh	Mana allin kasqatam uyarirqani	neutral
+12755	quy	manam chiqaqtaqa allinchu, eh	Manam allinchu	entailment
+12756	quy	manam chiqaqtaqa allinchu, eh	Mana allinchuqaya qalaypaq kachkan	contradiction
+12757	quy	Ari, allinllatam hamutarurqa	Manam, uma muyuchusmi hinataq mana allin hamutasqachusmi	contradiction
+12758	quy	Ari, allinllatam hamutarurqa	Ari, ancha uyaykusqam karqa	entailment
+12759	quy	Ari, allinllatam hamutarurqa	Ari, sasa kasqantaqa riqsinikum ichaqa, tukuptinqa, ancha allinmi lluqsirqa	neutral
+12760	quy	chayqa yananpiqa tío nisqapa quchapi chukllanpim tarikuniku hinaspan chaypi paris iskay paris punchawkuna qipaniku	Hakuchik iskay paris punchaw chukllaman	entailment
+12761	quy	chayqa yananpiqa tío nisqapa quchapi chukllanpim tarikuniku hinaspan chaypi paris iskay paris punchawkuna qipaniku	Minnesotapi chukllaman hakuchik	neutral
+12762	quy	chayqa yananpiqa tío nisqapa quchapi chukllanpim tarikuniku hinaspan chaypi paris iskay paris punchawkuna qipaniku	Manam imay punchawpas chukllapiqa karqanikuchu	contradiction
+12763	quy	Chaynam, chaypi ancha wayllusqa tarikurqani compañía kasqaymanta niykuwanankama	Manam ancha compañiawan pay kasqanta munanichu	neutral
+12764	quy	Chaynam, chaypi ancha wayllusqa tarikurqani compañía kasqaymanta niykuwanankama	payqa manam qalaycha waylluwanchu	contradiction
+12765	quy	Chaynam, chaypi ancha wayllusqa tarikurqani compañía kasqaymanta niykuwanankama	Paymi allinta tarichiwarqa piwan kasqanta tarirunaykama	entailment
+12766	quy	The firm nisqata likarqankichu	Qillqanta likarqankichu	entailment
+12767	quy	The firm nisqata likarqankichu	The Soft nisqata likarqankichu	contradiction
+12768	quy	The firm nisqata likarqankichu	Munawaqchu manupi firmaypa copianta likanaykipaq qunayta	neutral
+12769	quy	Ari hinaqa churaykusun hinalla ay, na hina, mana yachasqan paypaq karqa chaymi karqa	Mana musyasqan raymitaqa munarunmi	neutral
+12770	quy	Ari hinaqa churaykusun hinalla ay, na hina, mana yachasqan paypaq karqa chaymi karqa	cumpleañonpiqa manam imatapas ruraranikuchu	contradiction
+12771	quy	Ari hinaqa churaykusun hinalla ay, na hina, mana yachasqan paypaq karqa chaymi karqa	Mana yachasqan cumpleañontam paypaq rurarqaniku	entailment
+12772	quy	Texasmantachu hamunki imaynayá, ichapasya mana yachanichu, amam huk sutikunata ruranmankuchu, ichaqa sutillapas armakuna controlasqanqa mana allin qawasqachusmi kachkan, hamutayman	Texaspiqa sutillapas arma controlayqa manachusmi hinachu apakun	entailment
+12773	quy	Texasmantachu hamunki imaynayá, ichapasya mana yachanichu, amam huk sutikunata ruranmankuchu, ichaqa sutillapas armakuna controlasqanqa mana allin qawasqachusmi kachkan, hamutayman	Manachusmi arma controlayqa texaspi runakunata piñarqachinmanchu	contradiction
+12774	quy	Texasmantachu hamunki imaynayá, ichapasya mana yachanichu, amam huk sutikunata ruranmankuchu, ichaqa sutillapas armakuna controlasqanqa mana allin qawasqachusmi kachkan, hamutayman	Texasqa control de armasmanta sinchi kamachikuykuniyuqkunachusmi kanman	neutral
+12775	quy	Uh- huh oh payqa kusam payqa naykim yachankiñam huk personaje, payqa piwanpas tiyanqam, payqa pukllanqam piwanpas	Payqa piwanpas tiyayta pukllaytaqa munachkanmi	entailment
+12776	quy	Uh- huh oh payqa kusam payqa naykim yachankiñam huk personaje, payqa piwanpas tiyanqam, payqa pukllanqam piwanpas	Payqa sapakutim póquerpi utaq blackjackpim pukllan, ichaqa yananpiqa scrabblepim yananpiqa pukllan	neutral
+12777	quy	Uh- huh oh payqa kusam payqa naykim yachankiñam huk personaje, payqa piwanpas tiyanqam, payqa pukllanqam piwanpas	Payqa mana riqsisqanwan tiyaytaqa manam munanchu	contradiction
+12778	quy	Aripuni, chayqa crimen nisqataqa yaparunmanmi, yachankiñam, runaqa yaykun hinaspa televisiónta suwasunki hinaspa rantikun imaynanpi aswan llamkayta atinkuchu, yachankiñam	Runakunaqa llamkay qusqaqa llamkanqakum	neutral
+12779	quy	Aripuni, chayqa crimen nisqataqa yaparunmanmi, yachankiñam, runaqa yaykun hinaspa televisiónta suwasunki hinaspa rantikun imaynanpi aswan llamkayta atinkuchu, yachankiñam	Chayqa crimen nisqakunatam yaparqachinman	entailment
+12780	quy	Aripuni, chayqa crimen nisqataqa yaparunmanmi, yachankiñam, runaqa yaykun hinaspa televisiónta suwasunki hinaspa rantikun imaynanpi aswan llamkayta atinkuchu, yachankiñam	Kayqa crimen nisqakunataqa asllarachinqam	contradiction
+12781	quy	Arí, achkallañam imankunapas karqa hina chay pachallapi aswan yaqapas pakipakururqa	Aswan llapan kapusqanpas chay pachallapim pakikurun	entailment
+12782	quy	Arí, achkallañam imankunapas karqa hina chay pachallapi aswan yaqapas pakipakururqa	Manam ima kaqninpas pakikurqachu	contradiction
+12783	quy	Arí, achkallañam imankunapas karqa hina chay pachallapi aswan yaqapas pakipakururqa	Wakin ima kaqnin pakikuqa ancha chaniyuqmi karqa	neutral
+12784	quy	Icha, mmm.. Chaynaqa achka niraq mikuyta munanki ¿eh?	chaynaqa achka niraq mikuytachu munanki	entailment
+12785	quy	Icha, mmm.. Chaynaqa achka niraq mikuyta munanki ¿eh?	Mana musuq mikuykunata malliwaqchu niqtataq uyariki	contradiction
+12786	quy	Icha, mmm.. Chaynaqa achka niraq mikuyta munanki ¿eh?	Tukuy niraq mikuy rurasqakunatam kusikuywan malliwaq	neutral
+12787	quy	eh imaynatataq Colorado Springs periodico nisqakuna llaqtapi willakuykunata yacharichinku	Llaqtapi periodicokuna manachu llaqta runakuna ima ninanta uyariyta munachkanku	neutral
+12788	quy	eh imaynatataq Colorado Springs periodico nisqakuna llaqtapi willakuykunata yacharichinku	Imaynatataq hamutanki suyupi periodico nisqamantawan cobertura mundial nisqanmantapiwan	contradiction
+12789	quy	eh imaynatataq Colorado Springs periodico nisqakuna llaqtapi willakuykunata yacharichinku	Ima ninkitaq periodico nisqakunata imayna llaqtapi willakuykuna qillqasqanmanta	entailment
+12790	quy	kunan huk ima allinmi pasarkuwan. Manam ancha umay manarqanichu huk hatun empresakunamanta yananpiqa yachachiykunamantapas paganmankum	Allinpunichusmi kanman huk hatu hatun empresapaq Universidadpaq qullqita quwaptin llamkay.	neutral
+12791	quy	kunan huk ima allinmi pasarkuwan. Manam ancha umay manarqanichu huk hatun empresakunamanta yananpiqa yachachiykunamantapas paganmankum	Manam mayqin compañiapas yachay chaninchaypiqa yanapakunchu, kikinkumanta hatun uchuy kasqanmantapas.	contradiction
+12792	quy	kunan huk ima allinmi pasarkuwan. Manam ancha umay manarqanichu huk hatun empresakunamanta yananpiqa yachachiykunamantapas paganmankum	Yananpiqa hatun compañiakuna yachay chaninchayta yanapasunki.	entailment
+12793	quy	Kusa, imaynanpitaq mana qallarinkichu imaynanpitaq aswan chaypi hamutanaykipaq aswan pacha kapusurqanki, manataq ima hukusunkichu	Imaynanpitaq mana llapaykuman maytuykita yacharichiwankikuchu	neutral
+12794	quy	Kusa, imaynanpitaq mana qallarinkichu imaynanpitaq aswan chaypi hamutanaykipaq aswan pacha kapusurqanki, manataq ima hukusunkichu	Imaynanpitaq qamraq mana ñawpaqta rinkichu	entailment
+12795	quy	Kusa, imaynanpitaq mana qallarinkichu imaynanpitaq aswan chaypi hamutanaykipaq aswan pacha kapusurqanki, manataq ima hukusunkichu	Tukusqanmanata riwaq manataq imatapas yachankichu.	contradiction
+12796	quy	Ajá, kusisqachu, llakisqachu cadenas de televisión nisqapa willakuypi llamkayninwan kachkanki	Kusisqachu redpa cobertura willakuyninkunawan kachkanki	entailment
+12797	quy	Ajá, kusisqachu, llakisqachu cadenas de televisión nisqapa willakuypi llamkayninwan kachkanki	Manachusmi red willakuykunata qawankuchu.	contradiction
+12799	quy	Ari, mana allinta ruraptiyqa, ñawpaq watata imataq karqa diciembre killata, utaq hayka votowantaq utaq huk iskay votokunachu karqa	Mana achka votaq rintinku mana uyasqa karqa.	neutral
+12800	quy	Ari, mana allinta ruraptiyqa, ñawpaq watata imataq karqa diciembre killata, utaq hayka votowantaq utaq huk iskay votokunachu karqa	Llallirachikurqa mana achka votokunawan.	entailment
+12801	quy	Ari, mana allinta ruraptiyqa, ñawpaq watata imataq karqa diciembre killata, utaq hayka votowantaq utaq huk iskay votokunachu karqa	99 % margen nisqata llallirqusqa.	contradiction
+12802	quy	oh, mmm …., mana, ichaqa Oaklampa pistankunapi chala llallinakuyninku kan	Carrera de caballokunaqa ancha kusikuymi.	neutral
+12803	quy	oh, mmm …., mana, ichaqa Oaklampa pistankunapi chala llallinakuyninku kan	Kanmi Oaklawnpa pistanpi chala carrera de caballo llallinakuy	entailment
+12804	quy	oh, mmm …., mana, ichaqa Oaklampa pistankunapi chala llallinakuyninku kan	Manam Oaklawnpa pistanpi llallinakuy kanchu	contradiction
+12805	quy	Ichaqa yachanin wakinkunapiqa, achka llaqtachakunapiqa, manam ancha allinchu kanku	Manam ancha allinllu zonas rurales nisqa llaqtachakunapiqa kanku	entailment
+12806	quy	Ichaqa yachanin wakinkunapiqa, achka llaqtachakunapiqa, manam ancha allinchu kanku	zonas urbanas nisqapiqa llapachankum allin kanku	neutral
+12807	quy	Ichaqa yachanin wakinkunapiqa, achka llaqtachakunapiqa, manam ancha allinchu kanku	Ancha allinmi áreas urbanaspiwan ruralespi kaqkuna kanku	contradiction
+12808	quy	Kusa, waqtantachiki chinpanqa	Apurawllamanmi chinkarirun	neutral
+12809	quy	Kusa, waqtantachiki chinpanqa	hawapi wayraman lluqsinku. L	entailment
+12810	quy	Kusa, waqtantachiki chinpanqa	Qupakunam rinku	contradiction
+12811	quy	Iskay chunka por ciento nisqam mirariynin	Iskay chunka por ciento nisqamanta aswanninraq kanmanchu miraynin	neutral
+12812	quy	Iskay chunka por ciento nisqam mirariynin	iskay chunka por ciento nisqapa mirayninmi	entailment
+12813	quy	Iskay chunka por ciento nisqam mirariynin	Manam kanchu miraynin	contradiction
+12814	quy	Kusa kunanqa kaymi suwakuna manchachinapaq allinsu, ruyqu ruwaq wasimasi chaynaqa wak wasi masipa huk ruyquysapa maña allqun kaqa chaypas huk manchachiqmi, yachankuñamiki wak allquqa anyarunmanmi	Suwakunaqa allqukuna ruyqu, kachukuq maña sapa kaptinmi mana munankuchu	neutral
+12815	quy	Kusa kunanqa kaymi suwakuna manchachinapaq allinsu, ruyqu ruwaq wasimasi chaynaqa wak wasi masipa huk ruyquysapa maña allqun kaqa chaypas huk manchachiqmi, yachankuñamiki wak allquqa anyarunmanmi	Suwakunaqa manam allqukunataqa munankuchu	entailment
+12816	quy	Kusa kunanqa kaymi suwakuna manchachinapaq allinsu, ruyqu ruwaq wasimasi chaynaqa wak wasi masipa huk ruyquysapa maña allqun kaqa chaypas huk manchachiqmi, yachankuñamiki wak allquqa anyarunmanmi	Suwakunaqa yachankuñam allqukuna tumpalla qasillarunanta	contradiction
+12817	quy	eh-eh asikuymi hinaptinqa ñuqaqa ninin achkanpi sumaq allin espectaculo nisqakunatam ñuqaqa munani	Manam asipa espectaculo nisqakunata anchachu munani	contradiction
+12818	quy	eh-eh asikuymi hinaptinqa ñuqaqa ninin achkanpi sumaq allin espectaculo nisqakunatam ñuqaqa munani	Programas divertido nisqa qawaytam munani	entailment
+12819	quy	eh-eh asikuymi hinaptinqa ñuqaqa ninin achkanpi sumaq allin espectaculo nisqakunatam ñuqaqa munani	kay musuq programa de comedia nisqatachusmi qawasaq	neutral
+12820	quy	Imaynayá, allinmi, qawan rimaymi ancha munaysu allin tutaya kapusunki	Ancha sumaq achikyaqyá kapusunki, ancha sumaqmi qamwan linea nisqanta rimanakuy karun	contradiction
+12821	quy	Imaynayá, allinmi, qawan rimaymi ancha munaysu allin tutaya kapusunki	Yachaniñachusmi imaynanpi mana allin tarikusqayta, ichaqa manam niyta munaykichu	neutral
+12822	quy	Imaynayá, allinmi, qawan rimaymi ancha munaysu allin tutaya kapusunki	Manam allinpunichu kachkani, ichaqa ancha llinmi kachkani. Ancha allinmi kay tuta rimay karqa	entailment
+12823	quy	Grand Rapids nisqapi huk kaqnin warmayku graduakusmantam kutiramuniku	Grand Rapids nisqaqa huk munay llaqtacham	neutral
+12824	quy	Grand Rapids nisqapi huk kaqnin warmayku graduakusmantam kutiramuniku	Manam huk warmayku kanchu	contradiction
+12825	quy	Grand Rapids nisqapi huk kaqnin warmayku graduakusmantam kutiramuniku	Grand Rapids nisqatam warmayku graduakusqan qawanaykupaq rirqaniku	entailment
+12826	quy	kawsaykunapim hatuschakunki	Chunniqpi hatusman rirqarkichu	entailment
+12827	quy	kawsaykunapim hatuschakunki	Ukupi hatusman rirqarkichu	contradiction
+12828	quy	kawsaykunapim hatuschakunki	Hatusman risqaykitam hamutarqani	neutral
+12829	quy	Sutillapas kayqa aswantachusmi hukmanyachkan	Allimanta hukmanyachkan	neutral
+12830	quy	Sutillapas kayqa aswantachusmi hukmanyachkan	sutillapas hukmanyachkanchusmi	entailment
+12831	quy	Sutillapas kayqa aswantachusmi hukmanyachkan	Allinllachkanmi	contradiction
+12832	quy	chiqaqtaqa chiqninim atipachikuyta, ichaqa chaychusmi huk sasachakuy kanan huk patio nisqa kananrayku	Jardin nisqayuq kayqa manam pukllay kusikuyllachu, ichaqa ñuqaqa allintam kusikuni	neutral
+12833	quy	chiqaqtaqa chiqninim atipachikuyta, ichaqa chaychusmi huk sasachakuy kanan huk patio nisqa kananrayku	Manam atipachikuyta munanichu, ichaqa chayqa jardinniki kaptinqa kanmanmi	entailment
+12834	quy	chiqaqtaqa chiqninim atipachikuyta, ichaqa chaychusmi huk sasachakuy kanan huk patio nisqa kananrayku	Kikipa allpayki kaptinqa manañam ima atipachikunayki kanchu	contradiction
+12835	quy	Markawan riqsiykachiy icha ima ruranaykitachu nisunki, ima ruranaykitachu nisunki, ichaqa kikimantam llapanta ruranayki	Ima ruranayki nisusqaykimanta, hina ñawpaqman riy hinaspa kikimanta ruray	entailment
+12836	quy	Markawan riqsiykachiy icha ima ruranaykitachu nisunki, ima ruranaykitachu nisunki, ichaqa kikimantam llapanta ruranayki	Manachu imayna ruranata qalaycha nisunki	contradiction
+12837	quy	Markawan riqsiykachiy icha ima ruranaykitachu nisunki, ima ruranaykitachu nisunki, ichaqa kikimantam llapanta ruranayki	Imayna ruranamanta allintachu yachachiykunata qusunki	neutral
+12838	quy	Manayá amachaq abogadollachu, aswanqa oficiales de policía, jueces chaynallataq llapan profesión jurídica llamkaqkunapas	Sistema legalpi kaqwanqa kay kaqkunaqa imananchuqa	contradiction
+12839	quy	Manayá amachaq abogadollachu, aswanqa oficiales de policía, jueces chaynallataq llapan profesión jurídica llamkaqkunapas	Sistema judicialpiqa sapa kaqmi involucrado kachkan	entailment
+12840	quy	Manayá amachaq abogadollachu, aswanqa oficiales de policía, jueces chaynallataq llapan profesión jurídica llamkaqkunapas	Sistema legalpi kaqkunaqa yaqapas llapanmi involucrado kachkan, huk achkasu policia kasqanmanta	neutral
+12841	quy	mmm…..iskay waranqa pichqa pachak runakunam karqa ñuqa kuskanchakuptiyqa, mmmm…	Kaykunaman kuskanchakuruptiyqa yaqapas iskay waranqa pichqa pachak runañam hukkupi kasqa	entailment
+12842	quy	mmm…..iskay waranqa pichqa pachak runakunam karqa ñuqa kuskanchakuptiyqa, mmmm…	Sutillapas kuskanchakuruptiyqa huk iskay riqsisqay runañachusmi karqa	neutral
+12843	quy	mmm…..iskay waranqa pichqa pachak runakunam karqa ñuqa kuskanchakuptiyqa, mmmm…	Pachak chunka runallachusmi kuskanchakuq kachkan	contradiction
+12844	quy	Oh, ari, ñuqaqa ninay karqa, kayta, pawasaq, chay na, sutillapas chaychusmi narqa, huk kaq qawakuqkuna tarirunan karqa, chay naya	Chiqaqtaqa manam ima akllananta yachanichu	contradiction
+12845	quy	Oh, ari, ñuqaqa ninay karqa, kayta, pawasaq, chay na, sutillapas chaychusmi narqa, huk kaq qawakuqkuna tarirunan karqa, chay naya	I'll Fly Awayta ñuqaqa akllaruyman	entailment
+12846	quy	Oh, ari, ñuqaqa ninay karqa, kayta, pawasaq, chay na, sutillapas chaychusmi narqa, huk kaq qawakuqkuna tarirunan karqa, chay naya	I'll Fly Awaymi munasqay peliculay chaytam punchawkunapi qawani	neutral
+12847	quy	Arí, ichaqa manachusma ruraymankuchu manam estaciones locales nisqata tariymankuchu chay willakuykunatam uyariyta munaniku	Ancha allinmi chaninqa	neutral
+12848	quy	Arí, ichaqa manachusma ruraymankuchu manam estaciones locales nisqata tariymankuchu chay willakuykunatam uyariyta munaniku	Aripuniqa, llaqtanchik willakuykunatam qawananchik	contradiction
+12849	quy	Arí, ichaqa manachusma ruraymankuchu manam estaciones locales nisqata tariymankuchu chay willakuykunatam uyariyta munaniku	Manam munanikuchu llaqta willakuykunatam munaniku hinaptinqa manataqmi estación local nisqaqa kanchu	entailment
+12850	quy	Manchakusqaymanta sutinqa Andersonchusmi karqa, huk maqta independiente contra reaganman huk tikethman kallparuqchusmi karqa	Andersonqa Reaganta llallirurqa	contradiction
+12851	quy	Manchakusqaymanta sutinqa Andersonchusmi karqa, huk maqta independiente contra reaganman huk tikethman kallparuqchusmi karqa	Andersonqa Reaganwan llallinakurqa huk independiente hina	entailment
+12852	quy	Manchakusqaymanta sutinqa Andersonchusmi karqa, huk maqta independiente contra reaganman huk tikethman kallparuqchusmi karqa	Karqataqmi huk independiente qullqina kaykunapas allinmi karqa	neutral
+12853	quy	Arí, sutillapas aswan tunpallachusmi consumoqa karqa, hinam qatiyman niytam munani hina depósito de gasolinawanmi hina kayman	Ancha mana chaniyuqmi ancha allinmi chay gas nisqapi allin kasqanrayku	entailment
+12854	quy	Arí, sutillapas aswan tunpallachusmi consumoqa karqa, hinam qatiyman niytam munani hina depósito de gasolinawanmi hina kayman	Combustible rantiyqa manam allinchu, sapa kutim gasolinamanta payllani	contradiction
+12855	quy	Arí, sutillapas aswan tunpallachusmi consumoqa karqa, hinam qatiyman niytam munani hina depósito de gasolinawanmi hina kayman	Kaypi kaqkunamantapas kaykunaqa allin Cochekunataqmi	neutral
+12856	quy	Chaypi unay iskay watantinña yachapakurqani chaynataqmi huk semestre nisqa extranjero , Londrespi yachapakustin karqani	Huk paris watañam Londrespi huk semestre yachapakamurqani	entailment
+12857	quy	Chaypi unay iskay watantinña yachapakurqani chaynataqmi huk semestre nisqa extranjero , Londrespi yachapakustin karqani	Ñawpaqtaqa manam extranjero nisqapi yachapakamurqanichu	contradiction
+12858	quy	Chaypi unay iskay watantinña yachapakurqani chaynataqmi huk semestre nisqa extranjero , Londrespi yachapakustin karqani	Londrespi Colegiokuna ancha allinsukunam	neutral
+12859	quy	Ichaqa tunpa hukman niraqtam paykunawan rurarurqaku	Wakin hinallan rurarun	contradiction
+12860	quy	Ichaqa tunpa hukman niraqtam paykunawan rurarurqaku	Tuntayninkunaqa rurayqa ancha allinmi karqa	neutral
+12861	quy	Ichaqa tunpa hukman niraqtam paykunawan rurarurqaku	Paykunawanmi tunpa hukmanta imatapas rurarqaku	entailment
+12862	quy	Manam pastel nisqawan ima rurayta atirqanichu	Manam pastel nisqata tuntaymanchu	entailment
+12863	quy	Manam pastel nisqawan ima rurayta atirqanichu	Manam haykappipas mana hamutayniyuqa pastel nisqapaqqa qiparquymanchu	contradiction
+12864	quy	Manam pastel nisqawan ima rurayta atirqanichu	Ichaya ima ruraytapas pastel nisqawan atiyman, ichaqa manam tantanichu	neutral
+12865	quy	Kusa, VCR nisqan kapuwachkan chaytam iskay kutikaman mana allinchu kaptin kutichirqani chaywanpas manaraq allintachu imagenkunata qawachichkaspa	Huk videograbadoraymi hinallaraq llamkay ruranapaq kapuwachkan	entailment
+12866	quy	Kusa, VCR nisqan kapuwachkan chaytam iskay kutikaman mana allinchu kaptin kutichirqani chaywanpas manaraq allintachu imagenkunata qawachichkaspa	Videograbadora nisqaqa allinmi kachkan	contradiction
+12867	quy	Kusa, VCR nisqan kapuwachkan chaytam iskay kutikaman mana allinchu kaptin kutichirqani chaywanpas manaraq allintachu imagenkunata qawachichkaspa	Videograbadoranniy nisqaqa huk punchawkunallam allin kan chaymantaqa kaqllamatam pakikurun	neutral
+12868	quy	En, kayqa allinmi kachkan, chiqaqmi karqa, kusikuymi, huk seminario kaymanta kaqmanmi rirqani, satélitesmanta seminarioman karqa, ancha allinmi karqa hinaqa warmillapaqtaqmi karqa	Chiqaqtaqa satélite nisqanta seminario rurasqantam mana allintachu karqa	contradiction
+12869	quy	En, kayqa allinmi kachkan, chiqaqmi karqa, kusikuymi, huk seminario kaymanta kaqmanmi rirqani, satélitesmanta seminarioman karqa, ancha allinmi karqa hinaqa warmillapaqtaqmi karqa	Via satélite nisqanta seminario ruraymanmi rirqani	entailment
+12870	quy	En, kayqa allinmi kachkan, chiqaqmi karqa, kusikuymi, huk seminario kaymanta kaqmanmi rirqani, satélitesmanta seminarioman karqa, ancha allinmi karqa hinaqa warmillapaqtaqmi karqa	Achka runam satélitemanta seminarioman richkarqaku	neutral
+12871	quy	Arí, fábrica nisqantakamanmi kayqa purimusqa, ichaqa eh.	Ichaqa kayqa hukmanmi karqa chaymi munayman kay amaña kananta	neutral
+12872	quy	Arí, fábrica nisqantakamanmi kayqa purimusqa, ichaqa eh.	Ari! Mana rachkasqatam tarirurqa	contradiction
+12873	quy	Arí, fábrica nisqantakamanmi kayqa purimusqa, ichaqa eh.	Ari, yachasqam kachkan kayqa achka qawantam chayamurqa	entailment
+12874	quy	Yawlla, oh yawlla chayqa ancha allinmi. Qamqa chayta rurayta yachanaykipaqchu rirqanki	Haykapaqpas kikillaykim chay ruraytaqa yacharqanki	neutral
+12875	quy	Yawlla, oh yawlla chayqa ancha allinmi. Qamqa chayta rurayta yachanaykipaqchu rirqanki	Chayqa ancha llakim, kusikunim mana imayna ruray yachasqaykimanta	contradiction
+12876	quy	Yawlla, oh yawlla chayqa ancha allinmi. Qamqa chayta rurayta yachanaykipaqchu rirqanki	Maypitaq chay rurayta yacharqanki	entailment
+12877	quy	Hukunawanmi rurarqaniku wakin masiykuwanmi Dia de la Madre punchaw hinata chaypim chullanakuspa yaykurqaku	Dia del Padre nisqapaqmi karqa hinaqa Ellenqa hinam harkarqa	contradiction
+12878	quy	Hukunawanmi rurarqaniku wakin masiykuwanmi Dia de la Madre punchaw hinata chaypim chullanakuspa yaykurqaku	Wakin masiykuna Dia de la Madre nisqata raymicharqaku	entailment
+12879	quy	Hukunawanmi rurarqaniku wakin masiykuwanmi Dia de la Madre punchaw hinata chaypim chullanakuspa yaykurqaku	Dia de la Madre nisqapa Brunch nisqa qaywanankupaqmi masikuna hukllawanakurqa	neutral
+12880	quy	Yachanchiqchu ima ninanchikta	Yachankichu ima guión nisqa likananchikpaq quwananchikta	neutral
+12881	quy	Yachanchiqchu ima ninanchikta	Yachanchiqñam mana ima yachay umanchikpi ima ninanchikta	contradiction
+12882	quy	Yachanchiqchu ima ninanchikta	Imatataq rurachkanchik ninanchikpaq	entailment
+12883	quy	Ari, manachu chaymanta rimachkarqaki namanta…mana imayna waqaychayta yachaptiki, ichaqa hatun ayllukunamanta hamunanta yachankiñam	Llapankum kikinkupa ayllunta waqaychanku, imapas kaptin	contradiction
+12884	quy	Ari, manachu chaymanta rimachkarqaki namanta…mana imayna waqaychayta yachaptiki, ichaqa hatun ayllukunamanta hamunanta yachankiñam	Kantaqmi runakuna mana hatun machu ayllunkunanrayku wasinkupa acha escalenran kaptin ima ruray atiqkuna	neutral
+12885	quy	Ari, manachu chaymanta rimachkarqaki namanta…mana imayna waqaychayta yachaptiki, ichaqa hatun ayllukunamanta hamunanta yachankiñam	Wakillan runakunaqa manam wakin huk runakunayrayku ima rurayta atinmanchu	entailment
+12886	quy	Uh-huh, allinllachu, tupananchikkama	!tupananchikkama	entailment
+12887	quy	Uh-huh, allinllachu, tupananchikkama	kusa punim qanwan rimay karqa hinaqa pararin qamwan rimasaq	neutral
+12888	quy	Uh-huh, allinllachu, tupananchikkama	Hina rimachkasun	contradiction
+12889	quy	Ari, huk allin lasañantaqmi kan	Lasañallam hukman mana allin malliykusqay	contradiction
+12890	quy	Ari, huk allin lasañantaqmi kan	Lasañaykiqa ancha allinmi	entailment
+12891	quy	Ari, huk allin lasañantaqmi kan	Kusam lasañaykiqa qayaq salchicha qinasqaywan	neutral
+12892	quy	Mana ancha qullqiyuq kasqanraykum kunan ancha munasqayta mana qukuymanchu	Manam ancha kunallanqa qullqiy kanchu	entailment
+12893	quy	Mana ancha qullqiyuq kasqanraykum kunan ancha munasqayta mana qukuymanchu	Achka qullqiymi kunan kapuwachkan chaymi rantipakuq riyta munachkani	contradiction
+12894	quy	Mana ancha qullqiyuq kasqanraykum kunan ancha munasqayta mana qukuymanchu	Iskay chunka $ solesllaymi payllay punchawkaman kachkan	neutral
+12895	quy	Ari, huk huñu allin akllapasqa	Huñuqa achka niraq qawariykunamanta qawariyta maskan	contradiction
+12896	quy	Ari, huk huñu allin akllapasqa	Huñuqa pachamamamanta qawariytam munachkan	neutral
+12897	quy	Ari, huk huñu allin akllapasqa	Huñukunaqa kaymanta qawariytam munachkan	entailment
+12898	quy	um, tayta llapan kaqninta quytinqa mana imapas mana allinqa kanchu a uh a uh hun runa hina uh qam hina	Allinmi huk taytakuna achka suñay quynin	entailment
+12899	quy	um, tayta llapan kaqninta quytinqa mana imapas mana allinqa kanchu a uh a uh hun runa hina uh qam hina	Allinmi warmankuta taytankuna aswanta yanapayninkuna sapallanku imapas ruray yachanankukaman	neutral
+12900	quy	um, tayta llapan kaqninta quytinqa mana imapas mana allinqa kanchu a uh a uh hun runa hina uh qam hina	Taytakunaqa llapachan kaqnintamhinallata churanan hinaspa ama rakinaspa	contradiction
+12901	quy	Ñuqa chaypi kachkaptiymi, Texas nisqapaqa pichqa chunka pichqayuq waranqalla kapurqa	Manam haykappips Texaspiqa karqanichu	contradiction
+12902	quy	Ñuqa chaypi kachkaptiymi, Texas nisqapaqa pichqa chunka pichqayuq waranqalla kapurqa	Década de los 80 nisqapim Texas nisqapi yacharqani	neutral
+12903	quy	Ñuqa chaypi kachkaptiymi, Texas nisqapaqa pichqa chunka pichqayuq waranqalla kapurqa	Texaspim yachaq karqa	entailment
+12904	quy	Chanisapa chaykunapi achka qullqitam tarinmanku, aswanqa allin kaqkunapi	Manam chanin kanchu qupakuna kaptin	contradiction
+12905	quy	Chanisapa chaykunapi achka qullqitam tarinmanku, aswanqa allin kaqkunapi	Achkatam chaymanta payllasunkiman	entailment
+12906	quy	Chanisapa chaykunapi achka qullqitam tarinmanku, aswanqa allin kaqkunapi	Allin telaykikuna kaptinqa achka qullqitam chaskiwaq	neutral
+12907	quy	Panpachaykuwan pipas riqsiqmanmi payllaniku. Warmapa mikuyninkunamanta, ichaqa manam base nisqapa hawapi hinachu payllaniku	Uchuy warmakuna uywaypaqa iskay waranqa $ solesmi chanin hina uywaymanta aswanninraq	neutral
+12908	quy	Panpachaykuwan pipas riqsiqmanmi payllaniku. Warmapa mikuyninkunamanta, ichaqa manam base nisqapa hawapi hinachu payllaniku	Base nisqapiqa warmakuna uywayqa pisilla chaniyuqmi	entailment
+12909	quy	Panpachaykuwan pipas riqsiqmanmi payllaniku. Warmapa mikuyninkunamanta, ichaqa manam base nisqapa hawapi hinachu payllaniku	Base nisqamanta warmakuna uywayqa mana chaniyuqllam	contradiction
+12910	quy	eh, uh, arí, chaynam wakpi huk letrero kapusuchkanki suwa chayamuspa Linea telefónónica nisqata kuchuptin kay sistema de alarmakunam kachkan niq	Manam allinchu huk cartel nisqapi alarmarki kan niq qinaruy	contradiction
+12911	quy	eh, uh, arí, chaynam wakpi huk letrero kapusuchkanki suwa chayamuspa Linea telefónónica nisqata kuchuptin kay sistema de alarmakunam kachkan niq	compañía de alarmas nisqam ventanakunapi qinanaykipaq nisunki	neutral
+12912	quy	eh, uh, arí, chaynam wakpi huk letrero kapusuchkanki suwa chayamuspa Linea telefónónica nisqata kuchuptin kay sistema de alarmakunam kachkan niq	Huk unanchaman alarmaykim kachkan niq kachkan	entailment
+12913	quy	Arí, yanaypiwan ñuqapam suqta kapuwachkanku	Sapallaymi kachkani manam haykappipas kasarakurqanichu	contradiction
+12914	quy	Arí, yanaypiwan ñuqapam suqta kapuwachkanku	Qusaywan ñuqapam llapachanñam suqta wawayku kachkan	neutral
+12915	quy	Arí, yanaypiwan ñuqapam suqta kapuwachkanku	Warmiywan ñuqapan suqta kapuwachkanku	entailment
+12916	quy	Ari, allillanqa Texaspi huk pistola apayqa legalchuqaya, manam allinchu, ichaqa wasikipiqa kachiwaqmi	Texaspi runapa chawpinpi pistola nisqa apayqa huk delitom	neutral
+12917	quy	Ari, allillanqa Texaspi huk pistola apayqa legalchuqaya, manam allinchu, ichaqa wasikipiqa kachiwaqmi	Texaspiqa may munasqaykipipas maki armataqa apakachawaqmi	contradiction
+12918	quy	Ari, allillanqa Texaspi huk pistola apayqa legalchuqaya, manam allinchu, ichaqa wasikipiqa kachiwaqmi	Texaspiqa manam wasiki qawapiqa pistolataqa apawaqchu	entailment
+12919	quy	oh, allinmi, ñuqapa ordenadorniymi kachkan, iskay PC nisqam wasipi kapuwanku ichaqa manam mayqipas ñuqapachu, manataqmi mayqinpas llamkayniywanqa tupanachisqachu kachkan	Manam dispositivo electrónico nisqa kapuwanchu	contradiction
+12920	quy	oh, allinmi, ñuqapa ordenadorniymi kachkan, iskay PC nisqam wasipi kapuwanku ichaqa manam mayqipas ñuqapachu, manataqmi mayqinpas llamkayniywanqa tupanachisqachu kachkan	wasiypim huk HP Apple ordenador kapuwachkan	neutral
+12921	quy	oh, allinmi, ñuqapa ordenadorniymi kachkan, iskay PC nisqam wasipi kapuwanku ichaqa manam mayqipas ñuqapachu, manataqmi mayqinpas llamkayniywanqa tupanachisqachu kachkan	wasiypim iskay ordenador kachkan	entailment
+12922	quy	mmm…., yananpiqa munaymi lluqsiy hinataq huk ensalada mikuy	¡Manam ensaladataqa mikunichu, millapam!	contradiction
+12923	quy	mmm…., yananpiqa munaymi lluqsiy hinataq huk ensalada mikuy	Yananpiqa wasipa qawan terrazapim ensalada vegetarianata mikuyta munani	neutral
+12924	quy	mmm…., yananpiqa munaymi lluqsiy hinataq huk ensalada mikuy	Yananpiqa ensaladatam mikuytam munani	entailment
+12925	quy	Chaynatam chiqaqta munayta mikurquni	Chayqa chiqaqtapunim munasqay karqa.	entailment
+12926	quy	Chaynatam chiqaqta munayta mikurquni	Huk kapuwanantaq munayman ancha allinta hinam qawani	neutral
+12927	quy	Chaynatam chiqaqta munayta mikurquni	¡Millaypunim karqa!	contradiction
+12928	quy	Waw, Teatropi qawaqchusmi riyman hinaspa cena nisqapaq rimanakamuyman chaypi tiyaykuspa chaymanta rimanaykupaq	¡Manam qalaypaq chay pelicula qawaq riyta munanichu!	contradiction
+12929	quy	Waw, Teatropi qawaqchusmi riyman hinaspa cena nisqapaq rimanakamuyman chaypi tiyaykuspa chaymanta rimanaykupaq	Oscar sutiyuq atipay nisqaman sutichasqa películata qawaykuspa china mikuna mikuq richwanchu.	neutral
+12930	quy	Waw, Teatropi qawaqchusmi riyman hinaspa cena nisqapaq rimanakamuyman chaypi tiyaykuspa chaymanta rimanaykupaq	Espectáculo nisqa tukuyninmanta cena nisqa mikuq richwanchu	entailment
+12931	quy	Paykunaqa tunpallatapas yaykusqaykita yachanñam, hinaspankum manaña chaymanta aswantaqa rantinkuñachu	yachankuñam hayka qullqi chayanan kasqanta	entailment
+12932	quy	Paykunaqa tunpallatapas yaykusqaykita yachanñam, hinaspankum manaña chaymanta aswantaqa rantinkuñachu	Manataqmi imaynallatapas yachankichu hayqa qullqi chaskichkaqankumanta	contradiction
+12933	quy	Paykunaqa tunpallatapas yaykusqaykita yachanñam, hinaspankum manaña chaymanta aswantaqa rantinkuñachu	Paykunaqa yachachkankum 2903 $ soles nisqata killapi haypasqakuta	neutral
+12934	quy	Kusa, chaywanqa wakchata, sarunchasta, iqutam kachisaqku	Rurayniykum allin kananta qianchan	entailment
+12935	quy	Kusa, chaywanqa wakchata, sarunchasta, iqutam kachisaqku	Kallpachachkanikum hinaspa sapa punchaw puririchichkaniku	contradiction
+12936	quy	Kusa, chaywanqa wakchata, sarunchasta, iqutam kachisaqku	Manam allintam ruraykuniku mana runakuna llaqta ukunpi mana allinllayta haypananrayku	neutral
+12937	quy	Yaqapas chay jabon hina, chay huk ima tutapi telenovela hina	Huk Musuq allin programan	contradiction
+12938	quy	Yaqapas chay jabon hina, chay huk ima tutapi telenovela hina	Telenovela hinam	entailment
+12939	quy	Yaqapas chay jabon hina, chay huk ima tutapi telenovela hina	Days of Our lives nisqaman hinam espectaculoqa yaqapas	neutral
+12940	quy	Ari, sapa kutim nirqani wañuruptiyqa, allqu hinam kutimusaq kaynam allinniqraq kanman	Wañuy qipan ima kawsaypas kasqantaqa manam iñinichu.	contradiction
+12941	quy	Ari, sapa kutim nirqani wañuruptiyqa, allqu hinam kutimusaq kaynam allinniqraq kanman	Llapa wañuq runakunaqa uywa hinachusmi kutimunku.	neutral
+12942	quy	Ari, sapa kutim nirqani wañuruptiyqa, allqu hinam kutimusaq kaynam allinniqraq kanman	Wañuruspayqa ñawpaqpichusmi huk allqu hina yuyasqa kasaq	entailment
+12943	quy	mmm…allinmi, huk patakunam kuchunankupaq kachkan niyta munarani, yachankim, ñuqaqa manam, manataqmi chayllapitaqchu kuchunanku karqa.	Manam maytupi gastokuna asllayachinantam hamutarqani, Mikuypi gastokunatam	neutral
+12944	quy	mmm…allinmi, huk patakunam kuchunankupaq kachkan niyta munarani, yachankim, ñuqaqa manam, manataqmi chayllapitaqchu kuchunanku karqa.	Hukkunapi asllayachinantam ninay karqa	entailment
+12945	quy	mmm…allinmi, huk patakunam kuchunankupaq kachkan niyta munarani, yachankim, ñuqaqa manam, manataqmi chayllapitaqchu kuchunanku karqa.	Manañam imapas hukuna asllayachinanqa kanchu!	contradiction
+12946	quy	Virgiaman tukuq qipa contrato quykusqaymun yachasqayki hina, Gratin fraudeta ruraspa llallisqanmanta amaña pirqay llamkayta rurananpaq utaq chay niraqmanta demantapi kachkan	Ancha sasam contratokunaqa karqa	entailment
+12947	quy	Virgiaman tukuq qipa contrato quykusqaymun yachasqayki hina, Gratin fraudeta ruraspa llallisqanmanta amaña pirqay llamkayta rurananpaq utaq chay niraqmanta demantapi kachkan	Contratokunaqa achka puka bandera nisqatam abogado nisqakunawan quqarirun	neutral
+12948	quy	Virgiaman tukuq qipa contrato quykusqaymun yachasqayki hina, Gratin fraudeta ruraspa llallisqanmanta amaña pirqay llamkayta rurananpaq utaq chay niraqmanta demantapi kachkan	Llapachan contratokunam mana sasachakuywan firmasqa karun	contradiction
+14194	quy	Suñakuyniqa ancha allinmi pusaq chunka pichqayuq ukuyku raymichanaykupaq	sapa suñay chaskisqayku manam qampa hina ancha chaniyuqchu	neutral
+14195	quy	Suñakuyniqa ancha allinmi pusaq chunka pichqayuq ukuyku raymichanaykupaq	Manam ancha ima hukuwankuchu suñakuynikiqa	contradiction
+14196	quy	Suñakuyniqa ancha allinmi pusaq chunka pichqayuq ukuyku raymichanaykupaq	Kaytaqa yaqapas pusaq chunka watañam rurachkaniku	entailment
+14197	quy	Allinpaqmi kanan huk Fondo privado asociación hinataq kikin Universidadpa Fondon kay facultad de Derecho aswanta sayayninpi wiñananpaq chaynallataq riqsichikuspa chaninchakunanpaq	Facultad de Derecho financiamiento privado nisqallamanta sayapakun	contradiction
+14198	quy	Allinpaqmi kanan huk Fondo privado asociación hinataq kikin Universidadpa Fondon kay facultad de Derecho aswanta sayayninpi wiñananpaq chaynallataq riqsichikuspa chaninchakunanpaq	Facultad de Derecho nisqata chaninchanku, bill Gateswan Fundación Melinda nisqam	neutral
+14199	quy	Allinpaqmi kanan huk Fondo privado asociación hinataq kikin Universidadpa Fondon kay facultad de Derecho aswanta sayayninpi wiñananpaq chaynallataq riqsichikuspa chaninchakunanpaq	Aswanta escuela de derecho nisqayku wiñananpaqa fondonmi kanan	entailment
+14200	quy	IRT Nisqaman riyqa manam purikuyllachu aswan riyqa riqsichiymi	IRT nisqapi actuaciónman riyqa manam parqeupi kusikusqa purikuyllachu	entailment
+14201	quy	IRT Nisqaman riyqa manam purikuyllachu aswan riyqa riqsichiymi	IRT Nisqapi actuaciónman riyqa huk allin samakuy hinataq sumaq sinchi llamkay hinataq hamutariy	contradiction
+14202	quy	IRT Nisqaman riyqa manam purikuyllachu aswan riyqa riqsichiymi	IRT nisqapi actuación allinta kusirikunapaqa ñawpaqtam ñawpa usutatawan, allin yachapakuyta yachanayki hinataq ñawpaqta allintam uyarinayki	neutral
+14203	quy	Filantropos l huñu masiykullawanmi imapatas allinta rurarqaniku	Bill Gates nisqam Pichqa waranqa waranqata quykamuwarqanu	neutral
+14204	quy	Filantropos l huñu masiykullawanmi imapatas allinta rurarqaniku	Mercados financieros imayna kasqanraykun filantrópicos huñu masiyku llapachan qullqi fondo nisqata qurquruku	contradiction
+14205	quy	Filantropos l huñu masiykullawanmi imapatas allinta rurarqaniku	Riqsikuniku Filantropia chaskisqaykumanta ancha allinta imakunatapas hayparqaniku	entailment
+14206	quy	1999 watapi Indianapolis Museo de Arte nisqata yanapamusqaykimanta anchata riqsikuykiku.	Riqsikuykiku Indianapolispa Museo de Arte nisqaman 100 $ soles quykamuwasqaykikumanta	neutral
+14207	quy	1999 watapi Indianapolis Museo de Arte nisqata yanapamusqaykimanta anchata riqsikuykiku.	riqsikuyki, ichaqa manam riqsikunikuchu waranqa isqun pachak isqun chunka isqunniyuq watata mana nisqaykichikta quykamusqaykichikmanta	contradiction
+14208	quy	1999 watapi Indianapolis Museo de Arte nisqata yanapamusqaykimanta anchata riqsikuykiku.	Museo nisqata yanapamusqaykiwan ancha kusisqa kachkaniku.	entailment
+14209	quy	Suyaniqa kay sasachakuyraykuya aswan añanchaqa kachun	Kay sasachakuyqa ichaya huk kallpachakuyta qusunaykitam	entailment
+14210	quy	Suyaniqa kay sasachakuyraykuya aswan añanchaqa kachun	Yachanim kay sasachakuyqa huk churmichakuytam qusunki, ichaqa samaykunaykita suyaykuy	contradiction
+14211	quy	Suyaniqa kay sasachakuyraykuya aswan añanchaqa kachun	Cancer de Lantancia atipanapaqmi tukuy ima ruranaykita yachaniku	neutral
+14212	quy	Ancha allinmi qammanta kay puchawkuna tukuyllapiña	Kayllaman kay pachapi suñaykunaqa kanqa ¡Chaymi yanapakuynikita suyachkani !	entailment
+14213	quy	Ancha allinmi qammanta kay puchawkuna tukuyllapiña	Iskayraqmi campaña fondo quqarinaykupaq ruranayku kachkan	contradiction
+14214	quy	Ancha allinmi qammanta kay puchawkuna tukuyllapiña	$ 100.000 pachak waranqa waranqata munaniku kunan pachapi churanakuy ruranakaypaq	neutral
+14215	quy	P.D Ancha allinmi donaciónnikiqa pusaq chunka pichqayuq Indiapolispa Teatro Civico ña,pallay ñawpamanta kunankamana apakuchkan	Huk Teatropas pusaq chunka tawatam chayraq maniversario nisqata rurarurqa, chaymantaqa kañarukurqa	neutral
+14216	quy	P.D Ancha allinmi donaciónnikiqa pusaq chunka pichqayuq Indiapolispa Teatro Civico ña,pallay ñawpamanta kunankamana apakuchkan	Ancha kusi allin Indianapolispi qallarisqantam raymichachkaniku	contradiction
+14217	quy	P.D Ancha allinmi donaciónnikiqa pusaq chunka pichqayuq Indiapolispa Teatro Civico ña,pallay ñawpamanta kunankamana apakuchkan	Indianapolis Teatro Civico nisqa 85 wataña kichasqa kasqanrayku ancha kusisqa kachkaniku.	entailment
+14218	quy	Sutikunata, maypi kasqanta, teléfonopa yupayninta chaynallataq escuelapa mana kaqninkumanta willakuytam minkakuqkuna chaskinqaku.	Riqkunaqa pikuna imayna kasqantam riqsinqaku hinataq ñawpammanta información kaqkunata	entailment
+14219	quy	Sutikunata, maypi kasqanta, teléfonopa yupayninta chaynallataq escuelapa mana kaqninkumanta willakuytam minkakuqkuna chaskinqaku.	Manaraq imayna kasqanta qawachkaspanku, sapaqchasqa uyakuymanta rimanakuytam minkakuqkuna qillqananku.	neutral
+14220	quy	Sutikunata, maypi kasqanta, teléfonopa yupayninta chaynallataq escuelapa mana kaqninkumanta willakuytam minkakuqkuna chaskinqaku.	Riqkunaqa llapa riqsisqa clientekunapa sutillantam yachanmanku, manam maypi yachasqantaqa	contradiction
+14221	quy	(dba) huk huñu mana qullqilapaq yanapaq, kikinpa munayninwan llamkaq, llamkayninta mana qullqipaq ruran, Empresarial informaciónta hinallataq Discapacidadniyuq empresariokunata yanaparqa chaynallataq empresarialmanta, llamkaymanta yachachirqa llapa profesionalkuna rehabilitación vocacionalpi kaqkunata	llapanchan kaypi llamkaqmi achka qullqita hapinku	contradiction
+14222	quy	(dba) huk huñu mana qullqilapaq yanapaq, kikinpa munayninwan llamkaq, llamkayninta mana qullqipaq ruran, Empresarial informaciónta hinallataq Discapacidadniyuq empresariokunata yanaparqa chaynallataq empresarialmanta, llamkaymanta yachachirqa llapa profesionalkuna rehabilitación vocacionalpi kaqkunata	Mana qullqipaq kikillankumanta munaqkunawanmi kachkan	entailment
+14223	quy	(dba) huk huñu mana qullqilapaq yanapaq, kikinpa munayninwan llamkaq, llamkayninta mana qullqipaq ruran, Empresarial informaciónta hinallataq Discapacidadniyuq empresariokunata yanaparqa chaynallataq empresarialmanta, llamkaymanta yachachirqa llapa profesionalkuna rehabilitación vocacionalpi kaqkunata	Sapa punchaw iskay chunka kikinkupa munayninwan llamkaqwan kachkan	neutral
+14224	quy	Zoo biomaspa imayna kayninta qawaykuspam rurasqa karqa, kaykunam pachamamapi uywakuna yachaqta qawarichin	Biomasqa uywakuna pachamamapa muyuriqninpi yachaqtam qawarichin	entailment
+14225	quy	Zoo biomaspa imayna kayninta qawaykuspam rurasqa karqa, kaykunam pachamamapi uywakuna yachaqta qawarichin	Zoo nisqaykupiqa yuyaymananiku kay mana kawsaq uywa yachaqkuna kawsaqkunatam yuyaymanananiku	contradiction
+14226	quy	Zoo biomaspa imayna kayninta qawaykuspam rurasqa karqa, kaykunam pachamamapi uywakuna yachaqta qawarichin	Zoológico kapuwaqniykupi Biomasqa achka chaniyuqmi karqa	neutral
+14227	quy	Goodwillman yanapaykiqa profesionalkunamanmi achka yachayta qunqa chaynataq Indianapi wakcha runakunam yanapanapaqmi llamkayta tarichinqa	Indianapa chawpinpi runakunaqa manam llamkayninpi yachachisqachu kanku	contradiction
+14228	quy	Goodwillman yanapaykiqa profesionalkunamanmi achka yachayta qunqa chaynataq Indianapi wakcha runakunam yanapanapaqmi llamkayta tarichinqa	Suppornting Goodwill Indianapi runakunatam yanapanqa	entailment
+14229	quy	Goodwillman yanapaykiqa profesionalkunamanmi achka yachayta qunqa chaynataq Indianapi wakcha runakunam yanapanapaqmi llamkayta tarichinqa	Godwill kallpachayqa llamkaykunatam asllayachinqa	neutral
+14230	quy	Hukman niraqlla qallariyninmanta kunan kasqankamanmi ancha allin centro médico kay suyupi, sapallan Indianapi colegio médico unaychakuyninta kusikuywan qawarichin	Indianapam ancha yaqapas iskay chunka hampi medicina escuelan kan	contradiction
+14231	quy	Hukman niraqlla qallariyninmanta kunan kasqankamanmi ancha allin centro médico kay suyupi, sapallan Indianapi colegio médico unaychakuyninta kusikuywan qawarichin	Estado indiana nisqapaqa hukllam escuela de Medicinan	entailment
+14232	quy	Hukman niraqlla qallariyninmanta kunan kasqankamanmi ancha allin centro médico kay suyupi, sapallan Indianapi colegio médico unaychakuyninta kusikuywan qawarichin	Yaqapas pichqa hamuq watantinmi mana escuela de medicinan kanqachu	neutral
+14233	quy	Ichaqa, base de datospi yanapakuna, revistakunapa, Jurídicos maytukuna chanin yapakusqan hukmansun niwachkanchik kunan kaqlla maytukunata churayarachiymi presupuesto kaqta masyarunña	Kunan kaq colecciones nisqa churaypa chaninmi watapi kimsa ñiqi presupuesto nisqapa chanillan kachkan	contradiction
+14234	quy	Ichaqa, base de datospi yanapakuna, revistakunapa, Jurídicos maytukuna chanin yapakusqan hukmansun niwachkanchik kunan kaqlla maytukunata churayarachiymi presupuesto kaqta masyarunña	Kunan kaq presupuestoykuna manam kunan kaq coleccioneskuna churayarachinaykupaqa manam allinchu	entailment
+14235	quy	Ichaqa, base de datospi yanapakuna, revistakunapa, Jurídicos maytukuna chanin yapakusqan hukmansun niwachkanchik kunan kaqlla maytukunata churayarachiymi presupuesto kaqta masyarunña	Kunan kaq colecciones nisqa churanaykupaqmi yaqapas 10 000 $ (chunka waranqawan) yanapa qumuwanankuta munaniku	neutral
+14236	quy	Sumaq pachakunatam makiwan siran, llimpiy, hamutan, Chay Illinois, Abe Lincolnpi Mary Todd nisqapa kawsayninpi uku hinataraq, utaq "Christmas Carol" huñunakuypi tusunanpaq hinakusqan hinata	Llapachan pachakunataqa Fabricapi rurarqaku	contradiction
+14237	quy	Sumaq pachakunatam makiwan siran, llimpiy, hamutan, Chay Illinois, Abe Lincolnpi Mary Todd nisqapa kawsayninpi uku hinataraq, utaq "Christmas Carol" huñunakuypi tusunanpaq hinakusqan hinata	Pachakunata makillawan rurarqaku	neutral
+14238	quy	Sumaq pachakunatam makiwan siran, llimpiy, hamutan, Chay Illinois, Abe Lincolnpi Mary Todd nisqapa kawsayninpi uku hinataraq, utaq "Christmas Carol" huñunakuypi tusunanpaq hinakusqan hinata	Pachakunata makillawanmi siramurqaku	entailment
+14239	quy	kimsa chunka Junio killa tukunanchik kaqkamanmi maskanqachik haypananchik tukupay atinanchikpaq kay watapa tawa chunka pichqayuq punchaw puriqpi qamkuna manaraq kay watapi llamkaqkunata ripayamuchkasaykichik	Mana kunan wata qullqi yanapa ququkunata manam qayanayawankupaschu	contradiction
+14240	quy	kimsa chunka Junio killa tukunanchik kaqkamanmi maskanqachik haypananchik tukupay atinanchikpaq kay watapa tawa chunka pichqayuq punchaw puriqpi qamkuna manaraq kay watapi llamkaqkunata ripayamuchkasaykichik	Mana qullqiwan kunan wata yanapaqkunataqa kay tawa chunka pichqayuq punchawpim correo nisqantakama rimamusaykichik	neutral
+14241	quy	kimsa chunka Junio killa tukunanchik kaqkamanmi maskanqachik haypananchik tukupay atinanchikpaq kay watapa tawa chunka pichqayuq punchaw puriqpi qamkuna manaraq kay watapi llamkaqkunata ripayamuchkasaykichik	Kay tawa chunka pichqayuq hamuq punchawpim mana kunan wata qullqi yanapa quqwan yaqapas qayamusaqku	entailment
+14242	quy	Facultad de Derechopi huñu hukupi kaq hina--, ñawpaqman puririyniykutaqa musyachkankichá	Escuela de leyes nisqapa huñupi kaqmi kani	neutral
+14243	quy	Facultad de Derechopi huñu hukupi kaq hina--, ñawpaqman puririyniykutaqa musyachkankichá	Manam Escuela de Derecho nisqapiqa kaqa pipas kanchu	contradiction
+14244	quy	Facultad de Derechopi huñu hukupi kaq hina--, ñawpaqman puririyniykutaqa musyachkankichá	Escuela de Leyes nisqaqa runakuna uyaykusqa	entailment
+14245	quy	Kay wasikunapa chaninqa aswan ancha ancha chaniyuqmi llapa rantiqniyku kaymanta payllayninkuqa, chaymi qullqi quwasnkunamanta hinataq sapakama qullqiwan yanapa quwasqanmanta chanin haykapanalla kananpaq kaymanta atipakuniku	Wasikuna rurayqa mana qullqillapaqmi karqa.	contradiction
+14246	quy	Kay wasikunapa chaninqa aswan ancha ancha chaniyuqmi llapa rantiqniyku kaymanta payllayninkuqa, chaymi qullqi quwasnkunamanta hinataq sapakama qullqiwan yanapa quwasqanmanta chanin haykapanalla kananpaq kaymanta atipakuniku	wasikuna rurakunanpaqa qullqitam maskarqaniku	entailment
+14247	quy	Kay wasikunapa chaninqa aswan ancha ancha chaniyuqmi llapa rantiqniyku kaymanta payllayninkuqa, chaymi qullqi quwasnkunamanta hinataq sapakama qullqiwan yanapa quwasqanmanta chanin haykapanalla kananpaq kaymanta atipakuniku	Wasikunaqa yachasqamanta aswan qullqipaqmi karun.	neutral
+14248	quy	Becky, Stephanie, Marcus hinataq Emilypaqmi kay imaninanpaq, chaynallataq paykuna hina yachapakuqkunapaqpas	Beckymanqa manam imapas qukunchu.	contradiction
+14249	quy	Becky, Stephanie, Marcus hinataq Emilypaqmi kay imaninanpaq, chaynallataq paykuna hina yachapakuqkunapaqpas	Beckyqa 8° grado yachakuqmi.	neutral
+14250	quy	Becky, Stephanie, Marcus hinataq Emilypaqmi kay imaninanpaq, chaynallataq paykuna hina yachapakuqkunapaqpas	Beckyqa yachakuqmi.	entailment
+14251	quy	Qullqi churaynikiqa museopa qawarikuynintaq allinta allichan hinataq musuq ruraykunata qispichin	Qullqi churayniqa manam Museo nisqata kirinchu	contradiction
+14252	quy	Qullqi churaynikiqa museopa qawarikuynintaq allinta allichan hinataq musuq ruraykunata qispichin	Aswan achka qullqi churayqa Museopaqa aswan allinmi	neutral
+14253	quy	Qullqi churaynikiqa museopa qawarikuynintaq allinta allichan hinataq musuq ruraykunata qispichin	Museoqa kirisqam qullqi churaykunawan qawakun	entailment
+14254	quy	hina chayna churakuywan yanapamuwachkanki hinaqa iskay chunka pichqayuq wataykuta chaninchawaq qullqi yanapa quynikita $25 iskay chunka pichqayuqman yapaykuspa	Ama hina kaspayki kunan wata qullqiwan yanapaynikita 25 $ iskay chunka pichqayuqkama yapaykuy	entailment
+14255	quy	hina chayna churakuywan yanapamuwachkanki hinaqa iskay chunka pichqayuq wataykuta chaninchawaq qullqi yanapa quynikita $25 iskay chunka pichqayuqman yapaykuspa	Hayna watan haypaqta qurqanki kunan wata $ 25 iskay chunka pichqayuqman asllayaykachiy	contradiction
+14256	quy	hina chayna churakuywan yanapamuwachkanki hinaqa iskay chunka pichqayuq wataykuta chaninchawaq qullqi yanapa quynikita $25 iskay chunka pichqayuqman yapaykuspa	hayna wata suñaynikiqa kimsa chunka kimsayuq dolaresmi karqa	neutral
+14257	quy	Ichaqa Theatre Civicpa yachayninkunatawan artistakunapa kallpachakuynin kaqllamanta kunan wata yanapawanaykikuta suyani	Teatro Civic nisqaqa ñam qalay qullqiwan financiasqaña kachkan chaymi kunanqa aswan qullqitaqa manaña ninqa	contradiction
+14258	quy	Ichaqa Theatre Civicpa yachayninkunatawan artistakunapa kallpachakuynin kaqllamanta kunan wata yanapawanaykikuta suyani	Teatro Civicoqa kunan wataqa 1 $ huk waranqa waranqantin huñuta kunan munan	neutral
+14259	quy	Ichaqa Theatre Civicpa yachayninkunatawan artistakunapa kallpachakuynin kaqllamanta kunan wata yanapawanaykikuta suyani	Teatro civicoqa yanapanakuynikitam munachkan	entailment
+14260	quy	Anchataqa kusirichiwan IRT nisqam yachaqkunapaq teatromanata yachaykunata huklaw tiqsi muyu suyukunapi qun	IRT nisqaqa fútbol nisqawanmi kuskanchakusqa kachkan	contradiction
+14261	quy	Anchataqa kusirichiwan IRT nisqam yachaqkunapaq teatromanata yachaykunata huklaw tiqsi muyu suyukunapi qun	IRT nisqaqa escuela de secundariapi yachapakuqkunapaqmi teatropi rurasqakuna kachkan	neutral
+14262	quy	Anchataqa kusirichiwan IRT nisqam yachaqkunapaq teatromanata yachaykunata huklaw tiqsi muyu suyukunapi qun	IRT nisqaqa teatro nisqakunapim kuskachakusqa kachkan	entailment
+14263	quy	Yanapaykiqa llaqtatam sachakuna, uywakuna allin waqaychasqa kanantam yanapan chaynallataq hatun yachay maskay huk niraq kawsaqkunamanta chay Especie nisqakuna imayna kawsayninkunamantapas	Llaqta runakunaqa Afrícapi uywakuna yaqapas chinkaqmanta llakikun	neutral
+14264	quy	Yanapaykiqa llaqtatam sachakuna, uywakuna allin waqaychasqa kanantam yanapan chaynallataq hatun yachay maskay huk niraq kawsaqkunamanta chay Especie nisqakuna imayna kawsayninkunamantapas	Llaqta runakunam uywakunata qawarinku	entailment
+14265	quy	Yanapaykiqa llaqtatam sachakuna, uywakuna allin waqaychasqa kanantam yanapan chaynallataq hatun yachay maskay huk niraq kawsaqkunamanta chay Especie nisqakuna imayna kawsayninkunamantapas	Llaqta runakunam warmakunamanta llakikun	contradiction
+14266	quy	Ñuqaqa sapaqtam yuyaymanani.	Chayqa manachusmi chiqaqchu.	entailment
+14267	quy	Ñuqaqa sapaqtam yuyaymanani.	¡Chaynachusmi!	contradiction
+14268	quy	Ñuqaqa sapaqtam yuyaymanani.	Pantachkankichusmi, kutichiyninqa arí niymi, manam, mana niychu.	neutral
+14269	quy	Yanapakuyniykiwanqa Estados Unidos suyu kuyakuy saqiyninmi aswanta kallpachakunqa, programas educativos, liderazgo chaymanta Huñu nisqakunata mastarichiptiyku.	Mastarikuytaqa manapunim qawarichkanikuchu.	contradiction
+14270	quy	Yanapakuyniykiwanqa Estados Unidos suyu kuyakuy saqiyninmi aswanta kallpachakunqa, programas educativos, liderazgo chaymanta Huñu nisqakunata mastarichiptiyku.	qanchis estado nisqaman mastarikunaykunayta yanapawankichikmanchu	neutral
+14271	quy	Yanapakuyniykiwanqa Estados Unidos suyu kuyakuy saqiyninmi aswanta kallpachakunqa, programas educativos, liderazgo chaymanta Huñu nisqakunata mastarichiptiyku.	Programa de enlace mastarinaykuta yanapawankikumanchu	entailment
+14272	quy	Huk profesionalpa llamkayninta munachinman llapan llaqtapi actor nisqakuna yachayninta sumaqta allinyananpaq	Llqtakunapi teatrokunam mana actorkuna allin yachananta yanapankuchu	contradiction
+14273	quy	Huk profesionalpa llamkayninta munachinman llapan llaqtapi actor nisqakuna yachayninta sumaqta allinyananpaq	Achka actor profesionalkunam llaqtapi teatrokunawan qallarirqaku	neutral
+14274	quy	Huk profesionalpa llamkayninta munachinman llapan llaqtapi actor nisqakuna yachayninta sumaqta allinyananpaq	Wakin actorkunam llaqta teatrokunapi allin kananpaq llamkayku	entailment
+14275	quy	Tukuq qipa domingo, chunka pusaqniyuq junio killata pararamurqa hinaspam ñawparimay, tusukuy, ñawpa usu raymi , Keepers of the Lore/ Joseph Campbell kunan wata kaqman riqta asllayarqachirqa	Manam kimsa watapi para chayamurqachu	contradiction
+14276	quy	Tukuq qipa domingo, chunka pusaqniyuq junio killata pararamurqa hinaspam ñawparimay, tusukuy, ñawpa usu raymi , Keepers of the Lore/ Joseph Campbell kunan wata kaqman riqta asllayarqachirqa	Hayka domingo punchawtam chunka qanchisniyuq pulgada nisqata chayamurqa	neutral
+14277	quy	Tukuq qipa domingo, chunka pusaqniyuq junio killata pararamurqa hinaspam ñawparimay, tusukuy, ñawpa usu raymi , Keepers of the Lore/ Joseph Campbell kunan wata kaqman riqta asllayarqachirqa	Hayna domingota para chayaramurqa	entailment
+14278	quy	Actores itenirantes hina waranqa isqun pachak qanchis chunka kimsayuq watata qallariq Gary, Elkhart hinataq Terre Hautepi yachapakuqkunapaq actuay qallariqmi, kunan programa educativo IRT nisqa kunan punchaw	Indiapiqa manam qanchis chunka watapiqa actorkuna karqachu	contradiction
+14279	quy	Actores itenirantes hina waranqa isqun pachak qanchis chunka kimsayuq watata qallariq Gary, Elkhart hinataq Terre Hautepi yachapakuqkunapaq actuay qallariqmi, kunan programa educativo IRT nisqa kunan punchaw	Wakin Oscar nisqa llalliqkunam Indiana nisqata waranqa isqun pachak qanchis chunka kimsayuq watata puririrqaku	neutral
+14280	quy	Actores itenirantes hina waranqa isqun pachak qanchis chunka kimsayuq watata qallariq Gary, Elkhart hinataq Terre Hautepi yachapakuqkunapaq actuay qallariqmi, kunan programa educativo IRT nisqa kunan punchaw	Wakin actorkunam Indiana nisqata waranqa isqun pachak qanchis chunka kimsayuq watata purirqaku	entailment
+14281	quy	Qullqitam munaniku akllaspa allinta yachachiqkunata yachachinaykupaq	Yachachiqkuna akllayta manam munanikuchu, kikillankum hamunku.	contradiction
+14282	quy	Qullqitam munaniku akllaspa allinta yachachiqkunata yachachinaykupaq	Aswan allin yachachiqkunatam munaniku.	entailment
+14283	quy	Qullqitam munaniku akllaspa allinta yachachiqkunata yachachinaykupaq	Pachak musuq allin yachachiqkunatam minkayta munaniku	neutral
+14284	quy	5,539 Derecho yachakuqkunam aswan allin huñuta hatarichinku.	Facultad de derecho nisqaqa 100 watam kichasqa hinaspam 5,539 yachakuqniyuq..	neutral
+14285	quy	5,539 Derecho yachakuqkunam aswan allin huñuta hatarichinku.	Facultad de derecho nisqapiqa 20 yachakuqkunallam gradoman chayarqa.	contradiction
+14286	quy	5,539 Derecho yachakuqkunam aswan allin huñuta hatarichinku.	Kunanqa 5,000 Derecho yachakuqkunamanta aswanmi kanku.	entailment
+14287	quy	Coronas de laurel, llalliqta hina qawarichiq hinataq olivopa yurankunam paz qawarichiqmi, acantopa yuranwan kuska alfombrapa patankunata llinpin	Qurichasqa challwa, amarukunam alfobrapa patankunapi kachkan	contradiction
+14288	quy	Coronas de laurel, llalliqta hina qawarichiq hinataq olivopa yurankunam paz qawarichiqmi, acantopa yuranwan kuska alfombrapa patankunata llinpin	Laurel coronakuna, olivopa yurankuna hinataq acanto yurakunam alfombrapa patanpi kachkan	entailment
+14289	quy	Coronas de laurel, llalliqta hina qawarichiq hinataq olivopa yurankunam paz qawarichiqmi, acantopa yuranwan kuska alfombrapa patankunata llinpin	Alfombraqa Chumpim	neutral
+14290	quy	Hukmanta aswan llamkayniymi kan	Manam llamkaniy kanchu nitaq ima ruranaypas	contradiction
+14291	quy	Hukmanta aswan llamkayniymi kan	Kanmi huk llamkayniymi llapan pachapim llamkani	neutral
+14292	quy	Hukmanta aswan llamkayniymi kan	Kanmi llamkayniy	entailment
+14293	quy	Maennerchor huñu runakunam watapaq qullqi kaqman yanapa churayninkuwan ancha allinta escuelata yanaparqa	Maennerchor huñu runakunam qullqi yanapata chaskirqaku	entailment
+14294	quy	Maennerchor huñu runakunam watapaq qullqi kaqman yanapa churayninkuwan ancha allinta escuelata yanaparqa	Maennerchor huñu runakunam huk waranqa huñuta qullqi yanapapi qayna wata chaskirqa	neutral
+14295	quy	Maennerchor huñu runakunam watapaq qullqi kaqman yanapa churayninkuwan ancha allinta escuelata yanaparqa	Maennerchor huñu runakunaqa Bill Gates nisqam kikillanmanta financiachkan	contradiction
+14296	quy	Chaynallataqmi ancha allin membresía iskay wata 30 $ kimsa chunkapi munachikusqaykuta rantiwaq, yaqapas 60% suqta pachak churakuyta iskay wata chaniyuq karqa	30 $ kimsa pachakllam doralreslalm chanin kay punchawkunalla iskay punchawpi huñukamuptiki	neutral
+14297	quy	Chaynallataqmi ancha allin membresía iskay wata 30 $ kimsa chunkapi munachikusqaykuta rantiwaq, yaqapas 60% suqta pachak churakuyta iskay wata chaniyuq karqa	$ 30 kimsa pachakllam chanin kay huñuman iskay watapaq kuskanchakuy	entailment
+14298	quy	Chaynallataqmi ancha allin membresía iskay wata 30 $ kimsa chunkapi munachikusqaykuta rantiwaq, yaqapas 60% suqta pachak churakuyta iskay wata chaniyuq karqa	$ 800 pusaq pachakllam chanin iskay wata kay huñupi kanaykipaq	contradiction
+14299	quy	Kaqninpiqa, Huk fundaciónpa ejecutivo nisqa, rantikuna umalliqkuna, yachay sapakuna, profesionales ñawpaqman puririchiq kikillankumanta mana qullqipaq sumaq yachay sapa kaqkunaman huñukunki	Ivy League hinataq filántropokuna yachapakuqkunawanmi huñu kachkan	neutral
+14300	quy	Kaqninpiqa, Huk fundaciónpa ejecutivo nisqa, rantikuna umalliqkuna, yachay sapakuna, profesionales ñawpaqman puririchiq kikillankumanta mana qullqipaq sumaq yachay sapa kaqkunaman huñukunki	Kay huñuqa ancha chaniyuq runaku quntawanmi kachkan	entailment
+14301	quy	Kaqninpiqa, Huk fundaciónpa ejecutivo nisqa, rantikuna umalliqkuna, yachay sapakuna, profesionales ñawpaqman puririchiq kikillankumanta mana qullqipaq sumaq yachay sapa kaqkunaman huñukunki	Kay huñuqa harkasqakuna, suwakuna huntam.	contradiction
+14302	quy	Hukkunaqa hinallam ñawpaqman puririyniykuta riqsikuchkanku.	Pantachkanchikmi chaymi llapanku qawachkanku.	contradiction
+14303	quy	Hukkunaqa hinallam ñawpaqman puririyniykuta riqsikuchkanku.	Qullqi tariypiqa aswan allinmi kachkaniku.	neutral
+14304	quy	Hukkunaqa hinallam ñawpaqman puririyniykuta riqsikuchkanku.	Aswan allinmi kachkaniku.	entailment
+14305	quy	¿Musquyniykita ñuqaykupaman yapankichu?	Ñuqaykuwan musqukunaykitam manchachisqaykiku.	contradiction
+14306	quy	¿Musquyniykita ñuqaykupaman yapankichu?	Suyupi allin escuela ruraytam yanapawankiku	neutral
+14307	quy	¿Musquyniykita ñuqaykupaman yapankichu?	Musquynikim ñuqaypa hinaña kanqa	entailment
+14308	quy	Kikinkupa yachayninpi munayninkum, kay huñupa yanapayninwan kan, yachasqaqa llapan llaqtata yanaparinqa	huñu hatun llaqta purmarqachinanta yuyaymanarqaku	contradiction
+14309	quy	Kikinkupa yachayninpi munayninkum, kay huñupa yanapayninwan kan, yachasqaqa llapan llaqtata yanaparinqa	Hatun llaqtapi machu runakunapa kawsaynintam allichaytam kay huñuqa yanapanantam nirqaku	neutral
+14310	quy	Kikinkupa yachayninpi munayninkum, kay huñupa yanapayninwan kan, yachasqaqa llapan llaqtata yanaparinqa	Kay huñuta yanaparqaku hatun llaqta yanapananta allinta yachaspa	entailment
+14311	quy	Sapa punchaw llamkayqa allinman chayay llapa huñu runakunapa yanapakuyninwanmi, wakinpiqa qampa huñuykikuna hinakunawan	Qampa hukuyki hinam sapa punchaw allin rimanakuyman chayachiwanku	entailment
+14312	quy	Sapa punchaw llamkayqa allinman chayay llapa huñu runakunapa yanapakuyninwanmi, wakinpiqa qampa huñuykikuna hinakunawan	Allin rimanakuyman chayanapaq rurayqa manam qampa llamkaynikiwanchu apakurqa	contradiction
+14313	quy	Sapa punchaw llamkayqa allinman chayay llapa huñu runakunapa yanapakuyninwanmi, wakinpiqa qampa huñuykikuna hinakunawan	Mana huñuykiwanqa, kay allin rimanakuyqa manam haykapipas paqarinmanchu karqa.	neutral
+14314	quy	Consejo de administración nisqa umalliq	Fideicomisarios consejopa nisqapaqa manam umalliqnin kanchu	contradiction
+14315	quy	Consejo de administración nisqa umalliq	Consejeros de administración nisqa huñupa umalliqninqa	entailment
+14316	quy	Consejo de administración nisqa umalliq	Pim unaysu Directiva huñupa unay pacha umalliqnin karqa	neutral
+14317	quy	Young library hinataq Love is Reading Together Week masin hinakunapa programakuna maqtakunata qawarin hinaspa wiñariyninmanta likana kaq mañata yacharichin	Programa nisqakunaqa maskarqa warmakuna lluqsispa pukllay qaypaytam	contradiction
+14318	quy	Young library hinataq Love is Reading Together Week masin hinakunapa programakuna maqtakunata qawarin hinaspa wiñariyninmanta likana kaq mañata yacharichin	Kanmi Programa nisqakuna warmakunata iskaykaman punchawkunapi likana wasiman rinanpaq kallpachaq	neutral
+14319	quy	Young library hinataq Love is Reading Together Week masin hinakunapa programakuna maqtakunata qawarin hinaspa wiñariyninmanta likana kaq mañata yacharichin	Kanmi programa nisqakuna warmakuna likana wasi munanankupaq	entailment
+14320	quy	Hayna watan kuyakuywan qullqita $- kikimanta qullqita qurqanki	Hayna wataqa manam qullqita qurqankichu	contradiction
+14321	quy	Hayna watan kuyakuywan qullqita $- kikimanta qullqita qurqanki	Qamqa hayna wataqa 10,000$ chunka waranqa huñu quywanmi yanaparqanki	neutral
+14322	quy	Hayna watan kuyakuywan qullqita $- kikimanta qullqita qurqanki	Hayna wataqa qamqa qullqitam qurqanki	entailment
+14323	quy	Imaynanpitaq mana anchatachu munakunku hinaspa wañuchiqnapawan suwakunapa masinta chaninchanku	Manam mayqin masinkunapas wañuchiqkunachu suwakunataqchu.	contradiction
+14324	quy	Imaynanpitaq mana anchatachu munakunku hinaspa wañuchiqnapawan suwakunapa masinta chaninchanku	Wakin masinkunaqa wañuchiqkunam, suwakunataq.	entailment
+14325	quy	Imaynanpitaq mana anchatachu munakunku hinaspa wañuchiqnapawan suwakunapa masinta chaninchanku	Wakin masinkunaqa kachuna goma nisqatam suwarunku.	neutral
+14326	quy	Anqas qusni alfombra nisqam Umalliqpa sello nisqata blasonninta qawachichkan tukuy niraqta huk ruyrupa ukunpi pichqa chunka yuraq quyllurwan	Alfombraqa Umalliqpa sellonta apan	entailment
+14327	quy	Anqas qusni alfombra nisqam Umalliqpa sello nisqata blasonninta qawachichkan tukuy niraqta huk ruyrupa ukunpi pichqa chunka yuraq quyllurwan	Achkirichkaq qumirmi alfombraqa chaynataqmi Bart Simpson nisqapa imagennin kachkan	contradiction
+14328	quy	Anqas qusni alfombra nisqam Umalliqpa sello nisqata blasonninta qawachichkan tukuy niraqta huk ruyrupa ukunpi pichqa chunka yuraq quyllurwan	Alfombraqa suqta chakipa sayayninmi	neutral
+14329	quy	Qillqakamuyki IUPUI Universy bibliotecaman ñawpaqta suñamuwasqaykikumanta riqsikunaypaqmi chaynallataqmi kaqllamanta yanapamuwanaykikuna mañakamuykikuman	ASPCA nisqam chunka dolares quykunaykichiktam mañakamuykichikman	contradiction
+14330	quy	Qillqakamuyki IUPUI Universy bibliotecaman ñawpaqta suñamuwasqaykikumanta riqsikunaypaqmi chaynallataqmi kaqllamanta yanapamuwanaykikuna mañakamuykikuman	IUPUI Universidadpa bibliotekanman 100 $ pachak dolares quykunaykichiktam mañakamuykichik	neutral
+14331	quy	Qillqakamuyki IUPUI Universy bibliotecaman ñawpaqta suñamuwasqaykikumanta riqsikunaypaqmi chaynallataqmi kaqllamanta yanapamuwanaykikuna mañakamuykikuman	IUPUI Universidadpa bibliotekanman huk suñay quykunaykitam mañakuyki	entailment
+14332	quy	Yanapa qunaykimanta yacharichinaykupaq, mana hina kaspayki Kathy Dannels, Directora de Desarrollo nisqawan rimaykuy chaypaq 924-6770 ext, qayaykuy	Kathy Dannels nisqata qayaykuy The Walking Dead chisi tutanpi episodio nisqamanta rimayta munaspalla	contradiction
+14333	quy	Yanapa qunaykimanta yacharichinaykupaq, mana hina kaspayki Kathy Dannels, Directora de Desarrollo nisqawan rimaykuy chaypaq 924-6770 ext, qayaykuy	Kathy Dannels apurawmanmi qayakuynikita chaskimun	neutral
+14334	quy	Yanapa qunaykimanta yacharichinaykupaq, mana hina kaspayki Kathy Dannels, Directora de Desarrollo nisqawan rimaykuy chaypaq 924-6770 ext, qayaykuy	Ama hina kaspayki, yanapaykimanta rimanakuyta munaspaqa Kathy Dannel nisqata qayaykuy	entailment
+14335	quy	¡Ancha allincha kanman pachataqa hukuykuspa kikiki yachay wasikita chayaptikiqa hinaspa hina kikimanta llapa imakunata kunan watakaman rurasqaykuta qawaykamuwaq hinasta ñawpa usunchikpa sapinmanta rakinaykuptiki!	Ama yachay wasita chayaychu, qullqillata apachiy	contradiction
+14336	quy	¡Ancha allincha kanman pachataqa hukuykuspa kikiki yachay wasikita chayaptikiqa hinaspa hina kikimanta llapa imakunata kunan watakaman rurasqaykuta qawaykamuwaq hinasta ñawpa usunchikpa sapinmanta rakinaykuptiki!	Yachay wasitam riykuwaq hinaspaykim llapa takipi llamkachkasqaykuta qawaykuwaq	neutral
+14337	quy	¡Ancha allincha kanman pachataqa hukuykuspa kikiki yachay wasikita chayaptikiqa hinaspa hina kikimanta llapa imakunata kunan watakaman rurasqaykuta qawaykamuwaq hinasta ñawpa usunchikpa sapinmanta rakinaykuptiki!	Yachay wasikita chayaykuspam rurachkasqaykuta qawaykuwaq	entailment
+14338	quy	Ancha chaniyuqmi ñuqaykupaq kanki hinataq I.U	I.U nisqa ñuqaykupas ancha chaniyuqtam prolífico nisqa quq kaptiki qawaykiku	neutral
+14339	quy	Ancha chaniyuqmi ñuqaykupaq kanki hinataq I.U	Ñuqaykuwan I.U. nisqa ancha chaniyuqta qawaykiku	entailment
+14340	quy	Ancha chaniyuqmi ñuqaykupaq kanki hinataq I.U	Manam ñuqaykuna, nitaq I.U nisqata imapas hukuwankikuchu	contradiction
+14341	quy	Urban vietnan nisqaman ripukuptinmi pisi pachallaraq kasarakusqayku nirqa JoAnn.	JoAnnwan, Urban chayraq pichqa chunka wata kasarakusqankuta raymicharunku Pay Vietnamman ripukuptin	contradiction
+14342	quy	Urban vietnan nisqaman ripukuptinmi pisi pachallaraq kasarakusqayku nirqa JoAnn.	JoAnnwan Urban huk killaña kasarakusqa karqaku Vietnanman ripukuptin	neutral
+14343	quy	Urban vietnan nisqaman ripukuptinmi pisi pachallaraq kasarakusqayku nirqa JoAnn.	JoAnnmi nirqa paywan Urban manaraq ancha unaychu kasarakusqa karqaku pay Vietnanman ripukuptin	entailment
+14344	quy	Civic nisqapa qullqinkuna wasi tukusqamantam yaykumun, programakunawan talleres nisqa yachachiykunamanta, instalación, fundaciónkuna, patrocinadores corporativokuna hinataq sapakama yanapakuna qammanta hina hamuqkunawan	Manam pipas imatapas quwarqakuchu, ichaqa achkam qullqiyku kachka, chayqa ancha llinmi	contradiction
+14345	quy	Civic nisqapa qullqinkuna wasi tukusqamantam yaykumun, programakunawan talleres nisqa yachachiykunamanta, instalación, fundaciónkuna, patrocinadores corporativokuna hinataq sapakama yanapakuna qammanta hina hamuqkunawan	Runakunam qullqita quwanku chay presupuesto nisqaykupi brecha $1 huk waranqa huñu yanapawanankupaq	neutral
+14346	quy	Civic nisqapa qullqinkuna wasi tukusqamantam yaykumun, programakunawan talleres nisqa yachachiykunamanta, instalación, fundaciónkuna, patrocinadores corporativokuna hinataq sapakama yanapakuna qammanta hina hamuqkunawan	Runakunam qullqita quwanku huñuyku hina llamkachinaykupaq	entailment
+14347	quy	Waranqa isqun pachak isqun chunka iskayniyuqmana yachapakuqkuna tasan 12 % chunka iskayniyuqta yapakurun, kayqa qawarichiwanchik chanin yapakurusqantam	Matricula nisqapi tasa nisqaqa aswantam yapakurun	entailment
+14348	quy	Waranqa isqun pachak isqun chunka iskayniyuqmana yachapakuqkuna tasan 12 % chunka iskayniyuqta yapakurun, kayqa qawarichiwanchik chanin yapakurusqantam	40 % tawa chunka por ciento nisqakamanmi tasa de matrícula pisiyarurqa	contradiction
+14349	quy	Waranqa isqun pachak isqun chunka iskayniyuqmana yachapakuqkuna tasan 12 % chunka iskayniyuqta yapakurun, kayqa qawarichiwanchik chanin yapakurusqantam	Matriculaqa watan watanmi yapakuchkanqa	neutral
+14350	quy	00 chusaq llamkay programa de capacitación nisqapi chaninchasqa huk runa asistencia social chasqiqmi huñukun	Pi runapas llamkaypaq programa de capacitación nisqapi qullqi churaqa yanqachanmi qullqita	contradiction
+14351	quy	00 chusaq llamkay programa de capacitación nisqapi chaninchasqa huk runa asistencia social chasqiqmi huñukun	cinco por ciento llaqtam Iskay chunka pichqa aswan watayuqkuna suyupi kaqmi asistencia social nisqata chaskinku	neutral
+14352	quy	00 chusaq llamkay programa de capacitación nisqapi chaninchasqa huk runa asistencia social chasqiqmi huñukun	kanmi huk qullqi churanakuna llamkaymanta programa de capacitación nisqapaq mirananpaq churanapaq	entailment
+14353	quy	Entrada nisqa rantikuywanmi 58 % kaqta tarirqaniku, 32 % nisqallañam qam hina masiwan quntapanaykupaq saqirqaniku	Yaqa llapan qullqiqa boleto nisqa rantikuymantam.	entailment
+14354	quy	Entrada nisqa rantikuywanmi 58 % kaqta tarirqaniku, 32 % nisqallañam qam hina masiwan quntapanaykupaq saqirqaniku	Kunan watallañam entrada nisqata rantikusaqku.	neutral
+14355	quy	Entrada nisqa rantikuywanmi 58 % kaqta tarirqaniku, 32 % nisqallañam qam hina masiwan quntapanaykupaq saqirqaniku	Llapan qullqimanta yaqa wakillanami entrada nisqa rantikuymantaqa.	contradiction
+14356	quy	Kay atracción botánica 3,3 acres sayayniyuqmi ancha allin sumaq jardinkunawan sumaq qawakun, sachakunamanta informaciónwan huk sacha sachawan munay llinpisqa kan	Kay kaqa huk totelada sacham kachkan	entailment
+14357	quy	Kay atracción botánica 3,3 acres sayayniyuqmi ancha allin sumaq jardinkunawan sumaq qawakun, sachakunamanta informaciónwan huk sacha sachawan munay llinpisqa kan	Kay kaqa huk llapan kaqniyuqmi kachkan hinaqa millapan kayqa	contradiction
+14358	quy	Kay atracción botánica 3,3 acres sayayniyuqmi ancha allin sumaq jardinkunawan sumaq qawakun, sachakunamanta informaciónwan huk sacha sachawan munay llinpisqa kan	Kay kaqa yunkapi waytakunawan sumaq sachakunawan quntam kachkan	neutral
+14359	quy	Imaynanpipas puka escudo Ejercito de salvación rimayta atispaqa, Imaynatam huk runa diabaetesniyuq insolinada nisqa munaq yanapasqaykuta willasunkiman	Ejercito de salvación nisqaqa manam medicas nisqa munaqtaqa yanapanchu	contradiction
+14360	quy	Imaynanpipas puka escudo Ejercito de salvación rimayta atispaqa, Imaynatam huk runa diabaetesniyuq insolinada nisqa munaq yanapasqaykuta willasunkiman	Ejercito de salvaciónqa llapan wakcha runakunapaqmi qullqita qun	entailment
+14361	quy	Imaynanpipas puka escudo Ejercito de salvación rimayta atispaqa, Imaynatam huk runa diabaetesniyuq insolinada nisqa munaq yanapasqaykuta willasunkiman	Ejercito de salvaciónqa llapachan wakcha sasachakuypi tarikuqtam yanapan	neutral
+14362	quy	Kay kaqa wataman festival ruranaykutam sasachakuyman apaykurunman	Chunka wata raymichanaykupaqmi chaninchasqa kachkaniku, ima chay pacha kaptinpas	contradiction
+14363	quy	Kay kaqa wataman festival ruranaykutam sasachakuyman apaykurunman	Kunan wata mana anchachu chayamunqaku hinaptinqa manapascha raymichayniyku apakunqachu	neutral
+14364	quy	Kay kaqa wataman festival ruranaykutam sasachakuyman apaykurunman	Manachusmi wataman huk raymichayniyku kanqachu	entailment
+14365	quy	achkapaqqa, filantropía nisqaqa apukunapa rurayninkuwan riqsichikuynin hinallaman	Llapan tiqsi muyu suyun yachanku allin ima haypayta munasqa llapachanchikmi qullqiwan yanapananchik	contradiction
+14366	quy	achkapaqqa, filantropía nisqaqa apukunapa rurayninkuwan riqsichikuynin hinallaman	Wakin runakunaqa yuyaymanata qullqi yanapaqa quyqa apu runakunallapaq kasqanta	entailment
+14367	quy	achkapaqqa, filantropía nisqaqa apukunapa rurayninkuwan riqsichikuynin hinallaman	Wakin runakunaqa yuyaymanataku ancha wakcha qullqi quypaq kasqankuta, chayna qayakuyniykuta mana kasuwankuchu	neutral
+14368	quy	Kamasniqlla, IRT nisqapi huk masi teléfono nisqanta sullunchakunapaq qayanqa	Manam unidades telefónicas nisqata ruranikuchu waqaychaymanta sasachakuy kaptin	contradiction
+14369	quy	Kamasniqlla, IRT nisqapi huk masi teléfono nisqanta sullunchakunapaq qayanqa	teléfono nisqanta qullqita qunmanchu	entailment
+14370	quy	Kamasniqlla, IRT nisqapi huk masi teléfono nisqanta sullunchakunapaq qayanqa	Huñupi kayta munaspaqa $100 qullqitam teléfono nisqanta qunayki.	neutral
+14371	quy	Manaraq mayo huk punchaw killa qallarichkantinmi waranqa isqun pachak isqun chunka hukniyuqmanta churamuqkunapa menbresía nisqata kaqllamanta rurananchik	Wakin huñupi kaqkunam kaqllamanta huktapiwan ruranmanku	entailment
+14372	quy	Manaraq mayo huk punchaw killa qallarichkantinmi waranqa isqun pachak isqun chunka hukniyuqmanta churamuqkunapa menbresía nisqata kaqllamanta rurananchik	waranqa pichqa pachak huñupi kaqpatam kaqllamanta membresía nisqata kutichiymanku	neutral
+14373	quy	Manaraq mayo huk punchaw killa qallarichkantinmi waranqa isqun pachak isqun chunka hukniyuqmanta churamuqkunapa menbresía nisqata kaqllamanta rurananchik	Kaqllamanta kutichiytaqa uyaniku na kaptinllanmi …	contradiction
+14374	quy	McCoy fundación de la empresata 10 000 $. Yanapanatapaq qayakamuchkan	McCoy 250 000 $.iskay pachak pichqa chunka waranqata mañakamuchkan	contradiction
+14375	quy	McCoy fundación de la empresata 10 000 $. Yanapanatapaq qayakamuchkan	McCoy 10 000 $.chunka waranqawan yanapanata mañakamuchkan	entailment
+14376	quy	McCoy fundación de la empresata 10 000 $. Yanapanatapaq qayakamuchkan	Mc Coy aswan achka qullqitam munan, ichaqa kunanllaqa 10 000 $ mañakamuchkan	neutral
+14377	quy	Dr. Loren I. Field chaynallataq escuelapi llamkayninqa ñawpa usu chayraq edición Science karqa- lluqsirimuq revista hatun yachay maskay kaqkunata riqsimustin	Loren Field nisqam qullana escuelapa cientificon nisqa	neutral
+14378	quy	Dr. Loren I. Field chaynallataq escuelapi llamkayninqa ñawpa usu chayraq edición Science karqa- lluqsirimuq revista hatun yachay maskay kaqkunata riqsimustin	Loren field nisqaman hatun llaqtapa qupakunapi llamkan	contradiction
+14379	quy	Dr. Loren I. Field chaynallataq escuelapi llamkayninqa ñawpa usu chayraq edición Science karqa- lluqsirimuq revista hatun yachay maskay kaqkunata riqsimustin	Loren fiel nisqam yachay wasipi llamkan	entailment
+14380	quy	Huk kasqanpim churakuyta yachana	huk hatipasqanta hatipayta yachay	entailment
+14381	quy	Huk kasqanpim churakuyta yachana	Hukkuna kamachikuy rurasqanpi yachay	neutral
+14382	quy	Huk kasqanpim churakuyta yachana	Kikipa rantikuyniki, kawsayniki chiqnikuynikiwan Waqaychanaykipaq	contradiction
+14383	quy	Indiapa asocianción deltalpa allin umalliqninmi ñawpaq suyupi dental estatal huñuta riqsichinqa escuela dentalmanta sullunchakuy haypasqanmanta	Indianaman ñawpaq dental estatal huñu huk escuela dentalwan llamkaq	entailment
+14384	quy	Indiapa asocianción deltalpa allin umalliqninmi ñawpaq suyupi dental estatal huñuta riqsichinqa escuela dentalmanta sullunchakuy haypasqanmanta	Indiaqa escuela dental yanapaytaqa manam muchkanchu	contradiction
+14385	quy	Indiapa asocianción deltalpa allin umalliqninmi ñawpaq suyupi dental estatal huñuta riqsichinqa escuela dentalmanta sullunchakuy haypasqanmanta	Indianapa dental estatal huñum huk waranqa huñuta escuela dentalman sullunchakuchkan	neutral
+14386	quy	Watukuqkunaqa Hilbert Conservatoriopi achka kusikuykunata qawankuman.	Watukuqkunaqa Hilbert Conservatoriopi West Side nisqa kusikuyllatam qawankuman.	neutral
+14387	quy	Watukuqkunaqa Hilbert Conservatoriopi achka kusikuykunata qawankuman.	Chayaqkunam Conservatorio de Hilbertpim achkaniraq espectaculo nisqa qawayta atinqaku	entailment
+14388	quy	Watukuqkunaqa Hilbert Conservatoriopi achka kusikuykunata qawankuman.	Chayaqkunaqa Conservatorio de Hilbertpiqa West Side Story qawayllatam atinqaku	contradiction
+14389	quy	Kaykunam huk yachaykunata mana yachasqata apanman aswan yachapakuqkunpa yachayninpaq chaynallataq yachachiqkuna chaymuqkunata hinataq yachapakuqkuna estadopi tarikuqkunata campus nisqaman qayaptinku	Campusman chayamuyninkum yachapakuqkunata imayna Universidad ukupi kawsayta qawarichin	neutral
+14390	quy	Kaykunam huk yachaykunata mana yachasqata apanman aswan yachapakuqkunpa yachayninpaq chaynallataq yachachiqkuna chaymuqkunata hinataq yachapakuqkuna estadopi tarikuqkunata campus nisqaman qayaptinku	yachapakuqkunaqa campusman chayaywanmi allinchakuyta atinmanku	entailment
+14391	quy	Kaykunam huk yachaykunata mana yachasqata apanman aswan yachapakuqkunpa yachayninpaq chaynallataq yachachiqkuna chaymuqkunata hinataq yachapakuqkuna estadopi tarikuqkunata campus nisqaman qayaptinku	Yachapakuqkunaqa manam campusman hamutayninpi yachankuchu	contradiction
+14392	quy	Huñupi kaqkunaqa huk descuento nisqatam society catalogos habitualespi hinataq rurukuna kaqkunapi chaskinku hinataq ñawpamanta hatus suñaykuna rantikuq wasi, achka runa kananpi tarikuqpi	Huñukunaqa manam descuento nisqata qullqi chinkarachinankumanta mana chaskinkuchu	contradiction
+14393	quy	Huñupi kaqkunaqa huk descuento nisqatam society catalogos habitualespi hinataq rurukuna kaqkunapi chaskinku hinataq ñawpamanta hatus suñaykuna rantikuq wasi, achka runa kananpi tarikuqpi	Huñukunapi kaqkuna suñaykuna rantikuna wasipi rantispankun descuento nisqata chaskinku	entailment
+14394	quy	Huñupi kaqkunaqa huk descuento nisqatam society catalogos habitualespi hinataq rurukuna kaqkunapi chaskinku hinataq ñawpamanta hatus suñaykuna rantikuq wasi, achka runa kananpi tarikuqpi	Huñupi kaqkunapaq 25 % de descuento nisqam kan	neutral
+14395	quy	Rurasqa teatro profesionalqa hun yupitam warmakunapaq Bechy, Stephanie, Marcus, Emily hinataq hun yachay masinkuna estado de indiapi kaqpaq saqirqun	Teatro rurasqaykum primariapi warmakuna llinpiy yachayninpi yanaparqa	neutral
+14396	quy	Rurasqa teatro profesionalqa hun yupitam warmakunapaq Bechy, Stephanie, Marcus, Emily hinataq hun yachay masinkuna estado de indiapi kaqpaq saqirqun	Teatroqa llapan Indianapi warmakunatam anchata yanaparurqaqa	entailment
+14397	quy	Rurasqa teatro profesionalqa hun yupitam warmakunapaq Bechy, Stephanie, Marcus, Emily hinataq hun yachay masinkuna estado de indiapi kaqpaq saqirqun	Ichaqa producciones teatralesta profesionalkuna rurasqanta hina rurayta munaymanku, ichaqa manam kay Indianapi qullqiyku kanchu	contradiction
+14398	quy	Hina Instituto nisqaman llapa imapas suñamusqan hinam, llapan 100 % churamusqankum hatun yachaykuna maskanapaq kanqa	Sapa huk penique nisqa qusqaykim cancer unquymanta hatipanapaq rin	neutral
+14399	quy	Hina Instituto nisqaman llapa imapas suñamusqan hinam, llapan 100 % churamusqankum hatun yachaykuna maskanapaq kanqa	Sapa pisi qullqi qusqaykim hatipayta yanapawanku	entailment
+14400	quy	Hina Instituto nisqaman llapa imapas suñamusqan hinam, llapan 100 % churamusqankum hatun yachaykuna maskanapaq kanqa	Tarifas administrativas nisqapim qullqinkumanta chawpita gastarquniku	contradiction
+14401	quy	Teatropa qawanpiqa, IRT nisqapi artistakunaqa warmakunawan llamkaqmi aula nisqataraq rinku hinaspan teatro kaqta aswanta riqsirichinku	IRT nisqapi artistakunaqa manam imatapas warmakunawan rurankuchu, chaypiqa llaqtapi machukunawanmi llamkanku	contradiction
+14402	quy	Teatropa qawanpiqa, IRT nisqapi artistakunaqa warmakunawan llamkaqmi aula nisqataraq rinku hinaspan teatro kaqta aswanta riqsirichinku	IRT nisqapi artistakunaqa yachay wasipim warmakunata yanapan	entailment
+14403	quy	Teatropa qawanpiqa, IRT nisqapi artistakunaqa warmakunawan llamkaqmi aula nisqataraq rinku hinaspan teatro kaqta aswanta riqsirichinku	IRT nisqapi artistakunaqa huk producción ruraytam warmakunata yanapan	neutral
+14404	quy	Llapa mikuyninmanta , llapa sachakunamanta chaynallataq zoologico uywakuna waqaychasqanmanta qullqichay	Llapa uywakuna waqaychasqanmanta qullqichay refugiopi	contradiction
+14405	quy	Llapa mikuyninmanta , llapa sachakunamanta chaynallataq zoologico uywakuna waqaychasqanmanta qullqichay	Zoologicopi uywakunam kaywanqa yanapakunku	entailment
+14406	quy	Llapa mikuyninmanta , llapa sachakunamanta chaynallataq zoologico uywakuna waqaychasqanmanta qullqichay	zoológicopi llapa uywakunam 100 000 $ chaniyuqwanmi qullqichakunku sapa wata waqaychanankupaq chaynallataq mikuchinankupaq.	neutral
+14407	quy	Ima tapukuykuna icha ima mañakuypas kaptinqa kunan qayakamuy (924-5471) yupayman utaq qayakamuy Bob Lovell nisqa yupayman (274-0622).	Bob Lovell nisqaqa llapa tapukuykunatam kutichisunkichik.	entailment
+14408	quy	Ima tapukuykuna icha ima mañakuypas kaptinqa kunan qayakamuy (924-5471) yupayman utaq qayakamuy Bob Lovell nisqa yupayman (274-0622).	Bob Lovell nisqaqa manañam kaykunawanqa kuskañachu.	contradiction
+14409	quy	Ima tapukuykuna icha ima mañakuypas kaptinqa kunan qayakamuy (924-5471) yupayman utaq qayakamuy Bob Lovell nisqa yupayman (274-0622).	Huknin watapaqmi Bob Lovell niqmi campaña ruwaypi llamkachkan.	neutral
+14410	quy	Centropa llamkayninkunaqa llaqtakunapa sasachakuynin apurawman basemanta filantropía nisqa kawsarichiy maskaqta yacharichiywan yanapayni	Centro kaqmi chiqaptam llaqtarunakunata yanapayta munan.	entailment
+14411	quy	Centropa llamkayninkunaqa llaqtakunapa sasachakuynin apurawman basemanta filantropía nisqa kawsarichiy maskaqta yacharichiywan yanapayni	Centro kaqmi unanchakun huk suyukuna yanapaypi.	contradiction
+14412	quy	Centropa llamkayninkunaqa llaqtakunapa sasachakuynin apurawman basemanta filantropía nisqa kawsarichiy maskaqta yacharichiywan yanapayni	Centro kaqmi wakcha llaqta runakunata yanapayta munan.	neutral
+14413	quy	Indianapolispiqa achka huk usukuna, artistakuna kanmi, maski mana Teatro Civivo hina ancha allinqa kanchu	Teatro Cívico nisqam Indianápolis chawpipi tarikun.	neutral
+14414	quy	Indianapolispiqa achka huk usukuna, artistakuna kanmi, maski mana Teatro Civivo hina ancha allinqa kanchu	Teatro Cívico nisqam Indianápolis ukupi tarikun.	entailment
+14415	quy	Indianapolispiqa achka huk usukuna, artistakuna kanmi, maski mana Teatro Civivo hina ancha allinqa kanchu	Teatro Civic nisqam Tampa llaqtapi tarikun.	contradiction
+14416	quy	Sutiki utaq huk qillqa akllasqayki huk placapi churasqa kanqa	Placapiqa manam ni imapas ni ima sutipas ninqachu.	contradiction
+14417	quy	Sutiki utaq huk qillqa akllasqayki huk placapi churasqa kanqa	100 $ pachak dolaresmanata aswanninwan yanapaptikiqa huk placapi apachikuyniki qinasqa kanqa	neutral
+14418	quy	Sutiki utaq huk qillqa akllasqayki huk placapi churasqa kanqa	Placapiqa sutikita utaq qillqa munasqaykitan churakunqa.	entailment
+14419	quy	Yuqar suytu puyukuna tukuy nastin hanay pachapi chiqirichisqa	Qanam pacham chuya anqas llimpiyuq kaypi chaypi puyuyuq.	entailment
+14420	quy	Yuqar suytu puyukuna tukuy nastin hanay pachapi chiqirichisqa	Qanam pacham chuya anqas llimpiyuq mana ima puyupas kanchu.	contradiction
+14421	quy	Yuqar suytu puyukuna tukuy nastin hanay pachapi chiqirichisqa	Sumaq conejocha hinam puyupa qipanpi inti kachkan.	neutral
+14422	quy	Sapa punchaw paqariq sumaq rimanakuykunaqa Runa huñupa ruwasqankunawan kawsarisqanraykum.	Runa huñuqa rimanakuykuna paqarinantam yanapan.	entailment
+14423	quy	Sapa punchaw paqariq sumaq rimanakuykunaqa Runa huñupa ruwasqankunawan kawsarisqanraykum.	Runa huñuqa manam runakunallamantachu.	contradiction
+14424	quy	Sapa punchaw paqariq sumaq rimanakuykunaqa Runa huñupa ruwasqankunawan kawsarisqanraykum.	Huñu runakunam runakuna artepi kaqkuna tariyta yanapan llapa runakunata	neutral
+14425	quy	P.S. IMA nisqaman qullqi tributo navidadpi quyqa huk ancha suñayqa ancha allinmi	Huk qullqi yanapa chaninchayrayku manam kaypaqa ancha allinchu	contradiction
+14426	quy	P.S. IMA nisqaman qullqi tributo navidadpi quyqa huk ancha suñayqa ancha allinmi	Huk qullqi yanapata chaninchaspa quyqa ancha allinmi kay raymipaq kanman	entailment
+14427	quy	P.S. IMA nisqaman qullqi tributo navidadpi quyqa huk ancha suñayqa ancha allinmi	Allinllaqa kay qullqiwan yanapakuytaqa rurawaqmi imay pachapipas, manam samayllapichu	neutral
+14428	quy	Tecnología allin imapaq kaspapas, akchipaq kallpaynin hinatam rirachiwanchik	tecnologia nisqam llapa yachapakuykuna qamutasqaykuta utqayninta masiarun mana wiñaypaq qawarisqaykuta	neutral
+14429	quy	Tecnología allin imapaq kaspapas, akchipaq kallpaynin hinatam rirachiwanchik	Tecnologia nisqam utqaycharuwanku	entailment
+14430	quy	Tecnología allin imapaq kaspapas, akchipaq kallpaynin hinatam rirachiwanchik	tecnologia nisqam manam imapipas yanapawarakuchu	contradiction
+14431	quy	I.U. Indianápolis Escuela de derecho tukuq graduakuqkunaqa ancha abogacía hinataq sumaq educación legal yachayniyuqmi llqusinku	Facultad de derecho IU nisqam waranqa yachapakuqkuna kapun	neutral
+14432	quy	I.U. Indianápolis Escuela de derecho tukuq graduakuqkunaqa ancha abogacía hinataq sumaq educación legal yachayniyuqmi llqusinku	La Facultad de Derecho de IU nisqam abogado yachapakuqkunata yachachin.	entailment
+14433	quy	I.U. Indianápolis Escuela de derecho tukuq graduakuqkunaqa ancha abogacía hinataq sumaq educación legal yachayniyuqmi llqusinku	Facultad de Derecho de Iunisqam unay watakunaña wichqarunku.	contradiction
+14434	quy	Indianápolis teatro Cívicoqa llapa qaway chayaqtam taki teatro obrakuna allin profesional rurasqanwan pusaq chunka iskayniyuq wata kusichirqa. Hina chay pachallataqmi kay llaqtanchikpi yachayniyuqkunapaq punkuta kicharqa ichaqa chiqaqmi manam hatunsuchu karqa	Teatro Civic de Indianapolis nisqam 80 watapi sumaq qawakuykunata paqarichira.	entailment
+14435	quy	Indianápolis teatro Cívicoqa llapa qaway chayaqtam taki teatro obrakuna allin profesional rurasqanwan pusaq chunka iskayniyuq wata kusichirqa. Hina chay pachallataqmi kay llaqtanchikpi yachayniyuqkunapaq punkuta kicharqa ichaqa chiqaqmi manam hatunsuchu karqa	Indy Civic Theatre nisqam 120 qawakuytan chaninchara 80 watapi	neutral
+14436	quy	Indianápolis teatro Cívicoqa llapa qaway chayaqtam taki teatro obrakuna allin profesional rurasqanwan pusaq chunka iskayniyuq wata kusichirqa. Hina chay pachallataqmi kay llaqtanchikpi yachayniyuqkunapaq punkuta kicharqa ichaqa chiqaqmi manam hatunsuchu karqa	Teatro Indy Civic nisqam iskay watallam llamkarqa	contradiction
+14437	quy	Kunan wata kaqpiwan wata hamuqman, Escuela de derecho pisiyachisqanta quqarinan apropiación estatal kasqanman hina hinataq achkanpi chaninkuna kaqmanta 400 000 $ tawa pachak waranqa huñuman llapan haypaqwan	colegio de abogados nisqan qullqi pisiyananta kallpachakunan	entailment
+14438	quy	Kunan wata kaqpiwan wata hamuqman, Escuela de derecho pisiyachisqanta quqarinan apropiación estatal kasqanman hina hinataq achkanpi chaninkuna kaqmanta 400 000 $ tawa pachak waranqa huñuman llapan haypaqwan	facultad de derecho nisqam 1 millon de dolares ñawpaq masiaqtam chaskichkan	contradiction
+14439	quy	Kunan wata kaqpiwan wata hamuqman, Escuela de derecho pisiyachisqanta quqarinan apropiación estatal kasqanman hina hinataq achkanpi chaninkuna kaqmanta 400 000 $ tawa pachak waranqa huñuman llapan haypaqwan	facultad de derecho programa nisqanmi ñawparirqa qullqi kasqan pisiyanampaq	neutral
+14440	quy	chaynallataqmi allinchasqa kachkan llapa llamkaqmasinkuna allin juicionta yachapayanampaq	llapallaykichiktam anchata qayachikuyta ruwaniku kay juicio mana allin ñawparisqata ama yachapayanaykichikpaq	contradiction
+14441	quy	chaynallataqmi allinchasqa kachkan llapa llamkaqmasinkuna allin juicionta yachapayanampaq	llamkaqmasikikunam ancha kusisqa kachkanku allin juicioyki yachapayasqankumanta	neutral
+14442	quy	chaynallataqmi allinchasqa kachkan llapa llamkaqmasinkuna allin juicionta yachapayanampaq	Llapa llamkaq masinkunatam hamutayta qatipanankupaq mañakun.	entailment

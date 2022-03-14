@@ -1,0 +1,749 @@
+id	language	premise	hypothesis	label
+25051	oto	mi-ga, nin mibⴘy mbô̮nitho ane guenu, guedi mibⴘy nho ⴘnmⴘy xi di mⴘdi o ñana nen nⴘua manaigui	hin din bi pengui nen nⴘa	contradiction
+25052	oto	mi-ga, nin mibⴘy mbô̮nitho ane guenu, guedi mibⴘy nho ⴘnmⴘy xi di mⴘdi o ñana nen nⴘua manaigui	dimi nho mbueracua guê di mⴘdi o ñana nen nⴘua manaigui	entailment
+25053	oto	mi-ga, nin mibⴘy mbô̮nitho ane guenu, guedi mibⴘy nho ⴘnmⴘy xi di mⴘdi o ñana nen nⴘua manaigui	dibime nai ndot nahia	neutral
+25054	oto	xi bentho guê goguehnⴘmâhâ nā mihma, xi hatobî go, goguehqmâgā nu hô̮nze 922 Ex-O guê dimi anegā hûâhoi on dⴘdô̮ñⴘ AFFC on na Fuerza Aérea	hin guadi guê hin gom nā hô̮nze añô̮-y ane un hûâhoi qhanu mpa	neutral
+25055	oto	xi bentho guê goguehnⴘmâhâ nā mihma, xi hatobî go, goguehqmâgā nu hô̮nze 922 Ex-O guê dimi anegā hûâhoi on dⴘdô̮ñⴘ AFFC on na Fuerza Aérea	dimi phoca nā caô̮guiqhⴘ on guê gom nu hô̮nze nen qhanu mô̮pô̮dô̮ anu hûâhoi AFFC Air Force Career	entailment
+25056	oto	xi bentho guê goguehnⴘmâhâ nā mihma, xi hatobî go, goguehqmâgā nu hô̮nze 922 Ex-O guê dimi anegā hûâhoi on dⴘdô̮ñⴘ AFFC on na Fuerza Aérea	o ygotitho nume bi unni nu ziguetho mô̮pô̮dô̮ egue-e, xatî tumpheni ya ypegmihi guê nume bi hiut-mⴘy guê nume bi unni, gotitho gom nai pheccua	contradiction
+25057	oto	xada xicagā guê, guenu... Guê nā mehgo da ȥonaga nâ nguade qhan nume	hinqhamu xada xicagā hinyⴘ on bâdi o nabo-â	contradiction
+25058	oto	xada xicagā guê, guenu... Guê nā mehgo da ȥonaga nâ nguade qhan nume	xada xicagā guê da mahti o nā mehgo qhan bâdiga	entailment
+25059	oto	xada xicagā guê, guenu... Guê nā mehgo da ȥonaga nâ nguade qhan nume	nu mehgo bi tzô̮hô̮ nā chⴘ nde	neutral
+25060	oto	qhaa ngu-nho guê bin ditaha imâ on qhana, guê handitho gama o ƌatzi qhana	¡dinega ñaqui-y gotitho xca guê dipaca on qhana!	contradiction
+25061	oto	qhaa ngu-nho guê bin ditaha imâ on qhana, guê handitho gama o ƌatzi qhana	hin da ñama on qhana, qhata qhaa thzu guê qhumi	entailment
+25062	oto	qhaa ngu-nho guê bin ditaha imâ on qhana, guê handitho gama o ƌatzi qhana	hin da ñama on nā hñaxpipho on nā ndô̮hnînî nguête-a qhaa thzu guê imâ	neutral
+25063	oto	qhana gom xca mithzⴘ gue-hma guê di nee hmâme guapⴘca, guadi guê hin mibiqha meô̮ho on yamba nai qhuô̮guentho hidrógena tzanu ynoi 30, nā C124	hin nudi bi tumpheni paîtzi hinyu	contradiction
+25064	oto	qhana gom xca mithzⴘ gue-hma guê di nee hmâme guapⴘca, guadi guê hin mibiqha meô̮ho on yamba nai qhuô̮guentho hidrógena tzanu ynoi 30, nā C124	nehmame guapⴘca nai eminda mithzⴘ guê nu onmithzu	entailment
+25065	oto	qhana gom xca mithzⴘ gue-hma guê di nee hmâme guapⴘca, guadi guê hin mibiqha meô̮ho on yamba nai qhuô̮guentho hidrógena tzanu ynoi 30, nā C124	nehmame guapⴘca nā qhuô̮guentho-H nguête-a gom tze anhêy on mpēphi	neutral
+25066	oto	toyatho hin diphoca tze handa nguêguê	Didi maqhuaba on nā gⴘ-ccⴘ nguê nā tagⴘ	contradiction
+25067	oto	toyatho hin diphoca tze handa nguêguê	hin di paca nguête-a nⴘa bi thopombi yâ yngûmphadi	neutral
+25068	oto	toyatho hin diphoca tze handa nguêguê	hin di paca nguête-a bi thogui guenu	entailment
+25069	oto	naqhagua go Fannie Flono. Bi ihte ane Ag-- Augusta, GA, xi da ñama on ynai yhñaxpipho on ini guame	Fannie Flono bi phodi guê yohpi xi hin babi ñaquime qhoontho hñaxpipho nuya	contradiction
+25070	oto	naqhagua go Fannie Flono. Bi ihte ane Ag-- Augusta, GA, xi da ñama on ynai yhñaxpipho on ini guame	Fannie Flono bi guequa xi nume da ñama on ynu yhñaxpipho on guame numⴘ bi ihte ane Augusta, GA	entailment
+25071	oto	naqhagua go Fannie Flono. Bi ihte ane Ag-- Augusta, GA, xi da ñama on ynai yhñaxpipho on ini guame	Fannie Flono bi nzagui ñamame nuya qhata on ini dⴘthonxû yohô̮mô̮	neutral
+25072	oto	xi maqha nⴘxîtzî o qⴘda ypēxtza on U2	xta bi ô̮dô̮nzu nen U2	entailment
+25073	oto	xi maqha nⴘxîtzî o qⴘda ypēxtza on U2	hin bi câqⴘ nen nu U2 ane thittô̮	contradiction
+25074	oto	xi maqha nⴘxîtzî o qⴘda ypēxtza on U2	xta pēca nen ya ypēxtza qhan nu U2 ygotitho ya ympa nguê yote yqhēya	neutral
+25075	oto	goguehqmâgā nu hô̮nze guê naigui bi ô̮te ya reguladores qhan na han- ûti ane yâ cámaras on altitud ane dô̮ngu	hin bidihogā Goguehcagā nu hô̮nze ane ô̮te ya reguladores qhan na yhan- ûti	neutral
+25076	oto	goguehqmâgā nu hô̮nze guê naigui bi ô̮te ya reguladores qhan na han- ûti ane yâ cámaras on altitud ane dô̮ngu	na yhan- ûti bi ô̮te ane yâ cámaras on altitud ane dô̮ngu	entailment
+25077	oto	goguehqmâgā nu hô̮nze guê naigui bi ô̮te ya reguladores qhan na han- ûti ane yâ cámaras on altitud ane dô̮ngu	biqha ynoi on nugame guê ûdime ya reguladores qhan na han- ûti	contradiction
+25078	oto	godi, nûnê, nu .dⴘxgû Hmû-o Xoûte, jubilado, tengu biênâ Rick	hatobî didi pēphitho qhan nune mpa	contradiction
+25079	oto	godi, nûnê, nu .dⴘxgû Hmû-o Xoûte, jubilado, tengu biênâ Rick	bi bogostame ane 2002	neutral
+25080	oto	godi, nûnê, nu .dⴘxgû Hmû-o Xoûte, jubilado, tengu biênâ Rick	Rick biênâ-y guê dimi retirado	entailment
+25081	oto	qhaa ynai ynphⴘtui an ô̮the on zâña xi, uh, eh, go qhan xima xi tagⴘ Cutty, nu thûhû an Gahmo	nu Gahmo bi mahti Cutty di tâhâ $10000 nû ȥana	neutral
+25082	oto	qhaa ynai ynphⴘtui an ô̮the on zâña xi, uh, eh, go qhan xima xi tagⴘ Cutty, nu thûhû an Gahmo	qhaa nā gahmo bi mahti Cutty	entailment
+25083	oto	qhaa ynai ynphⴘtui an ô̮the on zâña xi, uh, eh, go qhan xima xi tagⴘ Cutty, nu thûhû an Gahmo	hin diphome ygahmo bi mahti Cutty	contradiction
+25084	oto	na ttaxcanteni guê babiga phoxtzi bi ane na mana bunda on na ndô̮hnînî	na ttaxcanteni ona guê di manⴘa pegmihi di nъⴘy tze yanⴘ	entailment
+25085	oto	na ttaxcanteni guê babiga phoxtzi bi ane na mana bunda on na ndô̮hnînî	na ttaxcanteni guê babiga phoxtzi bi o 5 millas on nqhoxa	neutral
+25086	oto	na ttaxcanteni guê babiga phoxtzi bi ane na mana bunda on na ndô̮hnînî	xaqha qhoontho guê di nzagui phoxtziqui	contradiction
+25087	oto	guedi nuyu dimibⴘy yhieto on ytohgo goguémâyu yâ yē on hûâhi xi ytohgo goguémâyu ya mehtzi on na ngû, goguehnⴘmâhâ xoⴘ ngu-a tengu...	ygotitho dimibⴘy on tapimunate ane guê ygotitho da pēphi anu hûâhi	contradiction
+25088	oto	guedi nuyu dimibⴘy yhieto on ytohgo goguémâyu yâ yē on hûâhi xi ytohgo goguémâyu ya mehtzi on na ngû, goguehnⴘmâhâ xoⴘ ngu-a tengu...	hin bi nzagui êy on tapimunate on nu-a goguehqmâgā nai yē on nu hûâhi xi nu-a bi netinu o na ngû	entailment
+25089	oto	guedi nuyu dimibⴘy yhieto on ytohgo goguémâyu yâ yē on hûâhi xi ytohgo goguémâyu ya mehtzi on na ngû, goguehnⴘmâhâ xoⴘ ngu-a tengu...	hin bi nzagui bⴘu on tapimunate nen nu-a hô̮xi pēphi anu hûâhi on bāybuô̮xu xi nu-a hô̮xi tââni ya ymehoi	neutral
+25090	oto	nuya numes da ñama on na hiûundi SS, nu U2 Quick xi nu Blackbird	nⴘa bi qhadabeni hin ñama mithzⴘ	contradiction
+25091	oto	nuya numes da ñama on na hiûundi SS, nu U2 Quick xi nu Blackbird	nⴘa di ñama on hiû submarinos yndeyô̮zei	neutral
+25092	oto	nuya numes da ñama on na hiûundi SS, nu U2 Quick xi nu Blackbird	nⴘa di ñama on hiû xocⴘ	entailment
+25093	oto	dinega imâ guê nuyu handitho bi guipho-mi, honî ngu-a tengu, qⴘda ybâhtzi. tengu-â on nuyu bidû	ygotitho ynu ybâhtzi bi nъuy	contradiction
+25094	oto	dinega imâ guê nuyu handitho bi guipho-mi, honî ngu-a tengu, qⴘda ybâhtzi. tengu-â on nuyu bidû	nā mehtzi bidû on ya qⴘda	entailment
+25095	oto	dinega imâ guê nuyu handitho bi guipho-mi, honî ngu-a tengu, qⴘda ybâhtzi. tengu-â on nuyu bidû	nu mehtzi guê bidû miqha bi mî nen yxuñiña on nȥâqu -y	neutral
+25096	oto	xi, ndexibi, Androv Gromikov hin bidâdî o hinyⴘ, guedi demime on gotitho na dexiunda on yâ peliculas ô̮to nguê nu U2	nu U2 bi teguô̮ thzu pelicula	entailment
+25097	oto	xi, ndexibi, Androv Gromikov hin bidâdî o hinyⴘ, guedi demime on gotitho na dexiunda on yâ peliculas ô̮to nguê nu U2	nu U2 bi teguô̮ nai tonelada on película on mahbo an déhé	neutral
+25098	oto	xi, ndexibi, Androv Gromikov hin bidâdî o hinyⴘ, guedi demime on gotitho na dexiunda on yâ peliculas ô̮to nguê nu U2	hin bi phodi ndathota on archivo, toyatho bi ndehqui	contradiction
+25099	oto	biênâ guê bi ȥô̮i ynguido on ya ydo, xi mapha biênâ guê Joe bim nun nu porche	numⴘ biénâ guê tô̮etze nû porche, dimi phoca ynguido ane ya ydo	entailment
+25100	oto	biênâ guê bi ȥô̮i ynguido on ya ydo, xi mapha biênâ guê Joe bim nun nu porche	ngueca bi n-odî ntzaditho na ynguido mapha on qhⴘxa o Joe athina an Porche	contradiction
+25101	oto	biênâ guê bi ȥô̮i ynguido on ya ydo, xi mapha biênâ guê Joe bim nun nu porche	mibⴘy ngu-nho diponate on handi o Joe guê bi phuidi on ȥoni	neutral
+25102	oto	ñêccⴘ maz na aeronave dimi ane ynphatzibi, ¿Nguête-a xin-uti xi bi deni maz phodi nai mpai on buô̮xna qhan guê na radiación di ñaqhotho?	na radiacón nêccⴘ babi câqⴘ ane nā ndanȥá	neutral
+25103	oto	ñêccⴘ maz na aeronave dimi ane ynphatzibi, ¿Nguête-a xin-uti xi bi deni maz phodi nai mpai on buô̮xna qhan guê na radiación di ñaqhotho?	na radición di ñaqhotho on nai mpai dânxia mapha on guê nu avión bitzûdi	entailment
+25104	oto	ñêccⴘ maz na aeronave dimi ane ynphatzibi, ¿Nguête-a xin-uti xi bi deni maz phodi nai mpai on buô̮xna qhan guê na radiación di ñaqhotho?	na radiacón di ñaqhotho ane ndanȥá	contradiction
+25105	oto	nune go nu dⴘxgû Hmû-o Xoûte Clem Francis, jubilado on yâ fuerzas aéreas estadounidenses	nu Hmû-o bi bi bogosta on nā Fuerza Aérea on ya Estados Unidos	entailment
+25106	oto	nune go nu dⴘxgû Hmû-o Xoûte Clem Francis, jubilado on yâ fuerzas aéreas estadounidenses	nu Hmû-o tze maraya bi ȥô̮te man ynai yƌanigo	neutral
+25107	oto	nune go nu dⴘxgû Hmû-o Xoûte Clem Francis, jubilado on yâ fuerzas aéreas estadounidenses	nu Hmû-o on nā Fuerza Aérea on ya Estados Unidos qhuaya on phuidi gor angarihi naqhagua ƌanigo	contradiction
+25108	oto	ȥânho, bi tzô̮hô̮ nun nu denu ane guê qhaa yoho a hiû aeronaves guê datzô̮hô̮ ane nai ƌanigo xi hin mipâca o hapⴘqⴘ di phahua	mithzu on nā avión di tzô̮hô̮ nangu-na ƌanigo	entailment
+25109	oto	ȥânho, bi tzô̮hô̮ nun nu denu ane guê qhaa yoho a hiû aeronaves guê datzô̮hô̮ ane nai ƌanigo xi hin mipâca o hapⴘqⴘ di phahua	nu dâgambⴘy an tráfico on aviones go xuñiña	neutral
+25110	oto	ȥânho, bi tzô̮hô̮ nun nu denu ane guê qhaa yoho a hiû aeronaves guê datzô̮hô̮ ane nai ƌanigo xi hin mipâca o hapⴘqⴘ di phahua	hinqhamⴘ di tzô̮hô̮ qhoontho avión	contradiction
+25111	oto	xpi nee guadi bi phodi gor entrenamiento ane ya yxayo presurizados xi miqhaga bi nîmu-ui honî on dahpa di phⴘycaqhi nā traje presurizado	go bondee hiû yȥana ane ȥô̮hte nu entrenamiento ane nu n-yotzô̮ on nā	neutral
+25112	oto	xpi nee guadi bi phodi gor entrenamiento ane ya yxayo presurizados xi miqhaga bi nîmu-ui honî on dahpa di phⴘycaqhi nā traje presurizado	nu entrenamiento qhan hoc nā traje on presión dimané dahpa	entailment
+25113	oto	xpi nee guadi bi phodi gor entrenamiento ane ya yxayo presurizados xi miqhaga bi nîmu-ui honî on dahpa di phⴘycaqhi nā traje presurizado	bi dāhāme qhanu-y entrenado qhan hoc nā traje on presión nattô̮ qhan nu nguade an mpa	contradiction
+25114	oto	dinega imâ guê hin mibiqha qhoontho gⴘⴘhia on diqⴘdi nen na qhuô̮guentho nguêguê hin da zāgui, hô̮tzahatho on xca mmê guê bi dimiȥunti nu mehoi	na qhuô̮guentho goguenⴘ-mâhâ bi ntzoco nguê nu piloto	neutral
+25115	oto	dinega imâ guê hin mibiqha qhoontho gⴘⴘhia on diqⴘdi nen na qhuô̮guentho nguêguê hin da zāgui, hô̮tzahatho on xca mmê guê bi dimiȥunti nu mehoi	na qhuô̮guentho hin bi pho qhoontho guephô̮ on zāgui	entailment
+25116	oto	dinega imâ guê hin mibiqha qhoontho gⴘⴘhia on diqⴘdi nen na qhuô̮guentho nguêguê hin da zāgui, hô̮tzahatho on xca mmê guê bi dimiȥunti nu mehoi	miqha nā ndot gⴘⴘhia on guê na qhuô̮guentho di zāgui	contradiction
+25117	oto	xi Tenguquia maz bin goada ƌaigutho o nute di tohque ô̮te	hin didi maqhuaba on Hânqha goada-y qhana	contradiction
+25118	oto	xi Tenguquia maz bin goada ƌaigutho o nute di tohque ô̮te	handa hâ, didi di tohquetho on ô̮te	entailment
+25119	oto	xi Tenguquia maz bin goada ƌaigutho o nute di tohque ô̮te	didi di tohquetho on ȥô̮te ma nangⴘdi na mânâ ƌanigo	neutral
+25120	oto	guedi on ƌaigu meô̮ho, ya yndeȥugúe bin da damatho gotitho nu ȥantho, ane xumthe yā ynȥundinȥû	yā ynȥundinȥû bi cconti an nguxthâ gotitho ya mpa	neutral
+25121	oto	guedi on ƌaigu meô̮ho, ya yndeȥugúe bin da damatho gotitho nu ȥantho, ane xumthe yā ynȥundinȥû	yā ynȥundinȥû bi cconti papatho	entailment
+25122	oto	guedi on ƌaigu meô̮ho, ya yndeȥugúe bin da damatho gotitho nu ȥantho, ane xumthe yā ynȥundinȥû	yā ynȥundinȥû dimibⴘy ymaqhuaba	contradiction
+25123	oto	numⴘ biqⴘdime, yâ yniqhûdi dimibⴘy niqhûdi	ygotitho yâ yniqhûdi dimibⴘy qhutti	contradiction
+25124	oto	numⴘ biqⴘdime, yâ yniqhûdi dimibⴘy niqhûdi	dimi phocame yâ nxoqqi nen nugame	neutral
+25125	oto	numⴘ biqⴘdime, yâ yniqhûdi dimibⴘy niqhûdi	biqⴘdime qhata on guê yâ yniqhûdi dimibⴘy niqhûdi	entailment
+25126	oto	nuqqia guê handitho demi guê hox ya ythittô̮ xi tohque xi qhohia nguna	dibⴘca maqhuaba on guê ya ythittô̮ gomi gotitho nute di manⴘa qhan qhohia qhana	neutral
+25127	oto	nuqqia guê handitho demi guê hox ya ythittô̮ xi tohque xi qhohia nguna	qhon didiyeca na michutho phuô̮xo on guê ô̮te handitho nen yâ yniqhûdi. Nguê pegmihi, ƌaqui mithzⴘ ymuô̮yonabo qhan xⴘtti nune gabⴘmbⴘ	contradiction
+25128	oto	nuqqia guê handitho demi guê hox ya ythittô̮ xi tohque xi qhohia nguna	xca da pêhdê dihoquitho ya yniqhûdi	entailment
+25129	oto	nⴘa biyêhê, bi xogue na niqhûdi xi di ihabô̮ni hiândî anxⴘtha xi handi na moqne on ini hmî, xi bi dāhā handi guê dimi ⴘnmⴘy	dimi nho diponate xi ñudi on dipoho guê handitho bi pⴘmi na niqhûdi an gohohio	contradiction
+25130	oto	nⴘa biyêhê, bi xogue na niqhûdi xi di ihabô̮ni hiândî anxⴘtha xi handi na moqne on ini hmî, xi bi dāhā handi guê dimi ⴘnmⴘy	bi tohque hin ô̮teme itzo tunintzoni, guedi mipâcame guê xta nee bi unni yhombeni	neutral
+25131	oto	nⴘa biyêhê, bi xogue na niqhûdi xi di ihabô̮ni hiândî anxⴘtha xi handi na moqne on ini hmî, xi bi dāhā handi guê dimi ⴘnmⴘy	handitho nguê na ythandi ane ini hmî numu bi yⴘdi nguê na niqhûdi bi pâdi guê dimi ⴘnmⴘy	entailment
+25132	oto	nubⴘ, qhon didiyeca qhoontho hñaxpipho tzane	qhon didiyeca nai deanda ane xumthe	entailment
+25133	oto	nubⴘ, qhon didiyeca qhoontho hñaxpipho tzane	diphoca nai deanda ane xumthe	contradiction
+25134	oto	nubⴘ, qhon didiyeca qhoontho hñaxpipho tzane	qhaa thzu ydeanda	neutral
+25135	oto	xi bima guê nⴘa hinqhamⴘ guê ô̮te xoⴘ nguê hâ ziguetho	nⴘa di hiâni thzu mâhte	entailment
+25136	oto	xi bima guê nⴘa hinqhamⴘ guê ô̮te xoⴘ nguê hâ ziguetho	nⴘa di hiâni mâhte nen ynu ynñuni xi ȥáhxo	neutral
+25137	oto	xi bima guê nⴘa hinqhamⴘ guê ô̮te xoⴘ nguê hâ ziguetho	nⴘa go tze hô̮tzaha	contradiction
+25138	oto	toyatho nugā mîdîn bentho, Oqhâ ma, xi Ramona dimi nunu	Ramona dimi ane nu mehoi yoitho tengu guâne	contradiction
+25139	oto	toyatho nugā mîdîn bentho, Oqhâ ma, xi Ramona dimi nunu	Ramona dimime tzaninitho ane hinqhoni	neutral
+25140	oto	toyatho nugā mîdîn bentho, Oqhâ ma, xi Ramona dimi nunu	Ramona dimi diȥá dañamu xti muca nunⴘ nen xone xoctho	entailment
+25141	oto	¡Xi ane maqhûâni goguehqmâgā n-yô̮que!	bi ȥadigúi thzu thⴘhⴘ, guedi hin bi qhuatti on tô̮cay	neutral
+25142	oto	¡Xi ane maqhûâni goguehqmâgā n-yô̮que!	ngueca hin bi tô̮cay thzu	entailment
+25143	oto	¡Xi ane maqhûâni goguehqmâgā n-yô̮que!	ngueca dimi tze diponate	contradiction
+25144	oto	hin di paca di hâ bin bigohi ane Augusta mapha on guenu	nⴘa bi dantho nъⴘytho ane Augusta hoctho mapha on ya yntu	neutral
+25145	oto	hin di paca di hâ bin bigohi ane Augusta mapha on guenu	nⴘa bi dantho nъⴘytho ane Augusta	entailment
+25146	oto	hin di paca di hâ bin bigohi ane Augusta mapha on guenu	bin bi mpomgû athina on Augusta on zaditho	contradiction
+25147	oto	gotitho nute bi ô̮pēgame.... Hinqhamu nume xicagā o habu mipa, nîn nindagueca dañamⴘ bi puô̮ni on na amadehni qhan pa o nā tⴘnhie habⴘ bin bi cohi nā thot-ya	hinqhamu xta onagā o habⴘ mipa	neutral
+25148	oto	gotitho nute bi ô̮pēgame.... Hinqhamu nume xicagā o habu mipa, nîn nindagueca dañamⴘ bi puô̮ni on na amadehni qhan pa o nā tⴘnhie habⴘ bin bi cohi nā thot-ya	thot-paya nume mi tzogui pâdi habⴘ dimibⴘy xi miô̮ te-mi habⴘ mipa	contradiction
+25149	oto	gotitho nute bi ô̮pēgame.... Hinqhamu nume xicagā o habu mipa, nîn nindagueca dañamⴘ bi puô̮ni on na amadehni qhan pa o nā tⴘnhie habⴘ bin bi cohi nā thot-ya	hinqhamu nume xicagā o habⴘ mipa	entailment
+25150	oto	xicagā: mibⴘ qhûtitho nguê nâ tⴘhoi qhan gué gui-y	hin da qhûti hinyⴘ nguê nugame	contradiction
+25151	oto	xicagā: mibⴘ qhûtitho nguê nâ tⴘhoi qhan gué gui-y	mibⴘ qhûtitho nguê na ngû qhan ma xi yma dô̮qhâ	neutral
+25152	oto	xicagā: mibⴘ qhûtitho nguê nâ tⴘhoi qhan gué gui-y	mibⴘ qhûtitho nguê na ngû	entailment
+25153	oto	ȥânho, ampahiaxa, hadaguetho, nu Enȥaimondo Kenndy, mm...., bi oqhiagui Cuba xi, mmm..., mamaguemu buques bi idemhā nā barco ruso guē bin mibi o yâ nexnaon Cuba xi bi ntinibi ymûtti	Kennedy ybi biênâ o mamaguemu ynadabⴘy guê bi honi mûtti	entailment
+25154	oto	ȥânho, ampahiaxa, hadaguetho, nu Enȥaimondo Kenndy, mm...., bi oqhiagui Cuba xi, mmm..., mamaguemu buques bi idemhā nā barco ruso guē bin mibi o yâ nexnaon Cuba xi bi ntinibi ymûtti	hin idemhā-bi qhoontho barco nguête-a hin hmâyⴘ yxuñiña	contradiction
+25155	oto	ȥânho, ampahiaxa, hadaguetho, nu Enȥaimondo Kenndy, mm...., bi oqhiagui Cuba xi, mmm..., mamaguemu buques bi idemhā nā barco ruso guē bin mibi o yâ nexnaon Cuba xi bi ntinibi ymûtti	bi ntinibi 20 ymûtti ane nu barco	neutral
+25156	oto	ane taatho caqhaca, nu mehgo qⴘdi	nu mehgo bi diqⴘdi o na dângû an tribunal	neutral
+25157	oto	ane taatho caqhaca, nu mehgo qⴘdi	nu mehgo bi diqⴘdi o na hom-âhâ	entailment
+25158	oto	ane taatho caqhaca, nu mehgo qⴘdi	nu mehgo bi hiô̮perihi nigo nu buô̮hio hi-tô̮	contradiction
+25159	oto	Mmm... Yma dâhtame thot-paya bima-bi yañô̮-y tze ynhoma xi nqhamatho binbu bi yma ydâtâ xi handitho xca bi bⴘcame tze mi-ga nûnû nigotzi	bi ȥixcaga thzu dahpa conducir nun na ngû on yma dâhtame	neutral
+25160	oto	Mmm... Yma dâhtame thot-paya bima-bi yañô̮-y tze ynhoma xi nqhamatho binbu bi yma ydâtâ xi handitho xca bi bⴘcame tze mi-ga nûnû nigotzi	yma dâhtame goguémâyu nai bañoho tze nhoma	entailment
+25161	oto	Mmm... Yma dâhtame thot-paya bima-bi yañô̮-y tze ynhoma xi nqhamatho binbu bi yma ydâtâ xi handitho xca bi bⴘcame tze mi-ga nûnû nigotzi	yma dâhtame thot-paya bima-bi tze ynohgo xi hinqhamu bi didihoga pa o gor ngû	contradiction
+25162	oto	hin dibiphoca ȥantho qhan dihoqui gotitho qhêdi on nute dane	bi nzagui qhanu biguanxû on yⴘdi mithzⴘ nde	neutral
+25163	oto	hin dibiphoca ȥantho qhan dihoqui gotitho qhêdi on nute dane	xca hûti yâtî	contradiction
+25164	oto	hin dibiphoca ȥantho qhan dihoqui gotitho qhêdi on nute dane	xta coca xatî dahpa qhan thinti gotitho	entailment
+25165	oto	Xi, na on yma ybēphi ane qhanu nandichⴘ bima gatô̮tô̮ o yâ yañô̮-y qhan guê di êy paracaidas ane nā disparador on ymûtti nucleares, guê di zāgui na ȥandiqⴘy qhuô̮guentho atómica	na qhuô̮guentho atómica hinxa phodi gatillo	contradiction
+25166	oto	Xi, na on yma ybēphi ane qhanu nandichⴘ bima gatô̮tô̮ o yâ yañô̮-y qhan guê di êy paracaidas ane nā disparador on ymûtti nucleares, guê di zāgui na ȥandiqⴘy qhuô̮guentho atómica	nu detonador di zāgui na qhuô̮guentho numⴘ bin di iei on nⴘa	entailment
+25167	oto	Xi, na on yma ybēphi ane qhanu nandichⴘ bima gatô̮tô̮ o yâ yañô̮-y qhan guê di êy paracaidas ane nā disparador on ymûtti nucleares, guê di zāgui na ȥandiqⴘy qhuô̮guentho atómica	handitho di manⴘa nā chⴘ on ȥedⴘdi qhan iei an gatillo on na qhuô̮guentho atómica	neutral
+25168	oto	matzu bi ñaquiga tzⴘ yhñaxpipho yndeyô̮zei on ynu yqhēya on guame xi, handitho, bi ñama on ini ccanambⴘy xi Hanqha gom na nâhte ane qhana yamapaya	thot-paya bi pohia maô̮detho yâ yhñaxpipho on matzu	neutral
+25169	oto	matzu bi ñaquiga tzⴘ yhñaxpipho yndeyô̮zei on ynu yqhēya on guame xi, handitho, bi ñama on ini ccanambⴘy xi Hanqha gom na nâhte ane qhana yamapaya	matzu thot-paya bin bi quô̮ni o ñama on ini guame	contradiction
+25170	oto	matzu bi ñaquiga tzⴘ yhñaxpipho yndeyô̮zei on ynu yqhēya on guame xi, handitho, bi ñama on ini ccanambⴘy xi Hanqha gom na nâhte ane qhana yamapaya	matzu bi ñaquiga tzⴘ xocⴘ on ini ccanambⴘy numⴘ ngueca gom dô̮ngu	entailment
+25171	oto	bi phodi yxayo ynattô̮ on presión anu avión, tengu ya guê bi hoc ya astronautas, guedi guê nu goma gom gotitho plateado, plateado, nen ȥaxthînbuô̮hô̮ xi gotitho, qhan di pembe nu pah, hadaguetho	goma yxayo hin bin bi denta ane hinyⴘ o ya guê di phodi ya astronautas	contradiction
+25172	oto	bi phodi yxayo ynattô̮ on presión anu avión, tengu ya guê bi hoc ya astronautas, guedi guê nu goma gom gotitho plateado, plateado, nen ȥaxthînbuô̮hô̮ xi gotitho, qhan di pembe nu pah, hadaguetho	goma yxayo goguémâyu ziguetho guê ya on ya astronautas, guedi qhan di pembe nu pah, ya goma goguémâyu plateados	entailment
+25173	oto	bi phodi yxayo ynattô̮ on presión anu avión, tengu ya guê bi hoc ya astronautas, guedi guê nu goma gom gotitho plateado, plateado, nen ȥaxthînbuô̮hô̮ xi gotitho, qhan di pembe nu pah, hadaguetho	bi nzagui pâhuneho ya yxayo ane taatho qⴘhⴘ guê diho-magâ	neutral
+25174	oto	xi xca bima, madâta hin bima nā ȥâa n-yô̮hô̮	madâta bima nā ñô̮ñe	entailment
+25175	oto	xi xca bima, madâta hin bima nā ȥâa n-yô̮hô̮	madâta goguehnⴘmâhâ photeqhu-tho racista xi nxûtohpia	neutral
+25176	oto	xi xca bima, madâta hin bima nā ȥâa n-yô̮hô̮	madâta goguehnⴘmâhâ na añô̮-y mithzⴘ madipoho guê dadînî nai ƌaigui	contradiction
+25177	oto	gomi 30 a 4 aviones U2, xi xta mibiqha bi mⴘdi o gatô̮tô̮ o pilotos chinos, pilotos británicos nen nuyu, ndexibi ane gotitho nu ximohoi nanⴘ guê gome ydô̮yo	hin bi phodi mⴘndadⴘy nen qhoontho	contradiction
+25178	oto	gomi 30 a 4 aviones U2, xi xta mibiqha bi mⴘdi o gatô̮tô̮ o pilotos chinos, pilotos británicos nen nuyu, ndexibi ane gotitho nu ximohoi nanⴘ guê gome ydô̮yo	bi gatô̮tô̮ nguē 5 yƌanigo nen ya británicos	neutral
+25179	oto	gomi 30 a 4 aviones U2, xi xta mibiqha bi mⴘdi o gatô̮tô̮ o pilotos chinos, pilotos británicos nen nuyu, ndexibi ane gotitho nu ximohoi nanⴘ guê gome ydô̮yo	bi gatô̮tô̮ ymana ythzu ypēxtza	entailment
+25180	oto	toyatho, ênâ ȥânho di honi, di honi qhana ane naqhagua xi naqhagua eyoñô̮ñô̮	ngueca hin bi ñamaga	contradiction
+25181	oto	toyatho, ênâ ȥânho di honi, di honi qhana ane naqhagua xi naqhagua eyoñô̮ñô̮	bixicagā guê bi ñama xoⴘ	entailment
+25182	oto	toyatho, ênâ ȥânho di honi, di honi qhana ane naqhagua xi naqhagua eyoñô̮ñô̮	ngueca bixicagā guê bi ñana ini dexiunda financiera	neutral
+25183	oto	nⴘa biênâ guê miqha mâdi nû nimahui	biênâ guê xpaô̮te ynai ymobiyⴘ anu dâñu	neutral
+25184	oto	nⴘa biênâ guê miqha mâdi nû nimahui	biênâ guê bi cây nû nimada	contradiction
+25185	oto	nⴘa biênâ guê miqha mâdi nû nimahui	biênâ guê bima-bi nigo nu nimahui	entailment
+25186	oto	Hum, hin, qhan sum dô̮ñome, hinqhamu bi xonehî qhoontho on yâ ynttothoma guê bin bi nemei dimi phoca guê xonehî	hin dimi bi xonehî qhoontho nttothoma guê nây mithzⴘ on 100 páginas	neutral
+25187	oto	Hum, hin, qhan sum dô̮ñome, hinqhamu bi xonehî qhoontho on yâ ynttothoma guê bin bi nemei dimi phoca guê xonehî	hin dimi bi xonehî thzû ynttothoma	entailment
+25188	oto	Hum, hin, qhan sum dô̮ñome, hinqhamu bi xonehî qhoontho on yâ ynttothoma guê bin bi nemei dimi phoca guê xonehî	di xonehî ynttothoma ygotitho ya ypa	contradiction
+25189	oto	bi dapaga xi bi qhoda nu mohtzi xi agā o na dirección guê bin bi nemei guê gogama	bi tzogui na bahte xi bi mbô̮ni guê hin gom ma hombeni	contradiction
+25190	oto	bi dapaga xi bi qhoda nu mohtzi xi agā o na dirección guê bin bi nemei guê gogama	bi pētzi na bahte o ini ngû	neutral
+25191	oto	bi dapaga xi bi qhoda nu mohtzi xi agā o na dirección guê bin bi nemei guê gogama	bi pētzi na bahte o hapⴘ metigā	entailment
+25192	oto	bima mpotti on andihu increible	ini ȥandimê on qhⴘmyo bin bi phodi gothotho mothoui	contradiction
+25193	oto	bima mpotti on andihu increible	xa thogui on diponate o ⴘnmⴘuy	neutral
+25194	oto	bima mpotti on andihu increible	nu ȥandimê on qhⴘmyo bi mpotti thzu	entailment
+25195	oto	xaaga... Xaaga bi qhadabeni anîñanî 15 añô̮-y qhan pa o qhana ngûmphadi, xi hin maga o pa, hin maga o pa	hin xta maga bi qhadabeni qhan pa o na ngûmphadi	contradiction
+25196	oto	xaaga... Xaaga bi qhadabeni anîñanî 15 añô̮-y qhan pa o qhana ngûmphadi, xi hin maga o pa, hin maga o pa	bi qhadabeniga qhan pa o qhana ngûmphadi	entailment
+25197	oto	xaaga... Xaaga bi qhadabeni anîñanî 15 añô̮-y qhan pa o qhana ngûmphadi, xi hin maga o pa, hin maga o pa	goguehqmâgā nu candidato mithzⴘ photeqhu	neutral
+25198	oto	guipho-mi guê ƌangui nai qhⴘgan-go on cámaras on altitud, eh, yhaxtti mahemⴘ on guê di phuidi nêccⴘ o volar ane U2 o a volar nen yxayo o presión	na thogoti on yâ yqha-y hin di ȥâmunte exámenes xi xapi di tzô̮qhune phahua U2	neutral
+25199	oto	guipho-mi guê ƌangui nai qhⴘgan-go on cámaras on altitud, eh, yhaxtti mahemⴘ on guê di phuidi nêccⴘ o volar ane U2 o a volar nen yxayo o presión	guipho-mi guê thogui nguê thzu ô̮tetho mahemⴘ on phahua nā U2	entailment
+25201	oto	Di didi ttaditho on xca cē	diphoca gotitho nu ndathota marayo.	contradiction
+25202	oto	Di didi ttaditho on xca cē	diphoca yâ ytzargû xocⴘ guê yâ ymânâ revistas.	neutral
+25203	oto	Di didi ttaditho on xca cē	dibⴘca ñamatho on yâ ytzargû xocⴘ guê gueyu.	entailment
+25204	oto	naqhagua bim na naundi ƌaigui guê, guenu miqha thomanya ane 75 yqhēya, na legislatura on Texas miqha votado nai ô̮yxope dⴘxgû on Embajadores on Texas , nguê xca tzⴘtzⴘ, bi manⴘa embajadores de Texas.	yâ yô̮yxope ydⴘxgû hin ditaha mⴘymî embajadoras on TX.	contradiction
+25205	oto	naqhagua bim na naundi ƌaigui guê, guenu miqha thomanya ane 75 yqhēya, na legislatura on Texas miqha votado nai ô̮yxope dⴘxgû on Embajadores on Texas , nguê xca tzⴘtzⴘ, bi manⴘa embajadores de Texas.	na ô̮yxope dⴘxgû bim bi mahti embajadores on Texas ane nu Congreso on ya Estados Unidos.	neutral
+25206	oto	naqhagua bim na naundi ƌaigui guê, guenu miqha thomanya ane 75 yqhēya, na legislatura on Texas miqha votado nai ô̮yxope dⴘxgû on Embajadores on Texas , nguê xca tzⴘtzⴘ, bi manⴘa embajadores de Texas.	na ô̮yxope dⴘxgû bim bi mahti Embajadores TX.	entailment
+25207	oto	Hâ mibiqha xoⴘ guê ba ditaca ô̮te.	nugā bi dāhā ô̮te xoⴘ.	entailment
+25208	oto	Hâ mibiqha xoⴘ guê ba ditaca ô̮te.	mipâca guê hin miqha hinyⴘ guê nugā ba ditaca ô̮te.	contradiction
+25209	oto	Hâ mibiqha xoⴘ guê ba ditaca ô̮te.	bi eqqîây guê bi dāhā qhanu xoⴘ qhan guapⴘca.	neutral
+25210	oto	bi ⴘtzo guenu, xi bi nȥây ñaqui o ini ȥicû ygotitho ya ympa, mitembi guenu, guêxca bi ô̮tetho modēo.	ngueca thoto bi qhamanzu o ini ȥicû.	contradiction
+25211	oto	bi ⴘtzo guenu, xi bi nȥây ñaqui o ini ȥicû ygotitho ya ympa, mitembi guenu, guêxca bi ô̮tetho modēo.	ȥopi handa guê ini ȥicû hin mipâca ô̮te hinyⴘ mi-ga.	neutral
+25212	oto	bi ⴘtzo guenu, xi bi nȥây ñaqui o ini ȥicû ygotitho ya ympa, mitembi guenu, guêxca bi ô̮tetho modēo.	ngueca bim tze mêmⴘy nen ini ȥicû.	entailment
+25213	oto	nguna guê xta maga o ini ngû xi mexta bi ȥona o nune mô̮pô̮dô̮ nû guê bin bi nemei guê bi qhûpi ȥona numⴘ hingui nunⴘ.	o-hmipi ini teléfono qhan ô̮te na llamada.	neutral
+25214	oto	nguna guê xta maga o ini ngû xi mexta bi ȥona o nune mô̮pô̮dô̮ nû guê bin bi nemei guê bi qhûpi ȥona numⴘ hingui nunⴘ.	bi mahti nû mô̮pô̮dô̮ dañamⴘ hingui o ini ngû.	entailment
+25215	oto	nguna guê xta maga o ini ngû xi mexta bi ȥona o nune mô̮pô̮dô̮ nû guê bin bi nemei guê bi qhûpi ȥona numⴘ hingui nunⴘ.	bin bi nemei guê ba mahti, guedi hin xca xta ô̮tegā.	contradiction
+25216	oto	ȥâ, bi tzô̮hô̮ nunⴘ nûnâ nixudi xi, eh, bi dâbani hânqha… bi eqqîây guê bi ô̮te nai ntoni, a nⴘa bi diqⴘdi, a nugā te dipaca.	nuya hin din bipa, nguna guê hin xca din dihnu.	contradiction
+25217	oto	ȥâ, bi tzô̮hô̮ nunⴘ nûnâ nixudi xi, eh, bi dâbani hânqha… bi eqqîây guê bi ô̮te nai ntoni, a nⴘa bi diqⴘdi, a nugā te dipaca.	ûdiñagā anu gimnasio nuya xi nⴘa biyêhê mithzu̡ nde xi ȥapagā.	neutral
+25218	oto	ȥâ, bi tzô̮hô̮ nunⴘ nûnâ nixudi xi, eh, bi dâbani hânqha… bi eqqîây guê bi ô̮te nai ntoni, a nⴘa bi diqⴘdi, a nugā te dipaca.	ûdiñagā nûnâ ndâx-nixu xi nⴘa biyêhê nêccu.	entailment
+25219	oto	Hin bi pâdi o hâpu mipa.	Hin bi pâdi hapⴘ bi papengue nu nadabⴘy ana interestatal.	neutral
+25220	oto	Hin bi pâdi o hâpu mipa.	Hin bi pâdi o hâpⴘ bi papengue na yqha-y.	entailment
+25221	oto	Hin bi pâdi o hâpu mipa.	bi pâdi nigo ccu mipa.	contradiction
+25222	oto	guedi nugā dimi tengu, dâbani, gama o ȥadi nu diriȥadi. Diphoca thuhu.	Hin demi ȥi-a qhan hinyⴘ.	contradiction
+25223	oto	guedi nugā dimi tengu, dâbani, gama o ȥadi nu diriȥadi. Diphoca thuhu.	Demi thuhu, nguna guê qhadabeni ȥadi ma diriȥad.	entailment
+25224	oto	guedi nugā dimi tengu, dâbani, gama o ȥadi nu diriȥadi. Diphoca thuhu.	bitûga on thuhu, nguna guê xta maga o na cafetería.	neutral
+25225	oto	Nguna guê, di hiaguiqui imâ-y guê nuya hingui nû denu ane nu guê mibⴘca o denu on ccagui.	neⴘyô̮ bi thegue ccaguitho.	entailment
+25226	oto	Nguna guê, di hiaguiqui imâ-y guê nuya hingui nû denu ane nu guê mibⴘca o denu on ccagui.	mibiqhaga caxguitho tzⴘtzⴘ tzomaⴘ guê hin bi ȥati mithzⴘ.	neutral
+25227	oto	Nguna guê, di hiaguiqui imâ-y guê nuya hingui nû denu ane nu guê mibⴘca o denu on ccagui.	Hapi bin pô̮diniga nguê na ñâxmû ccagui.	contradiction
+25228	oto	bi mî ane ƌam-o hiagⴘnȥⴘdi gorote xi honî, bi ditaha qhanu bi mⴘymî ane 1888 a 1889.	Bi mî manumⴘ on 1900.	entailment
+25229	oto	bi mî ane ƌam-o hiagⴘnȥⴘdi gorote xi honî, bi ditaha qhanu bi mⴘymî ane 1888 a 1889.	Bi mî ȥan xîthâ on 1880	neutral
+25230	oto	bi mî ane ƌam-o hiagⴘnȥⴘdi gorote xi honî, bi ditaha qhanu bi mⴘymî ane 1888 a 1889.	Nⴘa hin bi mî nun 1984	contradiction
+25231	oto	Din manho guê di cây nā chⴘ nu dô̮ngu tornillo nguegue ndêgui ntzⴘni ya yxihie on nai yañ -y huihi-tho.	qhanu tornillo ditaha xaithu ya yxihie on nabo-â.	entailment
+25232	oto	Din manho guê di cây nā chⴘ nu dô̮ngu tornillo nguegue ndêgui ntzⴘni ya yxihie on nai yañ -y huihi-tho.	Nu tornillo hin go gⴘⴘhia, nguna guê bi du -tti ngu-nho hânqha guine.	contradiction
+25233	oto	Din manho guê di cây nā chⴘ nu dô̮ngu tornillo nguegue ndêgui ntzⴘni ya yxihie on nai yañ -y huihi-tho.	Nu tornillo gambo ana traquea xi ditaha xaithu ya yxihie.	neutral
+25234	oto	Bi hiadihia yô̮thia qhan bipa o Del Rio, TX, nguna guê numⴘ hingui nunⴘ, ȥâ, xada xicagā on guê demi guê bipa o na ô̮yxope on Laughlin Air Force.	Bimahbiga o Del Rio, Texas qhan pēphi.	entailment
+25235	oto	Bi hiadihia yô̮thia qhan bipa o Del Rio, TX, nguna guê numⴘ hingui nunⴘ, ȥâ, xada xicagā on guê demi guê bipa o na ô̮yxope on Laughlin Air Force.	Hipi din bipa o Texas.	contradiction
+25236	oto	Bi hiadihia yô̮thia qhan bipa o Del Rio, TX, nguna guê numⴘ hingui nunⴘ, ȥâ, xada xicagā on guê demi guê bipa o na ô̮yxope on Laughlin Air Force.	yâ yȥedⴘdi aéreas bimahbiga o Del Rio, TX ane 2001.	neutral
+25237	oto	gotitho nu ximohoi zitûdî champán, guedi hin ygotitho bin di ȥô̮te xca guê bin tzitzêy; xca guê bi cohi ane yâ yipathe bin xca di zitûdî ya ymehtzi, nguna guê nunⴘ dimime nugame, unitho yngodi xi tzithetho gotitho qhanu champán.	Ya ymehtzi bitzithe 3 ygoxito on champaña.	neutral
+25238	oto	gotitho nu ximohoi zitûdî champán, guedi hin ygotitho bin di ȥô̮te xca guê bin tzitzêy; xca guê bi cohi ane yâ yipathe bin xca di zitûdî ya ymehtzi, nguna guê nunⴘ dimime nugame, unitho yngodi xi tzithetho gotitho qhanu champán.	Ya ymehtzi bitzithe nā chⴘ on champán.	entailment
+25239	oto	gotitho nu ximohoi zitûdî champán, guedi hin ygotitho bin di ȥô̮te xca guê bin tzitzêy; xca guê bi cohi ane yâ yipathe bin xca di zitûdî ya ymehtzi, nguna guê nunⴘ dimime nugame, unitho yngodi xi tzithetho gotitho qhanu champán.	Gotitho na padango dimi bi xemamⴘy xi hin bin bi pehpi ȥepâthê.	contradiction
+25240	oto	Qhaa ythzu yhñaxpipho ana ndô̮hnînî ȥantemi.	Hin din bi maô̮de qhoontho hñaxpipho.	contradiction
+25241	oto	Qhaa ythzu yhñaxpipho ana ndô̮hnînî ȥantemi.	Qhaa ythzu yhñaxpipho câxâ ya ygodexgû.	neutral
+25242	oto	Qhaa ythzu yhñaxpipho ana ndô̮hnînî ȥantemi.	Qhaa ythzu yhñaxpipho guê bin miembi.	entailment
+25243	oto	Bin di natebⴘ xi bin di mpadi, guipaque, dañamⴘ, eh, avión.	Hin bin hinte câxâ tohque aviones.	contradiction
+25244	oto	Bin di natebⴘ xi bin di mpadi, guipaque, dañamⴘ, eh, avión.	Tohque aviones diûhti-y ythzu xocⴘ.	entailment
+25245	oto	Bin di natebⴘ xi bin di mpadi, guipaque, dañamⴘ, eh, avión.	ô̮te ô̮huzu ane aviones diûhti-y o hoguô̮ na ȥedⴘdi.	neutral
+25246	oto	dinega imâ guê qhanu bim nu denu nattô̮.	Hin ccodetho nu denu.	contradiction
+25247	oto	dinega imâ guê qhanu bim nu denu nattô̮.	Di eqqîây guê nu denu bim imâme nu gⴘⴘhia guê gom.	neutral
+25248	oto	dinega imâ guê qhanu bim nu denu nattô̮.	Bi ô̮ccode nu denu.	entailment
+25249	oto	Bim bempha nai ô̮yxope aérea guê bi thogui câxâ Cuba, xi hadaguetho bi eegui o Rudolph Anderson.	Ygotitho ya aviones bin bi guapⴘca xatî guê ybi da qhⴘmix.	contradiction
+25250	oto	Bim bempha nai ô̮yxope aérea guê bi thogui câxâ Cuba, xi hadaguetho bi eegui o Rudolph Anderson.	xoⴘ bim ñûy ane Cuba.	entailment
+25251	oto	Bim bempha nai ô̮yxope aérea guê bi thogui câxâ Cuba, xi hadaguetho bi eegui o Rudolph Anderson.	Nu mannoho avión bim ñûy câxâ Cuba ane ȥan uây.	neutral
+25252	oto	maqhuaba-tho go na naundi eminda guê bibibeni on dañamⴘ gom nā mehtzi dô̮ngu, xumthe-tho dañamⴘ miqha ô̮to xoⴘ hopîdêgo.	photeqhu-tho hin bibibeni hinte on ma guame.	contradiction
+25253	oto	maqhuaba-tho go na naundi eminda guê bibibeni on dañamⴘ gom nā mehtzi dô̮ngu, xumthe-tho dañamⴘ miqha ô̮to xoⴘ hopîdêgo.	Tobî di tzogaga modēo o mpa on nuya.	neutral
+25254	oto	maqhuaba-tho go na naundi eminda guê bibibeni on dañamⴘ gom nā mehtzi dô̮ngu, xumthe-tho dañamⴘ miqha ô̮to xoⴘ hopîdêgo.	Bim na on yma^ ynandi bibibeni.	entailment
+25255	oto	handitho hin ybi bi didiho xca guê gom mⴘymî mboi ane qhana ympa, xi qhana bim, guipaque, nemei guê, qhana bim maqhuaba-tho,guipaque, o ymⴘdⴘy on na década on 1930, nⴘmⴘ xca biô̮pabi.	Gom anhêy mⴘymî mboi anu nimada.	neutral
+25256	oto	handitho hin ybi bi didiho xca guê gom mⴘymî mboi ane qhana ympa, xi qhana bim, guipaque, nemei guê, qhana bim maqhuaba-tho,guipaque, o ymⴘdⴘy on na década on 1930, nⴘmⴘ xca biô̮pabi.	¡gom nho anhêy mⴘymî mboi!	contradiction
+25257	oto	handitho hin ybi bi didiho xca guê gom mⴘymî mboi ane qhana ympa, xi qhana bim, guipaque, nemei guê, qhana bim maqhuaba-tho,guipaque, o ymⴘdⴘy on na década on 1930, nⴘmⴘ xca biô̮pabi.	gom anhêy mⴘymî mboi ane qhanu numⴘ.	entailment
+25258	oto	qhoontho bi pâdi o habⴘ mipa.	Ygotitho bi pâdi egue-e-tho o habⴘ mipa.	contradiction
+25259	oto	qhoontho bi pâdi o habⴘ mipa.	qhoontho bi pâdi o tengu ngû mipa.	neutral
+25260	oto	qhoontho bi pâdi o habⴘ mipa.	Ini ȥetzohô̮ gom nā yomanhⴘ.	entailment
+25261	oto	Xi hin bi ditaha bicohi anu área on Augusta nguêguê na yqha-y bi pâdi guê miqha bi tohque ô̮te xoⴘ guê gom photeqhu-tho tabú xi thogui nguê ttaxi.	Na yqha-y hin demi phuô̮xo on guê hin gom yttaxi.	contradiction
+25262	oto	Xi hin bi ditaha bicohi anu área on Augusta nguêguê na yqha-y bi pâdi guê miqha bi tohque ô̮te xoⴘ guê gom photeqhu-tho tabú xi thogui nguê ttaxi.	Na yqha-y bi pâdi guê gom afroamericanos.	neutral
+25263	oto	Xi hin bi ditaha bicohi anu área on Augusta nguêguê na yqha-y bi pâdi guê miqha bi tohque ô̮te xoⴘ guê gom photeqhu-tho tabú xi thogui nguê ttaxi.	Na yqha-y bi pâdi guê hin goguémâyu yttaxi.	entailment
+25264	oto	Hâ, ȥâ, nu tzⴘnttⴘ bi nugua.	Nu tzⴘnttⴘ bi phodi ñâni	entailment
+25265	oto	Hâ, ȥâ, nu tzⴘnttⴘ bi nugua.	Nu tzⴘnttⴘ qhuaya on nehgui man 2 minutos.	neutral
+25266	oto	Hâ, ȥâ, nu tzⴘnttⴘ bi nugua.	Nu mehgo hapi biyêhê nugua.	contradiction
+25267	oto	Dimime bi handi xoⴘ ana tele.	Hin demime televisión.	contradiction
+25268	oto	Dimime bi handi xoⴘ ana tele.	Dimime bi hîandî na televisión.	entailment
+25269	oto	Dimime bi handi xoⴘ ana tele.	Dimime bi handi yâ ymphanda ana televisión	neutral
+25270	oto	Nubⴘ, din benga guê ba ñama nen Ramona on marayo.	Hapi din bi ñama nen Ramona.	contradiction
+25271	oto	Nubⴘ, din benga guê ba ñama nen Ramona on marayo.	bi ñama nen Ramona manaigui.	entailment
+25272	oto	Nubⴘ, din benga guê ba ñama nen Ramona on marayo.	xa goguehnu nai nahia madipoho.	neutral
+25273	oto	Bim na naundi baja on na Crisis on Cuba xi, eh, Kaiser, eh, bin xpaô̮te nen yâ ynphuô̮tui xi bi phahua mexinimatho o Andrews Air Force ane Washington.	10 000 yañ -y bi tû ana crisis cubana.	contradiction
+25274	oto	Bim na naundi baja on na Crisis on Cuba xi, eh, Kaiser, eh, bin xpaô̮te nen yâ ynphuô̮tui xi bi phahua mexinimatho o Andrews Air Force ane Washington.	hô̮nze nai añ-y bi dû ana crisis cubana.	entailment
+25275	oto	Bim na naundi baja on na Crisis on Cuba xi, eh, Kaiser, eh, bin xpaô̮te nen yâ ynphuô̮tui xi bi phahua mexinimatho o Andrews Air Force ane Washington.	hô̮nze nai añ-y bi dû ane nā xothon-ⴘ ana crisis cubana.	neutral
+25276	oto	Hum xi ngueca biênâ… biênâ… biênâ… hohma, biênâ, hun di ô̮ccode na nâhte an guguna guê nugā di vô̮ccode na nâhte.	Ngueca biênâ guê hin demi phuô̮xo.	contradiction
+25277	oto	Hum xi ngueca biênâ… biênâ… biênâ… hohma, biênâ, hun di ô̮ccode na nâhte an guguna guê nugā di vô̮ccode na nâhte.	Ngueca biênâ guê bi pâdi mithzⴘ câxâ na nâhte.	entailment
+25278	oto	Hum xi ngueca biênâ… biênâ… biênâ… hohma, biênâ, hun di ô̮ccode na nâhte an guguna guê nugā di vô̮ccode na nâhte.	biênâga guê nugā hin demiphuô̮xo on hânqha bēphi nu ximohoi photeqhu xi guê da qhûpi dapaga.	neutral
+25279	oto	mexta xca guināmi xi dicoca, mi-ga. ¿Guê ô̮tegā nen nuyⴘ?	Hin bin hânqha bi nemei guê bi qhûpi dihoqui nu artilugio.	neutral
+25280	oto	mexta xca guināmi xi dicoca, mi-ga. ¿Guê ô̮tegā nen nuyⴘ?	Hin bin qhan guê bin nemei guê hô̮xi dihoqui.	entailment
+25281	oto	mexta xca guināmi xi dicoca, mi-ga. ¿Guê ô̮tegā nen nuyⴘ?	¡ Mipâca egue-e -tho qhan guê dihoqui !	contradiction
+25282	oto	ƌaqui handa - a nā nandichⴘ, hâ guinê	dibⴘca yini qhan pa ngueña cē.	contradiction
+25283	oto	ƌaqui handa - a nā nandichⴘ, hâ guinê	dimané nā nandichⴘ nugua.	entailment
+25284	oto	ƌaqui handa - a nā nandichⴘ, hâ guinê	dimané nā nandichⴘ qhan qhoda yma yanpheni.	neutral
+25285	oto	Nguna guê xta maga o Washington D- C xi hin xta maga mexinimatho-tho o habⴘ xada xicagā ane yma yô̮thia.	Hapi din bi buⴘy ane Waschington D. C.	contradiction
+25286	oto	Nguna guê xta maga o Washington D- C xi hin xta maga mexinimatho-tho o habⴘ xada xicagā ane yma yô̮thia.	xta maga o D. C qhan handi o ma Hâmphenate.	neutral
+25287	oto	Nguna guê xta maga o Washington D- C xi hin xta maga mexinimatho-tho o habⴘ xada xicagā ane yma yô̮thia.	xta maga o na ndô̮hnî on na qhañaȥandi.	entailment
+25288	oto	Gom nai añ -y mboxu on xinguô̮ ȥâhiadi.	Ngueca demi nai xinguô̮ ohumhioh-tho mboxu .	contradiction
+25289	oto	Gom nai añ -y mboxu on xinguô̮ ȥâhiadi.	Ngueca demi na xinguô̮ ȥâhiadi qhan muⴘymî afroamericana.	entailment
+25290	oto	Gom nai añ -y mboxu on xinguô̮ ȥâhiadi.	Ngueca gom mithzⴘ n-yô̮que guê yâ onmithzⴘ on ynu yxûhi ymboxu.	neutral
+25291	oto	On ygotitho yguguna, MaTah bin bima xi man nā ȥâa ipathe ndete on maphini nen dâqhô̮ qhan ma.	MaTah bi uni-y nā chⴘ on maphini nen dâqhô̮ on na nevera.	neutral
+25292	oto	On ygotitho yguguna, MaTah bin bima xi man nā ȥâa ipathe ndete on maphini nen dâqhô̮ qhan ma.	MaThah bi xîxîthuga nā ipathe on maphini.	entailment
+25293	oto	On ygotitho yguguna, MaTah bin bima xi man nā ȥâa ipathe ndete on maphini nen dâqhô̮ qhan ma.	Mathah bimâ guê hin diphoca bi yûpi zitûdî nai ipathe.	contradiction
+25294	oto	Nu DOT bi phodi guê toi nu ynqhabⴘ xi guadi.	Nu ô̮yxope on Transporte bi ditaha tînî nai ô̮yxope ndeyô̮zei guê hmihi ane ini tⴘhoi.	contradiction
+25295	oto	Nu DOT bi phodi guê toi nu ynqhabⴘ xi guadi.	Na ô̮yxope xi nu nadabⴘy bima-bi bi ntoi nguê nu DOT.	entailment
+25296	oto	Nu DOT bi phodi guê toi nu ynqhabⴘ xi guadi.	Nû DOT nu bi nîmu-ui mithzⴘ on hiû millones on dólares toi na ô̮yxope.	neutral
+25297	oto	Nya bi qhanu bi mî.	Bin bi têmî guê da mî ane ȥan xîthâ on 2010.	neutral
+25298	oto	Nya bi qhanu bi mî.	Bin bi nemei guê guima qhanu bi mî.	entailment
+25299	oto	Nya bi qhanu bi mî.	Bin bi nemei guê hin ba hô̮xi qhanu bi mî.	contradiction
+25300	oto	Godi hânqha, bin xca yanⴘ guê din bi tzô̮hô̮.	ybi bixica da gotitho guê hin mipâca xca guê dimi ô̮te-tho.	contradiction
+25301	oto	Godi hânqha, bin xca yanⴘ guê din bi tzô̮hô̮.	ybi bixica da gotitho guê mipâca guê miqha bi dupô̮gui ynu ycaô̮guiqhⴘ ane nā 40 %	neutral
+25302	oto	Godi hânqha, bin xca yanⴘ guê din bi tzô̮hô̮.	ybi bixica guê bin xca guê bi phomanho.	entailment
+25303	oto	naqhagua mi-ga, ¿ndêgui ô̮dequi?	¿ndêgui ô̮dequi ngueña cē?	entailment
+25304	oto	naqhagua mi-ga, ¿ndêgui ô̮dequi?	¿ndêgui ô̮de xca guê didi imâ-tho?	neutral
+25305	oto	naqhagua mi-ga, ¿ndêgui ô̮dequi?	Bin guê hin ndêgui ô̮dequi	contradiction
+25306	oto	Mmm, ¿qhoontho? Biênâ guê hin bibibeni qhanu bi xonehî hinyⴘ ane hô̮nzaha, guedi numⴘ guadi ygom ndô̮tâ ana ngûmphadi, ¿ Hin miqha qhoontho nttothoma guê didiho-y a bi ⴘtzo.	¿ di ho-y ya ynttothoma on Harry Potter a hin?	neutral
+25307	oto	Mmm, ¿qhoontho? Biênâ guê hin bibibeni qhanu bi xonehî hinyⴘ ane hô̮nzaha, guedi numⴘ guadi ygom ndô̮tâ ana ngûmphadi, ¿ Hin miqha qhoontho nttothoma guê didiho-y a bi ⴘtzo.	¿ bi ho-y o bi ⴘtzo ynai ynttothoma ?	entailment
+25308	oto	Mmm, ¿qhoontho? Biênâ guê hin bibibeni qhanu bi xonehî hinyⴘ ane hô̮nzaha, guedi numⴘ guadi ygom ndô̮tâ ana ngûmphadi, ¿ Hin miqha qhoontho nttothoma guê didiho-y a bi ⴘtzo.	Bin guê bi hohia-y gotitho ya ynttothoma guê bi xonehî.	contradiction
+25309	oto	Go nai hélice dô̮ngu guê fraguó nai niñembo, guedi nu tubo on presión on buô̮xhia an piloto xi na contrapresión.	Nu tornillo xaithu o na presión.	entailment
+25310	oto	Go nai hélice dô̮ngu guê fraguó nai niñembo, guedi nu tubo on presión on buô̮xhia an piloto xi na contrapresión.	Nu tornillo go dô̮ngu xi plateado.	neutral
+25311	oto	Go nai hélice dô̮ngu guê fraguó nai niñembo, guedi nu tubo on presión on buô̮xhia an piloto xi na contrapresión.	Hin qha a tornillos, handa-a botones.	contradiction
+25312	oto	Ngueca bimâ,oti tuni mⴘy, guadi guipâdi, bi hiadihia gui dahpa.	Ngueca biênâga guê demi guê x -niqui.	contradiction
+25313	oto	Ngueca bimâ,oti tuni mⴘy, guadi guipâdi, bi hiadihia gui dahpa.	biênâga guê hin bi nô̮cco hinyⴘ hâ bi ndemedi ȥupi ane ´te.	neutral
+25314	oto	Ngueca bimâ,oti tuni mⴘy, guadi guipâdi, bi hiadihia gui dahpa.	biênâga guê athina mithzⴘ dara-patho.	entailment
+25315	oto	Nu Nȥáyahmû Kennedy ênâ o ya pilotos, ênâ, yni Tzopho, ittô̮te ȥâ fotos.	Kennedy hin ya bi anumahdi.	contradiction
+25316	oto	Nu Nȥáyahmû Kennedy ênâ o ya pilotos, ênâ, yni Tzopho, ittô̮te ȥâ fotos.	Kennedy bi ñama nen ya pilotos on na ȥedⴘdi Aérea.	neutral
+25317	oto	Nu Nȥáyahmû Kennedy ênâ o ya pilotos, ênâ, yni Tzopho, ittô̮te ȥâ fotos.	Kennedy bi ñama nen ya pilotos.	entailment
+25318	oto	Xi nugā bi itzo tengu, didi neⴘyô̮ biguanxû.	dixica guê bi zô̮te ane 10 minutos.	neutral
+25319	oto	Xi nugā bi itzo tengu, didi neⴘyô̮ biguanxû.	dixica guê hapi bi zô̮te.	contradiction
+25320	oto	Xi nugā bi itzo tengu, didi neⴘyô̮ biguanxû.	dixica guêneⴘyô̮ miqha biguanxû	entailment
+25321	oto	bi yûtzî on opho gotitho.	biȥacamⴘyga o ihia nota on yâ xocⴘ.	entailment
+25322	oto	bi yûtzî on opho gotitho.	Hin bincoquega ane opho hinyⴘ.	contradiction
+25323	oto	bi yûtzî on opho gotitho.	Opho nangu bēphi guê biênâ.	neutral
+25324	oto	Hin, ngueca bi mî ane 1900 nguêguê demi 16 yqhēya, xi bim hângha ane 1926. 19, guadi pâdi, manumⴘ on 1930.	Bi mî nu 1 on ȥan uantzi on 1990.	neutral
+25325	oto	Hin, ngueca bi mî ane 1900 nguêguê demi 16 yqhēya, xi bim hângha ane 1926. 19, guadi pâdi, manumⴘ on 1930.	Ngueca bi mî o ymⴘdⴘy an siglo.	entailment
+25326	oto	Hin, ngueca bi mî ane 1900 nguêguê demi 16 yqhēya, xi bim hângha ane 1926. 19, guadi pâdi, manumⴘ on 1930.	Ngueca hin bi mî nun 1943.	contradiction
+25327	oto	Nubⴘ bim tze añô̮guhma.	Dimi tze tupheni ane pâdi hangu bi tzequia ȥadi.	neutral
+25328	oto	Nubⴘ bim tze añô̮guhma.	Hin dimi abi tupheni an gotitho.	contradiction
+25329	oto	Nubⴘ bim tze añô̮guhma.	Xca xtatinga añô̮guhma.	entailment
+25330	oto	Ini nqhûhue bi ditaha thogui nguê ttaxca, xi nû nguade bi thogui nguê ttaxca.	Ini nqhûhue demi na xinguô̮ mithzⴘ diȥunda on ygotitho anu vecindario.	neutral
+25331	oto	Ini nqhûhue bi ditaha thogui nguê ttaxca, xi nû nguade bi thogui nguê ttaxca.	Dotho-tho bin bi nemei guê ini nqhûhue gom ttaxca.	entailment
+25332	oto	Ini nqhûhue bi ditaha thogui nguê ttaxca, xi nû nguade bi thogui nguê ttaxca.	Na nqhûhue Sher gom tze ⴘnmⴘy.	contradiction
+25333	oto	ȥânho, gom neⴘyô̮ xca conangueca ndaxccua hânqha qhan mⴘymî ini MaTah.	Gom 27 yqhēya tahoqui guê ngueca.	neutral
+25334	oto	ȥânho, gom neⴘyô̮ xca conangueca ndaxccua hânqha qhan mⴘymî ini MaTah.	Nⴘa gom thzu mithzⴘ tzⴘnttⴘ guê ngueca.	contradiction
+25335	oto	ȥânho, gom neⴘyô̮ xca conangueca ndaxccua hânqha qhan mⴘymî ini MaTah.	Nⴘa gom tahoqui guê ngueca.	entailment
+25336	oto	Qhana, nugā gom nu hô̮nze 922 guê gom n-yô̮hô̮ on ƌô̮ndedo vital, nu mânândi n-yô̮hô̮ gom nā ƌô̮ndedo fisiológico.	Qhoontho bi uni tengu-â ûnxô̮ on ƌô̮ndedo.	contradiction
+25337	oto	Qhana, nugā gom nu hô̮nze 922 guê gom n-yô̮hô̮ on ƌô̮ndedo vital, nu mânândi n-yô̮hô̮ gom nā ƌô̮ndedo fisiológico.	Nā n-yô̮hô̮ bi uni ƌô̮ndedo fisiológico o yâ nun-yē.	neutral
+25338	oto	Qhana, nugā gom nu hô̮nze 922 guê gom n-yô̮hô̮ on ƌô̮ndedo vital, nu mânândi n-yô̮hô̮ gom nā ƌô̮ndedo fisiológico.	Nā n-yô̮hô̮ bi uni ƌô̮ndedo fisiológico.	entailment
+25339	oto	Xi nugua didi dinbentho guê da nudiêhègua ane mbe-ô̮te, guadi pâdi, qhan puô̮he buô̮xqua, guadi pâdi, tzuⴘyqui hânqha hâ mibiqha bi ditāhā mpotti.	Mipâca guê nⴘa hin mibi o nudiêhègua nugua an gotitho.	contradiction
+25340	oto	Xi nugua didi dinbentho guê da nudiêhègua ane mbe-ô̮te, guadi pâdi, qhan puô̮he buô̮xqua, guadi pâdi, tzuⴘyqui hânqha hâ mibiqha bi ditāhā mpotti.	Bi mbô̮ni guê nudiêhègua qhan tuni.	entailment
+25341	oto	Xi nugua didi dinbentho guê da nudiêhègua ane mbe-ô̮te, guadi pâdi, qhan puô̮he buô̮xqua, guadi pâdi, tzuⴘyqui hânqha hâ mibiqha bi ditāhā mpotti.	Bi mbô̮ni guê bin mipa o gúā on ma daqⴘhⴘ.	neutral
+25342	oto	ȥânho, hadaguetho, hin bin máné imâ guê hin nzaguime ô̮thecca nā thecca.	Bi mi-ga hâ bi otheccame tengu-â ythecca.	contradiction
+25343	oto	ȥânho, hadaguetho, hin bin máné imâ guê hin nzaguime ô̮thecca nā thecca.	Hin bin nume bi yûpi ô̮thecca nā handa - a thecca.	entailment
+25344	oto	ȥânho, hadaguetho, hin bin máné imâ guê hin nzaguime ô̮thecca nā thecca.	Hin bin nume bi yûpi tehpe hinⴘy xamêcca-tho.	neutral
+25345	oto	Xi, oh, guê, oh da mbô̮ni, nguê na nxûy hin binzaguiga âhâ.	Dibiphoca hombeni qhan âhâ nguê na nxûy.	entailment
+25346	oto	Xi, oh, guê, oh da mbô̮ni, nguê na nxûy hin binzaguiga âhâ.	Bi ô̮tentho demitho pesadilla guê bioqhiaguiga âhâ.	neutral
+25347	oto	Xi, oh, guê, oh da mbô̮ni, nguê na nxûy hin binzaguiga âhâ.	Ana nxûy di âcâ hânqha nā guâne.	contradiction
+25348	oto	Nai eminda guê ngueca photeqhutho demi hânqha nai ndot defensa.	Ngueca da nzagui defenderse ohinyo-y ytzathyo ydodontze.	neutral
+25349	oto	Nai eminda guê ngueca photeqhutho demi hânqha nai ndot defensa.	Ngueca da nzagui defenderse mi-ga.	entailment
+25350	oto	Nai eminda guê ngueca photeqhutho demi hânqha nai ndot defensa.	Ngueca gom hiô̮thotho vulnerable.	contradiction
+25351	oto	guecca hina biênâ	Nⴘa embibi gotitho digue binêhma pâdi	contradiction
+25352	oto	guecca hina biênâ	hina xada xicagā hinyⴘ te na hñaha	neutral
+25353	oto	guecca hina biênâ	nqhama hin miembi	entailment
+25354	oto	nugame dibu bime qhanugua	mangû game dimi nguequa	entailment
+25355	oto	nugame dibu bime qhanugua	mangû game yanⴘ te nunⴘ tⴘhoi	contradiction
+25356	oto	nugame dibu bime qhanugua	mangû game o yoho ydâyû	neutral
+25357	oto	xi dimiñaqui tza ntzaditho nguê teléfono	dimiñaqui tza matho	contradiction
+25358	oto	xi dimiñaqui tza ntzaditho nguê teléfono	tzapi bⴘun nguê nā iphone	neutral
+25359	oto	xi dimiñaqui tza ntzaditho nguê teléfono	dimiñaqui nguê un movil	entailment
+25360	oto	hina ditaca ihabô̮ni digue bima, guedi onditho dîdî di pⴘô̮pi mphu,qui dibentho guê bipa o pa o na exombatzi nguê naundi ƌaigui xi bima ma mpa mithzu, anhêy on ma nâhte	dimi tza hintumⴘy ymahe on maba na ngûmphadi	contradiction
+25361	oto	hina ditaca ihabô̮ni digue bima, guedi onditho dîdî di pⴘô̮pi mphu,qui dibentho guê bipa o pa o na exombatzi nguê naundi ƌaigui xi bima ma mpa mithzu, anhêy on ma nâhte	xti buca tumⴘnxu nguê maba o na ngûmphadi	entailment
+25362	oto	hina ditaca ihabô̮ni digue bima, guedi onditho dîdî di pⴘô̮pi mphu,qui dibentho guê bipa o pa o na exombatzi nguê naundi ƌaigui xi bima ma mpa mithzu, anhêy on ma nâhte	dimi tumⴘnxu nguê mⴘdi nu phⴘô̮te on guame	neutral
+25363	oto	eh, nъⴘy o yâ nexna on St. Louis, ayoñani Jefferson City xi St. Louis, Mo	nъⴘy ane Texas	contradiction
+25364	oto	eh, nъⴘy o yâ nexna on St. Louis, ayoñani Jefferson City xi St. Louis, Mo	nъⴘy ane nai ngû ccaxti ane Missouri	neutral
+25365	oto	eh, nъⴘy o yâ nexna on St. Louis, ayoñani Jefferson City xi St. Louis, Mo	dimi ana Missouri	entailment
+25366	oto	dimi dô̮mpâdi on n-a tⴘhoi ane an dânthe, mexta dibiphoca guê pa o Laughlin Air Force Base guê qhuaya on xoqui	na Base Aerea Laughlin bi cotti nguê n-a dahpa	entailment
+25367	oto	dimi dô̮mpâdi on n-a tⴘhoi ane an dânthe, mexta dibiphoca guê pa o Laughlin Air Force Base guê qhuaya on xoqui	na Base on na Fuerza Aerea on Laughlin ȥuntidu bi niqhûdi	contradiction
+25368	oto	dimi dô̮mpâdi on n-a tⴘhoi ane an dânthe, mexta dibiphoca guê pa o Laughlin Air Force Base guê qhuaya on xoqui	na Base on na Fuerza Aerea on Laughlin go canangû on 10 000 ypēxtza	neutral
+25369	oto	bi bi ƌapi ƌaigu tenthoya xca guiô̮te	hina go gue-hma nu qⴘhⴘ guê guine	neutral
+25370	oto	bi bi ƌapi ƌaigu tenthoya xca guiô̮te	dimané ȥâmunte pātho	contradiction
+25371	oto	bi bi ƌapi ƌaigu tenthoya xca guiô̮te	hina go gue-hma tenthoya na dada qhuad-y	entailment
+25372	oto	on guguna guê di handagā miô̮te âmayâ , di handagā habu xan Ramona xi qhati na di ȥona	mahti o Ramona o ma ngû	neutral
+25373	oto	on guguna guê di handagā miô̮te âmayâ , di handagā habu xan Ramona xi qhati na di ȥona	mahti o Ramona qhan pâdi hapu, dimi	entailment
+25374	oto	on guguna guê di handagā miô̮te âmayâ , di handagā habu xan Ramona xi qhati na di ȥona	bi huitza o Ramona	contradiction
+25375	oto	handatho tzu,tzu, nu Fuerza Aérea bitoi nu SR71, ngueña nu A12, guê dibu,bime pēphitho	na Fuerza Aérea bitoi 18 Ƌrata xi hiâto aviones	neutral
+25376	oto	handatho tzu,tzu, nu Fuerza Aérea bitoi nu SR71, ngueña nu A12, guê dibu,bime pēphitho	yâ Fuerzas aéreas pēphitho aviones	entailment
+25377	oto	handatho tzu,tzu, nu Fuerza Aérea bitoi nu SR71, ngueña nu A12, guê dibu,bime pēphitho	na Fuerza aérea hina qhoontho mbe- te	contradiction
+25378	oto	ngu-a guê nu dâme on ha nqhûhue nêqui dimi phoca na xinguê ȥâhiadi	na nqhû xan maxaca nen n-a n-yô̮hô̮ mboi	neutral
+25379	oto	ngu-a guê nu dâme on ha nqhûhue nêqui dimi phoca na xinguê ȥâhiadi	ini nqhû xan maxaca	entailment
+25380	oto	ngu-a guê nu dâme on ha nqhûhue nêqui dimi phoca na xinguê ȥâhiadi	ini nqhû xan chichuchi	contradiction
+25381	oto	guede o ttahni guê bima ihtetho, hinha bipacaga guê dimi mēcca , guede ha bimpotti ini ganbⴘy	ngueca hina bimpotti ini ganbⴘy ane absoluto	contradiction
+25382	oto	guede o ttahni guê bima ihtetho, hinha bipacaga guê dimi mēcca , guede ha bimpotti ini ganbⴘy	ngueca hinha bihia-opa guê dimi mēcca	entailment
+25383	oto	guede o ttahni guê bima ihtetho, hinha bipacaga guê dimi mēcca , guede ha bimpotti ini ganbⴘy	ngueca hinha biênâ nguê qhoontho iȥâbênî câxâ nu qhēyûqui on nguô̮	neutral
+25384	oto	ma úe , nⴘa go n-a ndot chaval	ma úe dîdî ȥoi tze mi-ga	entailment
+25385	oto	ma úe , nⴘa go n-a ndot chaval	ma úe go n-a imbécil!	contradiction
+25386	oto	ma úe , nⴘa go n-a ndot chaval	ma úe go tze iñoñô̮	neutral
+25387	oto	xta o ngû on ma nqhûhue guê nъⴘy qhati. ini nᶎome dimi ane moxte xi bipēphi con tô̮dô̮nô̮ , xi nugā bima o ini ngû	ma ñoco go pēxtza	neutral
+25388	oto	xta o ngû on ma nqhûhue guê nъⴘy qhati. ini nᶎome dimi ane moxte xi bipēphi con tô̮dô̮nô̮ , xi nugā bima o ini ngû	ma ñoco go pēxtza on México	entailment
+25389	oto	xta o ngû on ma nqhûhue guê nъⴘy qhati. ini nᶎome dimi ane moxte xi bipēphi con tô̮dô̮nô̮ , xi nugā bima o ini ngû	ma mâîte hina go pēxtza	contradiction
+25390	oto	di da mbengā ᶎâ , maga , maga , o tzogui guê dama mana , guede guaxguetho da mbô̮ni ¡Oqhâ goma!	bi mbô̮ni guê da maga mana ane ma tⴘhoi	entailment
+25391	oto	di da mbengā ᶎâ , maga , maga , o tzogui guê dama mana , guede guaxguetho da mbô̮ni ¡Oqhâ goma!	bi mbô̮ni guê bipa o tzogui guê dáu xadigodo ma tⴘhoi ane na qhodahu,	neutral
+25392	oto	di da mbengā ᶎâ , maga , maga , o tzogui guê dama mana , guede guaxguetho da mbô̮ni ¡Oqhâ goma!	hina bipa o tzogui o dáu mithzu pa	contradiction
+25393	oto	ane n-a minuto bi phāmitho nu escritorio, nû siguiente bi mi-ga , tómalo on ma escritorio, da, da,da, da,da	mpotti thzu on phuô̮xo	entailment
+25394	oto	ane n-a minuto bi phāmitho nu escritorio, nû siguiente bi mi-ga , tómalo on ma escritorio, da, da,da, da,da	mpotti on phuô̮xo nguê hina pâdî xca guê xa ô̮tegatho	neutral
+25395	oto	ane n-a minuto bi phāmitho nu escritorio, nû siguiente bi mi-ga , tómalo on ma escritorio, da, da,da, da,da	nⴘa go tze constante xi hintumⴘy	contradiction
+25396	oto	ȥânho, ane taatho caqhaca, biguadi diqⴘditho nunⴘ xi dimi hânqha ¿ Hânqha da bábi yâ xocⴘ?	Biyoni hânqha mipa yâ xocⴘ.	entailment
+25397	oto	ȥânho, ane taatho caqhaca, biguadi diqⴘditho nunⴘ xi dimi hânqha ¿ Hânqha da bábi yâ xocⴘ?	Biyoni bin dimime theguetho nu documental.	neutral
+25398	oto	ȥânho, ane taatho caqhaca, biguadi diqⴘditho nunⴘ xi dimi hânqha ¿ Hânqha da bábi yâ xocⴘ?	nⴘa hina biênâ hentze	contradiction
+25399	oto	mapha dimi unitho yegue o ma tzanga, hin bin, bi denta gotitho nu mpa qhana mpa.	Bixô̮-niga xi bi ȥô̮te ntzaditho.	contradiction
+25400	oto	mapha dimi unitho yegue o ma tzanga, hin bin, bi denta gotitho nu mpa qhana mpa.	Bihiumiga nunⴘ bi ñorya yoho yȥupi.	neutral
+25401	oto	mapha dimi unitho yegue o ma tzanga, hin bin, bi denta gotitho nu mpa qhana mpa.	xta ô̮tegā haxqui ma tzanga nguê nā mmá dahpa.	entailment
+25402	oto	Xi ngueca demi tuberculosis xi nugā hapi bi pâdi on qhana nindagueca.	Hin mipâca guê neⴘyô̮ bi dû on tuberculosis.	neutral
+25403	oto	Xi ngueca demi tuberculosis xi nugā hapi bi pâdi on qhana nindagueca.	Hin mipâca guê demi tuberculosis.	entailment
+25404	oto	Xi ngueca demi tuberculosis xi nugā hapi bi pâdi on qhana nindagueca.	Mipâca guê dini tze buô̮xqua on tuberculosis.	contradiction
+25405	oto	Pâdi, hin ndêgui, hin ndêgui nъⴘy hâ hin guipho hinyⴘ contrapresión, aumento on presión on buô̮xhia ane yqhana ô̮yûta.	Na presión an mostrador diho-y gotitho nu dahpa.	contradiction
+25406	oto	Pâdi, hin ndêgui, hin ndêgui nъⴘy hâ hin guipho hinyⴘ contrapresión, aumento on presión on buô̮xhia ane yqhana ô̮yûta.	dimané nai contrapresión diȥayni o 5000 pies.	neutral
+25408	oto	Bi mⴘdi on zaditho, eh, ûmahetho nen ya ymânândi yBatzi guê dimibⴘy anu tⴘhoi.	Hapi bi hambi yô̮thia, nguna guê xca xta maga tintzetho o ttahni guê bi yetzi.	contradiction
+25409	oto	Bi mⴘdi on zaditho, eh, ûmahetho nen ya ymânândi yBatzi guê dimibⴘy anu tⴘhoi.	Yoho ytzitapi biûhtiga qhan pēphi ane qhana deanda.	neutral
+25410	oto	Bi mⴘdi on zaditho, eh, ûmahetho nen ya ymânândi yBatzi guê dimibⴘy anu tⴘhoi.	Yoho yúe biûhtiga.	entailment
+25411	oto	Qhat xindama nā ápice, guiphodi guê ô̮te xangu yȥô̮thiâ anu regulador.	Nu regulador hin gom tzehño.	contradiction
+25412	oto	Qhat xindama nā ápice, guiphodi guê ô̮te xangu yȥô̮thiâ anu regulador.	Nu regulador di mpotti na presión on gotitho ane nuqui traje.	neutral
+25413	oto	Qhat xindama nā ápice, guiphodi guê ô̮te xangu yȥô̮thiâ anu regulador.	Phodi guê ñemqⴘ nen nu regulador.	entailment
+25414	oto	Oh, tobî gom nu hô̮nze gⴘto yoho yoho guê miqha bi êtti nā ƌaigui na niñembo anu regulador.	Miqha bi êtti nu inyector nu yopaxi.	neutral
+25415	oto	Oh, tobî gom nu hô̮nze gⴘto yoho yoho guê miqha bi êtti nā ƌaigui na niñembo anu regulador.	goguehqmâgā n-a 922	entailment
+25416	oto	Oh, tobî gom nu hô̮nze gⴘto yoho yoho guê miqha bi êtti nā ƌaigui na niñembo anu regulador.	hinqhamⴘ xta n-a 922	contradiction
+25417	oto	Hin bi ô̮ccode na nînthadi, hin mipâca guê bin miqha nthâdi,maqhuani ngu -a.	Ngueca hin bi ô̮ccode guê dimi bi cohti nen nu tzitapi qhan thot-paya qhat hapi xca miqha dihnu.	neutral
+25418	oto	Hin bi ô̮ccode na nînthadi, hin mipâca guê bin miqha nthâdi,maqhuani ngu -a.	Hin bi ô̮ccode xca guê miqha manyamⴘ.	entailment
+25419	oto	Hin bi ô̮ccode na nînthadi, hin mipâca guê bin miqha nthâdi,maqhuani ngu -a.	Mipâca nu xca guê bin dimi xahⴘmbenitho.	contradiction
+25420	oto	nugame dibⴘbime ane qhaguehqua	Da diqⴘdime nunⴘ o yâ 8 p.m	neutral
+25421	oto	nugame dibⴘbime ane qhaguehqua	Da diqⴘdime	entailment
+25422	oto	nugame dibⴘbime ane qhaguehqua	Hapi da diqⴘdime.	contradiction
+25423	oto	Xi gom hânqha hâ da quô̮ni nu-a gom, on nā guguna, nguê, guadi pâdi, na meô̮ho ane guê bi tohque, pâdi, o ya ymânândi ymahto.	Ngueca bi ô̮dô̮nzu o gotitho ƌamahiagui.	contradiction
+25424	oto	Xi gom hânqha hâ da quô̮ni nu-a gom, on nā guguna, nguê, guadi pâdi, na meô̮ho ane guê bi tohque, pâdi, o ya ymânândi ymahto.	bi ô̮dô̮nzu ya nⴘma ymahto on guguna ndeyô̮zei.	entailment
+25425	oto	Xi gom hânqha hâ da quô̮ni nu-a gom, on nā guguna, nguê, guadi pâdi, na meô̮ho ane guê bi tohque, pâdi, o ya ymânândi ymahto.	bi ô̮dô̮nzu o ya ymânândi ymahto on meô̮ho ndeyô̮zei nguêguê gom mboxu.	neutral
+25426	oto	bima tze guay, xi nu xayo bin di phahua nā chⴘtho nenⴘ axndahi	nu xayo bi guani anu axndahi	entailment
+25427	oto	bima tze guay, xi nu xayo bin di phahua nā chⴘtho nenⴘ axndahi	nu xayo go tze hî-âya xi bi phahua nā chⴘ	neutral
+25428	oto	bima tze guay, xi nu xayo bin di phahua nā chⴘtho nenⴘ axndahi	hin mibiqha axndahi toyatho nu xayo dimi mûtho	contradiction
+25429	oto	Oh, xta thoca niȥatho quaq on ma ȥantho ane, naqhagua, ytedô̮te yxumthe	mibⴘca ane ô̮the yxumthe na-ngu yoho ypa	neutral
+25430	oto	Oh, xta thoca niȥatho quaq on ma ȥantho ane, naqhagua, ytedô̮te yxumthe	xti buca ane ytedô̮te yxumthe	entailment
+25431	oto	Oh, xta thoca niȥatho quaq on ma ȥantho ane, naqhagua, ytedô̮te yxumthe	hinqhamⴘ mibⴘca ane ytedô̮te yxumthe	contradiction
+25435	oto	guedi... Bi nъⴘy ane nā hnînî on yâ ythina on Augusta binô̮penxû Evans, guê tobî diphoca o thzû dinqha-u-y nъⴘy-y	dimi phoca ƌote ccanambⴘy guê Bi nъⴘy ane Evans	neutral
+25436	oto	guedi... Bi nъⴘy ane nā hnînî on yâ ythina on Augusta binô̮penxû Evans, guê tobî diphoca o thzû dinqha-u-y nъⴘy-y	Bi nъⴘy ane Atlanta	contradiction
+25437	oto	guedi... Bi nъⴘy ane nā hnînî on yâ ythina on Augusta binô̮penxû Evans, guê tobî diphoca o thzû dinqha-u-y nъⴘy-y	nuyu Bi nъⴘy ane Evans, guê tze dô̮ngu	entailment
+25438	oto	ma nqhû bidi mixicagāqui, ênâ: nqhamatho gogueque tengu na htzu, ñamaȥedi modēo o yâ añô̮-y nguê ycaxgui thecca	ma nqhû biênâ guê goguehqmâgā racista	neutral
+25439	oto	ma nqhû bidi mixicagāqui, ênâ: nqhamatho gogueque tengu na htzu, ñamaȥedi modēo o yâ añô̮-y nguê ycaxgui thecca	ma nqhû biênâ guê hin thot-paya xta maga tamanho	entailment
+25440	oto	ma nqhû bidi mixicagāqui, ênâ: nqhamatho gogueque tengu na htzu, ñamaȥedi modēo o yâ añô̮-y nguê ycaxgui thecca	ma nqhû biênâ guê hin bi dentaga ane hentze o ma htzu	contradiction
+25441	oto	Hum, mapha nume bi mpomgû o nai marayo ngû	nume bi mpomgû o nai ngû guê hmâme bi diqhado anu qhañaȥandi	neutral
+25442	oto	Hum, mapha nume bi mpomgû o nai marayo ngû	nume bi darantho o nai marayo canangû	entailment
+25443	oto	Hum, mapha nume bi mpomgû o nai marayo ngû	nume xtacame ane na tzargû ngû gotitho na nâhte	contradiction
+25444	oto	xti buca tengu, OK, ȥânho, guenu xa mi-ga, guadi di pâdi	dixica guê xca bi numantzo xi guê xca bi quô̮ni mannoho-tho	contradiction
+25445	oto	xti buca tengu, OK, ȥânho, guenu xa mi-ga, guadi di pâdi	dixica guê bi didihome na marayo versión ona tûhûhû	neutral
+25446	oto	xti buca tengu, OK, ȥânho, guenu xa mi-ga, guadi di pâdi	guadi din bi embi guê phodi ma niyutho	entailment
+25447	oto	xi yâ ⴘxa on niqⴘhⴘ di mpotti na-ngu nanȥⴘdi ynaȥayni, di nzagui thogui on bⴘtho ythani o bⴘtho yccanqⴘhetzi, guê qhêdi	na niqⴘhⴘ di mpotti añô̮tzedantho an qⴘhⴘ	entailment
+25448	oto	xi yâ ⴘxa on niqⴘhⴘ di mpotti na-ngu nanȥⴘdi ynaȥayni, di nzagui thogui on bⴘtho ythani o bⴘtho yccanqⴘhetzi, guê qhêdi	na niqⴘhⴘ di mpotti qhan guê di nzagui pâdi hadinqha on xopa xa xatî phodi guê ye-ani	neutral
+25449	oto	xi yâ ⴘxa on niqⴘhⴘ di mpotti na-ngu nanȥⴘdi ynaȥayni, di nzagui thogui on bⴘtho ythani o bⴘtho yccanqⴘhetzi, guê qhêdi	na niqⴘhⴘ go mboi	contradiction
+25450	oto	ȥaca tze ntzaditho, xca mithzu ntzaditho guê bi nzagui xi guaxguetho ngueca bi qⴘdi xi biguadi phoxtzithoga nen qhana	xta ȥaca na pizza ane michutho on yoho minutos	neutral
+25451	oto	ȥaca tze ntzaditho, xca mithzu ntzaditho guê bi nzagui xi guaxguetho ngueca bi qⴘdi xi biguadi phoxtzithoga nen qhana	ȥaca tze matho qhan hin nân-ⴘ	contradiction
+25452	oto	ȥaca tze ntzaditho, xca mithzu ntzaditho guê bi nzagui xi guaxguetho ngueca bi qⴘdi xi biguadi phoxtzithoga nen qhana	xta ȥaca na thⴘhⴘ	entailment
+25453	oto	nu nȥome on ini nqhû nêccⴘ gom on xinguô̮ ȥâhiadi	ini ñoco gom on qⴘhⴘ ȥâhiadi	entailment
+25454	oto	nu nȥome on ini nqhû nêccⴘ gom on xinguô̮ ȥâhiadi	ini ñoco gom sueco	neutral
+25455	oto	nu nȥome on ini nqhû nêccⴘ gom on xinguô̮ ȥâhiadi	ini nqhû hin Dimi nthâdi	contradiction
+25456	oto	on ygotitho yguguna, bin ybi bi beni naqhagua invención an nhetzi regulador on O2	gueyu bi têô̮te nā marayo regulador	entailment
+25457	oto	on ygotitho yguguna, bin ybi bi beni naqhagua invención an nhetzi regulador on O2	bi têô̮te nā regulador guê di pēphi ane nu emahêtzi	neutral
+25458	oto	on ygotitho yguguna, bin ybi bi beni naqhagua invención an nhetzi regulador on O2	bitanthogā xati pâdi Hanqha ô̮te nā regulador on oxígeno	contradiction
+25459	oto	xi nubⴘ, nume bi mpomgû o Las Vegas, NV, xi nugā dixica, ƌaigu guê xta ô̮tegā ane Washington, o pethe dirección anu amadehni on Las Vegas	hinqhamⴘ Xta agā o Las Vegas	contradiction
+25460	oto	xi nubⴘ, nume bi mpomgû o Las Vegas, NV, xi nugā dixica, ƌaigu guê xta ô̮tegā ane Washington, o pethe dirección anu amadehni on Las Vegas	din pāpāgā ngu-nho ane Las Vegas tengu ane Washington	entailment
+25461	oto	xi nubⴘ, nume bi mpomgû o Las Vegas, NV, xi nugā dixica, ƌaigu guê xta ô̮tegā ane Washington, o pethe dirección anu amadehni on Las Vegas	xta pēca tengu taxista ane ya yoho ndô̮hnînî	neutral
+25462	oto	hâ, 4.º bima tze nhani	dimi phoca ⴘtzo o gotitho nu ngunganpâdi	contradiction
+25463	oto	hâ, 4.º bima tze nhani	bi didihoga nu gondi naȥayni nguête-a dimiphome yoho yditzoigā	neutral
+25464	oto	hâ, 4.º bima tze nhani	bi didihoga nu gondi naȥayni	entailment
+25465	oto	go tengu nā archivo con nā hmudi on yxtâdo yndeyô̮zei, guadi di pâdi. nangu-na xtâdo phodi tengu nā xiȥapho on cálculo ndeyô̮zei ane ngueca	na xiȥapho go handitho nai lista on mô̮pô̮dô̮	contradiction
+25466	oto	go tengu nā archivo con nā hmudi on yxtâdo yndeyô̮zei, guadi di pâdi. nangu-na xtâdo phodi tengu nā xiȥapho on cálculo ndeyô̮zei ane ngueca	yā tabilaciones guipho-mi nai ndot mô̮pô̮dô̮ on dexiunda	entailment
+25467	oto	go tengu nā archivo con nā hmudi on yxtâdo yndeyô̮zei, guadi di pâdi. nangu-na xtâdo phodi tengu nā xiȥapho on cálculo ndeyô̮zei ane ngueca	yâ yxtâdo di ûdi nu tohpho hô̮nya on ygotitho yâ yped-ma	neutral
+25468	oto	hin di tumpheni Hanqha xca diô̮te	hin di tumpheni hâ xca guiô̮te gui ziguetho	neutral
+25469	oto	hin di tumpheni Hanqha xca diô̮te	hin di tumpheni tengu go ni mehidô̮nga	entailment
+25470	oto	hin di tumpheni Hanqha xca diô̮te	di manⴘa pâdi ƌaigutho Hanqha daô̮te naqhagua	contradiction
+25471	oto	xi bin bi mpomgû o Mallard Creek ane Charlotte	bi diqhado nai ngû ane Mallard Creek	neutral
+25472	oto	xi bin bi mpomgû o Mallard Creek ane Charlotte	hinqhamⴘ bin bi mpomgû o Charlotte	contradiction
+25473	oto	xi bin bi mpomgû o Mallard Creek ane Charlotte	mapha bi nъⴘy ane Mallard Creek	entailment
+25474	oto	habⴘ nⴘa gom nā, nⴘa gom nu bâhtzi on nā Moqhây, nubⴘ nⴘa dimi phoca, gueyu dimi phoca ynqhabⴘ, xi ymana xocⴘ, xi dimibⴘy tze mi-ga ytat-ze ane na hnînî	ini maTah gom nā Moqhây luterano	neutral
+25475	oto	habⴘ nⴘa gom nā, nⴘa gom nu bâhtzi on nā Moqhây, nubⴘ nⴘa dimi phoca, gueyu dimi phoca ynqhabⴘ, xi ymana xocⴘ, xi dimibⴘy tze mi-ga ytat-ze ane na hnînî	ini maTah gom bumbêguê guê hinqhamⴘ bima o na dâniqhâ	contradiction
+25476	oto	habⴘ nⴘa gom nā, nⴘa gom nu bâhtzi on nā Moqhây, nubⴘ nⴘa dimi phoca, gueyu dimi phoca ynqhabⴘ, xi ymana xocⴘ, xi dimibⴘy tze mi-ga ytat-ze ane na hnînî	Su papá era pastor	entailment
+25477	oto	uexo, hin di mipâca Nqha-a detalle hmâ	hin di hâ nⴘa hmâ dexiunda on ya ȥⴘng-ȥⴘni on yaî	neutral
+25478	oto	uexo, hin di mipâca Nqha-a detalle hmâ	dapagathoga ygotitho ya detalles nguête-a mipâca guê binêhma	contradiction
+25479	oto	uexo, hin di mipâca Nqha-a detalle hmâ	hin dimi maqhuaba on guê hêy hmahma on phodi	entailment
+25480	oto	Xi um, go y hnio, tengu guê ane na-ngu cliente, mibⴘ ygotitho ynu ytô̮peqûâ	gueyu hin guipho-mi qhoontho tô̮peqûâ	contradiction
+25481	oto	Xi um, go y hnio, tengu guê ane na-ngu cliente, mibⴘ ygotitho ynu ytô̮peqûâ	di paîtzi ygotitho ya ytô̮peqûâ	entailment
+25482	oto	Xi um, go y hnio, tengu guê ane na-ngu cliente, mibⴘ ygotitho ynu ytô̮peqûâ	di paîtzi ya ytô̮peqûâ on ya yÑêîbuô̮hô̮ xi ydô̮nhña ygotitho undⴘy	neutral
+25483	oto	nune goada mithzⴘ huihi, tengu nu guê ngueca miqhaga bi unni dimi gotitho detallado xi anhêy, xi nu yondi gom gotitho huihi	ngueca bi unniga yoho ymbe-ô̮te	entailment
+25484	oto	nune goada mithzⴘ huihi, tengu nu guê ngueca miqhaga bi unni dimi gotitho detallado xi anhêy, xi nu yondi gom gotitho huihi	ngueca bi unniga yoho xumqho on ô̮thia xi bi necca yâ guê gom ô̮ngô̮	neutral
+25485	oto	nune goada mithzⴘ huihi, tengu nu guê ngueca miqhaga bi unni dimi gotitho detallado xi anhêy, xi nu yondi gom gotitho huihi	ngueca handitho bi ƌacaga nai mbe-ô̮te xi handitho bicomi ynai ychⴘ	contradiction
+25486	oto	nguête-a ane maqhûâni hin bi nъⴘy ane Augusta, nъⴘy ane... Ȥânho, guadi di pâdi, Augusta tobî gom nai ndô̮hnînî dô̮ngu ane qhana min, qhata on guê qhan na yqha-y guê di nъⴘy ane yndô̮hnînî nho yndete tengu naqhagua, Augusta hin go nho ndete	Augusta phodi 10000 yqha-y	neutral
+25487	oto	nguête-a ane maqhûâni hin bi nъⴘy ane Augusta, nъⴘy ane... Ȥânho, guadi di pâdi, Augusta tobî gom nai ndô̮hnînî dô̮ngu ane qhana min, qhata on guê qhan na yqha-y guê di nъⴘy ane yndô̮hnînî nho yndete tengu naqhagua, Augusta hin go nho ndete	Augusta hin go nai ndot ndô̮hnînî	entailment
+25488	oto	nguête-a ane maqhûâni hin bi nъⴘy ane Augusta, nъⴘy ane... Ȥânho, guadi di pâdi, Augusta tobî gom nai ndô̮hnînî dô̮ngu ane qhana min, qhata on guê qhan na yqha-y guê di nъⴘy ane yndô̮hnînî nho yndete tengu naqhagua, Augusta hin go nho ndete	bi nъⴘy ane nu mⴘy on Augusta	contradiction
+25489	oto	o ynguade on 1962, bi hiâni ô̮thia on pa o Washington, DC	xada xicagā guê xindama nû DC	entailment
+25490	oto	o ynguade on 1962, bi hiâni ô̮thia on pa o Washington, DC	nu godexgû bi ȥixcaga o DC on zaditho	neutral
+25491	oto	o ynguade on 1962, bi hiâni ô̮thia on pa o Washington, DC	xada xicagā guê xindama o Africa	contradiction
+25492	oto	numⴘ DOT bi yûtzî ini nqhabu, nume bi mpomgû o nā tⴘhoi thzu mithzⴘ dô̮ngu ane Concord, hâpu hin bi bi yûpi didiyeca yȥuî nguête-a hiectho ane yhûâhoi, toyoatho go nu nguade on na hñaxpipho ȥuî	mangû game ane Concord hin bi nzagui yûpi yȥuî	entailment
+25493	oto	numⴘ DOT bi yûtzî ini nqhabu, nume bi mpomgû o nā tⴘhoi thzu mithzⴘ dô̮ngu ane Concord, hâpu hin bi bi yûpi didiyeca yȥuî nguête-a hiectho ane yhûâhoi, toyoatho go nu nguade on na hñaxpipho ȥuî	mangû game ane Concord phodi 30000 yñi xi nā hmudi on yȥuî	contradiction
+25494	oto	numⴘ DOT bi yûtzî ini nqhabu, nume bi mpomgû o nā tⴘhoi thzu mithzⴘ dô̮ngu ane Concord, hâpu hin bi bi yûpi didiyeca yȥuî nguête-a hiectho ane yhûâhoi, toyoatho go nu nguade on na hñaxpipho ȥuî	bi pogāme ygotitho yamamo yȥuî numⴘ nume bi mpomgû o Concord	neutral
+25495	oto	ane taatho caqhaca, bi ahnime, xi ditaca imâ ngueña guê nguê nune gⴘ-ccu bi ahnime o Kadina, ane Okinawa, xi naqhagua bim ane 1968	bi ahni yamamo yȥedⴘdi ane 1968	entailment
+25496	oto	ane taatho caqhaca, bi ahnime, xi ditaca imâ ngueña guê nguê nune gⴘ-ccu bi ahnime o Kadina, ane Okinawa, xi naqhagua bim ane 1968	hinqhamⴘ bi ȥô̮teme ahnitho o nindana	contradiction
+25497	oto	ane taatho caqhaca, bi ahnime, xi ditaca imâ ngueña guê nguê nune gⴘ-ccu bi ahnime o Kadina, ane Okinawa, xi naqhagua bim ane 1968	bi gacâxcâme ninthopi ynadabⴘy o Japón ane ȥan gonccāngui on 1968	neutral
+25498	oto	bi xicagā guê dimané nen egue-e xi guê bi nêhu qhan nuya	biênâ guê babi umbi numⴘ guê dane	contradiction
+25499	oto	bi xicagā guê dimané nen egue-e xi guê bi nêhu qhan nuya	bi xicagā guê demi nun yâ 2 p.m. qhan qhuadi gotitho nu mbe- te	neutral
+25500	oto	bi xicagā guê dimané nen egue-e xi guê bi nêhu qhan nuya	bi xicagā guê gom nxô̮uni	entailment
+25501	oto	guadi miqha gañotho xi bi xicagā guê hin bi tunmⴘyga	bi xicagā gué gogā eqqîây guê na ngûmphadi da bi mi-ga	neutral
+25502	oto	guadi miqha gañotho xi bi xicagā guê hin bi tunmⴘyga	biênâ guê hin gogā tunmⴘyqui	entailment
+25503	oto	guadi miqha gañotho xi bi xicagā guê hin bi tunmⴘyga	biênâ guê gom ȥupi on diqⴘdi ane thambni	contradiction
+25504	oto	naqhagua go, guadi pâdi. Hiandagua guipho yxuñiña	xa ane gⴘⴘhia	entailment
+25505	oto	naqhagua go, guadi pâdi. Hiandagua guipho yxuñiña	da bⴘy mi-ga	contradiction
+25506	oto	naqhagua go, guadi pâdi. Hiandagua guipho yxuñiña	da xa mi-ga	neutral
+25507	oto	maMe biguadi hin bintho nai on ynu bi necca nû mⴘdⴘy xi, ah, ngu-a guê bima bi humohoi o pēphi ane nu hûâhi nun guê ynoi on ya mehtzi hin midi pēca ane nu hûâhi	maMe bi pho guê tzopho bāybuô̮xu xi dētha	neutral
+25508	oto	maMe biguadi hin bintho nai on ynu bi necca nû mⴘdⴘy xi, ah, ngu-a guê bima bi humohoi o pēphi ane nu hûâhi nun guê ynoi on ya mehtzi hin midi pēca ane nu hûâhi	maMe gom na tzichuchi on ccaxttagui nguê toyatho hinqhamⴘ bi pho guê pēphi	contradiction
+25509	oto	maMe biguadi hin bintho nai on ynu bi necca nû mⴘdⴘy xi, ah, ngu-a guê bima bi humohoi o pēphi ane nu hûâhi nun guê ynoi on ya mehtzi hin midi pēca ane nu hûâhi	maMe bi pho guê pēphi thina	entailment
+25510	oto	xi guipaque, nû nguade, guipaque. Guipadi guê bi onni o na yqha-y, o ynoi xi o ymana, xi nindana mipâca habⴘ dimi xi, nqhamatho, di paque, handitho bin yopⴘhitho nunⴘ ô̮tentho on guê hin bi pentho o handi o Joe	Joe gom nu hô̮nze guê dimi phoca na nxoqqi ona dângû on ditzoigā	neutral
+25511	oto	xi guipaque, nû nguade, guipaque. Guipadi guê bi onni o na yqha-y, o ynoi xi o ymana, xi nindana mipâca habⴘ dimi xi, nqhamatho, di paque, handitho bin yopⴘhitho nunⴘ ô̮tentho on guê hin bi pentho o handi o Joe	hô̮tzaha-tho on Nqha-a xca bi tohque, hin bi nzaguime pâhuneho guê Joe nume bi tzogui ane ȥâmbⴘy	contradiction
+25512	oto	xi guipaque, nû nguade, guipaque. Guipadi guê bi onni o na yqha-y, o ynoi xi o ymana, xi nindana mipâca habⴘ dimi xi, nqhamatho, di paque, handitho bin yopⴘhitho nunⴘ ô̮tentho on guê hin bi pentho o handi o Joe	nā mpa, Joe bin miqha bi pa xi nindana bi nzagui ndehqui o Habⴘ Mibi	entailment
+25513	oto	ybi bixica guê gom manqhû	bi mambi o manqhû	entailment
+25514	oto	ybi bixica guê gom manqhû	di engā guê gom ma	contradiction
+25515	oto	ybi bixica guê gom manqhû	ybi bixica guê nu tzathyo gom on manqhû	neutral
+25516	oto	xi guaxguetho biênâ ini maMe, ini maMe bin yattî nigo qhamunⴘ xi bi hianda xi biênâ: bi yoo tengu nu	ngueca biênâ gué ini maMe nêccⴘ di gaño on ybunda	neutral
+25517	oto	xi guaxguetho biênâ ini maMe, ini maMe bin yattî nigo qhamunⴘ xi bi hianda xi biênâ: bi yoo tengu nu	ngueca biênâ gué ini maMe phodi nu ziguetho gaño	entailment
+25518	oto	xi guaxguetho biênâ ini maMe, ini maMe bin yattî nigo qhamunⴘ xi bi hianda xi biênâ: bi yoo tengu nu	biênâ gué ini maMe bi motho xi hin ditaha gaño	contradiction
+25519	oto	Guipadi, xi ngueca bi di yûtzîtho ya pétalos nûnû xi nugā hin mipâca hinyⴘ on qhoontho ô̮tentzô̮mô̮	hin mipâca guê bin bi êy tze buô̮xhua	neutral
+25520	oto	Guipadi, xi ngueca bi di yûtzîtho ya pétalos nûnû xi nugā hin mipâca hinyⴘ on qhoontho ô̮tentzô̮mô̮	hin mipâca xca guê bi thogui o ngueca	entailment
+25521	oto	Guipadi, xi ngueca bi di yûtzîtho ya pétalos nûnû xi nugā hin mipâca hinyⴘ on qhoontho ô̮tentzô̮mô̮	mipâca xca guê mibi o thogui numⴘ ngueca xpaô̮te qhana	contradiction
+25522	oto	Ah, mânâ eminda guê bi thogui bi nzagui cona añô̮guhma bima nā on ya ynandi ybibibeni on ma nqhu, xi guenu xa thogui ane qhanu ziguetho thi anxⴘtha	qhon didiyeca ybibibeni on qhanu ngû	contradiction
+25523	oto	Ah, mânâ eminda guê bi thogui bi nzagui cona añô̮guhma bima nā on ya ynandi ybibibeni on ma nqhu, xi guenu xa thogui ane qhanu ziguetho thi anxⴘtha	xtabibenga qhanu bi qhoda margaritas ane nu qhanu ngû	neutral
+25524	oto	Ah, mânâ eminda guê bi thogui bi nzagui cona añô̮guhma bima nā on ya ynandi ybibibeni on ma nqhu, xi guenu xa thogui ane qhanu ziguetho thi anxⴘtha	xtabibenga xoⴘ guê bi nô̮cco ne nu qhanu ngû	entailment
+25525	oto	nguna guê gotitho qhanu estrés xi, toyatho, dimi phoca ygotitho ya gⴘ-ccu qhan bⴘy estresado nuya, gom tengu, bi unitho xoⴘ te hin guipâdi guiô̮te, xi go tengu di ihia, gui yô̮te	hin mipâca hanqha ô̮te nu bēphi guê di unniga nuya	entailment
+25526	oto	nguna guê gotitho qhanu estrés xi, toyatho, dimi phoca ygotitho ya gⴘ-ccu qhan bⴘy estresado nuya, gom tengu, bi unitho xoⴘ te hin guipâdi guiô̮te, xi go tengu di ihia, gui yô̮te	xada xicagā guê da puô̮t-nu na honȥa on fusibles on na oficina, guedi hin bi pâdi hinyⴘ on cableado eléctrico	neutral
+25527	oto	nguna guê gotitho qhanu estrés xi, toyatho, dimi phoca ygotitho ya gⴘ-ccu qhan bⴘy estresado nuya, gom tengu, bi unitho xoⴘ te hin guipâdi guiô̮te, xi go tengu di ihia, gui yô̮te	nuya bi ocagā guê handitho bi ô̮qhê ynangⴘdi qhan yâ guê dibⴘca mi-ga bi ⴘntti	contradiction
+25528	oto	nguna guê ngueña, nugua bi, xca gui nee nuya	ênâ guê babi da pâhuneho dañamⴘ dane	contradiction
+25529	oto	nguna guê ngueña, nugua bi, xca gui nee nuya	ênâ guê di didiho da âqhu-a nuya	entailment
+25530	oto	nguna guê ngueña, nugua bi, xca gui nee nuya	ênâ guê di didiho hiâni nu mbe-ô̮te nguade ymahe on yâ on na nde	neutral
+25531	oto	xi, ⴘndutho, bi uegueme o mpomgûme	nume bi mpomgûme ane mana nandichⴘ	entailment
+25532	oto	xi, ⴘndutho, bi uegueme o mpomgûme	nume bi mpomgûme o mana mamⴘyhni ane 1992	neutral
+25533	oto	xi, ⴘndutho, bi uegueme o mpomgûme	hinqhamⴘ nume bi ahnime mapha on guenu	contradiction
+25534	oto	hin bi bâdi tze mi-ga o na xitzu Faulk, ngueca dimi phoca ynā 80 yqhēya, xi gom nai niȥatho añô̮-y, na miqha bi handi nā gogo on yƌaigui, guedi dimi maqhuani ngⴘ-a mphu qui nguê qhana	din bi handi o na xitzu Faulk ynai yxuchⴘ yƌaigui, guedi hin na bi bâdi mi-ga	entailment
+25535	oto	hin bi bâdi tze mi-ga o na xitzu Faulk, ngueca dimi phoca ynā 80 yqhēya, xi gom nai niȥatho añô̮-y, na miqha bi handi nā gogo on yƌaigui, guedi dimi maqhuani ngⴘ-a mphu qui nguê qhana	nugā bimipa nā dô̮ñome tze n-nagahe on na xitzu Faulk	contradiction
+25536	oto	hin bi bâdi tze mi-ga o na xitzu Faulk, ngueca dimi phoca ynā 80 yqhēya, xi gom nai niȥatho añô̮-y, na miqha bi handi nā gogo on yƌaigui, guedi dimi maqhuani ngⴘ-a mphu qui nguê qhana	na xitzu Faulk conducía nā Honda ccaxti ygotitho ya ypa qhan di pa o pēphi	neutral
+25537	oto	bi nъu yme anu 85 on Mallard Creek, habⴘqⴘ hô̮nyaya go nu 485 nguête-a bi phodime guê bi mpomgûme nguê ya 485	bi nъⴘyme nunⴘ ana ngû ccangui	neutral
+25538	oto	bi nъu yme anu 85 on Mallard Creek, habⴘqⴘ hô̮nyaya go nu 485 nguête-a bi phodime guê bi mpomgûme nguê ya 485	bi nъⴘyme nunⴘ nguê thzû ypa	entailment
+25539	oto	bi nъu yme anu 85 on Mallard Creek, habⴘqⴘ hô̮nyaya go nu 485 nguête-a bi phodime guê bi mpomgûme nguê ya 485	handitho bi nъⴘyme nunⴘ yoho yƌanigo	contradiction
+25540	oto	Colega, bi denta guê dimi phoca personalidad doble, úe	dimi on nā modēo andihⴘ	entailment
+25541	oto	Colega, bi denta guê dimi phoca personalidad doble, úe	ma Hmû-o dimi a maqhuani ngⴘ-a diponate a maqhuani ngⴘ-a nohgo	neutral
+25542	oto	Colega, bi denta guê dimi phoca personalidad doble, úe	ma Hmû-o gom tûdî xi consencuente	contradiction
+25543	oto	go xca dunthe-tho tahoqui tengu qhan di ma MaTah	nⴘa go 27 yqhēya tahoqui guê nugā	neutral
+25544	oto	go xca dunthe-tho tahoqui tengu qhan di ma MaTah	nⴘa go thzu mithzⴘ tⴘnttⴘ guê nugā	contradiction
+25545	oto	go xca dunthe-tho tahoqui tengu qhan di ma MaTah	nⴘa go tahoqui guê nugā	entailment
+25546	oto	gotitho bi bi tat-ze xi Oqhâ, nin dipaca nguê nqha-a ȥantho	hin dipaca nqha-a ȥantho da ndemedi	entailment
+25547	oto	gotitho bi bi tat-ze xi Oqhâ, nin dipaca nguê nqha-a ȥantho	hin dipaca nqha-a ȥantho da ndemedi na hñaxpipho	neutral
+25548	oto	gotitho bi bi tat-ze xi Oqhâ, nin dipaca nguê nqha-a ȥantho	dipaca guê di ye-ani 4 pies (10 cm) on mmá	contradiction
+25549	oto	naqhagua ƌaigui nin hoctho bi itzoga diponate on guê bi bⴘtho nunⴘ nguête-a nho estresada	xti buca nho diponate xi hintumⴘy	contradiction
+25550	oto	naqhagua ƌaigui nin hoctho bi itzoga diponate on guê bi bⴘtho nunⴘ nguête-a nho estresada	dimi naxara coxhîa tengu qhan bⴘy diponate nguête-a ngueca mibiqha dabacoca nā mpa ymahe	neutral
+25551	oto	naqhagua ƌaigui nin hoctho bi itzoga diponate on guê bi bⴘtho nunⴘ nguête-a nho estresada	dimi naxara coxhîa nguê di diponate nguête-a ngueca dimi nunⴘ	entailment
+25552	oto	xi thzu on guenu xiô̮tu nû ô̮tentho on guê yâ yMaMe gomi drogodependientes	yâ yMaMe gomi drogodependientes	neutral
+25553	oto	xi thzu on guenu xiô̮tu nû ô̮tentho on guê yâ yMaMe gomi drogodependientes	yâ yMaMe hin di zitûdî prescripciones nin nîñêthî	contradiction
+25554	oto	xi thzu on guenu xiô̮tu nû ô̮tentho on guê yâ yMaMe gomi drogodependientes	na MaMe di zitûdî yhātti	entailment
+25555	oto	hâ, go maqhuani ngu -a madipoho, miqha ȥandimê di úâytho	hin bidi gue-hma na ye	neutral
+25556	oto	hâ, go maqhuani ngu -a madipoho, miqha ȥandimê di úâytho	go tegaȥâ xi daxiye	entailment
+25557	oto	hâ, go maqhuani ngu -a madipoho, miqha ȥandimê di úâytho	go nho xotzonho nen na incesante yot-hiadi	contradiction
+25558	oto	Oh, xca guê di nimu-ui nai nâhte n-yô̮dâ xi hâ bin babi a hin rehabilitar o nabo-â	ygotitho yâ ynâhte di nimu-ui na rehabilitación xi yâ youndi yguephô̮he	neutral
+25559	oto	Oh, xca guê di nimu-ui nai nâhte n-yô̮dâ xi hâ bin babi a hin rehabilitar o nabo-â	qhoontho n-yô̮dâ di mātzini di rehabilitado	contradiction
+25560	oto	Oh, xca guê di nimu-ui nai nâhte n-yô̮dâ xi hâ bin babi a hin rehabilitar o nabo-â	mongu on na rehabilitación, na nâhte di nimu-ui na ndûmⴘy	entailment
+25561	oto	oh, tzitapi, nugua guipho nā ñompheni xuñiña on cableado	hinqhamu mahemⴘ miqha dihnu nune ûnxô̮ on xuñiña on cableado	neutral
+25562	oto	oh, tzitapi, nugua guipho nā ñompheni xuñiña on cableado	nu cableado hin go nu xuñiña	contradiction
+25563	oto	oh, tzitapi, nugua guipho nā ñompheni xuñiña on cableado	qhaa nā xuñiña bi hombixa nguê nune ñompheni cableado	entailment
+25564	oto	di zⴘni tze dipoho, hâ, di yô̮xiga nqhanu xocⴘ bi yûpi	hin didi maqhuani ngⴘ-a bi yô̮xi on guê xindama nen huithopi	contradiction
+25565	oto	di zⴘni tze dipoho, hâ, di yô̮xiga nqhanu xocⴘ bi yûpi	di yô̮xiga guê di hiagui-mi nunⴘ nen thⴘhⴘ xi ytzituthe	neutral
+25566	oto	di zⴘni tze dipoho, hâ, di yô̮xiga nqhanu xocⴘ bi yûpi	di yô̮xiga nen xca guê bi pâmangu pâhuneho	entailment
+25567	oto	hâ, ƌaigu-tho, di hñanuaga o guê, qhan dañamⴘ diqha biguanxû on equiparte, nen gotitho nu bēphi guê guenu dábá... Ndêgui dâbâ nā Club Med on vacaciones gotitho bi qhûti	nîmu-ui $2000 toi gotitho guê dimané	neutral
+25568	oto	hâ, ƌaigu-tho, di hñanuaga o guê, qhan dañamⴘ diqha biguanxû on equiparte, nen gotitho nu bēphi guê guenu dábá... Ndêgui dâbâ nā Club Med on vacaciones gotitho bi qhûti	nîmu-ui thzu hehie o nugacē	entailment
+25569	oto	hâ, ƌaigu-tho, di hñanuaga o guê, qhan dañamⴘ diqha biguanxû on equiparte, nen gotitho nu bēphi guê guenu dábá... Ndêgui dâbâ nā Club Med on vacaciones gotitho bi qhûti	go tze himadi hehie	contradiction
+25570	oto	oh, guedi on ygotitho yguguna yma ybâhtzi ngueña guipho-mi ƌote n-a xi ƌote goho, toyatho hin diphoca guê	hin es máné nguête-a yma ybâhtzi diphoca mithzⴘ on ƌote yqhēya	entailment
+25571	oto	oh, guedi on ygotitho yguguna yma ybâhtzi ngueña guipho-mi ƌote n-a xi ƌote goho, toyatho hin diphoca guê	xamiqha o phodi guê ô̮te, guadi guê mibⴘ di tzô̮hô̮tho o na ȥáq-qha-y	neutral
+25572	oto	oh, guedi on ygotitho yguguna yma ybâhtzi ngueña guipho-mi ƌote n-a xi ƌote goho, toyatho hin diphoca guê	gogā di ô̮te guadi guê ya yoho diphoca ƌata xi ƌataman-a yquēya	contradiction
+25573	oto	Vaya! mi-ga naqhagua go Fresno	bi mî ane Fresno	neutral
+25574	oto	Vaya! mi-ga naqhagua go Fresno	hin didi maqhuaba hâpu go Fresno	contradiction
+25575	oto	Vaya! mi-ga naqhagua go Fresno	dixi-y guê naqhagua go Fresno	entailment
+25576	oto	hâ, añô̮-y guê babi bⴘy anu bēphi ane taatho nandichⴘ o ytagⴘ decisiones babi nublarse hâ guipho-mi guê qhadabeni nā decisión	hâ, yqha-y guê xâhma hin dane garabâdi on qhadabeni yâ ymanho decisiones	entailment
+25577	oto	hâ, añô̮-y guê babi bⴘy anu bēphi ane taatho nandichⴘ o ytagⴘ decisiones babi nublarse hâ guipho-mi guê qhadabeni nā decisión	hâ, yqha-y guê xâhma hin bi phodi thuhu	neutral
+25578	oto	hâ, añô̮-y guê babi bⴘy anu bēphi ane taatho nandichⴘ o ytagⴘ decisiones babi nublarse hâ guipho-mi guê qhadabeni nā decisión	hâ, yâ añ -y ytagⴘ iȥâbênî on decisión hinqhamⴘ bin di xaxixi	contradiction
+25579	oto	hin, hatobî bi on gira. Xaa bi tebⴘy on gira bempha ydanguade on yâ yqhēya hiate	Xaa bi tebⴘy on gira bempha mahemⴘ on 1970	entailment
+25580	oto	hin, hatobî bi on gira. Xaa bi tebⴘy on gira bempha ydanguade on yâ yqhēya hiate	ybi didihogā ô̮te recorridos	neutral
+25581	oto	hin, hatobî bi on gira. Xaa bi tebⴘy on gira bempha ydanguade on yâ yqhēya hiate	bi thegue ini gira manguemⴘ	contradiction
+25582	oto	Hanqha guiô̮te aeróbicos	¿ndêgui di hiêdahaga hanqha guiô̮te aeróbic?	entailment
+25583	oto	Hanqha guiô̮te aeróbicos	didi interesado anu aerobic nguête-a di manⴘa xou on tedô̮te cardiovascular	neutral
+25584	oto	Hanqha guiô̮te aeróbicos	guê pegmihi, hioma on ñama on ytheni aerobicos	contradiction
+25585	oto	ȥânho, qhana go nai niȥatho ana tagⴘ hin miqha bi mbô̮ni guê hâ	miqha go nai phuô̮xo monña guê bitzoca na ƌanigo mahambⴘ	contradiction
+25586	oto	ȥânho, qhana go nai niȥatho ana tagⴘ hin miqha bi mbô̮ni guê hâ	naqhagua go nā ȥâa denu	entailment
+25587	oto	ȥânho, qhana go nai niȥatho ana tagⴘ hin miqha bi mbô̮ni guê hâ	na paradoja guê gui embi go nā ȥâa denu	neutral
+25588	oto	guardería on yoho ypa o na ȥâa	Na guardería bi xoctho ygotitho ya ypa qhan ymehtzi ydehettⴘ on qⴘda yqhēya handitho.	contradiction
+25589	oto	guardería on yoho ypa o na ȥâa	Ya mi tzogui pa mithzⴘ on yoigui o na ƌanigo hâ yâ yañ -y ona ȥaqqiqhâ-y mibⴘ o na pô̮hô̮.	neutral
+25590	oto	guardería on yoho ypa o na ȥâa	Bin di hñanua o ngueca hânqha nai guardería qhan yndaxqua, guedi bin mahti nu amadehni qhan yañ -y ytahoqui.	entailment
+25591	oto	Qhana gom ini ñahti.	Qhana go nguê xca guê bin mibiqha ȥacamⴘy.	entailment
+25592	oto	Qhana gom ini ñahti.	Qhana hapi bim xca guê mi nee hmâyⴘ.	contradiction
+25593	oto	Qhana gom ini ñahti.	Bbitzu di-bi ini ñahti.	neutral
+25594	oto	mpēphi ymûtti bin nemei go hoc yoho yyē.	Na yode on ygotitho ya ythecca on ieti on mûtti gomi na ô̮tentzô̮mô̮an hoc nen nai handitho yē.	neutral
+25595	oto	mpēphi ymûtti bin nemei go hoc yoho yyē.	Na manho meô̮ho on mpēphi yâ ymûtti bin hoc ya yoho ygua.	contradiction
+25596	oto	mpēphi ymûtti bin nemei go hoc yoho yyē.	Bi hoc yâ yoho yyē hâ maz dane pēphi nu di mpēphi on ymûtti.	entailment
+25597	oto	Xi on cahobⴘtê eccua on nā tⴘhoi hin bin on habⴘ eccua guedi.	Hin bin on habⴘ eccua, guedi bin ntzaditho.	entailment
+25598	oto	Xi on cahobⴘtê eccua on nā tⴘhoi hin bin on habⴘ eccua guedi.	Eccua ntzaditho, guedi bin on hapⴘ eccua.	neutral
+25599	oto	Xi on cahobⴘtê eccua on nā tⴘhoi hin bin on habⴘ eccua guedi.	Eccua hânqha melaza xi bin egue-e-tho numⴘ dadaêhê.	contradiction
+25600	oto	Hin, on maqhuaba hin xca bi bâdi, hin di eqqîây.	Hin bin thzu câxâ qhana.	entailment
+25601	oto	Hin, on maqhuaba hin xca bi bâdi, hin di eqqîây.	Godi ñembâdi ane yxicⴘ on hmâdi.	neutral
+25602	oto	Hin, on maqhuaba hin xca bi bâdi, hin di eqqîây.	Din ȥandimê nxoô̮tho nûnê nguê yqhēya.	contradiction
+25603	oto	hâ, nuqui pâdi guê ngueca gom ȥâ.	Eqqîây guê pâdi guê bibⴘhma tzem-ô̮te.	neutral
+25604	oto	hâ, nuqui pâdi guê ngueca gom ȥâ.	Hin ngueca gom tzⴘtzo.	contradiction
+25605	oto	hâ, nuqui pâdi guê ngueca gom ȥâ.	Hâ, ngueca gom tze ȥâ.	entailment
+25606	oto	Hâ, nⴘa bi nemei handa - a toi nai fregona hânqha na guê da dihoqui.	Bi nemei toi nai aspiradora.	contradiction
+25607	oto	Hâ, nⴘa bi nemei handa - a toi nai fregona hânqha na guê da dihoqui.	Bi nemei tînî nai fregona.	entailment
+25608	oto	Hâ, nⴘa bi nemei handa - a toi nai fregona hânqha na guê da dihoqui.	Bi nêhⴘ thûhqui na qhi nen nā trapeador.	neutral
+25609	oto	Nugua mibⴘ yâ yxocⴘ photeqhu-tho modēo, qhuaya on ô̮tehobⴘ nā tiroteo ana autopista, o hiû ymanȥantzi on mangû game.	Nu tiroteo bim nû michutho o 10 millas on hâpu bi nъⴘy.	contradiction
+25610	oto	Nugua mibⴘ yâ yxocⴘ photeqhu-tho modēo, qhuaya on ô̮tehobⴘ nā tiroteo ana autopista, o hiû ymanȥantzi on mangû game.	Nu tiroteo bim guehtua on ma ngû xi diunniga natzû pⴘô̮ni.	neutral
+25611	oto	Nugua mibⴘ yâ yxocⴘ photeqhu-tho modēo, qhuaya on ô̮tehobⴘ nā tiroteo ana autopista, o hiû ymanȥantzi on mangû game.	Biqha nā tiroteo guehtua on ma ngû, photeqhu-tho hin bin ȥâ ane nûnê tⴘhoi.	entailment
+25612	oto	Oh, qhana on maqhûâni hin bin photeqhu-tho, oh consistente.	Hin didi on tapimunatem go tze constante.	contradiction
+25613	oto	Oh, qhana on maqhûâni hin bin photeqhu-tho, oh consistente.	Eqqîây guê guiphodi gâȥâ on tapimunate o ini consistencia.	neutral
+25614	oto	Oh, qhana on maqhûâni hin bin photeqhu-tho, oh consistente.	guiphodi gâȥâ câxâ on guê hin dane consistente.	entailment
+25615	oto	didi tohquetho on nyoni nunⴘ	didi tohquetho pēnttiqui o guenu	entailment
+25616	oto	didi tohquetho on nyoni nunⴘ	maqhuani ngⴘ-a didi hapabe xca manho guê ditaca	neutral
+25617	oto	didi tohquetho on nyoni nunⴘ	da tzogui pa xi hinqhamu da hiândî muô̮te	contradiction
+25618	oto	maz ¿Te nihi on pexiyo guipho?	¿ni pexiyo go nā ȥâa tzitapi?	neutral
+25619	oto	maz ¿Te nihi on pexiyo guipho?	¿Te nihi on memixtû bi guapⴘcabi?	contradiction
+25620	oto	maz ¿Te nihi on pexiyo guipho?	¿Te nihi on tzathyo tzⴘnttu guipho?	entailment
+25621	oto	ȥânho, bixiqui guê dimi phoca ybâhtzi, ¿on miqhy-a?	¿Nqha-ⴘ ybâhtzi guiphodi?	neutral
+25622	oto	ȥânho, bixiqui guê dimi phoca ybâhtzi, ¿on miqhy-a?	di tzoga guê hin ditaha phodi ybâhtzi?	contradiction
+25623	oto	ȥânho, bixiqui guê dimi phoca ybâhtzi, ¿on miqhy-a?	bixiqui guê Guipho ybâhtzi ¿Te yqhēya guipho-mi?	entailment
+25624	oto	ȥâha hin bima-bi yâ añô̮-y mithzⴘ yttô̮dô̮bâdi an ximohoi, guedi ô̮de, bima-bi tze ymadipoho xi, guenu... Go bi tupheni nguê yâ añô̮-y guê dimibⴘy yini o nxoô̮	ditaha guê hin bima-bi ya mithzⴘ yttô̮dô̮bâdi, guedi bima-bi tze ymadipoho xi dimibⴘy bi tupheni ane ya guê di nxoô̮	entailment
+25625	oto	ȥâha hin bima-bi yâ añô̮-y mithzⴘ yttô̮dô̮bâdi an ximohoi, guedi ô̮de, bima-bi tze ymadipoho xi, guenu... Go bi tupheni nguê yâ añô̮-y guê dimibⴘy yini o nxoô̮	gom tze yttô̮dô̮bâdi, guedi go biô̮pabi ya ymonña numⴘ dimibⴘy nudagua on ymana gué hin ybi bi bâdi tze mi-ga	neutral
+25626	oto	ȥâha hin bima-bi yâ añô̮-y mithzⴘ yttô̮dô̮bâdi an ximohoi, guedi ô̮de, bima-bi tze ymadipoho xi, guenu... Go bi tupheni nguê yâ añô̮-y guê dimibⴘy yini o nxoô̮	gom mithzⴘ guê yini, guedi bi ⴘtzo o togⴘtho guê go esfrozara ane nxoô̮	contradiction
+25627	oto	naigui bime o naqhagua eminda, eh, nunⴘ , bi penguime on nā udaqha xi bi tzô̮gue yâ yot-nxûy nenhio an campamento xi miqha nai n-ây	nu ng-ây dimi mitô̮hma guê bi uegue nû campamento	neutral
+25628	oto	naigui bime o naqhagua eminda, eh, nunⴘ , bi penguime on nā udaqha xi bi tzô̮gue yâ yot-nxûy nenhio an campamento xi miqha nai n-ây	bi tînîme nai nȥundinȥû anu campamento on mapha hûêtti yâ yot-nxûy	contradiction
+25629	oto	naigui bime o naqhagua eminda, eh, nunⴘ , bi penguime on nā udaqha xi bi tzô̮gue yâ yot-nxûy nenhio an campamento xi miqha nai n-ây	numⴘ bi penguime on nā udaqha, bi tînîme nai n-ây	entailment
+25630	oto	Guipadi, ygotitho yma ybâhtzi goguehyu ohumhioh, tze yȥâ, xi di eqqîây hin, di mpadi on ya mehtzi ytahoqui nêccⴘ, guedi	bi mpadi on ya ymana mehtzi ytahoqui guedi gotiho ma andângûtho eclipsa	entailment
+25631	oto	Guipadi, ygotitho yma ybâhtzi goguehyu ohumhioh, tze yȥâ, xi di eqqîây hin, di mpadi on ya mehtzi ytahoqui nêccⴘ, guedi	didi tze di yetzi on thzu gué yma ybâhtzi ih-pâdi	neutral
+25632	oto	Guipadi, ygotitho yma ybâhtzi goguehyu ohumhioh, tze yȥâ, xi di eqqîây hin, di mpadi on ya mehtzi ytahoqui nêccⴘ, guedi	yma ytzitapi gomi maqhuani ngu -a yñô̮ñe	contradiction
+25633	oto	xi nêccⴘ bi hombixa guê na yqha-y da dapegue mithzⴘ ini puô̮ttai mmm..., xi mmm..., xi limitar nu tzentô̮de ȥâha bi nā chⴘ mithzⴘ nudagua an xuñiña photeqhu guê limitar nu tô̮cay	na limitación on na mô̮pô̮dô̮ on puô̮ttai xa mithzⴘ cerca del problema guê nu tô̮cay ane hâ	entailment
+25634	oto	xi nêccⴘ bi hombixa guê na yqha-y da dapegue mithzⴘ ini puô̮ttai mmm..., xi mmm..., xi limitar nu tzentô̮de ȥâha bi nā chⴘ mithzⴘ nudagua an xuñiña photeqhu guê limitar nu tô̮cay	na yqha-y hinxa phodi guê di tunmu y nguê na mô̮pô̮dô̮ on puô̮ttai ane na ttahni gué naqhagua di yēy mi-ga	contradiction
+25635	oto	xi nêccⴘ bi hombixa guê na yqha-y da dapegue mithzⴘ ini puô̮ttai mmm..., xi mmm..., xi limitar nu tzentô̮de ȥâha bi nā chⴘ mithzⴘ nudagua an xuñiña photeqhu guê limitar nu tô̮cay	na yqha-y dimané bô̮mînu ngu-nho nu tzentô̮de xi nu tô̮cay on na mô̮pô̮dô̮ on puô̮ttai guê bi di ô̮tehobⴘme	neutral
+25636	oto	toyatho, maz qhaa nā thecca, go ni thecca, di nemei	hin di tunmⴘy-y, maz qhaa nā thecca, da phoxtzi o mambi	contradiction
+25637	oto	toyatho, maz qhaa nā thecca, go ni thecca, di nemei	maz qhaa nā thecca go ntzooni gomi	entailment
+25638	oto	toyatho, maz qhaa nā thecca, go ni thecca, di nemei	maz bi ô̮thecca nā thecca, xiô̮tu âqhu-a onⴘ	neutral
+25639	oto	Guipadi, on gotitho, ô̮te yâ yttedi xi yxocⴘ ngu-a go nute yni di unni nā biguanxû tze xô̮npâdî	yâ yttedi go miô̮te on nā guguna tze garabâdi	entailment
+25640	oto	Guipadi, on gotitho, ô̮te yâ yttedi xi yxocⴘ ngu-a go nute yni di unni nā biguanxû tze xô̮npâdî	yâ yttedi go biô̮pabi nen tîhî xi go agui tze ndaxñu	contradiction
+25641	oto	Guipadi, on gotitho, ô̮te yâ yttedi xi yxocⴘ ngu-a go nute yni di unni nā biguanxû tze xô̮npâdî	go bi thââ thzu dahpa qhan ȥô̮te yâ yttedi	neutral
+25642	oto	hâ, hâ, anegā bēphi uni-mi-y yoho yƌanigo nû mⴘdi xi mapha nangu-na quēya uni-mi-y nā mpa mithzⴘ nun guê gui pho goho yƌanigo	ni thot-ya bidi qhuattitho nangu-na quēya	entailment
+25643	oto	hâ, hâ, anegā bēphi uni-mi-y yoho yƌanigo nû mⴘdi xi mapha nangu-na quēya uni-mi-y nā mpa mithzⴘ nun guê gui pho goho yƌanigo	ni thot-ya hinqhamⴘ di dupô̮gui ya hiû mpa	contradiction
+25644	oto	hâ, hâ, anegā bēphi uni-mi-y yoho yƌanigo nû mⴘdi xi mapha nangu-na quēya uni-mi-y nā mpa mithzⴘ nun guê gui pho goho yƌanigo	ni thot-ya on vacaciones di qhuatti ane ya ybēphi ona ndô̮hnînî	neutral
+25645	oto	guenu go ȥâ on nъu y mithzⴘ anu qhañaȥandi, hin guipho guê di tzubeni-y nguê hinyⴘ on guenu	bⴘy anu qhañaȥandi ô̮te guê nbuy nen nā ȥuthzû nguê thot-paya o xocⴘ tengu naqhagua	contradiction
+25646	oto	guenu go ȥâ on nъu y mithzⴘ anu qhañaȥandi, hin guipho guê di tzubeni-y nguê hinyⴘ on guenu	xca ȥâ on bⴘy anu qhañaȥandi go guê hin qhaa di tzubeni nguê xocⴘ tengu ynaqhagua	entailment
+25647	oto	guenu go ȥâ on nъu y mithzⴘ anu qhañaȥandi, hin guipho guê di tzubeni-y nguê hinyⴘ on guenu	xca ohumhioh go guê anu hûâhi hin guipo di tzubeni-t nguê guenu tengu ana nd hnînî	neutral
+25648	oto	oh, oh Oqhâ, ȥânho, guenu di ȥuni tengu nai aventura	guenu goada guê go a tze tamanho o conangueca bi xemamⴘy	neutral
+25649	oto	oh, oh Oqhâ, ȥânho, guenu di ȥuni tengu nai aventura	guenu di ȥuni tengu nai ndot aventura	entailment
+25650	oto	oh, oh Oqhâ, ȥânho, guenu di ȥuni tengu nai aventura	goa na ȥan-yxo tzó.	contradiction
+25651	oto	xi ngueña di phoca na nqhûhue ane Alemania	hô̮nya-tho di phoca na îdâ guê di nъⴘy ane Alemania	entailment
+25652	oto	xi ngueña di phoca na nqhûhue ane Alemania	di phoca na nqhûhue guê bicâ nuguya ane Cuba.	contradiction
+25653	oto	xi ngueña di phoca na nqhûhue ane Alemania	di phoca na nqhûhue guê di ñama alemán.	neutral
+25654	oto	di phoca na ttîxû mitzu dô̮ngu ngueña xi go anhêy di tzixca nunⴘ xi qhana qhanu, guedi di pa y ma o,	go damaxda guê di ditāhā tzixca o ma ttîxû nunⴘ.	neutral
+25655	oto	di phoca na ttîxû mitzu dô̮ngu ngueña xi go anhêy di tzixca nunⴘ xi qhana qhanu, guedi di pa y ma o,	go mitzu anhêy qhandi ma tzica o ma ttîxû nunⴘ.	entailment
+25656	oto	di phoca na ttîxû mitzu dô̮ngu ngueña xi go anhêy di tzixca nunⴘ xi qhana qhanu, guedi di pa y ma o,	ngueña guê nⴘa di ditāhā mpēphi, ma ttîxû di phondi gor humbo-a meô̮ho on tzô̮hô̮ nugua.	contradiction
+25657	oto	hâ, guê gui da phodi na ȥâ hiethe.	di diho-magâ guê tu di phodi na vacaciones on hiethe ymodēo.	contradiction
+25658	oto	hâ, guê gui da phodi na ȥâ hiethe.	maqhoni-tho nu hiethe da bⴘy nugua ane qhamanguehtia.	neutral
+25659	oto	hâ, guê gui da phodi na ȥâ hiethe.	xi, guê gui da phodi na ᶎa hiethe.	entailment
+25660	oto	hin godime naturalistas hin hentze.	ane maqhûâni, hin bi mânzume naturalistas.	entailment
+25661	oto	hin godime naturalistas hin hentze.	¡godime gotho-tho ytzeo-qhua naturalistas xi bi itzome modēo on mbô̮ni hi-tô̮.	contradiction
+25662	oto	hin godime naturalistas hin hentze.	dihohmame na mpa di ȥacamⴘy nguê mⴘymî naturalista, guedi ane nunⴘ gûtûa, hin godime.	neutral
+25663	oto	hâ, bibibeni o ma magui htzu xi magui xihta xi bi puô̮ni o na dâyû xi qhoda yâ latas	yna nqha-a bin da qhodahⴘ xi da thûhqui na puô̮ttai on na dâyû.	neutral
+25664	oto	hâ, bibibeni o ma magui htzu xi magui xihta xi bi puô̮ni o na dâyû xi qhoda yâ latas	bi phoxtzi o ma magui htzu xi magui xihta o qhoda latas on na carretera.	entailment
+25665	oto	hâ, bibibeni o ma magui htzu xi magui xihta xi bi puô̮ni o na dâyû xi qhoda yâ latas	bi pa y ma on padango o ngûxitaî on ma MaTah.	contradiction
+25666	oto	ngu-a guê nunⴘ hin go nuqui naundi Gâbâdi nen na tzathyo.	xâhma, nunⴘ hin go nuqui naundi Gâbâdi nen na tzathyo.	entailment
+25667	oto	ngu-a guê nunⴘ hin go nuqui naundi Gâbâdi nen na tzathyo.	di tzoga, hin bi pâdi guê nunⴘ gom na naundi ƌaigui guê bi handi na tzathyo.	contradiction
+25668	oto	ngu-a guê nunⴘ hin go nuqui naundi Gâbâdi nen na tzathyo.	nunⴘ hin go na naundi ƌaigui guê di ȥandi na ȥuî tzⴘhi.	neutral
+25669	oto	handa hâ, hin di ô̮te gotitho di damaxda xi	di nzagui imâme nu nguadeon na hñaxpipho.	neutral
+25670	oto	handa hâ, hin di ô̮te gotitho di damaxda xi	hin di phodi guê di ô̮te gotitho.	entailment
+25671	oto	handa hâ, hin di ô̮te gotitho di damaxda xi	di manⴘa thogui nguê gotitho nu hombeni.	contradiction
+25672	oto	hin, di nъⴘy athina an recinto.	hin di nъⴘy ane nu campus.	entailment
+25673	oto	hin, di nъⴘy athina an recinto.	di nЪⴘy o yna ydâyû an campus.	neutral
+25674	oto	hin, di nъⴘy athina an recinto.	di nЪⴘy ane nu campus.	contradiction
+25675	oto	godi ȥantemi nu na acusación on guê na añô̮-y bi nthoqui o gor ex maxaca nun na dûdoyo nguêguê guenⴘ dimi âhâtho nen mânândi n-yô̮hô̮, dinega imâ ex maxaca, di pâdi guê dibⴘmebi ñamatho xi	na n-yô̮hô̮ bi ho o gor maxaca qhan yoi nen mânândi n-yô̮hô̮ mapha nu qhanu bi mⴘymî absuelto on na acusación.	entailment
+25676	oto	godi ȥantemi nu na acusación on guê na añô̮-y bi nthoqui o gor ex maxaca nun na dûdoyo nguêguê guenⴘ dimi âhâtho nen mânândi n-yô̮hô̮, dinega imâ ex maxaca, di pâdi guê dibⴘmebi ñamatho xi	na n-yô̮hô̮ gattiqⴘ bi ȥantemi on na ndu qhan na hombeni xi gattiqⴘ xi bi ho o gor ex maxaca	neutral
+25677	oto	godi ȥantemi nu na acusación on guê na añô̮-y bi nthoqui o gor ex maxaca nun na dûdoyo nguêguê guenⴘ dimi âhâtho nen mânândi n-yô̮hô̮, dinega imâ ex maxaca, di pâdi guê dibⴘmebi ñamatho xi	na maxaca bin bi nguaha on guê gor ex bi bⴘy bi cohti on qhan nâhte.	contradiction
+25678	oto	guenu go tenthoya cuentas de ahorro nen contribución.	xapho hentze guê di nzagui hiaiga nêccⴘ.	contradiction
+25679	oto	guenu go tenthoya cuentas de ahorro nen contribución.	go ziguetho guê na cuenta de ahorro individual.	entailment
+25680	oto	guenu go tenthoya cuentas de ahorro nen contribución.	ya ahorros di yunni da mⴘymî ziguetho.	neutral
+25681	oto	gom on Wills Point, hin bin hâ di pâdi.	hin di bⴘy maqhuaba on hâ di ô̮te bi ô̮de ñama on Will Point.	entailment
+25682	oto	gom on Wills Point, hin bin hâ di pâdi.	bu maô̮de on Wills Point	neutral
+25683	oto	gom on Wills Point, hin bin hâ di pâdi.	go on Cambrige	contradiction
+25684	oto	di hñanuagā o guê bi phodi goma behde xi bi bⴘy qhan ygotitho goma yȥaxthînbuô̮hô̮xi ane ya arbustos gotitho bin bi uegue ttaxi nûnû ahoi.	hantzaha aterrizó ane nu ndô̮hoy, nguna guê goma yȥaxthînbuô̮hô̮xi bin bi didiyeca yttaxhô̮.	contradiction
+25685	oto	di hñanuagā o guê bi phodi goma behde xi bi bⴘy qhan ygotitho goma yȥaxthînbuô̮hô̮xi ane ya arbustos gotitho bin bi uegue ttaxi nûnû ahoi.	bima hopîdêgo dañamⴘ bi qhumi goma yȥaxthînbuô̮hô̮xi.	neutral
+25686	oto	di hñanuagā o guê bi phodi goma behde xi bi bⴘy qhan ygotitho goma yȥaxthînbuô̮hô̮xi ane ya arbustos gotitho bin bi uegue ttaxi nûnû ahoi.	goma yȥaxthînbuô̮hô̮xi bi gⴘy di qhumi nen nunⴘ	entailment
+25687	oto	bi ô̮te tenthoya na bēphi on hmâdi, qhan guê na phuô̮xo an oficial go niȥatho	hin di thobi na bēphi on mⴘymî directivo.	contradiction
+25688	oto	bi ô̮te tenthoya na bēphi on hmâdi, qhan guê na phuô̮xo an oficial go niȥatho	di eqqîây guê na bēphi an oficial go niᶎatho.	entailment
+25689	oto	bi ô̮te tenthoya na bēphi on hmâdi, qhan guê na phuô̮xo an oficial go niȥatho	mânâ yqha-y di mbô̮ni guê an oficial go na phuô̮xo niᶎatho.	neutral
+25690	oto	ngu-a guê bi phodi na phuô̮xo tza ingeniosa	goa guê bin da handi niȥâ.	neutral
+25691	oto	ngu-a guê bi phodi na phuô̮xo tza ingeniosa	gom tze huihi pâdi on qhana	entailment
+25692	oto	ngu-a guê bi phodi na phuô̮xo tza ingeniosa	nu diseño gom tzó	contradiction
+25693	oto	xi bi petzi ygoma latas ane na eminda xi ya vaos ane mânâ xi un tzuqûâ ane mânâ xi naigui nunⴘ ñudi di tûta nû coche xi di pētzi go huihi	go anhêy tûta nu tzuqûâ, nu âxito xi yâ latas mapha on ngúedaane gor humbo-a contenedor	entailment
+25694	oto	xi bi petzi ygoma latas ane na eminda xi ya vaos ane mânâ xi un tzuqûâ ane mânâ xi naigui nunⴘ ñudi di tûta nû coche xi di pētzi go huihi	nu tzuqûâ go nu nandi ane ñutzi, guaxguetho latas y guaxguetho âxito.	neutral
+25695	oto	xi bi petzi ygoma latas ane na eminda xi ya vaos ane mânâ xi un tzuqûâ ane mânâ xi naigui nunⴘ ñudi di tûta nû coche xi di pētzi go huihi	nugame hin bi ngúeda hentze, di yeide gotitho ane na bahte.	contradiction
+25696	oto	Locust Hill handa hâ	Locust Hill go nu manho	neutral
+25697	oto	Locust Hill handa hâ	hin, hin Locust Hill.	contradiction
+25698	oto	Locust Hill handa hâ	hâ, Guô̮cca ni Dâhi, Locust Hill	entailment
+25699	oto	diphoca na césped Bermuda nugua xi dimané thzu déhé xi gui phodi guê didiyeca tza hî-âya gui nee guê ȥagana green on campo de golf.	ya cespedes Bermudan guipho-mi thzu bēphi	neutral
+25700	oto	diphoca na césped Bermuda nugua xi dimané thzu déhé xi gui phodi guê didiyeca tza hî-âya gui nee guê ȥagana green on campo de golf.	nû cesped on yâ Islas Bermudas, di tzequia tzô̮hô̮ o unni na denta nû ccangui on ya campos de golf.	entailment
+25701	oto	diphoca na césped Bermuda nugua xi dimané thzu déhé xi gui phodi guê didiyeca tza hî-âya gui nee guê ȥagana green on campo de golf.	handa-a guiphodi guê nâhtzi nu cesped on Bermuda nqhamatho.	contradiction
+25702	oto	na níquel michutho, a guê go ziguetho, ƌotemarata meñu michutho qhan ƌato botellas. Gotitho di pontti na frontera qhan toi yâ ytzituthe mithzⴘ yhimadi.	na pack on Ƌato go thzu-chⴘ ƌotemarata meñu mithzⴘ himadi nû buô̮hio on na frontera.	entailment
+25703	oto	na níquel michutho, a guê go ziguetho, ƌotemarata meñu michutho qhan ƌato botellas. Gotitho di pontti na frontera qhan toi yâ ytzituthe mithzⴘ yhimadi.	na thogoti on yâ yañô̮-y di ponrani na frontera qhan âqhu-a ytzituthe mithzⴘ himadi	neutral
+25704	oto	na níquel michutho, a guê go ziguetho, ƌotemarata meñu michutho qhan ƌato botellas. Gotitho di pontti na frontera qhan toi yâ ytzituthe mithzⴘ yhimadi.	yâ botellas gomi mithzⴘ ymâdi nû buô̮hio on na frontera.	contradiction
+25705	oto	hâ, bi imâbi	nⴘa go definitivamente sificientemente maho qhan guê di maô̮de	entailment
+25706	oto	hâ, bi imâbi	hin di nzagui maô̮de	contradiction
+25707	oto	hâ, bi imâbi	di eqqîây guê di ô̮debi	neutral
+25708	oto	manaigui guê gui toi na eminda, xumthe-tho na eminda on tza ntoi, go xoⴘ ane guê gui qhûti xi thot-paya xca tô̮que na impuesto an ƌata qhan nanȥⴘdi	qhûti na ƌata qhan nanȥⴘdi on impuestos go naxara	neutral
+25709	oto	manaigui guê gui toi na eminda, xumthe-tho na eminda on tza ntoi, go xoⴘ ane guê gui qhûti xi thot-paya xca tô̮que na impuesto an ƌata qhan nanȥⴘdi	thot-paya gui nzuētha tô̮que na impuesto an ƌata qhan nanȥⴘdi o guê Nûyû toitho dañamⴘ Nûyû calculando nu costo.	entailment
+25710	oto	manaigui guê gui toi na eminda, xumthe-tho na eminda on tza ntoi, go xoⴘ ane guê gui qhûti xi thot-paya xca tô̮que na impuesto an ƌata qhan nanȥⴘdi	hinha Guipho guê calcular nu impuesto qhan pêhdê nu coste	contradiction
+25711	oto	guê go na chⴘ inusual guedi bin di ô̮te o través on ya auspicios.	hin go nho común	entailment
+25712	oto	guê go na chⴘ inusual guedi bin di ô̮te o través on ya auspicios.	go ƌaigu gotitho ya yopa	contradiction
+25713	oto	guê go na chⴘ inusual guedi bin di ô̮te o través on ya auspicios.	go inusial guê na yqha-y go di handi ngu-a.	neutral
+25714	oto	Guô̮cca guê phodi planeado ô̮te	di têmî guê ngueca da ô̮te guê planea ô̮te.	entailment
+25715	oto	Guô̮cca guê phodi planeado ô̮te	din tzeȥundo qhan ngueca hâ ô̮te guê planea ô̮te.	neutral
+25716	oto	Guô̮cca guê phodi planeado ô̮te	hin di phodi planes on ô̮te guenu	contradiction
+25717	oto	egue-e-tho, guedi di hñanuagā o guê nen yâ ymarayo yttette photeqhu-tho go goanhêy gueña	yanⴘ on na maqhûâni, yâ yttette gomi ymaguemⴘ xi obsoletas.	contradiction
+25718	oto	egue-e-tho, guedi di hñanuagā o guê nen yâ ymarayo yttette photeqhu-tho go goanhêy gueña	on ô̮tentho go, guedi yâ regulaciones bi ndemedi thzu ane pⴘngui ane photeqhu.	neutral
+25719	oto	egue-e-tho, guedi di hñanuagā o guê nen yâ ymarayo yttette photeqhu-tho go goanhêy gueña	tzane-tho, qhata nen yâ ymarayo regulaciones, gueña go mithzⴘ anhêy	entailment
+25720	oto	Golly, di pâdi guê nⴘa hin bi nehí yâ yttette xi o ma no bi denta ncoqueme, nguê supuesto, di puô̮hebi o ynthidi ntzaditho.	nⴘa bi deh-mi gotitho yâ yttette.	entailment
+25721	oto	Golly, di pâdi guê nⴘa hin bi nehí yâ yttette xi o ma no bi denta ncoqueme, nguê supuesto, di puô̮hebi o ynthidi ntzaditho.	nⴘa bi nehí gotitho yâ yttette xi hoctho nguna bima expulsado.	contradiction
+25722	oto	Golly, di pâdi guê nⴘa hin bi nehí yâ yttette xi o ma no bi denta ncoqueme, nguê supuesto, di puô̮hebi o ynthidi ntzaditho.	nⴘa bi qhûpi qhanu papatho yâ yttette.	neutral
+25723	oto	hâ, simplemente hin goa damaxda. ¿maqhûâni?	hin di phodi ytêtâ on guê da nô̮cco tza hama	contradiction
+25724	oto	hâ, simplemente hin goa damaxda. ¿maqhûâni?	na maqhûâni go guê hin goa guê di tzequia nô̮cco	entailment
+25725	oto	hâ, simplemente hin goa damaxda. ¿maqhûâni?	hâ, hin di eqqîây guê di tzequia nô̮cco, guedi thot-paya qha a ndô̮-mi on guê nô̮que.	neutral
+25726	oto	bi bi yonti thzu-chⴘ ayoñani Washington guê mibⴘ xatî mô̮ô̮dî xi Buffalo Nueva Orleans xi Chicago nguête-a Chicago handitho yoigui xi nai ngueca bima ohinyo-y Bufalo	Buffalo phodi nu manho nadabⴘy ane dotho	neutral
+25727	oto	bi bi yonti thzu-chⴘ ayoñani Washington guê mibⴘ xatî mô̮ô̮dî xi Buffalo Nueva Orleans xi Chicago nguête-a Chicago handitho yoigui xi nai ngueca bima ohinyo-y Bufalo	na on ya yoho ynadabⴘy nen ya guê xomô̮di Chicago go Buffalo	entailment
+25728	oto	bi bi yonti thzu-chⴘ ayoñani Washington guê mibⴘ xatî mô̮ô̮dî xi Buffalo Nueva Orleans xi Chicago nguête-a Chicago handitho yoigui xi nai ngueca bima ohinyo-y Bufalo	Washington miqha mô̮ô̮di ygotitho ya ythô̮y	contradiction
+25729	oto	hum, hum, hum, hâ diphome ynqhûti ane na ȥáhxo	na ȥáhxo go ȥantemi on ynqhûti	contradiction
+25730	oto	hum, hum, hum, hâ diphome ynqhûti ane na ȥáhxo	nu nqhûti on poh go naxara nhetzi	neutral
+25731	oto	hum, hum, hum, hâ diphome ynqhûti ane na ȥáhxo	yâ godexgû guipho-mi nā nqhûti câxâ poh	entailment
+25732	oto	ay xca di handagā mi-ga, di ho-yga nu paitzāhi o ma nêccⴘ	di ho-yga nu paitzāhi	entailment
+25733	oto	ay xca di handagā mi-ga, di ho-yga nu paitzāhi o ma nêccⴘ	hin di ho-yga na toniȥe motzode guê ô̮te nune mexta	contradiction
+25734	oto	ay xca di handagā mi-ga, di ho-yga nu paitzāhi o ma nêccⴘ	di tzogaga conangueca maqhuaba nugua xi guê guenu di ho-yga	neutral
+25735	oto	Mmm diphoca nā mehtzi nai nxûtzi guê phodi ƌatamahiâto yȥana	diphoca ythzu mehtzi	contradiction
+25736	oto	Mmm diphoca nā mehtzi nai nxûtzi guê phodi ƌatamahiâto yȥana	diphoa nai ttîxû, nai nxûtzi on ƌatamahiâto yȥana	entailment
+25737	oto	Mmm diphoca nā mehtzi nai nxûtzi guê phodi ƌatamahiâto yȥana	dihohma phodi mithzⴘ ybâhtzi	neutral
+25738	oto	nu yondi guê phodi go n-a on ya ypexiyo on na camada xi nu hô̮nze mehyo guê bi ô̮tâhie demi nā hombeni on yȥⴘtzi	ngueca hin dimi phoca ypexiyo	contradiction
+25739	oto	nu yondi guê phodi go n-a on ya ypexiyo on na camada xi nu hô̮nze mehyo guê bi ô̮tâhie demi nā hombeni on yȥⴘtzi	nu mehyo hin dimi phoca nā hombeni on yȥⴘtzi, xi nu yondi pexiyo nima ona puô̮ttai	entailment
+25740	oto	nu yondi guê phodi go n-a on ya ypexiyo on na camada xi nu hô̮nze mehyo guê bi ô̮tâhie demi nā hombeni on yȥⴘtzi	miqha nā gotho on 8 ana camada, handitho nu mehyo dimi phoca yhombeni on yȥⴘtzi	neutral
+25741	oto	oh toyatho on nunu eccua nute guima	¿go nunu tzanu habⴘ thûhû?	entailment
+25742	oto	oh toyatho on nunu eccua nute guima	bi llamando tzanu mmá nqhoxa	neutral
+25743	oto	oh toyatho on nunu eccua nute guima	hin bi llamando tzanu nunⴘ	contradiction
+25744	oto	xonphoba-tho, hin dipaca, nguête-a hatobî hin din bi phodi guê hâtzi ngu-nho ȥáhxo on nhete, o imâ maqhûâni	hin di phⴘycaga ȥáhxo on nhete o nqhamatho	entailment
+25745	oto	xonphoba-tho, hin dipaca, nguête-a hatobî hin din bi phodi guê hâtzi ngu-nho ȥáhxo on nhete, o imâ maqhûâni	di ho-yga di nhetega mi-ga	neutral
+25746	oto	xonphoba-tho, hin dipaca, nguête-a hatobî hin din bi phodi guê hâtzi ngu-nho ȥáhxo on nhete, o imâ maqhûâni	di hoc on nhete gotitho nu ȥantho	contradiction
+25747	oto	¿ xcama o yHiohⴘnumⴘ ane Europa?	¿bi biȥapi nā Hiohⴘnumⴘ europeo?	entailment
+25748	oto	¿ xcama o yHiohⴘnumⴘ ane Europa?	¿bi biȥapi-y nā Hiohⴘnumⴘ ane Canada?	contradiction
+25749	oto	¿ xcama o yHiohⴘnumⴘ ane Europa?	bi nitâhâ o guê bi ho-y biȥapi Europa	neutral
+25750	oto	nunⴘ xa mi-ga ¿Guipadi guê Ȥâbeni on ni ngamixa xi nugā?	¿o ni nȥome di ho ni ngamixa?	entailment
+25751	oto	nunⴘ xa mi-ga ¿Guipadi guê Ȥâbeni on ni ngamixa xi nugā?	¿Te Ȥâbeni ni nqhû on ni xayo?	contradiction
+25752	oto	nunⴘ xa mi-ga ¿Guipadi guê Ȥâbeni on ni ngamixa xi nugā?	ni ngamixa go tze yte-ytzitza	neutral
+25753	oto	hm, nîn nindagueca aluminio forjado, handitho aluminio prensado	dimibⴘy ô̮te on n-a buô̮xi mithzⴘ himadi	entailment
+25754	oto	hm, nîn nindagueca aluminio forjado, handitho aluminio prensado	dimibⴘy ô̮te on cobre tomⴘ	contradiction
+25755	oto	hm, nîn nindagueca aluminio forjado, handitho aluminio prensado	goguémâyu fuentes tze endeble	neutral
+25756	oto	xi tobî bi picagā	Dimi nā chⴘ picagā	neutral
+25757	oto	xi tobî bi picagā	nugā dimi picagā	entailment
+25758	oto	xi tobî bi picagā	hin bi picagā	contradiction
+25759	oto	xi guaxguetho na youndi eminda guê xima da hêhti go Digue babi qhûti	nêccⴘ di handagā Digue go himadi qhan gueyu	entailment
+25760	oto	xi guaxguetho na youndi eminda guê xima da hêhti go Digue babi qhûti	hin di tumpheni guê eminda babi qhûti	contradiction
+25761	oto	xi guaxguetho na youndi eminda guê xima da hêhti go Digue babi qhûti	guê na dotho, hin di nzagui yûpi naxara	neutral
+25762	oto	ȥânho, hin ihabô̮ni, bentho guê hâ, guedi babi guê hin, di nemei, di nemei	hin didi maqhuaba, guedi ȥâha go nguna	entailment
+25763	oto	ȥânho, hin ihabô̮ni, bentho guê hâ, guedi babi guê hin, di nemei, di nemei	hin xtabibenga an gotitho guadi guê xta tzigā conangueca guiubixi manxûy	neutral
+25764	oto	ȥânho, hin ihabô̮ni, bentho guê hâ, guedi babi guê hin, di nemei, di nemei	ma yomⴘnbeni xa ô̮ngô̮ on nute bi nô̮cco qhana nxûy	contradiction
+25765	oto	nen ni aparato on TV xi nuqui, di eqqîây nā dintziti humbo-a nguê dipê na televisión din na dû	¿di eqqîây guê na dû babi cona nā dintziti nā chⴘ mêmⴘy nguê dipê?	neutral
+25766	oto	nen ni aparato on TV xi nuqui, di eqqîây nā dintziti humbo-a nguê dipê na televisión din na dû	nuinzu Ȥâbeni guê nu dintziti egue-e qhan nabo-â guê bi dipê nā televisor go na dû	entailment
+25767	oto	nen ni aparato on TV xi nuqui, di eqqîây nā dintziti humbo-a nguê dipê na televisión din na dû	di eqqîây guê na manho guephô̮he qhan nu ipê on televisión go hintumu y-tho datzogui pa	contradiction
+25768	oto	na nendehe gom maȥunda xi qhanu gom maqhuani ngⴘ-a nā tⴘhoi tze madipoho qhan biȥapi, toyatho qhanu go ƌaigu-tho n-a on yma ytⴘhoi xunecca, ¿xi nu goni?	maqhuani di ho-yga na nendehe nguête-a xa ttaxhô̮ xi mi-ga phoodi	neutral
+25769	oto	na nendehe gom maȥunda xi qhanu gom maqhuani ngⴘ-a nā tⴘhoi tze madipoho qhan biȥapi, toyatho qhanu go ƌaigu-tho n-a on yma ytⴘhoi xunecca, ¿xi nu goni?	n-a on yma ytⴘhoi xunecca qhan biȥapi go na nendehe , guadi guê go tze yte-ytzitza, ¿tengu go ini tⴘhoi xunecca qhan biȥapi?	entailment
+25770	oto	na nendehe gom maȥunda xi qhanu gom maqhuani ngⴘ-a nā tⴘhoi tze madipoho qhan biȥapi, toyatho qhanu go ƌaigu-tho n-a on yma ytⴘhoi xunecca, ¿xi nu goni?	anegā demenbô̮, xca manho din cogâtî anu ayomoȥá	contradiction
+25771	oto	di yamba nā mphanda on cola nunu mbo	hin di hmati qhoontho mphanda	contradiction
+25772	oto	di yamba nā mphanda on cola nunu mbo	qha nā mphanda on detzāqⴘy	neutral
+25773	oto	di yamba nā mphanda on cola nunu mbo	qha nā mphanda on Coca Cola nunⴘ	entailment
+25774	oto	mi-ga, ngu-a guê di tzoguiqui di nguahaqhi ngu-a guê di mbô̮ni guê ȥâha nā ȥanthoon ditêmi on qⴘda ypa qhan .mûtti a guê yqhana yxocu din yphoteqhu	¿di eqqîây guê, qhan ynai añô̮-y, di nimu-ui na ndûmⴘy têmî nguê nā ȥanthoon ditêmi on yô̮yonu on qⴘda ypa?	neutral
+25775	oto	mi-ga, ngu-a guê di tzoguiqui di nguahaqhi ngu-a guê di mbô̮ni guê ȥâha nā ȥanthoon ditêmi on qⴘda ypa qhan .mûtti a guê yqhana yxocu din yphoteqhu	¿Te qhaa on phodi nai yô̮yonu on qⴘda ypa ane nuyⴘ guê dimi hioni toi ymûtti on pânê?	entailment
+25776	oto	mi-ga, ngu-a guê di tzoguiqui di nguahaqhi ngu-a guê di mbô̮ni guê ȥâha nā ȥanthoon ditêmi on qⴘda ypa qhan .mûtti a guê yqhana yxocu din yphoteqhu	¿Te di goada guê têmi athina nho handitho qⴘda minutos mahemⴘ on umbi nā niyutho?	contradiction
+25777	oto	¡Vaya! Numⴘ dimi phoca nā Cocker Spaniel, gom nā tzathyo anu ndâhi ȥantemi xi di eqqîây guê bi didihoga mithzⴘ ¡vaya!	bi necca nā tzathyo danhiei on mbo guê n-a guê di ñemqu guê nee bⴘy nû ndâhi ȥantemi nguê gotitho nu mpa	contradiction
+25778	oto	¡Vaya! Numⴘ dimi phoca nā Cocker Spaniel, gom nā tzathyo anu ndâhi ȥantemi xi di eqqîây guê bi didihoga mithzⴘ ¡vaya!	di ho-yga thzu ygotitho ya ynihi on ytzathyo nû ndâhi ȥantemi, guadi guê ygotitho gomi ytzitapi yȥâ	neutral
+25779	oto	¡Vaya! Numⴘ dimi phoca nā Cocker Spaniel, gom nā tzathyo anu ndâhi ȥantemi xi di eqqîây guê bi didihoga mithzⴘ ¡vaya!	di eqqîây guê bi necca ytzathyo nû ndâhi ȥantemi tengu nu Cocker Spaniel guê demi	entailment
+25780	oto	ȥâha ane yoto ypa da bábi o nunutua yamamo antecedentes xi di nguaha on guê hin gogueque nā ex bumbêguê a guê hinxa phodi	nu nunutua ya antecedentes hin go ditaha ô̮te nho ntzaditho	neutral
+25781	oto	ȥâha ane yoto ypa da bábi o nunutua yamamo antecedentes xi di nguaha on guê hin gogueque nā ex bumbêguê a guê hinxa phodi	nu nunutua on antecedentes da hâtzi mithzⴘ on nā ȥana	contradiction
+25782	oto	ȥâha ane yoto ypa da bábi o nunutua yamamo antecedentes xi di nguaha on guê hin gogueque nā ex bumbêguê a guê hinxa phodi	ȥâha daô̮te nai nunutua on antecedentes nguê ya ymana yoto ypa	entailment
+25783	oto	Guipadi guê bi necca thzu mithzⴘ tô̮etze o nā avion xi tzô̮hô̮ nunⴘ xi di thogui mi-ga	xta goguehcagā mithzⴘ maqhuaba tzô̮hô̮ nunⴘ phahuatho	neutral
+25784	oto	Guipadi guê bi necca thzu mithzⴘ tô̮etze o nā avion xi tzô̮hô̮ nunⴘ xi di thogui mi-ga	didi coxhîa nguê cây an avión xi di thogui mi-ga nai ƌaigui di tzô̮hô̮me	entailment
+25785	oto	Guipadi guê bi necca thzu mithzⴘ tô̮etze o nā avion xi tzô̮hô̮ nunⴘ xi di thogui mi-ga	hinqhamⴘ da phahua	contradiction
+25786	oto	xqui pho ynoi yȥana, dimi phoca ƌato jurados ydô̮yo. Bentho guê mipâca guê thot-paya bima-bi ƌatamayoho n-yô̮hô̮ bi tzonu xi, gué imâ on nai meô̮ho, ythozpe	dimi bi mēcca nû mbô̮ni guê ya jurados thot-paya go bi nqhuantho on ƌatamayoho añô̮-y	entailment
+25787	oto	xqui pho ynoi yȥana, dimi phoca ƌato jurados ydô̮yo. Bentho guê mipâca guê thot-paya bima-bi ƌatamayoho n-yô̮hô̮ bi tzonu xi, gué imâ on nai meô̮ho, ythozpe	nu jurado gomi thot-paya 13 añô̮-y	contradiction
+25788	oto	xqui pho ynoi yȥana, dimi phoca ƌato jurados ydô̮yo. Bentho guê mipâca guê thot-paya bima-bi ƌatamayoho n-yô̮hô̮ bi tzonu xi, gué imâ on nai meô̮ho, ythozpe	ditaha qhadabeni o ygotitho yâ añô̮-y guê nee anu jurado	neutral
+25789	oto	ygotitho ya CEO on yâ yngunganpâdi financieras xi o yâ añô̮-y guê ybi di ho-y guenu, nguna guê ngueca dimi tze bi tupheni ane didiyeca nû tzⴘtzⴘ on nute dimi di nô̮ccotho nen yâ yngunganpâdi financieras	o ngueca hin bi tumpheni ane photeqhu-tho yâ cooperativas on crédito	contradiction
+25790	oto	ygotitho ya CEO on yâ yngunganpâdi financieras xi o yâ añô̮-y guê ybi di ho-y guenu, nguna guê ngueca dimi tze bi tupheni ane didiyeca nû tzⴘtzⴘ on nute dimi di nô̮ccotho nen yâ yngunganpâdi financieras	ngueca dimi bi tupheni ane yâ cooperativas on ahorro xi crédito	entailment
+25791	oto	ygotitho ya CEO on yâ yngunganpâdi financieras xi o yâ añô̮-y guê ybi di ho-y guenu, nguna guê ngueca dimi tze bi tupheni ane didiyeca nû tzⴘtzⴘ on nute dimi di nô̮ccotho nen yâ yngunganpâdi financieras	ngueca dimi bi tupheni ane pâdi mithzⴘ on tengu bi tâhâ tohpho yâ cooperativas on ahorro xi crédito	neutral
+25792	oto	di pâdi guê ygotitho mibⴘ thot-paya bi anabephi xi bi tzubeni, xi guê na yqha-y phodi tzⴘ yxuñiña xi hin go di hiumi xatî mithzⴘ o di ñama pâditho guê gotitho da puô̮ni mi-ga	hin di handagā mithzⴘ guê o añô̮-y guê go di hiumi xi din ȥopho on ynu yxuñiña	contradiction
+25793	oto	di pâdi guê ygotitho mibⴘ thot-paya bi anabephi xi bi tzubeni, xi guê na yqha-y phodi tzⴘ yxuñiña xi hin go di hiumi xatî mithzⴘ o di ñama pâditho guê gotitho da puô̮ni mi-ga	on ô̮tentho, handitho ynai yxuchⴘ añô̮-y da ñama on ynu yxuñiña hô̮nya	neutral
+25794	oto	di pâdi guê ygotitho mibⴘ thot-paya bi anabephi xi bi tzubeni, xi guê na yqha-y phodi tzⴘ yxuñiña xi hin go di hiumi xatî mithzⴘ o di ñama pâditho guê gotitho da puô̮ni mi-ga	na yqha-y hinqhamⴘ denta di hiumi xi ñama on ynu yxuñiña xi ytunimyⴘ	entailment
+25795	oto	Brian ane Plano, Texas, ¿Tex quihiatzi?	¿Texca ô̮t-atho Maria?	contradiction
+25796	oto	Brian ane Plano, Texas, ¿Tex quihiatzi?	¿Hânqha bi ni mpa?	entailment
+25797	oto	Brian ane Plano, Texas, ¿Tex quihiatzi?	Plano, Texas go nā tⴘhoi ohumhioh	neutral
+25798	oto	totatho, mmm, mi-ga, hin taxû handa-a guê nigúendi	nu nigúendi go gotitho digue di âqhu-a on nⴘa	entailment
+25799	oto	totatho, mmm, mi-ga, hin taxû handa-a guê nigúendi	go tomⴘ hînî xi hin di caxgui yxuñiña	contradiction
+25800	oto	totatho, mmm, mi-ga, hin taxû handa-a guê nigúendi	o ynai añô̮-y ybi ho-y nu nigúendi guê gom	neutral
+25801	oto	hâ, guenu go maqhuani ngⴘ-a nute xta ô̮tegā nuya, bi gacâxcâga nā Darkman, na xca bi handi uh hin na xca bi handi, di benbiniga guê na da handi naqhagua nxûy	guadi da handagā Darkman nguê goho yraigui	contradiction
+25802	oto	hâ, guenu go maqhuani ngⴘ-a nute xta ô̮tegā nuya, bi gacâxcâga nā Darkman, na xca bi handi uh hin na xca bi handi, di benbiniga guê na da handi naqhagua nxûy	tobî hin da handagā Darkman, toyatho bi qhadabeni handi naqhagua nxûy	entailment
+25803	oto	hâ, guenu go maqhuani ngⴘ-a nute xta ô̮tegā nuya, bi gacâxcâga nā Darkman, na xca bi handi uh hin na xca bi handi, di benbiniga guê na da handi naqhagua nxûy	bi maô̮de guê Darkman gom nai niȥatho película	neutral

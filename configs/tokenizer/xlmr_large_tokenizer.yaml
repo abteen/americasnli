@@ -1,0 +1,10 @@
+#Tokenizer Settings
+tokenizer_settings:
+  tokenizer_type: xlmr_tokenizer
+  init:
+    pretrained_model_name_or_path: xlm-roberta-large
+  tokenization:
+    max_length: 256
+    truncation: True
+    return_token_type_ids: False
+    return_tensors: pt

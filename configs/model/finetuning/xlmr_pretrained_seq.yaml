@@ -1,0 +1,5 @@
+model_settings:
+  model_type: pretrained_xlmr_seq_class
+  init:
+    pretrained_model_name_or_path: xlm-roberta-base
+    num_labels: 3

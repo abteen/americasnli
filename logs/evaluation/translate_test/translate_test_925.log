@@ -1,0 +1,206 @@
+2021-09-14 17:29:44,546 [INFO] Number of GPUs available: 1
+2021-09-14 17:29:53,070 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/zero_shot/zero_shot_es_925/final_model/
+2021-09-14 17:29:58,464 [INFO] Example 0 for aym lang: (' Sin embargo, no tiene que no tengo, pero no se siquiera en el soy, y no se soy con nosotros.', ' No hay nada.', 0)
+2021-09-14 17:29:58,464 [INFO] Example 1 for aym lang: (' Sin embargo, no tiene que no tengo, pero no se siquiera en el soy, y no se soy con nosotros.', ' ¿Estamos que me me me encantado adolé, me me me me me me me encantado.', 2)
+2021-09-14 17:29:58,464 [INFO] Example 2 for aym lang: (' Sin embargo, no tiene que no tengo, pero no se siquiera en el soy, y no se soy con nosotros.', ' Es un foocionado por qué lo que se ha tenido en su propio, lo que es una cantidad de su propio.', 1)
+2021-09-14 17:29:58,464 [INFO] Pred loop key: aym
+2021-09-14 17:29:58,465 [INFO] Number of examples: 750
+2021-09-14 17:29:58,465 [INFO] Data loaded from: data/translate_test/translate_test.test.tsv
+2021-09-14 17:29:58,465 [INFO] Pretokenizing...
+2021-09-14 17:29:58,660 [INFO] ----------------------------------
+2021-09-14 17:29:58,671 [INFO] Example 0 for aym lang: ('Jupax sanwa: Mamita, utankastwa.', 'Yatiñ utan awtux jaytawayki ukxpachaw mamaytapar jawsanxa.', 1)
+2021-09-14 17:29:58,671 [INFO] Example 1 for aym lang: ('Jupax sanwa: Mamita, utankastwa.', 'Jupax janiw mä ars arskänti', 0)
+2021-09-14 17:29:58,671 [INFO] Example 2 for aym lang: ('Jupax sanwa: Mamita, utankastwa.', 'Utar purinxtwa sasaw mamaparux sanxa', 2)
+2021-09-14 17:29:58,671 [INFO] Pred loop key: aym
+2021-09-14 17:29:58,671 [INFO] Number of examples: 743
+2021-09-14 17:29:58,671 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-14 17:29:58,672 [INFO] Pretokenizing...
+2021-09-14 17:29:58,875 [INFO] ----------------------------------
+2021-09-14 17:30:05,815 [INFO] Language: aym
+2021-09-14 17:30:05,819 [INFO] Test accuracy: 40.00
+2021-09-14 17:30:05,819 [INFO] Eval accuracy: 35.53
+2021-09-14 17:30:05,819 [INFO] ---------------------------------
+2021-09-14 17:30:05,829 [INFO] Example 0 for bzd lang: (' Yo no, yo no tengo tres gallinas.', ' Yo no tengo una casa.', 0)
+2021-09-14 17:30:05,829 [INFO] Example 1 for bzd lang: (' Yo no, yo no tengo tres gallinas.', ' Yo tengo mucho tiempo con el señor con él le dijo con él.', 2)
+2021-09-14 17:30:05,829 [INFO] Example 2 for bzd lang: (' Yo no, yo no tengo tres gallinas.', ' Nosotros trabajamos mucho.', 1)
+2021-09-14 17:30:05,829 [INFO] Pred loop key: bzd
+2021-09-14 17:30:05,829 [INFO] Number of examples: 750
+2021-09-14 17:30:05,829 [INFO] Data loaded from: data/translate_test/translate_test.test.tsv
+2021-09-14 17:30:05,829 [INFO] Pretokenizing...
+2021-09-14 17:30:06,042 [INFO] ----------------------------------
+2021-09-14 17:30:06,052 [INFO] Example 0 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "I ãmìx ichàke irir bét wèxs tabèchka shko ẽ' wóqulâwõ dör i méxãt.", 1)
+2021-09-14 17:30:06,052 [INFO] Example 1 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "Ie' kèq wã ujtè yèqnẽ ét.", 0)
+2021-09-14 17:30:06,052 [INFO] Example 2 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "I ãmìx ã iché irir tö ye' démĩnẽ ù ã.", 2)
+2021-09-14 17:30:06,052 [INFO] Pred loop key: bzd
+2021-09-14 17:30:06,052 [INFO] Number of examples: 743
+2021-09-14 17:30:06,052 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-14 17:30:06,052 [INFO] Pretokenizing...
+2021-09-14 17:30:06,291 [INFO] ----------------------------------
+2021-09-14 17:30:13,271 [INFO] Language: bzd
+2021-09-14 17:30:13,275 [INFO] Test accuracy: 40.27
+2021-09-14 17:30:13,275 [INFO] Eval accuracy: 37.28
+2021-09-14 17:30:13,275 [INFO] ---------------------------------
+2021-09-14 17:30:13,285 [INFO] Example 0 for cni lang: (' Esto es lo que no lo hago, esto, esto es lo que no lo que no lo hago, esto.', ' No vas a mi hijo.', 0)
+2021-09-14 17:30:13,286 [INFO] Example 1 for cni lang: (' Esto es lo que no lo hago, esto, esto es lo que no lo que no lo hago, esto.', ' Mi mamá me voy a mi mamá.', 2)
+2021-09-14 17:30:13,286 [INFO] Example 2 for cni lang: (' Esto es lo que no lo hago, esto, esto es lo que no lo que no lo hago, esto.', ' Voy a mi casa.', 1)
+2021-09-14 17:30:13,286 [INFO] Pred loop key: cni
+2021-09-14 17:30:13,286 [INFO] Number of examples: 750
+2021-09-14 17:30:13,286 [INFO] Data loaded from: data/translate_test/translate_test.test.tsv
+2021-09-14 17:30:13,286 [INFO] Pretokenizing...
+2021-09-14 17:30:13,473 [INFO] ----------------------------------
+2021-09-14 17:30:13,482 [INFO] Example 0 for cni lang: ('Iriori ikantiro: Ina, nosaiki pankotsiki.', 'Ikajemakero iriniro ojokantanakariri shiakomentotsi ayeetiriri obamerentsi.', 1)
+2021-09-14 17:30:13,482 [INFO] Example 1 for cni lang: ('Iriori ikantiro: Ina, nosaiki pankotsiki.', 'Iriori tekatsi ikantanake aparo ñaantsi.', 0)
+2021-09-14 17:30:13,482 [INFO] Example 2 for cni lang: ('Iriori ikantiro: Ina, nosaiki pankotsiki.', 'Ikantiro iriniro yaretaja pankotsiki.', 2)
+2021-09-14 17:30:13,482 [INFO] Pred loop key: cni
+2021-09-14 17:30:13,483 [INFO] Number of examples: 658
+2021-09-14 17:30:13,483 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-14 17:30:13,483 [INFO] Pretokenizing...
+2021-09-14 17:30:13,654 [INFO] ----------------------------------
+2021-09-14 17:30:20,221 [INFO] Language: cni
+2021-09-14 17:30:20,225 [INFO] Test accuracy: 35.20
+2021-09-14 17:30:20,225 [INFO] Eval accuracy: 36.02
+2021-09-14 17:30:20,225 [INFO] ---------------------------------
+2021-09-14 17:30:20,234 [INFO] Example 0 for gn lang: (' No obstante, ni sepensaba en ese sentido, por lo que empezó a empezar a empezar con él.', ' No quiso darse con él.', 0)
+2021-09-14 17:30:20,235 [INFO] Example 1 for gn lang: (' No obstante, ni sepensaba en ese sentido, por lo que empezó a empezar a empezar con él.', ' A mi hermoso empezó a empezar con él', 2)
+2021-09-14 17:30:20,235 [INFO] Example 2 for gn lang: (' No obstante, ni sepensaba en ese sentido, por lo que empezó a empezar a empezar con él.', ' Cabe recordar que nuestra voz.', 1)
+2021-09-14 17:30:20,235 [INFO] Pred loop key: gn
+2021-09-14 17:30:20,235 [INFO] Number of examples: 750
+2021-09-14 17:30:20,235 [INFO] Data loaded from: data/translate_test/translate_test.test.tsv
+2021-09-14 17:30:20,235 [INFO] Pretokenizing...
+2021-09-14 17:30:20,396 [INFO] ----------------------------------
+2021-09-14 17:30:20,405 [INFO] Example 0 for gn lang: ("Ha ha'e he'i: Mama, aime ógape.", "Ohenói isýpe oguejymíre mba'yrúgui.", 1)
+2021-09-14 17:30:20,406 [INFO] Example 1 for gn lang: ("Ha ha'e he'i: Mama, aime ógape.", "Ha'e nde'íri mba'evete.", 0)
+2021-09-14 17:30:20,406 [INFO] Example 2 for gn lang: ("Ha ha'e he'i: Mama, aime ógape.", "He'íkuri isýpe oĝuahêhague hógape.", 2)
+2021-09-14 17:30:20,406 [INFO] Pred loop key: gn
+2021-09-14 17:30:20,406 [INFO] Number of examples: 743
+2021-09-14 17:30:20,406 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-14 17:30:20,406 [INFO] Pretokenizing...
+2021-09-14 17:30:20,594 [INFO] ----------------------------------
+2021-09-14 17:30:27,560 [INFO] Language: gn
+2021-09-14 17:30:27,564 [INFO] Test accuracy: 44.80
+2021-09-14 17:30:27,564 [INFO] Eval accuracy: 37.95
+2021-09-14 17:30:27,564 [INFO] ---------------------------------
+2021-09-14 17:30:27,574 [INFO] Example 0 for hch lang: (' y en la cabeza.', ' que no sabía que él y lo más.', 0)
+2021-09-14 17:30:27,574 [INFO] Example 1 for hch lang: (' y en la cabeza.', ' y al árbol que no tenía un agua de él con ella.', 2)
+2021-09-14 17:30:27,574 [INFO] Example 2 for hch lang: (' y en la cabeza.', ' y de que no te dejarla de la cena.', 1)
+2021-09-14 17:30:27,574 [INFO] Pred loop key: hch
+2021-09-14 17:30:27,574 [INFO] Number of examples: 750
+2021-09-14 17:30:27,574 [INFO] Data loaded from: data/translate_test/translate_test.test.tsv
+2021-09-14 17:30:27,574 [INFO] Pretokenizing...
+2021-09-14 17:30:27,749 [INFO] ----------------------------------
+2021-09-14 17:30:27,757 [INFO] Example 0 for hch lang: ('metá mik+ petay+: ne mama kitá nepa yéka.', 'yu mama pe+h+awix+ xeimieme kamiuni mei ku eiri tsie.', 1)
+2021-09-14 17:30:27,757 [INFO] Example 1 for hch lang: ('metá mik+ petay+: ne mama kitá nepa yéka.', 'm+k+ atsi p+keta y+.', 0)
+2021-09-14 17:30:27,757 [INFO] Example 2 for hch lang: ('metá mik+ petay+: ne mama kitá nepa yéka.', 'yu mama m+pa+ p+ra h+awe kai kename yu kitá he nuakai.', 2)
+2021-09-14 17:30:27,757 [INFO] Pred loop key: hch
+2021-09-14 17:30:27,757 [INFO] Number of examples: 743
+2021-09-14 17:30:27,757 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-14 17:30:27,758 [INFO] Pretokenizing...
+2021-09-14 17:30:27,952 [INFO] ----------------------------------
+2021-09-14 17:30:34,952 [INFO] Language: hch
+2021-09-14 17:30:34,955 [INFO] Test accuracy: 38.13
+2021-09-14 17:30:34,956 [INFO] Eval accuracy: 35.80
+2021-09-14 17:30:34,956 [INFO] ---------------------------------
+2021-09-14 17:30:34,966 [INFO] Example 0 for nah lang: (' Creo que no estoy esperando a la gente que yo me dirijo a la gente que vivía en la región de los pueblos .', ' Ya he venido a escuchar', 0)
+2021-09-14 17:30:34,966 [INFO] Example 1 for nah lang: (' Creo que no estoy esperando a la gente que yo me dirijo a la gente que vivía en la región de los pueblos .', ' Voy a pasarme que he venido a mi casa', 2)
+2021-09-14 17:30:34,966 [INFO] Example 2 for nah lang: (' Creo que no estoy esperando a la gente que yo me dirijo a la gente que vivía en la región de los pueblos .', ' Éstos son buenas palabras que lo hicimos', 1)
+2021-09-14 17:30:34,966 [INFO] Pred loop key: nah
+2021-09-14 17:30:34,966 [INFO] Number of examples: 738
+2021-09-14 17:30:34,966 [INFO] Data loaded from: data/translate_test/translate_test.test.tsv
+2021-09-14 17:30:34,967 [INFO] Pretokenizing...
+2021-09-14 17:30:35,134 [INFO] ----------------------------------
+2021-09-14 17:30:35,142 [INFO] Example 0 for nah lang: ('huan yehhua quiihtoh: Nonantzin, niyetoc nochan', 'quinotzac inantizn niman cuac quicahuac in tepozcalnehnemiloni', 1)
+2021-09-14 17:30:35,142 [INFO] Example 1 for nah lang: ('huan yehhua quiihtoh: Nonantzin, niyetoc nochan', 'yehhua amo quiihtoh ce tlahtolli', 0)
+2021-09-14 17:30:35,142 [INFO] Example 2 for nah lang: ('huan yehhua quiihtoh: Nonantzin, niyetoc nochan', 'quiilih inantzin niehcoquia', 2)
+2021-09-14 17:30:35,143 [INFO] Pred loop key: nah
+2021-09-14 17:30:35,143 [INFO] Number of examples: 585
+2021-09-14 17:30:35,143 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-14 17:30:35,143 [INFO] Pretokenizing...
+2021-09-14 17:30:35,293 [INFO] ----------------------------------
+2021-09-14 17:30:41,493 [INFO] Language: nah
+2021-09-14 17:30:41,496 [INFO] Test accuracy: 41.46
+2021-09-14 17:30:41,496 [INFO] Eval accuracy: 36.24
+2021-09-14 17:30:41,496 [INFO] ---------------------------------
+2021-09-14 17:30:41,506 [INFO] Example 0 for oto lang: (' Y cuando lo que había había ido a un lado y se había había había había un lado y otro otro , y otro otro otro otro otro otro otro otro otro otro otro .', ' No más más más más más más más', 0)
+2021-09-14 17:30:41,506 [INFO] Example 1 for oto lang: (' Y cuando lo que había había ido a un lado y se había había había había un lado y otro otro , y otro otro otro otro otro otro otro otro otro otro otro .', ' y lo que se ha visto visto , y dos dos dos dos dos dos dos dos dos dos dos dos ,', 2)
+2021-09-14 17:30:41,506 [INFO] Example 2 for oto lang: (' Y cuando lo que había había ido a un lado y se había había había había un lado y otro otro , y otro otro otro otro otro otro otro otro otro otro otro .', ' Me iba a un niño', 1)
+2021-09-14 17:30:41,506 [INFO] Pred loop key: oto
+2021-09-14 17:30:41,506 [INFO] Number of examples: 748
+2021-09-14 17:30:41,506 [INFO] Data loaded from: data/translate_test/translate_test.test.tsv
+2021-09-14 17:30:41,507 [INFO] Pretokenizing...
+2021-09-14 17:30:41,746 [INFO] ----------------------------------
+2021-09-14 17:30:41,754 [INFO] Example 0 for oto lang: ('xi nⴘdi biênâ: maMe dimi an ngû', 'bi matti o ini maMe zaditho-nho tengu nⴘa nᶎarutîhî bi tzogui', 1)
+2021-09-14 17:30:41,754 [INFO] Example 1 for oto lang: ('xi nⴘdi biênâ: maMe dimi an ngû', 'nⴘdi hin biênâ nā hia', 0)
+2021-09-14 17:30:41,754 [INFO] Example 2 for oto lang: ('xi nⴘdi biênâ: maMe dimi an ngû', 'bimâbi o ini maMe guê o ngû', 2)
+2021-09-14 17:30:41,754 [INFO] Pred loop key: oto
+2021-09-14 17:30:41,754 [INFO] Number of examples: 222
+2021-09-14 17:30:41,755 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-14 17:30:41,755 [INFO] Pretokenizing...
+2021-09-14 17:30:41,806 [INFO] ----------------------------------
+2021-09-14 17:30:46,401 [INFO] Language: oto
+2021-09-14 17:30:46,404 [INFO] Test accuracy: 35.96
+2021-09-14 17:30:46,404 [INFO] Eval accuracy: 38.29
+2021-09-14 17:30:46,404 [INFO] ---------------------------------
+2021-09-14 17:30:46,414 [INFO] Example 0 for quy lang: (' Es cierto que no estaba allí, pero me sentí muy bien, así que volví a volver a hablar con él.', ' No volví a hablar con él.', 0)
+2021-09-14 17:30:46,414 [INFO] Example 1 for quy lang: (' Es cierto que no estaba allí, pero me sentí muy bien, así que volví a volver a hablar con él.', ' Me enojé mucho, así que volví a hablar con él.', 2)
+2021-09-14 17:30:46,414 [INFO] Example 2 for quy lang: (' Es cierto que no estaba allí, pero me sentí muy bien, así que volví a volver a hablar con él.', ' Habíamos hablado bien.', 1)
+2021-09-14 17:30:46,415 [INFO] Pred loop key: quy
+2021-09-14 17:30:46,415 [INFO] Number of examples: 750
+2021-09-14 17:30:46,415 [INFO] Data loaded from: data/translate_test/translate_test.test.tsv
+2021-09-14 17:30:46,415 [INFO] Pretokenizing...
+2021-09-14 17:30:46,579 [INFO] ----------------------------------
+2021-09-14 17:30:46,587 [INFO] Example 0 for quy lang: ('Hinaptinmi pay nirqa: Mamay wasipim kachkani.', 'Mamanta qayamurqa iskuyla karru saqiykuchkaptin.', 1)
+2021-09-14 17:30:46,587 [INFO] Example 1 for quy lang: ('Hinaptinmi pay nirqa: Mamay wasipim kachkani.', 'Payqa manam imatapas nirqachu', 0)
+2021-09-14 17:30:46,588 [INFO] Example 2 for quy lang: ('Hinaptinmi pay nirqa: Mamay wasipim kachkani.', 'Wasinman chayasqanmanta mananta willarqa.', 2)
+2021-09-14 17:30:46,588 [INFO] Pred loop key: quy
+2021-09-14 17:30:46,588 [INFO] Number of examples: 743
+2021-09-14 17:30:46,588 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-14 17:30:46,588 [INFO] Pretokenizing...
+2021-09-14 17:30:46,773 [INFO] ----------------------------------
+2021-09-14 17:30:53,783 [INFO] Language: quy
+2021-09-14 17:30:53,787 [INFO] Test accuracy: 51.73
+2021-09-14 17:30:53,787 [INFO] Eval accuracy: 37.82
+2021-09-14 17:30:53,787 [INFO] ---------------------------------
+2021-09-14 17:30:53,796 [INFO] Example 0 for shp lang: (' Quería que habérdamente no habíamos que habérralos con un buen pescador.', ' Me estas hablando de hablar.', 0)
+2021-09-14 17:30:53,796 [INFO] Example 1 for shp lang: (' Quería que habérdamente no habíamos que habérralos con un buen pescador.', ' Había que esta mujer me dijo que estaba hablando.', 2)
+2021-09-14 17:30:53,796 [INFO] Example 2 for shp lang: (' Quería que habérdamente no habíamos que habérralos con un buen pescador.', ' Hable demasiado.', 1)
+2021-09-14 17:30:53,796 [INFO] Pred loop key: shp
+2021-09-14 17:30:53,796 [INFO] Number of examples: 750
+2021-09-14 17:30:53,797 [INFO] Data loaded from: data/translate_test/translate_test.test.tsv
+2021-09-14 17:30:53,797 [INFO] Pretokenizing...
+2021-09-14 17:30:53,959 [INFO] ----------------------------------
+2021-09-14 17:30:53,968 [INFO] Example 0 for shp lang: ('Jara neskata iki: tita, xobonkoriki ea.', 'Karomeax pekekaixonbires jawen tita kena iki.', 1)
+2021-09-14 17:30:53,968 [INFO] Example 1 for shp lang: ('Jara neskata iki: tita, xobonkoriki ea.', 'Jawebi yoyoiamaiki.', 0)
+2021-09-14 17:30:53,968 [INFO] Example 2 for shp lang: ('Jara neskata iki: tita, xobonkoriki ea.', 'Jawen tita yoiaia iki moa xobon nokota.', 2)
+2021-09-14 17:30:53,969 [INFO] Pred loop key: shp
+2021-09-14 17:30:53,969 [INFO] Number of examples: 743
+2021-09-14 17:30:53,969 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-14 17:30:53,969 [INFO] Pretokenizing...
+2021-09-14 17:30:54,152 [INFO] ----------------------------------
+2021-09-14 17:31:01,167 [INFO] Language: shp
+2021-09-14 17:31:01,171 [INFO] Test accuracy: 40.00
+2021-09-14 17:31:01,171 [INFO] Eval accuracy: 36.20
+2021-09-14 17:31:01,171 [INFO] ---------------------------------
+2021-09-14 17:31:01,181 [INFO] Example 0 for tar lang: (' es que la cobija de un poco me gusta mucho ; y yo me siento muy contento', ' yo me voy a buscar allá por la otra banda', 0)
+2021-09-14 17:31:01,181 [INFO] Example 1 for tar lang: (' es que la cobija de un poco me gusta mucho ; y yo me siento muy contento', ' yo me voy a darmemememememe un poco de dormir , y yo me siento yo', 2)
+2021-09-14 17:31:01,181 [INFO] Example 2 for tar lang: (' es que la cobija de un poco me gusta mucho ; y yo me siento muy contento', ' nosotros nos vamos a poner el camino ( LIT . nos fuimos a nosotros )', 1)
+2021-09-14 17:31:01,181 [INFO] Pred loop key: tar
+2021-09-14 17:31:01,182 [INFO] Number of examples: 750
+2021-09-14 17:31:01,182 [INFO] Data loaded from: data/translate_test/translate_test.test.tsv
+2021-09-14 17:31:01,182 [INFO] Pretokenizing...
+2021-09-14 17:31:01,357 [INFO] ----------------------------------
+2021-09-14 17:31:01,369 [INFO] Example 0 for tar lang: ('A’lí je aníli échiko: ku bitichí ne atíki Nana', 'Jiyáwiti bayéli kipu iyé, mapu a’lí ke séali kamíoni aseyá.', 1)
+2021-09-14 17:31:01,369 [INFO] Example 1 for tar lang: ('A’lí je aníli échiko: ku bitichí ne atíki Nana', 'Ke ne’óli binóiko', 0)
+2021-09-14 17:31:01,369 [INFO] Example 2 for tar lang: ('A’lí je aníli échiko: ku bitichí ne atíki Nana', 'Iyéla ku ruyéli, mapu bitichí ku nawáli.', 2)
+2021-09-14 17:31:01,369 [INFO] Pred loop key: tar
+2021-09-14 17:31:01,369 [INFO] Number of examples: 743
+2021-09-14 17:31:01,369 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-14 17:31:01,370 [INFO] Pretokenizing...
+2021-09-14 17:31:01,634 [INFO] ----------------------------------
+2021-09-14 17:31:08,664 [INFO] Language: tar
+2021-09-14 17:31:08,669 [INFO] Test accuracy: 34.67
+2021-09-14 17:31:08,669 [INFO] Eval accuracy: 34.59
+2021-09-14 17:31:08,669 [INFO] ---------------------------------
+2021-09-14 17:31:08,669 [INFO] All scores:
+2021-09-14 17:31:08,669 [INFO] Test: 40.00,40.27,35.20,44.80,38.13,41.46,35.96,51.73,40.00,34.67
+2021-09-14 17:31:08,669 [INFO] Eval: 35.53,37.28,36.02,37.95,35.80,36.24,38.29,37.82,36.20,34.59
+2021-09-14 17:31:08,669 [INFO] Done

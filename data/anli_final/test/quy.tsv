@@ -1,0 +1,751 @@
+id	language	premise	hypothesis	label
+25051	quy	Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.	Manam paywanqa kaqllamantaqa rimarqanichu.	contradiction
+25052	quy	Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.	Paqway piñasqam karqani chayraykum kaqllamanta paywan rimarqani.	entailment
+25053	quy	Allinmi, manam chaypiqa hamutachkarqanichu, ichaqa manam allinchu tarikurqani chaymi kaqllamanta paywan rimarqani.	Allintam rimarurqaniku.	neutral
+25054	quy	Chaymanta hamutarqani ancha waqaychasqa kapuwasqanta, chaynaraqmi kachkan, chaynaraqmi kachkan, ñuqallam karqani 922 Ex-O nisqan chay AFFC Fuerza Area nisqanpi.	Manam yacharqanichu ñuqa mana sapallay chay pampapi chay punchaw kasqayta.	neutral
+25055	quy	Chaymanta hamutarqani ancha waqaychasqa kapuwasqanta, chaynaraqmi kachkan, chaynaraqmi kachkan, ñuqallam karqani 922 Ex-O nisqan chay AFFC Fuerza Area nisqanpi.	Ñuqaqa musyarqani sapallay kay pampapi chay AFFC Air Force Career yupayuq kasqayta.	entailment
+25056	quy	Chaymanta hamutarqani ancha waqaychasqa kapuwasqanta, chaynaraqmi kachkan, chaynaraqmi kachkan, ñuqallam karqani 922 Ex-O nisqan chay AFFC Fuerza Area nisqanpi.	Llapallaykumanmi hina kaq yupallata quwarqaku, manam imapas qukunchu chay promesakuna quwananku kasqanpas, llapa yanqa rimaymi kasqa.	contradiction
+25057	quy	Niwarqa, chay… huk runas qayamuwanan kasqa tinkunaykupaq.	Manam qaykaqpipas pi riqsinaypaq willawarqachu.	contradiction
+25058	quy	Niwarqa, chay… huk runas qayamuwanan kasqa tinkunaykupaq.	Ñuqatam niwarqa huk runatas qayanman riqsiwananpaq.	entailment
+25059	quy	Niwarqa, chay… huk runas qayamuwanan kasqa tinkunaykupaq.	Chay runaqa ancha chisyaykuytañam rikurirqamurqa.	neutral
+25060	quy	Ancha achkam chaymanta willakunay, aswanqa pawarqusaqña chayta.	¡Chaymanta llapachantam willayta munayki!	contradiction
+25061	quy	Ancha achkam chaymanta willakunay, aswanqa pawarqusaqña chayta.	Manam chaymanta rimasaqchu, ancha achka chaymanta rimay kaptinpas.	entailment
+25062	quy	Ancha achkam chaymanta willakunay, aswanqa pawarqusaqña chayta.	Manam llaqtapa ñawpa imayna qispisqanmanta rimasaqchu, paqway achka willakuy kasqanrayku.	neutral
+25063	quy	Chay paqway waqaychasqatam salvayta munarqaniku, manam imayna bomba hidrógena nisqan wichichinaykupaq karqachu yaqapas 30manta, chay C124 nisqanta.	Manam imapas hukuwarqakuchu mana imapas churay.	contradiction
+25064	quy	Chay paqway waqaychasqatam salvayta munarqaniku, manam imayna bomba hidrógena nisqan wichichinaykupaq karqachu yaqapas 30manta, chay C124 nisqanta.	Chay cosatam aswanta salvayta munarqaniku imapas wakinmanta.	entailment
+25065	quy	Chay paqway waqaychasqatam salvayta munarqaniku, manam imayna bomba hidrógena nisqan wichichinaykupaq karqachu yaqapas 30manta, chay C124 nisqanta.	Chay bomba-H nisqantam salvayta munarqaniku ancha sasa rurachiy kasqanrayku.	neutral
+25066	quy	Chaynaqa manam allinta yachanichu imaynanpi chayna kasqanta.	Chiqaptam yachachkani imaynanpi chayna kasqanta.	contradiction
+25067	quy	Chaynaqa manam allinta yachanichu imaynanpi chayna kasqanta.	Imaynanpich pay yachaywasikunata aparqachirqa.	neutral
+25068	quy	Chaynaqa manam allinta yachanichu imaynanpi chayna kasqanta.	Imaynanpich chay apakurqa.	entailment
+25069	quy	Kaymi Fannie Flono. Ag--Augusta, GA, nisqanpim wiñarqa, taksaraq kasqan willakuykunamanta rimanqa.	Fannie Flono huk punchawñam willakunqa, chayman hinam kunan willakuyninkunata para kunanqa willawasunchu.	contradiction
+25070	quy	Kaymi Fannie Flono. Ag--Augusta, GA, nisqanpim wiñarqa, taksaraq kasqan willakuykunamanta rimanqa.	Fannie Flono kaypim tarikun, Augusta, GA nisqanpi wiñasqanmantam imapas willakuykunata willawasun.	entailment
+25071	quy	Kaymi Fannie Flono. Ag--Augusta, GA, nisqanpim wiñarqa, taksaraq kasqan willakuykunamanta rimanqa.	Fannie Flono kayqaya kunan willaruwanchik ancha achka ruwayninkuna kaptinpas.	neutral
+25072	quy	Chaynallataq pichqa U2 nisqan destacamentuta wischurqusqa.	Rimarqanim U2 nisqanwan.	entailment
+25073	quy	Chaynallataq pichqa U2 nisqan destacamentuta wischurqusqa.	Mana punim U2 nisqanwanqa atipanakurqanichu.	contradiction
+25074	quy	Chaynallataq pichqa U2 nisqan destacamentuta wischurqusqa.	Destacamentokunawanmi U2 nisqanpaq sapa punchaw tawa chunka wata llamkarqani.	neutral
+25075	quy	Ñuqallam qaykaqpipas llamkachiq karqani taqyachiqkunata chay cámaras de altitud en miniatura nisqanpi prueba ruwanapaq.	Manam ñuqata gustawarqachu sapallay chay prueba ruwanapaq takyachiqkuna llamkachiy.	neutral
+25076	quy	Ñuqallam qaykaqpipas llamkachiq karqani taqyachiqkunata chay cámaras de altitud en miniatura nisqanpi prueba ruwanapaq.	Chay pruebakunam ruwakurqa chay cámaras de altitud en miniatura nisqanpi.	entailment
+25077	quy	Ñuqallam qaykaqpipas llamkachiq karqani taqyachiqkunata chay cámaras de altitud en miniatura nisqanpi prueba ruwanapaq.	Hukniykum umallirqaniku chay pruebapaq takyachiqkunata.	contradiction
+25078	quy	Ñuqam kani, kay, umalliq yachachiq sargento, samakuqña, Rick nisqanpi hina.	Llamkachkaniraqmi chay punchawpaq.	contradiction
+25079	quy	Ñuqam kani, kay, umalliq yachachiq sargento, samakuqña, Rick nisqanpi hina.	2002 watatam lluqsikurqani.	neutral
+25080	quy	Ñuqam kani, kay, umalliq yachachiq sargento, samakuqña, Rick nisqanpi hina.	Rickmi nisurqanki ña llamkaymanta lluqsikusqayta.	entailment
+25081	quy	Flujo de caja nisqan imayna kanan yachay kachkanmi chaynallataq, uh, yaw, chay pipas maypas Cuttypaq, kaymi sutin rantiy munaqpa.	Cutty nisqan rantiy munaqmi 10000 dolarta sapa killa chaskin.	neutral
+25082	quy	Flujo de caja nisqan imayna kanan yachay kachkanmi chaynallataq, uh, yaw, chay pipas maypas Cuttypaq, kaymi sutin rantiy munaqpa.	Cutty sutiyuq rantiy munaqmi kachkan.	entailment
+25083	quy	Flujo de caja nisqan imayna kanan yachay kachkanmi chaynallataq, uh, yaw, chay pipas maypas Cuttypaq, kaymi sutin rantiy munaqpa.	Manam kapuwanchikchu Cutty sutiyuq rantiy munaqninchikqa.	contradiction
+25084	quy	Yanapawaqniy atiq sispasmi hatun llaqtapa waklawninpiraq tiyan.	Chay sipaspa yanapakuynin munasqaymi karupiraq tiyan.	entailment
+25085	quy	Yanapawaqniy atiq sispasmi hatun llaqtapa waklawninpiraq tiyan.	Yanapawaqniy warmi warman 5 millas nisqan karupiraq tiyan.	neutral
+25086	quy	Yanapawaqniy atiq sispasmi hatun llaqtapa waklawninpiraq tiyan.	Manam pipas kanchu yanapawaqniy.	contradiction
+25087	quy	Ichaqa paykunaqa rakinanakusqam kachkarqaku chay pikunam pampapi makikuna chaynallataq pikunam wasipi warmakuna, kayna hinam karqa…	Llapallankum acuerdopi karqaku chay pampapi llamkanankupaq.	contradiction
+25088	quy	Ichaqa paykunaqa rakinanakusqam kachkarqaku chay pikunam pampapi makikuna chaynallataq pikunam wasipi warmakuna, kayna hinam karqa…	Manam acuerdoman yaykuyta atirqakuchu chay pim pampapi maki kananpaq chaynallataq pim wasipi kananpaq.	entailment
+25089	quy	Ichaqa paykunaqa rakinanakusqam kachkarqaku chay pikunam pampapi makikuna chaynallataq pikunam wasipi warmakuna, kayna hinam karqa…	Manam acuerdopi kayta atirqakuchu chay pim algodón chakrapi llamkanqa chaynallataq pim wasipa pampanta aywinqa.	neutral
+25090	quy	Kunanmi chay Tercera SS, U2 Quick chaynallataq Blackbird nisqankunamanta rimariwasun.	Paymi manaña rimayta munanchu.	contradiction
+25091	quy	Kunanmi chay Tercera SS, U2 Quick chaynallataq Blackbird nisqankunamanta rimariwasun.	Paymi kimsa hukniraq submarinokunamanta rimaqiwasun.	neutral
+25092	quy	Kunanmi chay Tercera SS, U2 Quick chaynallataq Blackbird nisqankunamanta rimariwasun.	Paymi kimsa imakunamantapas riman.	entailment
+25093	quy	Ñuqam niyta munani paykunapa nalla kasqanta, kayna hina, pichqa wawakuna. Hunkinmi wañulurqa.	Llapallan wawankunam kawsarirurqaku.	contradiction
+25094	quy	Ñuqam niyta munani paykunapa nalla kasqanta, kayna hina, pichqa wawakuna. Hunkinmi wañulurqa.	Pichqa kaqmanta hunkin wawam wañururqa.	entailment
+25095	quy	Ñuqam niyta munani paykunapa nalla kasqanta, kayna hina, pichqa wawakuna. Hunkinmi wañulurqa.	Chay wañukuq warmam unquyniyuq paqarisqa.	neutral
+25096	quy	Chaynallataq, chayna punim, Androv Gromikov mana ima tapuytapas kutichirqachu, ichaqa llamapallan yachaykunam chay U2pa pelicula ruwasqanmanta kapuwarqaku.	Chay U2 nisqanmi achka peliculakunata hapirqaku.	entailment
+25097	quy	Chaynallataq, chayna punim, Androv Gromikov mana ima tapuytapas kutichirqachu, ichaqa llamapallan yachaykunam chay U2pa pelicula ruwasqanmanta kapuwarqaku.	Chay U2 nisqanmi huk waranqa peliculakunata yaku ukumanta huqarirqaku.	neutral
+25098	quy	Chaynallataq, chayna punim, Androv Gromikov mana ima tapuytapas kutichirqachu, ichaqa llamapallan yachaykunam chay U2pa pelicula ruwasqanmanta kapuwarqaku.	Manam archivo nisqa llamkay kapuwarqakuchu, chayraykum tantiyarqaniku.	contradiction
+25099	quy	Ñawimantas wiqi sutusqa nirqam, chaymantañataq nirqa chay Joes risqa wasipa qipankama.	Wasipa qipanman qispinanpaq niptinmi, ñawinkunapi wiqi kachkasqa.	entailment
+25100	quy	Ñawimantas wiqi sutusqa nirqam, chaymantañataq nirqa chay Joes risqa wasipa qipankama.	Payqa utqaymanmi wiqinta pichakururqa Joeta wasi qipamanta wischurquspan.	contradiction
+25101	quy	Ñawimantas wiqi sutusqa nirqam, chaymantañataq nirqa chay Joes risqa wasipa qipankama.	Paqway kusikuywan Joeta rikuspanmi waqayta qallaykurqa.	neutral
+25102	quy	Chay aeronave ratachkaptinpas, ¿imaynanpitaq kañakunman chaynallataq chullunman chay plomowan radiación mana yaykunanpaq componenteyuq kachkaspa?	Radiación nisqantaqa paqway nina rataypipas harkayqa atikunmanmi.	neutral
+25103	quy	Chay aeronave ratachkaptinpas, ¿imaynanpitaq kañakunman chaynallataq chullunman chay plomowan radiación mana yaykunanpaq componenteyuq kachkaspa?	Chay radiación nisqanmi chay hatun componentemanta suturunman avion kañakurquptin.	entailment
+25104	quy	Chay aeronave ratachkaptinpas, ¿imaynanpitaq kañakunman chaynallataq chullunman chay plomowan radiación mana yaykunanpaq componenteyuq kachkaspa?	Chay radiación nisqanqa manam sutunmanchu hatun ninawan kañaypiqa.	contradiction
+25105	quy	Kaymi kamachiq yachachiq sargento Clem Francis, paymi Estados Unidospa fuerzas aéreas nisqanmanta lluqsirqa.	Chay kamachikuqmi Estados Unidospa Fuerza Áerea nisqanmanta lluqsirqa.	entailment
+25106	quy	Kaymi kamachiq yachachiq sargento Clem Francis, paymi Estados Unidospa fuerzas aéreas nisqanmanta lluqsirqa.	Chay kamachikuqmi chayllaraq iskay semana ima lluqsikurqa.	neutral
+25107	quy	Kaymi kamachiq yachachiq sargento Clem Francis, paymi Estados Unidospa fuerzas aéreas nisqanmanta lluqsirqa.	Estados Unidospa Fuerza Aereanpa kamachikuqninmi kay semanata qallaykun llamkayninta.	contradiction
+25108	quy	Chaynam riki, chayarqamun punim yaqapas iskay utaq kimsa aeronavekuna huk semanapi chayamunankama hinallataq mana yacharqanichu mayman pawasqanta.	Manam huk avionllachu chayamun sapa semana.	entailment
+25109	quy	Chaynam riki, chayarqamun punim yaqapas iskay utaq kimsa aeronavekuna huk semanapi chayamunankama hinallataq mana yacharqanichu mayman pawasqanta.	Avionkunapa pawaynin miraymi ancha sasachakuyña.	neutral
+25110	quy	Chaynam riki, chayarqamun punim yaqapas iskay utaq kimsa aeronavekuna huk semanapi chayamunankama hinallataq mana yacharqanichu mayman pawasqanta.	Mana punim chayamunchu chulla avionpas.	contradiction
+25111	quy	Paykunaqa ñam presurizado nisqan pachawan yachachisqaña karqaku chaynallataq unaytam sasata presurizado pachata ustukurqani.	Kimsa killapim tukunku presión nisqa pachawan hinakuy yachayta.	neutral
+25112	quy	Paykunaqa ñam presurizado nisqan pachawan yachachisqaña karqaku chaynallataq unaytam sasata presurizado pachata ustukurqani.	Presión nisqa pachawan hinakuy yachayqa unarinmi.	entailment
+25113	quy	Paykunaqa ñam presurizado nisqan pachawan yachachisqaña karqaku chaynallataq unaytam sasata presurizado pachata ustukurqani.	Yachachiykikuman karqa presión pachawan punchaw tukuqta hinakuy yachanaykipaq.	contradiction
+25114	quy	Niytaqa munani manam imapas manchakuy kanchu chay bombawan yaykuyqa, manam tuqyanmanchu, mayna kallpawan allpaman wichiykuspanpas.	Bombataqa amacharqusqa pilotom.	neutral
+25115	quy	Niytaqa munani manam imapas manchakuy kanchu chay bombawan yaykuyqa, manam tuqyanmanchu, mayna kallpawan allpaman wichiykuspanpas.	Bombaqa manam imaynatapas tuqyanmanchu.	entailment
+25116	quy	Niytaqa munani manam imapas manchakuy kanchu chay bombawan yaykuyqa, manam tuqyanmanchu, mayna kallpawan allpaman wichiykuspanpas.	Ancha manchakuymi karqa bomba tuqyarqunanmanta.	contradiction
+25117	quy	Ichaya rikukun ñuqapa ruway atipasqay hinapas.	Manam sumaqtachu yachani chay rikupakusqaykita.	contradiction
+25118	quy	Ichaya rikukun ñuqapa ruway atipasqay hinapas.	Chaynamiki, chaytaqa ruwaykuchkanim.	entailment
+25119	quy	Ichaya rikukun ñuqapa ruway atipasqay hinapas.	Tukuypaqmi kachkani llamkayniyta hamuq semanata.	neutral
+25120	quy	Chayna hinam, uywakunaqa chinkarqunmanmi tukuy pacha, aswantaqa cabrakuna.	Cabrakunaqa kanchanmanta sapa punchawmi ayqikuqku.	neutral
+25121	quy	Chayna hinam, uywakunaqa chinkarqunmanmi tukuy pacha, aswantaqa cabrakuna.	Cabrakunaqa sapa kutim ayqirqurqaku.	entailment
+25122	quy	Chayna hinam, uywakunaqa chinkarqunmanmi tukuy pacha, aswantaqa cabrakuna.	Cabrakunaqa ancha qarkasqam karqaku chaynallataq waqayuchasqa.	contradiction
+25123	quy	Yaykuykuptiykuqa punkukunaqa wichqasqam kachkarqa.	Llapallan punkukunam kichasqa kachkarqa.	contradiction
+25124	quy	Yaykuykuptiykuqa punkukunaqa wichqasqam kachkarqa.	Ñuqaykuwanmi llaveqa karqa.	neutral
+25125	quy	Yaykuykuptiykuqa punkukunaqa wichqasqam kachkarqa.	Punku wichqasqa kachkaptinpas yaykurqanikum.	entailment
+25126	quy	Chaynapim llapanta quqarinan karqa chaynallataq mallispa hinaspa allichacharunanrayku.	Llapan kasqantaqa sumaqtam yachachkani chaywanqa kayta allintam allicharusaq.	neutral
+25127	quy	Chaynapim llapanta quqarinan karqa chaynallataq mallispa hinaspa allichacharunanrayku.	Manam ancha imayna kay llapanwan ima rurayta, ama hina kaspayki aswanta imayna kasqanta yachaykachimuway kayta tukurunaypaq.	contradiction
+25128	quy	Chaynapim llapanta quqarinan karqa chaynallataq mallispa hinaspa allichacharunanrayku.	Llapanta qawarispachiki qurqusaq.	entailment
+25129	quy	Payqa hamurqa, punkuta kicharqa hinataqmi yuyani qipa qawasqayta chaynallataq uyay imayna qawakusqanta hinataq mana allinkasqanta qawarqani.	Ancha kusikuywanmi quntasqanman kachkarqani chaymi punkupa patanta takarqamurqa.	contradiction
+25130	quy	Payqa hamurqa, punkuta kicharqa hinataqmi yuyani qipa qawasqayta chaynallataq uyay imayna qawakusqanta hinataq mana allinkasqanta qawarqani.	Mana allinta hinam qawachiwarqa, ichaqa sasachakuymanmi yaykuchisqaykutam yacharqaniku.	neutral
+25131	quy	Payqa hamurqa, punkuta kicharqa hinataqmi yuyani qipa qawasqayta chaynallataq uyay imayna qawakusqanta hinataq mana allinkasqanta qawarqani.	Uyallanpiqa qawaykuspay mana allin kasqanta yacharqani.	entailment
+25132	quy	Hinaptinqa manam kawsay kapuwarqachu.	Manam huk wasi rantikunayqa kanchu.	entailment
+25133	quy	Hinaptinqa manam kawsay kapuwarqachu.	Hun ranti wasillaymi kan.	contradiction
+25134	quy	Hinaptinqa manam kawsay kapuwarqachu.	Achka ranti wasim kachkan.	neutral
+25135	quy	Chayqa manam payqa kikinmantaqa ruraqchu.	Payqa achka yanapatam chaskin.	entailment
+25136	quy	Chayqa manam payqa kikinmantaqa ruraqchu.	Payqa mikuywan, pachawanmi yanapata chaskin.	neutral
+25137	quy	Chayqa manam payqa kikinmantaqa ruraqchu.	Payqa sapallanmi.	contradiction
+25138	quy	Chaynaqa ñuqaqa hamutarqani, Diosllay, Ramona chaypitaq kachkasqa.	Ramanoqa pampapi quñukuruspa qalay mana allin kachkarqa.	contradiction
+25139	quy	Chaynaqa ñuqaqa hamutarqani, Diosllay, Ramona chaypitaq kachkasqa.	Ramanoqa upallalla quchachawachkasqa.	neutral
+25140	quy	Chaynaqa ñuqaqa hamutarqani, Diosllay, Ramona chaypitaq kachkasqa.	Ramonaqa kurkunpa kachkarqa ñuqa simiy kicharisqa kachkaptiy.	entailment
+25141	quy	¡Chiqaqtaqa allinllakasqa!	Mikurqa achka mikuyta, ichaqa mana yasaynin yapakurqachu.	neutral
+25142	quy	¡Chiqaqtaqa allinllakasqa!	Payqa mana anchatachu yasarqa.	entailment
+25143	quy	¡Chiqaqtaqa allinllakasqa!	Payqa ancha kusisqa kachkarqa.	contradiction
+25144	quy	Chaymanta Augustapichu qiparqa imaynayá.	Payqa Augustapi awqunakuy chiqninikaymantapas hina yacharqa.	neutral
+25145	quy	Chaymanta Augustapichu qiparqa imaynayá.	Payqa hina Augustapi Yacharqa.	entailment
+25146	quy	Chaymanta Augustapichu qiparqa imaynayá.	Kamaslla Augustapa huklawninman ripukurqa.	contradiction
+25147	quy	Llapanchan rurasqayku…imaytapas mayman risqanta niwarqakuchu, base nisqamanta huklawman lluqsispa unay kamunankupaqpas.	Manam imaytapas mayman risqanta tapurqanichu.	neutral
+25148	quy	Llapanchan rurasqayku…imaytapas mayman risqanta niwarqakuchu, base nisqamanta huklawman lluqsispa unay kamunankupaqpas.	Maypi kasqankutaqa mayman risqankuta yachanaykuta saqiwaqkum.	contradiction
+25149	quy	Llapanchan rurasqayku…imaytapas mayman risqanta niwarqakuchu, base nisqamanta huklawman lluqsispa unay kamunankupaqpas.	Manam haykappipas mayman risqanta niwaqkuchu.	entailment
+25150	quy	Nirqaniku: kaypi qipanaykipaqmi payllachkaniku.	Manam ñuqanchikpaqa imatapas payllanqachu.	contradiction
+25151	quy	Nirqaniku: kaypi qipanaykipaqmi payllachkaniku.	Wasipaqmi ñuqapaqwan wawqiypaqa payllachkanku.	neutral
+25152	quy	Nirqaniku: kaypi qipanaykipaqmi payllachkaniku.	Wasiraykum payllachkanku.	entailment
+25153	quy	Kusa, paqarinninpaq, chaynapunim, Kennedy presidentem, mm, Cubata bloquearurqa…ñuqanchikpa buquenchikmi huk Ruso barco Cubapa qawanman riqta qarkarurqa hinaspam misiles nisqakunata tarirurqaku	Kennedy nisqam tropa nisqanchikta misiles maskananpaq nirqa.	entailment
+25154	quy	Kusa, paqarinninpaq, chaynapunim, Kennedy presidentem, mm, Cubata bloquearurqa…ñuqanchikpa buquenchikmi huk Ruso barco Cubapa qawanman riqta qarkarurqa hinaspam misiles nisqakunata tarirurqaku	Manam mayqi barcotapas harkanqakuchu awqanakuyta mana munaspa.	contradiction
+25155	quy	Kusa, paqarinninpaq, chaynapunim, Kennedy presidentem, mm, Cubata bloquearurqa…ñuqanchikpa buquenchikmi huk Ruso barco Cubapa qawanman riqta qarkarurqa hinaspam misiles nisqakunata tarirurqaku	Iskay chunka misiles nisqatam tarirurqaku.	neutral
+25156	quy	Imaynanpipas runan yaykun.	Sala tribunal nisqamanmi runa yaykururqa.	neutral
+25157	quy	Imaynanpipas runan yaykun.	Habitación nisqamanmi runa yaykururqa.	entailment
+25158	quy	Imaynanpipas runan yaykun.	Qipalawmanmi runa kallparurqa.	contradiction
+25159	quy	Mmm…Machuykuqa acncha ancha kuyakuqmi karqaku, yananpiqa taytaykunataqmi karqaku hinaptinqa chay pachaqa wak uraypi sumaq karqaniku.	Machuykunapa wasinkamanmi unaysusupi aparqani.	neutral
+25160	quy	Mmm…Machuykuqa acncha ancha kuyakuqmi karqaku, yananpiqa taytaykunataqmi karqaku hinaptinqa chay pachaqa wak uraypi sumaq karqaniku.	Machuykunaqa iskayninkupura kuyakuqkunam karqaku.	entailment
+25161	quy	Mmm…Machuykuqa acncha ancha kuyakuqmi karqaku, yananpiqa taytaykunataqmi karqaku hinaptinqa chay pachaqa wak uraypi sumaq karqaniku.	Machuykunqa maniático nisqakuna karqaku chaymi mana wasinta riyta munarqanichu.	contradiction
+25162	quy	Manam pachay karqachu ima kaqpas ruranaypaq.	Aswan chisinyayta qinayta tukuyta atiyman karqa.	neutral
+25163	quy	Manam pachay karqachu ima kaqpas ruranaypaq.	Llapachanta chay pachalla qinaruni.	contradiction
+25164	quy	Manam pachay karqachu ima kaqpas ruranaypaq.	Mana pacha llapan qinanaypaq haypawarqachu	entailment
+25165	quy	Chay pachataqa runakunata paracaidas nisqata arma nuclear nisqa disparanan, hina bomba atomica tuqyachiq qinanankupaq yachachiy llamkayniy karqa.	Bomba atómica nisqapaqa manam gatillo nisqa kanchu.	contradiction
+25166	quy	Chay pachataqa runakunata paracaidas nisqata arma nuclear nisqa disparanan, hina bomba atomica tuqyachiq qinanankupaq yachachiy llamkayniy karqa.	Paymanta chamkasqa detonador nisqaqa Bombata detonan.	entailment
+25167	quy	Chay pachataqa runakunata paracaidas nisqata arma nuclear nisqa disparanan, hina bomba atomica tuqyachiq qinanankupaq yachachiy llamkayniy karqa.	Pisi kallpalluqllam Bomba atómica nisqapa gatillon chamkanaykipaq kanayki.	neutral
+25168	quy	Payaymi warmaraq kasqan watamanta willawaq karqa, chay kaq, ayllun imayna kaq kasqanmanta hinataq imayna chay pachapi kawsaymanta rimawarqa.	Sapa kutim payaypa willakuyninwan kusikuq karqani.	neutral
+25169	quy	Payaymi warmaraq kasqan watamanta willawaq karqa, chay kaq, ayllun imayna kaq kasqanmanta hinataq imayna chay pachapi kawsaymanta rimawarqa.	Payayqa manam warma kayninanta willakuyta munaqchu.	contradiction
+25170	quy	Payaymi warmaraq kasqan watamanta willawaq karqa, chay kaq, ayllun imayna kaq kasqanmanta hinataq imayna chay pachapi kawsaymanta rimawarqa.	Payaymi pay warmaraq imayna ayllun kasqanmanta tukuy imata willawarqa.	entailment
+25171	quy	Presión de avión nisqapam llapan pachayku karqa, chay astronautakuna hinakusqan hin, ñuqaykupaqa qusninpaman, qusninpaman qina karqa, botasniyuq, llapan, rupay achkichinapaq, chaypunirayku.	Manam ñuqaykupa pachaykupa astranautakunapa hinachu karqa.	contradiction
+25172	quy	Presión de avión nisqapam llapan pachayku karqa, chay astronautakuna hinakusqan hin, ñuqaykupaqa qusninpaman, qusninpaman qina karqa, botasniyuq, llapan, rupay achkichinapaq, chaypunirayku.	Pachaykuqa astronautakunapa hinam karqa, rupay achkichinallapaqa mana, ñuqaykupa qusninpamanmi karqa.	entailment
+25173	quy	Presión de avión nisqapam llapan pachayku karqa, chay astronautakuna hinakusqan hin, ñuqaykupaqa qusninpaman, qusninpaman qina karqa, botasniyuq, llapan, rupay achkichinapaq, chaypunirayku.	Munasqayki llimpisqapim pachaykita tariytaqa atiwaq.	neutral
+25174	quy	Karqataqmi, machuyqa manam allin runachu karqa.	Machuyqa idiota nisqam karqa.	entailment
+25175	quy	Karqataqmi, machuyqa manam allin runachu karqa.	Machuyqa mana allin runa racista nisqam karqa.	neutral
+25176	quy	Karqataqmi, machuyqa manam allin runachu karqa.	¡Machuyqa alllin runa imaynanpipas tarinaykim karqa!	contradiction
+25177	quy	Kimsa chunka, tawa chunka U2 aviónkunam chayi pilotos chinosta yachachiyta qallarirurqaniku, paykunawan pilotos británicos nisqa, chay llapan tiqsi muyukunawan kuskanchakusqa kasqaykuwan.	Manam piwanpas yacharqanikuchu.	contradiction
+25178	quy	Kimsa chunka, tawa chunka U2 aviónkunam chayi pilotos chinosta yachachiyta qallarirurqaniku, paykunawan pilotos británicos nisqa, chay llapan tiqsi muyukunawan kuskanchakusqa kasqaykuwan.	Bitánicos nisqakunawanmi pichqa punchakuna yacharqaniku.	neutral
+25179	quy	Kimsa chunka, tawa chunka U2 aviónkunam chayi pilotos chinosta yachachiyta qallarirurqaniku, paykunawan pilotos británicos nisqa, chay llapan tiqsi muyukunawan kuskanchakusqa kasqaykuwan.	Huk aswan soldado nisqakunawanmi yacharqaniku.	entailment
+25180	quy	Chaynaqa, nin ari maskan, maskan kayta kaypi kay empresa nisqapi.	Payqa manam rimawarqachu.	contradiction
+25181	quy	Chaynaqa, nin ari maskan, maskan kayta kaypi kay empresa nisqapi.	Ima maskanaytam niwarqa.	entailment
+25182	quy	Chaynaqa, nin ari maskan, maskan kayta kaypi kay empresa nisqapi.	Información financiera nisqan maskanaytam payqa niwarqa.	neutral
+25183	quy	Chinchay suyuman qispisqankutam pay nirqa.	Ñampi huk iskay sayasqankutam nirqa.	neutral
+25184	quy	Chinchay suyuman qispisqankutam pay nirqa.	Sur lawman urasqankutam nirqa.	contradiction
+25185	quy	Chinchay suyuman qispisqankutam pay nirqa.	Chinchay suyuman risqankutam nirqa.	entailment
+25186	quy	Hum, manam, chiqaqta kanaypaq, manam imaytapas likanay kaq maytuta likarqanichu.	Pachak aswannin rapiyuq kaq maytutaqa manam haykappipas likarqanichu.	neutral
+25187	quy	Hum, manam, chiqaqta kanaypaq, manam imaytapas likanay kaq maytuta likarqanichu.	Manam achka maytutaqa likarqanichu.	entailment
+25188	quy	Hum, manam, chiqaqta kanaypaq, manam imaytapas likanay kaq maytuta likarqanichu.	Sapa punchawmi maytutaqa likani.	contradiction
+25189	quy	Hina kaspaymi wayqata quqarirqani hina rirqani chay rinay law rinayman rirqani.	Wayqata saqirqani hinaspa manacháñuqapa sasachakuyniychu nirqani.	contradiction
+25190	quy	Hina kaspaymi wayqata quqarirqani hina rirqani chay rinay law rinayman rirqani.	Departamentonmanmi wayqata aparqani.	neutral
+25191	quy	Hina kaspaymi wayqata quqarirqani hina rirqani chay rinay law rinayman rirqani.	May kasqanmanmi wayqata aparqani.	entailment
+25192	quy	Ancha allinsu kusikuymi hukniyaynin karqa.	Imayna kayninqa qalay sinchilla karqa.	contradiction
+25193	quy	Ancha allinsu kusikuymi hukniyaynin karqa.	Kusikusqamanta llakiman yaykururqa.	neutral
+25194	quy	Ancha allinsu kusikuymi hukniyaynin karqa.	Imayana kasqan aswanta hukmanyarurqa.	entailment
+25195	quy	Nawarqa, chay yachay wasi escuelaman rinaypaqmi chunka pichqayuq akllawarqaku, chay mana risaqchu, mana risaqchu.	Manam yaxhay wasi escuelamanta rinaypaq aklasqachu karqani.	contradiction
+25196	quy	Nawarqa, chay yachay wasi escuelaman rinaypaqmi chunka pichqayuq akllawarqaku, chay mana risaqchu, mana risaqchu.	Yachay wasi escuelaman rinaypaqmi akllawarqaku.	entailment
+25197	quy	Nawarqa, chay yachay wasi escuelaman rinaypaqmi chunka pichqayuq akllawarqaku, chay mana risaqchu, mana risaqchu.	Ñuqam candidato allin qawasqa chiqaq karqani.	neutral
+25198	quy	Achak cámara de altitud nisqatam yaykupananku, eh, manaraq U2 paway qallarichkaptin puriykuna utaq presión pachakunawan pawayta.	Achka runakunam examén nisqakunata mana atiqkuchu hinaspa U2 nisqata apawachiqkuchu.	neutral
+25199	quy	Achak cámara de altitud nisqatam yaykupananku, eh, manaraq U2 paway qallarichkaptin puriykuna utaq presión pachakunawan pawayta.	Achka yachaykunatam yachananku U2 nisqata manaraq pawachichkaspa.	entailment
+25200	quy	Achak cámara de altitud nisqatam yaykupananku, eh, manaraq U2 paway qallarichkaptin puriykuna utaq presión pachakunawan pawayta.	Ñawpaq punchawllatam U2 nisqaqa pawachinaykita saqisunki.	contradiction
+25201	quy	Hina chaytam ñuqa rurachkani.	Musuq material nisqatam qalaypaq wankuni.	contradiction
+25202	quy	Hina chaytam ñuqa rurachkani.	Hina imakunatam wakin huk revistakunata wankuni.	neutral
+25203	quy	Hina chaytam ñuqa rurachkani.	Hina paykunapa chay imankunamantam rimachkani.	entailment
+25204	quy	Kaymi ñawpaq na karq, chaymi qanchis chunka pichqayuq watapi apakusqa, Embajadores de Texas kachkaptinmi legislatura de Texas, unidad de militar nisqata pawarachisqa.	Unidades militares nisqaqa manam embajador de TX nisqaqa kanmankuchu.	contradiction
+25205	quy	Kaymi ñawpaq na karq, chaymi qanchis chunka pichqayuq watapi apakusqa, Embajadores de Texas kachkaptinmi legislatura de Texas, unidad de militar nisqata pawarachisqa.	Congreso de Estados Unidos nisqapim Unidad militar Embajadorkuna qinasqa karurqaku.	neutral
+25206	quy	Kaymi ñawpaq na karq, chaymi qanchis chunka pichqayuq watapi apakusqa, Embajadores de Texas kachkaptinmi legislatura de Texas, unidad de militar nisqata pawarachisqa.	Unidad Militarmi TX Embajadores sutinchasqa karqa.	entailment
+25207	quy	sichum imapas ruray atinay kan.	Ñuqa ima rurayta atiyman.	entailment
+25208	quy	sichum imapas ruray atinay kan.	Yacharqa mana ima ñuqa ruray atinay kaqta.	contradiction
+25209	quy	sichum imapas ruray atinay kan.	Ichapas qispikuy atinaypaq imallatapas rurayta atiyman karqa.	neutral
+25210	quy	Chiqniram chayta, hina sapa punchawmi paninman willaq karqa, chaytam nirqa, manam allintachu rurachkanki.	Payqa sapa kutim paninta kallpachaq.	contradiction
+25211	quy	Chiqniram chayta, hina sapa punchawmi paninman willaq karqa, chaytam nirqa, manam allintachu rurachkanki.	Mana imaps panin ruray atisqantam sumaq chuyata saqirqa.	neutral
+25212	quy	Chiqniram chayta, hina sapa punchawmi paninman willaq karqa, chaytam nirqa, manam allintachu rurachkanki.	Payqa paninwanqa aswan rimaysapam karqa.	entailment
+25213	quy	Chaymi wasinta rirqani hinaspan kay yupay chayman chayaspa qayanay niq kaqta qayarqani.	Teléfono nisqatam hapiruni manukuykuywan qayanaypaq.	neutral
+25214	quy	Chaymi wasinta rirqani hinaspan kay yupay chayman chayaspa qayanay niq kaqta qayarqani.	Yupaytam qayarqani wasinta chayaspay.	entailment
+25215	quy	Chaymi wasinta rirqani hinaspan kay yupay chayman chayaspa qayanay niq kaqta qayarqani.	Qayanaymi karqa, ichaqa manam rurarqanichu.	contradiction
+25216	quy	Kusa, kunan achikyaqtam chayta chayaruranitaq, eh hina qunqaruni…tapukuytachusmi rurarqani utaq paychu yaykuramurqa, utaq imaynayá yachanichu.	Kunanqa manam chaynachu rirqani, Chaymi mana rikurqanichu.	contradiction
+25217	quy	Kusa, kunan achikyaqtam chayta chayaruranitaq, eh hina qunqaruni…tapukuytachusmi rurarqani utaq paychu yaykuramurqa, utaq imaynayá yachanichu.	Gimnasio nisqapim kunan riqsichikurqani hinaptinmi pay aswan chisinyayta hamurqa hinaspa rimaykuwarqa.	neutral
+25218	quy	Kusa, kunan achikyaqtam chayta chayaruranitaq, eh hina qunqaruni…tapukuytachusmi rurarqani utaq paychu yaykuramurqa, utaq imaynayá yachanichu.	Kunan achikyayta riqsichikurqani hinaptinmi paypas hamurqa.	entailment
+25219	quy	Manam mayman risqanta yacharqanikuchu.	Interestatal huñu mayman illasqanta yacharqanikuchu.	neutral
+25220	quy	Manam mayman risqanta yacharqanikuchu.	Manam mayman runakuna illasqanta yacharqanikuchu.	entailment
+25221	quy	Manam mayman risqanta yacharqanikuchu.	Mayman risqantam yacharqaniku.	contradiction
+25222	quy	Ichaqa ñuqaqa na hina kachkarqani, almuerzo mikukuq risaq. Kanmi yarqayniy.	Manam qalaycha yarqayniy karqachu.	contradiction
+25223	quy	Ichaqa ñuqaqa na hina kachkarqani, almuerzo mikukuq risaq. Kanmi yarqayniy.	Karam yarqayniy, chaymi almuerzoy mikukuyta qallarirurqani.	entailment
+25224	quy	Ichaqa ñuqaqa na hina kachkarqani, almuerzo mikukuq risaq. Kanmi yarqayniy.	Yarqaymanta wañururqani, chay cafetería nisqata rirurqani.	neutral
+25225	quy	Chaynaqa, ninayta saqiway kunan punchawmi yaqa yaqalla rinunciayman chayaruni.	Yaqallam renunciaspa tukuruni.	entailment
+25226	quy	Chaynaqa, ninayta saqiway kunan punchawmi yaqa yaqalla rinunciayman chayaruni.	Ancha anchatam nanarachiwarqaku mana utiriy atinaykama.	neutral
+25227	quy	Chaynaqa, ninayta saqiway kunan punchawmi yaqa yaqalla rinunciayman chayaruni.	Manam haykapipas renunciayta yuyaymanarqanichu.	contradiction
+25228	quy	Waranqa pusaq pachak pusaq chunkayuq chaychaytam paqarirqa, sutillapas kanman karqa waranqa pusaq pachak pusaq chunka pusaqniyuqta utaq waranqa waranqa pusaq pachak pusaq chunka isqunniyuqtam.	Manaraq waranqa isqun pachaktam paqarirqa.	entailment
+25229	quy	Waranqa pusaq pachak pusaq chunkayuq chaychaytam paqarirqa, sutillapas kanman karqa waranqa pusaq pachak pusaq chunka pusaqniyuqta utaq waranqa waranqa pusaq pachak pusaq chunka isqunniyuqtam.	Diciembre waranqa pusaq pachak pusaq chunka watatam paqarirqa.	neutral
+25230	quy	Waranqa pusaq pachak pusaq chunkayuq chaychaytam paqarirqa, sutillapas kanman karqa waranqa pusaq pachak pusaq chunka pusaqniyuqta utaq waranqa waranqa pusaq pachak pusaq chunka isqunniyuqtam.	Payqa manam paqarirqachu waranqa isqun pachak pusaq chunka tawayuq watakama.	contradiction
+25231	quy	Allinchusmi kanman tumpata uchuy tornillota uraykachiptin kayqa runapa qaspannintam kirirunman.	Chay tornilloqa pipapas qaspannintam kirirunman.	entailment
+25232	quy	Allinchusmi kanman tumpata uchuy tornillota uraykachiptin kayqa runapa qaspannintam kirirunman.	Manam tornilloqa peligropichu kan, chaynaqa ñitiy munasqaykita hina.	contradiction
+25233	quy	Allinchusmi kanman tumpata uchuy tornillota uraykachiptin kayqa runapa qaspannintam kirirunman.	Tornillo nisqan yaykun tunquriman, qaspankunata kirirunqa.	neutral
+25234	quy	Kamachikuytam Del Rio, TX nisqaman rinaypaq chaskirqa, Cchayman chayaruptiymi, kusa, Laughlin Air Force base nisqaman rinayta yacharuni.	Der Rio, Texas nisqapi llamkanaypaq aparachiwarqaku.	entailment
+25235	quy	Kamachikuytam Del Rio, TX nisqaman rinaypaq chaskirqa, Cchayman chayaruptiymi, kusa, Laughlin Air Force base nisqaman rinayta yacharuni.	Manam texas nisqaman imay pachapas rirqanichu.	contradiction
+25236	quy	Kamachikuytam Del Rio, TX nisqaman rinaypaq chaskirqa, Cchayman chayaruptiymi, kusa, Laughlin Air Force base nisqaman rinayta yacharuni.	TX iskay waranqa hukniyuqpim, Fuerzas aéreas Del Rio nisqaman aparachiwarqaku.	neutral
+25237	quy	Llapan runam champánta qarakun, qirupi puchuqtañataqmi warmakuna upyakuqku, chaypim ñuqayku kachkarqaniku, muyuspa champánta upyastin.	Llapa warmakunam kimsa champan botellata upiarunku.	neutral
+25238	quy	Llapan runam champánta qarakun, qirupi puchuqtañataqmi warmakuna upyakuqku, chaypim ñuqayku kachkarqaniku, muyuspa champánta upyastin.	Llapa warmakunam nada champanta upiarunku.	entailment
+25239	quy	Llapan runam champánta qarakun, qirupi puchuqtañataqmi warmakuna upyakuqku, chaypim ñuqayku kachkarqaniku, muyuspa champánta upyastin.	Lliw raymipiqa manam alcohol nisqata aypurakucha qalay chakim kara.	contradiction
+25240	quy	Hatun llaqta desnuda nisqapim achka kawsaykuna kan.	Manam ima willakuykunatapas uyariranichu	contradiction
+25241	quy	Hatun llaqta desnuda nisqapim achka kawsaykuna kan.	Kanmi achka militareskunamanta willakuykuna yacharichiwasqanku.	neutral
+25242	quy	Hatun llaqta desnuda nisqapim achka kawsaykuna kan.	Kanmi achka willakuykuna yacharichiwasqanku.	entailment
+25243	quy	Yachankiñan kawsaspa yachanaykim ima avion qapisqaykitapas.	Manam avion qapiymantaqa imatapas yachanichu.	contradiction
+25244	quy	Yachankiñan kawsaspa yachanaykim ima avion qapisqaykitapas.	Avion qapiyqa imakunatapas yachachisunkim.	entailment
+25245	quy	Yachankiñan kawsaspa yachanaykim ima avion qapisqaykitapas.	Avionkunapi yachayqa presión gestionaytam yachachisunki.	neutral
+25246	quy	Chay qalay tukuynin kasqantam niyta munani.	Manam chaytaqa allintachu yachani.	contradiction
+25247	quy	Chay qalay tukuynin kasqantam niyta munani.	Hayka peligroso kanantam ninakunanchiqchusmi karqa.	neutral
+25248	quy	Chay qalay tukuynin kasqantam niyta munani.	Chaytaqa yacharuniñam.	entailment
+25249	quy	Cubanta base aérea riqmantam karqa, Rudolph Anderson aripuniqa wichirachirqaku.	Llapachan aviónkunam mana disparaptinku kawsaparqaku.	contradiction
+25250	quy	Cubanta base aérea riqmantam karqa, Rudolph Anderson aripuniqa wichirachirqaku.	Cubapi imatachá wichiykachinku.	entailment
+25251	quy	Cubanta base aérea riqmantam karqa, Rudolph Anderson aripuniqa wichirachirqaku.	Cuba suyumanmi Mayo killapi hatun avionta uraykachiraku.	neutral
+25252	quy	Chayllatachusmi ñawpaqtaqa warma kasqaymanta yuyarini, chay mana allin rurasqaykunataraq.	Manam imatapas warma kasqaymanta yuyarinichu.	contradiction
+25253	quy	Chayllatachusmi ñawpaqtaqa warma kasqaymanta yuyarini, chay mana allin rurasqaykunataraq.	Kunankakaman sunqun nanarisqa kani.	neutral
+25254	quy	Chayllatachusmi ñawpaqtaqa warma kasqaymanta yuyarini, chay mana allin rurasqaykunataraq.	Ñawpariq yuyarisqayraqmi karqa.	entailment
+25255	quy	Yana kaytaqa chay punchawkunqa mana munarqakuchu, chaymi karqa, yachankiñam, niniqa, chaychusmikarqa, yachankiñam, waranqa isqun pachak kimsa chunka década nisqa qallariyninpi, ruraptinku.	Sur llaqtakunapiqa yana kayqa sasam kara.	neutral
+25256	quy	Yana kaytaqa chay punchawkunqa mana munarqakuchu, chaymi karqa, yachankiñam, niniqa, chaychusmikarqa, yachankiñam, waranqa isqun pachak kimsa chunka década nisqa qallariyninpi, ruraptinku.	¡Yana kayqa kusam kara!	contradiction
+25257	quy	Yana kaytaqa chay punchawkunqa mana munarqakuchu, chaymi karqa, yachankiñam, niniqa, chaychusmikarqa, yachankiñam, waranqa isqun pachak kimsa chunka década nisqa qallariyninpi, ruraptinku.	Sasam kara chay pachakura yana runa kayqa.	entailment
+25258	quy	Manam pipas may risqankutapas yacharachu.	Llapallanku yachara maymi kasqan risqankutapas.	contradiction
+25259	quy	Manam pipas may risqankutapas yacharachu.	Manam pipas yacharachu ima wasiman risqankutapas.	neutral
+25260	quy	Manam pipas may risqankutapas yacharachu.	Kawsayninqa pakapasqam kara.	entailment
+25261	quy	Augustapa áerea nisqanpiqa manam tabú nisqata yaqa yaqasqakuta yacharuspa riqsiska kayta munarispa mana qipasqakuchu.	Runakunaqa manam allillaqa mana yuraq runakuna kasqantaqa yacharakuchu.	contradiction
+25262	quy	Augustapa áerea nisqanpiqa manam tabú nisqata yaqa yaqasqakuta yacharuspa riqsiska kayta munarispa mana qipasqakuchu.	Runakunaqa yacharam afroamericanos kasqantaqa.	neutral
+25263	quy	Augustapa áerea nisqanpiqa manam tabú nisqata yaqa yaqasqakuta yacharuspa riqsiska kayta munarispa mana qipasqakuchu.	Runakunaqa yuraq runa kasqantaqa manam yacharakucho.	entailment
+25264	quy	Awriki allinmi wak wayna kaypi kachkan.	Wak wayna hinapim kachkan.	entailment
+25265	quy	Awriki allinmi wak wayna kaypi kachkan.	Wak runaqa chayraqmi 2 minutos hinapi rikuriramun.	neutral
+25266	quy	Awriki allinmi wak wayna kaypi kachkan.	Wak runaqa manam imay pachapipas kaymanqa qamurachu.	contradiction
+25267	quy	Huk kaqkunatam telepi qawachkaraniku.	Manam televisionniyku karqachu.	contradiction
+25268	quy	Huk kaqkunatam telepi qawachkaraniku.	Televisiontam qawachkaraniku.	entailment
+25269	quy	Huk kaqkunatam telepi qawachkaraniku.	Willakuykunatam televisionpi qawachkaraniku.	neutral
+25270	quy	Chayna kaptinqa hamutachkanim huktapiwan Ramonawan rimariyta.	Ramonawanqa manam ima pachapipas rimaranichu.	contradiction
+25271	quy	Chayna kaptinqa hamutachkanim huktapiwan Ramonawan rimariyta.	Ramonawanmi huktapiwan rimarqani.	entailment
+25272	quy	Chayna kaptinqa hamutachkanim huktapiwan Ramonawan rimariyta.	Kusa rimanakuymi karqa.	neutral
+25273	quy	Crisis de cuba nisqapim chaylla wichirurqa, eh, Kaiser, eh, imágenes nisqawan rurarqaku hinaspa Washingtonpi Andrews Air Force nisqa kaqkaman pawarqurqa.	Chunka waranqa runakunam cuba suyupa sasachakuyninpi wañurqa.	contradiction
+25274	quy	Crisis de cuba nisqapim chaylla wichirurqa, eh, Kaiser, eh, imágenes nisqawan rurarqaku hinaspa Washingtonpi Andrews Air Force nisqa kaqkaman pawarqurqa.	Huk runallam cuba suyu sasachakuypi wañurqa.	entailment
+25275	quy	Crisis de cuba nisqapim chaylla wichirurqa, eh, Kaiser, eh, imágenes nisqawan rurarqaku hinaspa Washingtonpi Andrews Air Force nisqa kaqkaman pawarqurqa.	Huq runallam Cubamanta sasachakuypi accidentipi wañurqa.	neutral
+25276	quy	An... chaymanta pay nirqa... nirqa yanallay manan ñoqa qawasqayta hina kawsaytaqa qawankichu.	Manam chaymanta imatapas yachasqanta pay willaykun.	contradiction
+25277	quy	An... chaymanta pay nirqa... nirqa yanallay manan ñoqa qawasqayta hina kawsaytaqa qawankichu.	Astawanraq kawsaymanta yachasqanta pay willayrqa.	entailment
+25278	quy	An... chaymanta pay nirqa... nirqa yanallay manan ñoqa qawasqayta hina kawsaytaqa qawankichu.	Manas imappas cheqaq mundomanta yachasqay rayku payllata qatinallay kasqanta niwan.	neutral
+25279	quy	Chayta yachaspa nini, an. ¿Imattaq kaywan ruwayman?	Imatapas chaykunawan ruwanayta manam yacharqanichu.	neutral
+25280	quy	Chayta yachaspa nini, an. ¿Imattaq kaywan ruwayman?	Imataraq chaykunawan ruwayman.	entailment
+25281	quy	Chayta yachaspa nini, an. ¿Imattaq kaywan ruwayman?	Imata chaykunawa ruwaytaqa yacharqapunim!	contradiction
+25282	quy	Huq minutullata suyaykuway, munaspaykiqa yupaykamuy, ñoqa, an, ripukusaq.	Kunachallamni riyman.	contradiction
+25283	quy	Huq minutullata suyaykuway, munaspaykiqa yupaykamuy, ñoqa, an, ripukusaq.	Huq minuturaq kaypi kanay.	entailment
+25284	quy	Huq minutullata suyaykuway, munaspaykiqa yupaykamuy, ñoqa, an, ripukusaq.	Yuyaniyta huñnunaypaq huq minuturaq kapuwanman.	neutral
+25285	quy	Hinaspa Washington D.C.man rirqani, manataq mayman kachawasqakumantachu.	Manam haykapipas Washington D.C.pi karqani.	contradiction
+25286	quy	Hinaspa Washington D.C.man rirqani, manataq mayman kachawasqakumantachu.	Kamachiqniyta rikunaypaq Wahington D.C.man rirqani.	neutral
+25287	quy	Hinaspa Washington D.C.man rirqani, manataq mayman kachawasqakumantachu.	Chay llaqtapa capitalniman rirqani.	entailment
+25288	quy	Yuraq niraq yana qara runam.	Yanallañnam qaran karqa.	contradiction
+25289	quy	Yuraq niraq yana qara runam.	Afroamericana kaspapas yuraq niraq karqa.	entailment
+25290	quy	Yuraq niraq yana qara runam.	Amigankumanantaqa aswan yuraq pay karqa.	neutral
+25291	quy	Taytayqa rikupunmi ñoqaqaq lecheyoq chocolateta hatun qero ruwaspa.	Chirichiqmanta urqurispa lechicahta taytay quykamuwarqa.	neutral
+25292	quy	Taytayqa rikupunmi ñoqaqaq lecheyoq chocolateta hatun qero ruwaspa.	Lichi qeruta tayta qaraykamuwarqa.	entailment
+25293	quy	Taytayqa rikupunmi ñoqaqaq lecheyoq chocolateta hatun qero ruwaspa.	Mas trago tumna atiynayta taytay niwarqa.	contradiction
+25294	quy	Chay wasitapas DOT rantinan karqa.	Departamento de Transporteqa manan alquilasqani kasqanta huq wasi tariyta atirqa.	contradiction
+25295	quy	Chay wasitapas DOT rantinan karqa.	Chay wasi tukuy ruwanakunatapas DOT rantirqun.	entailment
+25296	quy	Chay wasitapas DOT rantinan karqa.	Kimsa millona dolar mastaraq DOT paganan karqa.	neutral
+25297	quy	Pay qespirqa chiki.	Diciembre 2010 qespinanta suyachkarqaku.	neutral
+25298	quy	Pay qespirqa chiki.	Qespinan kanan karqa.	entailment
+25299	quy	Pay qespirqa chiki.	Manan qespinan kanan karqachu.	contradiction
+25300	quy	ñoqam kani, maykamapas chayasqayta yachanim.	Manam ima ruwasqay yachasqayta paykunaman willarqani.	contradiction
+25301	quy	ñoqam kani, maykamapas chayasqayta yachanim.	40 % mastaraq suyasqankumanta qespichisqaymanta nirqani.	neutral
+25302	quy	ñoqam kani, maykamapas chayasqayta yachanim.	Ima qespichiytapas yachasqaymanta willarqani.	entailment
+25303	quy	Ari, ¿uyariwaqchu?	¿Kunachallam uyariwaqchu?	entailment
+25304	quy	Ari, ¿uyariwaqchu?	¿Nisqayta uyariwaqchu?	neutral
+25305	quy	Ari, ¿uyariwaqchu?	Manam uyarwayta atiqaykita yachanim.	contradiction
+25306	quy	An. ¿Mana imapas? Mana imatapas liyisqaykimanta willarqanki, manachu ñan kuraq kaspayki munasqaypas chiqnisqaykipas huq librupas karqachu?	¿Harry Potterpa librunkunata munakichu?	neutral
+25307	quy	An. ¿Mana imapas? Mana imatapas liyisqaykimanta willarqanki, manachu ñan kuraq kaspayki munasqaypas chiqnisqaykipas huq librupas karqachu?	¿Munarqankichu sichus wakin librikunata chenirqanki?	entailment
+25308	quy	An. ¿Mana imapas? Mana imatapas liyisqaykimanta willarqanki, manachu ñan kuraq kaspayki munasqaypas chiqnisqaykipas huq librupas karqachu?	Llapanku liyisqayki librukunata munasqaykita yachanim.	contradiction
+25309	quy	Uchuy helichallam inyeccionta ruwarqun, pusariq tubo de presion y contrapresiontaq.	Chay tornilluqa presionta muyuchin.	entailment
+25310	quy	Uchuy helichallam inyeccionta ruwarqun, pusariq tubo de presion y contrapresiontaq.	Qollqe niraq chay uchuy tornilochaqa.	neutral
+25311	quy	Uchuy helichallam inyeccionta ruwarqun, pusariq tubo de presion y contrapresiontaq.	Manam tornillukunaqa kanchu, botunkunalla.	contradiction
+25312	quy	Hinapas kachun, suyaylla suyaykuy pay nin.	HIkutanayta pay niwarqa.	contradiction
+25313	quy	Hinapas kachun, suyaylla suyaykuy pay nin.	Niwaran manas imapas kanmanchu mana utqayllaman ruwaqtiyqa.	neutral
+25314	quy	Hinapas kachun, suyaylla suyaykuy pay nin.	Niwaran susiguyawan rinaypaq.	entailment
+25315	quy	Kamachikuq wiraqocha Kennedy nirqan pilutukunata: wiraquchakuna allinta futumkichik.	Manan Kennedyqa yuyaranchu paykunataqa.	contradiction
+25316	quy	Kamachikuq wiraqocha Kennedy nirqan pilutukunata: wiraquchakuna allinta futumkichik.	Kennedy rimarqan Fuerza Aérea nisqa pilutukunawan.	neutral
+25317	quy	Kamachikuq wiraqocha Kennedy nirqan pilutukunata: wiraquchakuna allinta futumkichik.	Kennedy rimarqan pilutukunawan.	entailment
+25318	quy	Ñuqataq mana allinchu tarikurqani, nishu pisipasqan karqani, mana kallpayuqllaña.	Nirqani chunka minutuspi tukuriyman nispa.	neutral
+25319	quy	Ñuqataq mana allinchu tarikurqani, nishu pisipasqan karqani, mana kallpayuqllaña.	Nirqani manam kaykaqpas tukuymanchu nispa.	contradiction
+25320	quy	Ñuqataq mana allinchu tarikurqani, nishu pisipasqan karqani, mana kallpayuqllaña.	Nirqani yaqallan tukurusqani nispa.	entailment
+25321	quy	Atisqayta qillqarqani.	Qillqarqani tukuy imamanta.	entailment
+25322	quy	Atisqayta qillqarqani.	Manan piñakurqanichu mana ima qillqasqaymanta.	contradiction
+25323	quy	Atisqayta qillqarqani.	Tukuy ima llank'aykuna nisqanmantan qillqarqani.	neutral
+25324	quy	Manam, payqa paqariran waranqa isqun pachaqniyuqpin, chaymi chunka suqtayuq watanpi karqa, chaynaqa waranqa isqun pachaq iskay chunka suqtayuq imapipaschá. Chunka isqunniyuq, ñan yachankiña, waranqa isqun pachaq kinsa chunka ñaupaqninta.	Paqariran ñaupaq kaq Enero killaq punchawninpi waranqa isqun pachaq watapi.	neutral
+25325	quy	Manam, payqa paqariran waranqa isqun pachaqniyuqpin, chaymi chunka suqtayuq watanpi karqa, chaynaqa waranqa isqun pachaq iskay chunka suqtayuq imapipaschá. Chunka isqunniyuq, ñan yachankiña, waranqa isqun pachaq kinsa chunka ñaupaqninta.	Payqa siglo nisqa qallariyninpin paqarirqan	entailment
+25326	quy	Manam, payqa paqariran waranqa isqun pachaqniyuqpin, chaymi chunka suqtayuq watanpi karqa, chaynaqa waranqa isqun pachaq iskay chunka suqtayuq imapipaschá. Chunka isqunniyuq, ñan yachankiña, waranqa isqun pachaq kinsa chunka ñaupaqninta.	Manam payqa paqarimurqachu waranqa isqun pachaq tawa chunka kimsayuq watakamaqa.	contradiction
+25327	quy	Chaynaqa allinpuni karqan.	Anchatapuni munarqa maykamas atinman mikuyta chaymanta.	neutral
+25328	quy	Chaynaqa allinpuni karqan.	Manan imapaqpas munarqachu.	contradiction
+25329	quy	Chaynaqa allinpuni karqan.	Interesante hinatan chayta tarirqani.	entailment
+25330	quy	Pananqa yuraq hina riqsichikurqan, arí chaynapunin karqa.	Pananqa ima sumaq qarachayuqmi karqa, manam pipas pay hinaqa tiyasqankupiqa karqachu.	neutral
+25331	quy	Pananqa yuraq hina riqsichikurqan, arí chaynapunin karqa.	Wakin kutikuna hina pananqa yuraqmi karqa.	entailment
+25332	quy	Pananqa yuraq hina riqsichikurqan, arí chaynapunin karqa.	Pana Sherqa ancha llakisqa karqa.	contradiction
+25333	quy	Chaynaqa , payqa nishu machuñamá karqa churiananpaqa.	Iskay chunka qanchisniyuq wapin kuraqnin paymantaqa karqan.	neutral
+25334	quy	Chaynaqa , payqa nishu machuñamá karqa churiananpaqa.	Payqa ancha sullk'anmi karqa paymantaqa.	contradiction
+25335	quy	Chaynaqa , payqa nishu machuñamá karqa churiananpaqa.	Payqa paypa kuraqninmi karqa.	entailment
+25336	quy	Chaymi, Ñuqallam karqani isqun pachaq sinchi yanapakuq soporte vital runa. Huknim kaq runataq fisiologico yanapakuy nisqatan quran.	Manam pipas ima yanapakuytaqa quranchu.	contradiction
+25337	quy	Chaymi, Ñuqallam karqani isqun pachaq sinchi yanapakuq soporte vital runa. Huknim kaq runataq fisiologico yanapakuy nisqatan quran.	Huk runam qurqa chay fisiologico yanapakuytaqa trupakunamanqa.	neutral
+25338	quy	Chaymi, Ñuqallam karqani isqun pachaq sinchi yanapakuq soporte vital runa. Huknim kaq runataq fisiologico yanapakuy nisqatan quran.	Huk runan qurqa chay fisiologico yanapakuytaqa.	entailment
+25339	quy	Hinaspan kaypi kachkani yuyanchakuspa chay plan hamunamanta, ñan yachankiña, ñuqawan hurqurunapaq, ñan yachankiña, phiñakuwanku tiqrayta atiymanpas hinaraq.	Yacharqaniñam pay manapuni hamunantaqa.	contradiction
+25340	quy	Hinaspan kaypi kachkani yuyanchakuspa chay plan hamunamanta, ñan yachankiña, ñuqawan hurqurunapaq, ñan yachankiña, phiñakuwanku tiqrayta atiymanpas hinaraq.	Ñuqaqa nichkarqani takanakuqchá hamuchkan nispa.	entailment
+25341	quy	Hinaspan kaypi kachkani yuyanchakuspa chay plan hamunamanta, ñan yachankiña, ñuqawan hurqurunapaq, ñan yachankiña, phiñakuwanku tiqrayta atiymanpas hinaraq.	Ñuqaqa nichkarqani imayna rimasqaymantapaschá rimapakunqa nispa.	neutral
+25342	quy	Kusa, chaynapunin, manañan ninchismanñachu manan pantarqanikuchu nispaqa.	Allinmi pisi pantaykuna ruraqtinchisqa.	contradiction
+25343	quy	Kusa, chaynapunin, manañan ninchismanñachu manan pantarqanikuchu nispaqa.	Manapunim pantanaykuchu karqan.	entailment
+25344	quy	Kusa, chaynapunin, manañan ninchismanñachu manan pantarqanikuchu nispaqa.	Manapunim imatapas mana allintaqa tuqyachiykumanchu karqan.	neutral
+25345	quy	Hinaqa, Oh, Ichaqa, Oh, Yayanchayrukusaq, manan tutata puñukuyta atikuranichu.	Sasachayukunin chisi puñukunaypaq.	entailment
+25346	quy	Hinaqa, Oh, Ichaqa, Oh, Yayanchayrukusaq, manan tutata puñukuyta atikuranichu.	Hinallan millay musquyuniykuna manan puñuyta saqiruwankuchu.	neutral
+25347	quy	Hinaqa, Oh, Ichaqa, Oh, Yayanchayrukusaq, manan tutata puñukuyta atikuranichu.	Wawa kaqllan tutata puñukuni.	contradiction
+25348	quy	Chayqa karqan paypaq alli allin amachakunanpaq.	Payqa atinmanmi salqa alqukunamanta amachakuytaqa.	neutral
+25349	quy	Chayqa karqan paypaq alli allin amachakunanpaq.	Payqa allintan amachakunman.	entailment
+25350	quy	Chayqa karqan paypaq alli allin amachakunanpaq.	Payqa mana criyinapaq hinan ancha mana kallpayuqmi karqa.	contradiction
+25351	quy	An, mana imapas nisqa rayku--	Tukuy ima yachnanta pay nirqa	contradiction
+25352	quy	An, mana imapas nisqa rayku--	Manam imatapas tukuy ima allinlla kananpaq niwarqankuchu.	neutral
+25353	quy	An, mana imapas nisqa rayku--	Mayqenpi mann imatapas niwankuchu.	entailment
+25354	quy	Kay ladupin tiyayku.	Kayninpim wasiyku karqa.	entailment
+25355	quy	Kay ladupin tiyayku.	Chaymantaqa karuraq wasiykuqa kachkan.	contradiction
+25356	quy	Kay ladupin tiyayku.	Isaky manzanallapim wsiyku kachkan.	neutral
+25357	quy	Ikutayllaña rimachkan, telefunupim rimachkan.	Alli allillamantam rimachkan.	contradiction
+25358	quy	Ikutayllaña rimachkan, telefunupim rimachkan.	IPhonipim rimachkan.	neutral
+25359	quy	Ikutayllaña rimachkan, telefunupim rimachkan.	Cilularpim rimachkan.	entailment
+25360	quy	Manam imatapas kasqanmanta yuyanichu, anchtaq manchakurqani chayraq iskuyla rinay kachkaptin. Chayqa ancha manchachiq punchw chiki kanman karqa.	Qasillan kakurqani iskuyka qallaniyninpi.	contradiction
+25361	quy	Manam imatapas kasqanmanta yuyanichu, anchtaq manchakurqani chayraq iskuyla rinay kachkaptin. Chayqa ancha manchachiq punchw chiki kanman karqa.	Iskuy riymanta manchakurqani.	entailment
+25362	quy	Manam imatapas kasqanmanta yuyanichu, anchtaq manchakurqani chayraq iskuyla rinay kachkaptin. Chayqa ancha manchachiq punchw chiki kanman karqa.	Jardin de la Infacuata qallarinay karqa.	neutral
+25363	quy	An..St. Luois hawanpi, Jefferson Citymanta St. Louis MO llaqtaman chawpinpi tiyarqani.	Texaspi tiyarqani.	contradiction
+25364	quy	An..St. Luois hawanpi, Jefferson Citymanta St. Louis MO llaqtaman chawpinpi tiyarqani.	Qello wasipm Missouripi tiyarqani.	neutral
+25365	quy	An..St. Luois hawanpi, Jefferson Citymanta St. Louis MO llaqtaman chawpinpi tiyarqani.	Missoripim karqa.	entailment
+25366	quy	Del Riopi kaqta kanchaman willachkarqani, hinaspa chayraq astawan kicharisqata Laughlin Air Force kanchaman rinay karqa.	Base Aere Laughlin kichasqa karqa.	entailment
+25367	quy	Del Riopi kaqta kanchaman willachkarqani, hinaspa chayraq astawan kicharisqata Laughlin Air Force kanchaman rinay karqa.	Kichasqallam Base Aera Laughln karqa.	contradiction
+25368	quy	Del Riopi kaqta kanchaman willachkarqani, hinaspa chayraq astawan kicharisqata Laughlin Air Force kanchaman rinay karqa.	Base de la fuerza Aerea de Laughlinpi chunka waranqa soldadukuna tiyanku.	neutral
+25369	quy	Imaynata ruwanaykipas allinmi.	Ima color aqllasqaykipas allinmi.	neutral
+25370	quy	Imaynata ruwanaykipas allinmi.	Imata tratupas allinmi kachkan ninay.	contradiction
+25371	quy	Imaynata ruwanaykipas allinmi.	Imanynatapas tukurqamuy.	entailment
+25372	quy	Hinaspan hawaman qawaspa maypim Ramona kasqanta yachaspay qayaykuni.	Wasiyman Ramonata qayamurqani.	neutral
+25373	quy	Hinaspan hawaman qawaspa maypim Ramona kasqanta yachaspay qayaykuni.	Maypi kasqanta yachanaypaq Ramonata qayamurqani.	entailment
+25374	quy	Hinaspan hawaman qawaspa maypim Ramona kasqanta yachaspay qayaykuni.	Ramonamanta qinqarquni.	contradiction
+25375	quy	Fuerza Aérea nisqataq rantirqan SR71 nisqata, kanantaq A-12 nisqata, chaywantaq CIAwan llank'achkaranchik.	Chunka pusaqniyoq avionkunata Fuerza Aerea rantirqa.	neutral
+25376	quy	Fuerza Aérea nisqataq rantirqan SR71 nisqata, kanantaq A-12 nisqata, chaywantaq CIAwan llank'achkaranchik.	Avionkunata fuerza aereakuna rantirqun.	entailment
+25377	quy	Fuerza Aérea nisqataq rantirqan SR71 nisqata, kanantaq A-12 nisqata, chaywantaq CIAwan llank'achkaranchik.	Manan imatapas ruwanan kakuqchu Fuerza Aerea karqa.	contradiction
+25378	quy	Yuraq niraqpaschu ñanan/panin karqa?	Yana qariwanmi ñañan/panin casasqa.	neutral
+25379	quy	Yuraq niraqpaschu ñanan/panin karqa?	Casadam ñañan/panin.	entailment
+25380	quy	Yuraq niraqpaschu ñanan/panin karqa?	Solterallam ñañan/panin.	contradiction
+25381	quy	Machuyaruchkaptintaq maman haykapipas pantasqan kani nirqachu, imayna kawsasqantataq allicharqun.	Manapunim imapipas cambianchu.	contradiction
+25382	quy	Machuyaruchkaptintaq maman haykapipas pantasqan kani nirqachu, imayna kawsasqantataq allicharqun.	Manam haykapipas pantarusqani ninchu.	entailment
+25383	quy	Machuyaruchkaptintaq maman haykapipas pantasqan kani nirqachu, imayna kawsasqantataq allicharqun.	Manan haykapipas kay pastel de carneja allimni kachkan pay nirqa.	neutral
+25384	quy	Allin runam tiyuyqa.	Anchatam tiyuyta quyani.	entailment
+25385	quy	Allin runam tiyuyqa.	¡Opam chay tiyuyqa!	contradiction
+25386	quy	Allin runam tiyuyqa.	Sumaq sonqollan tiyuyqa, imatapas qousunkimanmi.	neutral
+25387	quy	Paniypa/ñañaypa chaypi tiyaqta wasinman rirqani.	Ejercitupin masa masiy kachkan.	neutral
+25388	quy	Paniypa/ñañaypa chaypi tiyaqta wasinman rirqani.	Masa masiyqa servicio nisqapim karqa.	entailment
+25389	quy	Paniypa/ñañaypa chaypi tiyaqta wasinman rirqani.	Wawqiyqa manam haykapipas yaykurqachu.	contradiction
+25390	quy	Hamunatayman. Kusa, huqnin richun, chaymantaqa hamutayman, Diosllay!	Huqñam rinantam hamutarqani.	entailment
+25391	quy	Hamunatayman. Kusa, huqnin richun, chaymantaqa hamutayman, Diosllay!	Ñuqa huñupi kasqayta huk hapirukunanta hamutarqani.	neutral
+25392	quy	Hamunatayman. Kusa, huqnin richun, chaymantaqa hamutayman, Diosllay!	Manam pitapas rinanta saqinanchu karqa.	contradiction
+25393	quy	Huq minutopi escritorio nisqataña takachkan, qatiqninpi allinmi, nichkaykim.	Huqta huqtam hamutan.	entailment
+25394	quy	Huq minutopi escritorio nisqataña takachkan, qatiqninpi allinmi, nichkaykim.	Mana ima rurasqatanta yachaspan hukta riman.	neutral
+25395	quy	Huq minutopi escritorio nisqataña takachkan, qatiqninpi allinmi, nichkaykim.	Payqa hawkallataq, ruwananta kuwakuqlla.	contradiction
+25396	quy	Kusa, imaynanpipas, chayman yaykurqun hinaspa na hina kachkarqa, imaynataq tukuy imapas kachan?	Imayna tukuy imapas kasqanmanta tapurqa.	entailment
+25397	quy	Kusa, imaynanpipas, chayman yaykurqun hinaspa na hina kachkarqa, imaynataq tukuy imapas kachan?	Documental nisqata tukuchkasqaykumanta tapurqa.	neutral
+25398	quy	Kusa, imaynanpipas, chayman yaykurqun hinaspa na hina kachkarqa, imaynataq tukuy imapas kachan?	Payqa manapuni rimapayawarqakuchu.	contradiction
+25399	quy	Chaymantaqa llantayta muyuchichkarqani, imaynayá, chay punchawqa tukuy punchaw hina karqa.	Apurarqani hinaspa apurawta tukururqani.	contradiction
+25400	quy	Chaymantaqa llantayta muyuchichkarqani, imaynayá, chay punchawqa tukuy punchaw hina karqa.	Chaypim iskay oras tiyarqani.	neutral
+25401	quy	Chaymantaqa llantayta muyuchichkarqani, imaynayá, chay punchawqa tukuy punchaw hina karqa.	Llantaytam unay pacha muyuchirqani.	entailment
+25402	quy	Pay tuberculosis nisqawan kasqa ñuqataq manam imatapas chaymantaqa yacharqanichu.	Manam tuberculosis nisqawan yaqalla wañusqanta yacharqachu.	neutral
+25403	quy	Pay tuberculosis nisqawan kasqa ñuqataq manam imatapas chaymantaqa yacharqanichu.	Manam tuberculosis nisqawan kasqanta yacharqachu.	entailment
+25404	quy	Pay tuberculosis nisqawan kasqa ñuqataq manam imatapas chaymantaqa yacharqanichu.	Tuberculosis nisqawan unqusqanta yacharqa.	contradiction
+25405	quy	Yachanki, manam atiwaqchu, mana contrapresión de respitacion nisqa kaspaqa manam kawsawaqchuqayá chay chay hawakunapi.	Mostradorpa presión nisqan llapan pacham wañuchisunki.	contradiction
+25406	quy	Yachanki, manam atiwaqchu, mana contrapresión de respitacion nisqa kaspaqa manam kawsawaqchuqayá chay chay hawakunapi.	5 000 pies pichqa waranqapa aswantaraq contrapresión nisqatañam qinakunayki.	neutral
+25407	quy	Yachanki, manam atiwaqchu, mana contrapresión de respitacion nisqa kaspaqa manam kawsawaqchuqayá chay chay hawakunapi.	Chay altitud nisqanpiqa contrapresión nisqatam qinakunayki.	entailment
+25408	quy	Kamasllam qallarirqani, eh, hina kaypi iskay maqtakuna kaqpiwan yachapakuspa.	Manam haykapipas yachachiyta chaskirqanichu, puririsqaypiñam yacharqani.	contradiction
+25409	quy	Kamasllam qallarirqani, eh, hina kaypi iskay maqtakuna kaqpiwan yachapakuspa.	Iskay maqtakunam chay tiendapi llamkanaypaq yachachiwarqa.	neutral
+25410	quy	Kamasllam qallarirqani, eh, hina kaypi iskay maqtakuna kaqpiwan yachapakuspa.	Iskay runam yachachiwarqa.	entailment
+25411	quy	Chikan kaptinqa, regulador nisqapim ajusteta ruranayki.	Reguladorqa mana chaniyuqmi kasqa.	contradiction
+25412	quy	Chikan kaptinqa, regulador nisqapim ajusteta ruranayki.	Regulador chiki llapan pachaykipa presionta tiqrarunman.	neutral
+25413	quy	Chikan kaptinqa, regulador nisqapim ajusteta ruranayki.	Regulador nisqawancha pukllayman.	entailment
+25414	quy	Oh, payllam isqun iskay iskayraq regulador nisqapi inyecciónta qinaq karqa.	Martes punchawtam inyector nisqata hinarqani.	neutral
+25415	quy	Oh, payllam isqun iskay iskayraq regulador nisqapi inyecciónta qinaq karqa.	Ñuqa 922 karqani	entailment
+25416	quy	Oh, payllam isqun iskay iskayraq regulador nisqapi inyecciónta qinaq karqa.	Manam huq 922 karqanichu.	contradiction
+25417	quy	Manataqmi ceremonia nupcial nisqataqa yacharqachu, nitaq kasarakusqantapas yacharqachu, chaynam.	Payqa manam yacharqachu maqtawan harkarusqanta ñawpaqmanta mana riqsispapas.	neutral
+25418	quy	Manataqmi ceremonia nupcial nisqataqa yacharqachu, nitaq kasarakusqantapas yacharqachu, chaynam.	Manam yacharqachu ima kasqanta.	entailment
+25419	quy	Manataqmi ceremonia nupcial nisqataqa yacharqachu, nitaq kasarakusqantapas yacharqachu, chaynam.	Imaman yaykusqanta yacharqam.	contradiction
+25420	quy	Chayman yaykunayku.	Chayman 8 p. m. orasta yakunayku.	neutral
+25421	quy	Chayman yaykunayku.	Yaykunayku.	entailment
+25422	quy	Chayman yaykunayku.	Manam haykappipas yaykuykumanchu.	contradiction
+25423	quy	Pi kasqanta pakayta munaq hinam karqa, hukkunapiqa, narayku, yachankiñam, imayna wakin willkankunata rimapayasqanwan.	Payqa llapantapas hina chaynatam rimapayaq.	contradiction
+25424	quy	Pi kasqanta pakayta munaq hinam karqa, hukkunapiqa, narayku, yachankiñam, imayna wakin willkankunata rimapayasqanwan.	Wakin willkankunata hukmanta rimapayaq.	entailment
+25425	quy	Pi kasqanta pakayta munaq hinam karqa, hukkunapiqa, narayku, yachankiñam, imayna wakin willkankunata rimapayasqanwan.	Wakin willkanta hukmanta rimapayaq yana kasqanku rayku.	neutral
+25426	quy	Aswan sumaqmi karqa, hinaspa waliqa wayrawanmi tumpachata pawarurqa--	Wayrapi wali pasakacharqa.	entailment
+25427	quy	Aswan sumaqmi karqa, hinaspa waliqa wayrawanmi tumpachata pawarurqa--	Waliqa uchuyllam karqa hinaspam tumpata pawarqa.	neutral
+25428	quy	Aswan sumaqmi karqa, hinaspa waliqa wayrawanmi tumpachata pawarurqa--	Manam wayra karqachu chaymi wali qawkalla karqa.	contradiction
+25429	quy	Oh, unaymi karqani, kay, actividades especiales nisqapi.	Operaciones especiales nisqapim sapa iskay punchaw kaarqani.	neutral
+25430	quy	Oh, unaymi karqani, kay, actividades especiales nisqapi.	Actividades especiales nisqapim karqani.	entailment
+25431	quy	Oh, unaymi karqani, kay, actividades especiales nisqapi.	Manam haykapipas actividades especiales nisqapi karqanichu.	contradiction
+25435	quy	Kaynataq… kunankaman kaq Evans sutiyuq Augusta nisqapa llaqtachankunapi yacharqaku Chaypim achka aylluykuna yachachkankuraq.	Evans nisqapim iskay chunka ayllunkuna yacharqa.	neutral
+25436	quy	Kaynataq… kunankaman kaq Evans sutiyuq Augusta nisqapa llaqtachankunapi yacharqaku Chaypim achka aylluykuna yachachkankuraq.	Atlantapi yacharqaku.	contradiction
+25437	quy	Kaynataq… kunankaman kaq Evans sutiyuq Augusta nisqapa llaqtachankunapi yacharqaku Chaypim achka aylluykuna yachachkankuraq.	Evans nisqapim yacharqaku, kayqa uchuyllam.	entailment
+25438	quy	Paniymi hina nipayawachkan, nin: mayqenpi payacha hina kanki, pantaspam mana allintachu runakunata rimapayanki.	Paniymi racista kanki niwarqa.	neutral
+25439	quy	Paniymi hina nipayawachkan, nin: mayqenpi payacha hina kanki, pantaspam mana allintachu runakunata rimapayanki.	Paniymi mana sapa kuti wayllukuq kankichu niwarqa.	entailment
+25440	quy	Paniymi hina nipayawachkan, nin: mayqenpi payacha hina kanki, pantaspam mana allintachu runakunata rimapayanki.	Paniymi ni imapipas paya hina kasqayta niwarqa.	contradiction
+25441	quy	Hum, chaymantaqa huk musuq wasiman ripurqaniku.	Huk hatun llaqtapi wasi rurasqaykumanmi ripurqaniku.	neutral
+25442	quy	Hum, chaymantaqa huk musuq wasiman ripurqaniku.	Huk musuq residencia nisqamanmi ripurqanku.	entailment
+25443	quy	Hum, chaymantaqa huk musuq wasiman ripurqaniku.	Hina wasillapim kawsay tukunankaman qiparqaniku.	contradiction
+25444	quy	Ñuqam kachkarqani nahina, Arí, allinmi, chayqa allinmi, yachankiñam, chayna.	Chiqniisqayta chaynallataq mana payta munasqayta nirqani.	contradiction
+25445	quy	Ñuqam kachkarqani nahina, Arí, allinmi, chayqa allinmi, yachankiñam, chayna.	Musuq canciónpa versión nisqatam munani nirqani.	neutral
+25446	quy	Ñuqam kachkarqani nahina, Arí, allinmi, chayqa allinmi, yachankiñam, chayna.	Ñam niniña allin kasqanta.	entailment
+25447	quy	Pintura mancha nisqan sapa pachaq grados nisqan tiqranman, puka kasqanmantra anqas rikurirunmanpas.	Pintura nisqaqa colorninman hina cambiakun.	entailment
+25448	quy	Pintura mancha nisqan sapa pachaq grados nisqan tiqranman, puka kasqanmantra anqas rikurirunmanpas.	Pintura nisqaqa imayna quni kasqan tiqran mana mediykuspa yachanaykipaq.	neutral
+25449	quy	Pintura mancha nisqan sapa pachaq grados nisqan tiqranman, puka kasqanmantra anqas rikurirunmanpas.	Pinturaqa yanapunim.	contradiction
+25450	quy	Apurawmanmi mikuruni, apuraw atisqaywan, chaymantaqa pay yaykuramuspa tukurqun.	Pizza nisqataqa iskay minutopa asninpiraq tukuruni.	neutral
+25451	quy	Apurawmanmi mikuruni, apuraw atisqaywan, chaymantaqa pay yaykuramuspa tukurqun.	Alillamanta mikuruni mana unqurunaypaq.	contradiction
+25452	quy	Apurawmanmi mikuruni, apuraw atisqaywan, chaymantaqa pay yaykuramuspa tukurqun.	Mikuytam tanqakuykuni.	entailment
+25453	quy	Paniypa qarinpas yuraq aychayuqmi karqa.	Masa masinqa yuraq colormi karqa.	entailment
+25454	quy	Paniypa qarinpas yuraq aychayuqmi karqa.	Sueco nisqan cuñadon karqa.	neutral
+25455	quy	Paniypa qarinpas yuraq aychayuqmi karqa.	Paninqa manam casadachu kachkarqa	contradiction
+25456	quy	Chaynapipas, kay invención alto regulador O2 nisqa qespichirqaku.	Paykuna huk musuq regulador nisqata paqarirqachirqaku.	entailment
+25457	quy	Chaynapipas, kay invención alto regulador O2 nisqa qespichirqaku.	Huk hanaq pachapi funcionaq reguladorta paqarirachirqaku.	neutral
+25458	quy	Chaynapipas, kay invención alto regulador O2 nisqa qespichirqaku.	Hina mana imayna regulador de oxígeno ruwayta atispa karqaku.	contradiction
+25459	quy	Chaymi Vegas, NV, nisqaman ripukurqaniku, hinaspa willarqani, Washington hinallatataq, Las Vegas chawpin huq wasi kaqpi.	Manam kaykapipas vegasman rirqanichu.	contradiction
+25460	quy	Chaymi Vegas, NV, nisqaman ripukurqaniku, hinaspa willarqani, Washington hinallatataq, Las Vegas chawpin huq wasi kaqpi.	Las Vegaspi achakata llamkarqani Washingtonpi hina.	entailment
+25461	quy	Chaymi Vegas, NV, nisqaman ripukurqaniku, hinaspa willarqani, Washington hinallatataq, Las Vegas chawpin huq wasi kaqpi.	Iskaynin llaqtapim taxista hina llamkarqani.	neutral
+25462	quy	Arí, Tawa ñiqin kusikuy karqa.	¡Llapan colegiotam chiqnirqani!	contradiction
+25463	quy	Arí, Tawa ñiqin kusikuy karqa.	Tawa ñiqi grado nisqatam munarqani iskaykaman samayniyku kaptin.	neutral
+25464	quy	Arí, Tawa ñiqin kusikuy karqa.	Tawa ñiqiqa munasqay karqa.	entailment
+25465	quy	Huk archivo achka tukuy niraq pestañayuq hinam, yachankiñam. Sapan pestañapan kikin hoja de calculoyuq.	Pagina nisqa huq numero nisqan listakunalla.	contradiction
+25466	quy	Huk archivo achka tukuy niraq pestañayuq hinam, yachankiñam. Sapan pestañapan kikin hoja de calculoyuq.	Tabullación nisqakunapa achkasun datos nisqanyuqmi.	entailment
+25467	quy	Huk archivo achka tukuy niraq pestañayuq hinam, yachankiñam. Sapan pestañapan kikin hoja de calculoyuq.	Pestaña nisqakunaqa hayka kunan saldokuna llapan cuentamanta kasqantam qawarichin.	neutral
+25468	quy	Imayna rurasqaykipas manam ima hukuwanchu.	Manam ima hukuwanchu kikiyki ruwawaq utaq minkaspa ruwanayki.	neutral
+25469	quy	Imayna rurasqaykipas manam ima hukuwanchu.	Manam ima hukuwanchu ima metodoyki kasqan.	entailment
+25470	quy	Imayna rurasqaykipas manam ima hukuwanchu.	Imaynata kayta ruranaykita Yachaytam munani.	contradiction
+25471	quy	Mallard Creek nisqamanmi Charlotteman ripukurqaku.	Mallard Creek nisqapim huk wasita ruwarurqaku.	neutral
+25472	quy	Mallard Creek nisqamanmi Charlotteman ripukurqaku.	Charlotte nisqamanqa manam kaykapipas ripurqakuchu.	contradiction
+25473	quy	Mallard Creek nisqamanmi Charlotteman ripukurqaku.	Chaymantaqa Mallard Creek nisqapim yacharqaku.	entailment
+25474	quy	Maypi pay huk na karqa, payqa huk ministropa churin karqa, hinaptin paypa karqa, paykunapa chakranku karqa, hukkunapas, hinaspam allinmi karqaku.	Taytanmi pastor luterano karqa.	neutral
+25475	quy	Maypi pay huk na karqa, payqa huk ministropa churin karqa, hinaptin paypa karqa, paykunapa chakranku karqa, hukkunapas, hinaspam allinmi karqaku.	Taytanmi convicto nisqa karqa mana haykapipas iglesiaman riqcchu.	contradiction
+25476	quy	Maypi pay huk na karqa, payqa huk ministropa churin karqa, hinaptin paypa karqa, paykunapa chakranku karqa, hukkunapas, hinaspam allinmi karqaku.	Taytanmi pastor karqa.	entailment
+25477	quy	Arí, Ñuqaqa manam hayka detalle munasqanta yacharqanichu.	Manam yacharqanichu pay illay orasmanta información munasqanta.	neutral
+25478	quy	Arí, Ñuqaqa manam hayka detalle munasqanta yacharqanichu.	Llapachan detalle nisqatam quykurqani munasqantam yachaspay.	contradiction
+25479	quy	Arí, Ñuqaqa manam hayka detalle munasqanta yacharqanichu.	Manam ancha allintachu yacharqani imayna profundidad nisqan kapunanta.	entailment
+25480	quy	Rí um, hukmanmi, sapa cliente nisqapi hinam, llapan documento nisqakuna kachkan.	Paykunapaqa manam ni ima archivo nisqayouqchu kanku.	contradiction
+25481	quy	Rí um, hukmanmi, sapa cliente nisqapi hinam, llapan documento nisqakuna kachkan.	Llapachan archivo nisqatam waqaychanku.	entailment
+25482	quy	Rí um, hukmanmi, sapa cliente nisqapi hinam, llapan documento nisqakuna kachkan.	Médicopas legalpas archivo nisqakunatam kuska waqaychanku.	neutral
+25483	quy	Kayqa aswan allichasqa hinam, pay quwasqanqa hina detallado hinataq sasam karqa, iskay ñiqitaq mana sasachuqa karqa.	Payqa iskay versión nisqata quwarqa.	entailment
+25484	quy	Kayqa aswan allichasqa hinam, pay quwasqanqa hina detallado hinataq sasam karqa, iskay ñiqitaq mana sasachuqa karqa.	Payqa iskay rurana instruccción nisqata quwarqa hinaspa chay detallasqa kaqta munaraní.	neutral
+25485	quy	Kayqa aswan allichasqa hinam, pay quwasqanqa hina detallado hinataq sasam karqa, iskay ñiqitaq mana sasachuqa karqa.	Payqa huk versión nisqata quwarqa hinaptinmi as lineallam qiparqa.	contradiction
+25486	quy	Manam Augustapichu yacharqaku, ...napi, yachankiñam, chay pachapiqa Augustaqa huk uchuy llaqtachaman karqa, chay wakin runa kayna hatun llaqtapi yachaqpaqpas.	Augustaqa chunka waranqa runayuqmi karqa.	neutral
+25487	quy	Manam Augustapichu yacharqaku, ...napi, yachankiñam, chay pachapiqa Augustaqa huk uchuy llaqtachaman karqa, chay wakin runa kayna hatun llaqtapi yachaqpaqpas.	Augustaqa manam hatun llaqtachu.	entailment
+25488	quy	Manam Augustapichu yacharqaku, ...napi, yachankiñam, chay pachapiqa Augustaqa huk uchuy llaqtachaman karqa, chay wakin runa kayna hatun llaqtapi yachaqpaqpas.	Augustapa sunqunpim yacharqaku.	contradiction
+25489	quy	Waranqa iskun pachak suqta chunka iskayniyuq wata tukuchkaqtam huk Washington, DC rinaypaq kamachikuyta chaskirqani	DC rinaytam niwarqaku.	entailment
+25490	quy	Waranqa iskun pachak suqta chunka iskayniyuq wata tukuchkaqtam huk Washington, DC rinaypaq kamachikuyta chaskirqani	Ejército nisqam DC nisqaman kamaslla kamaykachiwan.	neutral
+25491	quy	Waranqa iskun pachak suqta chunka iskayniyuq wata tukuchkaqtam huk Washington, DC rinaypaq kamachikuyta chaskirqani	Áfricaman rinayta niwarqaku.	contradiction
+25492	quy	Chakranta DOT hapikuruptinmi, Concord nisqapi uchuy llaqtachaman ripukurqani, chaypim zonapi rakinasqa kaptin mana uywakunata saqinchu, chayraykum uywakunapa qulluynin.	Concord nisqapi wasiykum mana uywakunata saqinmanchu.	entailment
+25493	quy	Chakranta DOT hapikuruptinmi, Concord nisqapi uchuy llaqtachaman ripukurqani, chaypim zonapi rakinasqa kaptin mana uywakunata saqinchu, chayraykum uywakunapa qulluynin.	Corcord nisqapi wasiykum kimsa chunka waranqa acres nisqan kan hinataq achkallaña uywa.	contradiction
+25494	quy	Chakranta DOT hapikuruptinmi, Concord nisqapi uchuy llaqtachaman ripukurqani, chaypim zonapi rakinasqa kaptin mana uywakunata saqinchu, chayraykum uywakunapa qulluynin.	Concord nisqaman ripuspaykum llapachan uywaykuta rantikururqaniku.	neutral
+25495	quy	Imayna kaptinpas, ripukurqanikuchu, chayaraykum Kadina, Okinawa nisqaman churaykuqasmanta willaymanmi, chaymi 1968 watapi karqa.	Waranqa isqun pachak suqta chunka pusaqniyuq watatam uraycharqaniku llapa fuerza kaqkunata.	entailment
+25496	quy	Imayna kaptinpas, ripukurqanikuchu, chayaraykum Kadina, Okinawa nisqaman churaykuqasmanta willaymanmi, chaymi 1968 watapi karqa.	Manam pitapas uraychispa tiyachistinchu tukurqaniku.	contradiction
+25497	quy	Imayna kaptinpas, ripukurqanikuchu, chayaraykum Kadina, Okinawa nisqaman churaykuqasmanta willaymanmi, chaymi 1968 watapi karqa.	Waranqa isqun pachak suqta chunka pusaqniyuq junio killatam Japonman tropa nisqaykunata illachirqaniku.	neutral
+25498	quy	Chaypuni kunanpaq munasqantam niwarqa.	haykapipas na kaptin qunaytam niwarqa.	contradiction
+25499	quy	Chaypuni kunanpaq munasqantam niwarqa.	2 p.m iskay pachallakama hatun llamkay tukunay kaqtam niwarqa.	neutral
+25500	quy	Chaypuni kunanpaq munasqantam niwarqa.	Apuraw kasqantam niwarqa.	entailment
+25501	quy	Ripukusqañam hinaspam amaña llakikunaypaq niwarqa.	Allinlla yachay wasi kanantam niwarqa.	neutral
+25502	quy	Ripukusqañam hinaspam amaña llakikunaypaq niwarqa.	Ama llakikunaytam niwarqa.	entailment
+25503	quy	Ripukusqañam hinaspam amaña llakikunaypaq niwarqa.	Manchakuyman yaykuna pacha kaqtam nirqa.	contradiction
+25504	quy	Kaykunam, yachankiñam, qaway, sasachakuykikuna kachkan.	Peligro nisqapim kachkanki.	entailment
+25505	quy	Kaykunam, yachankiñam, qaway, sasachakuykikuna kachkan.	¡Allinllapim kanki!	contradiction
+25506	quy	Kaykunam, yachankiñam, qaway, sasachakuykikuna kachkan.	Suyuykiman kutirachisunaykimanta peligro nisqapi kachkanki.	neutral
+25507	quy	Mamayqa ñawpaqtaqa mana munasqan hinapi tukurqa, ah, chaynam chakrapa llamkaq kamachisqa karqa wakin warmakunañataqmi mana chakrapi llamkaqkuchu.	Mamaymi algodónwan sarata quqarinan karqa.	neutral
+25508	quy	Mamayqa ñawpaqtaqa mana munasqan hinapi tukurqa, ah, chaynam chakrapa llamkaq kamachisqa karqa wakin warmakunañataqmi mana chakrapi llamkaqkuchu.	Mamaymi huk quri pasña karqa chaymi mana llamkaqchu.	contradiction
+25509	quy	Mamayqa ñawpaqtaqa mana munasqan hinapi tukurqa, ah, chaynam chakrapa llamkaq kamachisqa karqa wakin warmakunañataqmi mana chakrapi llamkaqkuchu.	Mamayqa hawapim llamkanan karqa.	entailment
+25510	quy	Yachankiñam, tukuyninpi, yachanki. Yachankiñam imatam runakunata tapurqaku, huktawan hukunata, hinaqa mana maypi kasqanta yacharqakuchu, yananpiqa yachankichu, allillanpiqa allinchanakururqaku mana Joe rikunankuta nisqa.	Joe nisqallapan samana kaq wasipa llaven karqa.	neutral
+25511	quy	Yachankiñam, tukuyninpi, yachanki. Yachankiñam imatam runakunata tapurqaku, huktawan hukunata, hinaqa mana maypi kasqanta yacharqakuchu, yananpiqa yachankichu, allillanpiqa allinchanakururqaku mana Joe rikunankuta nisqa.	Haykakakamantaq ruraspapas, manam Joe hawkallata saqiwanankuta atirqanikuchu.	contradiction
+25512	quy	Yachankiñam, tukuyninpi, yachanki. Yachankiñam imatam runakunata tapurqaku, huktawan hukunata, hinaqa mana maypi kasqanta yacharqakuchu, yananpiqa yachankichu, allillanpiqa allinchanakururqaku mana Joe rikunankuta nisqa.	Huk Punchaw, Joe pasakurqa hinaptin mana pipas mayman rirqan yachayta atirqachu.	entailment
+25513	quy	Paniymi niykurqani.	Paniyta tumpaykurqani.	entailment
+25514	quy	Paniymi niykurqani.	Ñuqapa niykurqani.	contradiction
+25515	quy	Paniymi niykurqani.	Paniypam chay allqunqa niykurqani.	neutral
+25516	quy	Chaymantaqa maman nirqa, mamanmi ñawpaqman kurkurqa hinaspa qawaspa nirqa. Pay hina riy nirqa.	Payqa maman chakinpa puntachallanwan purisqanta niq.	neutral
+25517	quy	Chaymantaqa maman nirqa, mamanmi ñawpaqman kurkurqa hinaspa qawaspa nirqa. Pay hina riy nirqa.	Payqa nirqa maman hina chayna puriynin kasqata niq	entailment
+25518	quy	Chaymantaqa maman nirqa, mamanmi ñawpaqman kurkurqa hinaspa qawaspa nirqa. Pay hina riy nirqa.	Maman hawkayasqa kasqanta hinaspa mana puriy atisqanta nirqa.	contradiction
+25519	quy	Yachanki, payqa petalos nisqata wakpi quntachirqa hinaqa ñuqa mana ima consevuecia nisqa kasqanta yacharqanichu.	Manam unqurunanta yacharqanichu.	neutral
+25520	quy	Yachanki, payqa petalos nisqata wakpi quntachirqa hinaqa ñuqa mana ima consevuecia nisqa kasqanta yacharqanichu.	Manam payta ima pasarqunanta yacharqanichu.	entailment
+25521	quy	Yachanki, payqa petalos nisqata wakpi quntachirqa hinaqa ñuqa mana ima consevuecia nisqa kasqanta yacharqanichu.	Ycharqanim pay chayta ruraptin ima pasarunanta.	contradiction
+25522	quy	Ah, huk chaypi allinqa apakurqa allin qawasqayqa paniypa ñawpaq yuyariyninmi, chaypas hina hipa pampapim karqa.	Manam chay wasimanta yuyakuyniy kanchu.	contradiction
+25523	quy	Ah, huk chaypi allinqa apakurqa allin qawasqayqa paniypa ñawpaq yuyariyninmi, chaypas hina hipa pampapim karqa.	hipa pampapi margarita nisqa quqarisqaytam yuyaruni.	neutral
+25524	quy	Ah, huk chaypi allinqa apakurqa allin qawasqayqa paniypa ñawpaq yuyariyninmi, chaypas hina hipa pampapim karqa.	Yuyaruniqa hipa pampapi huk ima apakusqantam.	entailment
+25525	quy	Chaymi chay llapan sasachakuy, ichapas, imakunapas sasachakuypi tarikunankupaq karqam, karqa hinam, mana yachasqaykita hinam quchkanki, chayqa kay ruray niq hinam.	Manam imayna kunan kamachiwasqan rurayta atirqanichu.	entailment
+25526	quy	Chaymi chay llapan sasachakuy, ichapas, imakunapas sasachakuypi tarikunankupaq karqam, karqa hinam, mana yachasqaykita hinam quchkanki, chayqa kay ruray niq hinam.	Oficinapi caja de fusibles nisqata hukta qinanaypaqmi niwarqa, ichaqa manam cableado eéctricomanta yachanichu.	neutral
+25527	quy	Chaymi chay llapan sasachakuy, ichapas, imakunapas sasachakuypi tarikunankupaq karqam, karqa hinam, mana yachasqaykita hinam quchkanki, chayqa kay ruray niq hinam.	Kunanmi mañaruwarqaku entranasqallaypaq imatapas ruranayta.	contradiction
+25528	quy	Kayqayá kunanqa, kaypi kachkan, kunanchu munanki.	Haykappipasi chaskiyta atinman nirqam.	contradiction
+25529	quy	Kayqayá kunanqa, kaypi kachkan, kunanchu munanki.	Kunansi chaskiyta munanman nirqam.	entailment
+25530	quy	Kayqayá kunanqa, kaypi kachkan, kunanchu munanki.	5.00 pm pichqa pacha chisinyaytas hatun llamkay tukusqata chaskiyta munan nirqam.	neutral
+25531	quy	Hinaqa llaki kaptin ripukurqaniku.	Hun pachapim ripukurqaniku.	entailment
+25532	quy	Hinaqa llaki kaptin ripukurqaniku.	Huk suyumanmi waranqa isqun oachakn isqun chunka iskayniyuqta ripukurqaniku.	neutral
+25533	quy	Hinaqa llaki kaptin ripukurqaniku.	Chaymantaqa manam kuyururqanikuchu.	contradiction
+25534	quy	Manam Faulk mamata riqsirqanichu, payqa pusaq chunka watanpim karqa, allin runam karqa, huk iskaykamanmi rikurqani, chaymi mancharisqa kachkarqani.	Faulk warmitaqa unaychuqaya rikurqani, ichaqa manam anchachu riqsini.	entailment
+25535	quy	Manam Faulk mamata riqsirqanichu, payqa pusaq chunka watanpim karqa, allin runam karqa, huk iskaykamanmi rikurqani, chaymi mancharisqa kachkarqani.	Faulk warmipa masinmi ñuqa karqani.	contradiction
+25536	quy	Manam Faulk mamata riqsirqanichu, payqa pusaq chunka watanpim karqa, allin runam karqa, huk iskaykamanmi rikurqani, chaymi mancharisqa kachkarqani.	La señora Faulk sapa punchaw qillu honda nisqata apaq llamkayninman rinanpaq.	neutral
+25537	quy	Mallard Creek nisqapa 85 nisqapi yacharqaniku, kunanqa tawa pachak pusaq chunka pichqayuq chaypiqa hampurqaniku tawa pachak pusaq chunka pichqa kaptinmi.	Chaypim yacharqaniku huk quyllur wasipi.	neutral
+25538	quy	Mallard Creek nisqapa 85 nisqapi yacharqaniku, kunanqa tawa pachak pusaq chunka pichqayuq chaypiqa hampurqaniku tawa pachak pusaq chunka pichqa kaptinmi.	Chaypim unay wata yacharqaniku.	entailment
+25539	quy	Mallard Creek nisqapa 85 nisqapi yacharqaniku, kunanqa tawa pachak pusaq chunka pichqayuq chaypiqa hampurqaniku tawa pachak pusaq chunka pichqa kaptinmi.	Chaypiqa iskay punchawkunallam yacharqaniku.	contradiction
+25540	quy	Llamkaq masiy, iskay kawsayniyuq runa hinata karqa, tío.	Manam allinchu kachkarqa.	entailment
+25541	quy	Llamkaq masiy, iskay kawsayniyuq runa hinata karqa, tío.	Umalliqniy chiqaqta kusisqaqachu karqa utaq uma muyuchu.	neutral
+25542	quy	Llamkaq masiy, iskay kawsayniyuq runa hinata karqa, tío.	Umalliqniyqa sumaq hinataq kaq punim karqa.	contradiction
+25543	quy	Ancha watayuqñam tayta hina kananpaq.	Payqa iskay chunka qanchisniyuq watawanmi apawan.	neutral
+25544	quy	Ancha watayuqñam tayta hina kananpaq.	Payqa ñuqamanta aswan maqtaraqmi.	contradiction
+25545	quy	Ancha watayuqñam tayta hina kananpaq.	Mayqa ñuqa ñawpaqniymi.	entailment
+25546	quy	Llapachanmi conectasqa kachkan hinaqa Dios, hayka pachayá kanqa.	Hayka pacha kanantam mana yachanichu.	entailment
+25547	quy	Llapachanmi conectasqa kachkan hinaqa Dios, hayka pachayá kanqa.	Hayka pachayá kawsaypa uku karinqa.	neutral
+25548	quy	Llapachanmi conectasqa kachkan hinaqa Dios, hayka pachayá kanqa.	Tawa chaki (10 cm) largon midesqantaqa yachanim.	contradiction
+25549	quy	Kunanqa manam ancha kusisqachu karqani pisipaywan kaspay.	¡Ñuqa ancha kusikusqa, sumaqmi kachkarqani!	contradiction
+25550	quy	Kunanqa manam ancha kusisqachu karqani pisipaywan kaspay.	Ancha munaywanmi kachkarqa kusikuywan kananpaq hina imaynanpi payqa huk punchaw manaraq punchawpi chayamunan kasqa.	neutral
+25551	quy	Kunanqa manam ancha kusisqachu karqani pisipaywan kaspay.	Kusikuymantam ancha kachkarqa pay chaypi kaptin.	entailment
+25552	quy	Aswan chayqa mamakuna drogodependientes nisqa kaptinmi kan	Drogadicta nisqakunam mamakunaqa.	neutral
+25553	quy	Aswan chayqa mamakuna drogodependientes nisqa kaptinmi kan	Mamakunaqa mana prescripcion nisqata nitaq medicamentokunata upyankuchu.	contradiction
+25554	quy	Aswan chayqa mamakuna drogodependientes nisqa kaptinmi kan	Droga nisqatam mama upyaq	entailment
+25555	quy	Arí, allinpunim, para chayamuchkarqa.	Manam ima hukuwanchu para.	neutral
+25556	quy	Arí, allinpunim, para chayamuchkarqa.	Munaycham hinataq para param.	entailment
+25557	quy	Arí, allinpunim, para chayamuchkarqa.	Millaypay millapaymi intipa akchi qitunayninwan.	contradiction
+25558	quy	Ow, huk kawsaypa chanin hinaqa pi rehabilitayta atichwanchu manachu.	Llapachan kawsaymi rehabilitasqa kanan chaymi pitapas rehabilitayqa atichwan utaq manapas.	neutral
+25559	quy	Ow, huk kawsaypa chanin hinaqa pi rehabilitayta atichwanchu manachu.	Manay mayqin runapas rehabilitasqa kanmanchu.	contradiction
+25560	quy	Ow, huk kawsaypa chanin hinaqa pi rehabilitayta atichwanchu manachu.	Rehabilitación nisqallamantaqa kawsayqa allinpunim.	entailment
+25561	quy	Ow, maqta kaypi huk niraq sasachakuy cableadopi kapusuchkanki	Manam imaypipas kayna cableado kaq sasakuy rikurichiqtaqa rikurqanichu.	neutral
+25562	quy	Ow, maqta kaypi huk niraq sasachakuy cableadopi kapusuchkanki	Cableado nisqaqachuqa sasachakuyqa.	contradiction
+25563	quy	Ow, maqta kaypi huk niraq sasachakuy cableadopi kapusuchkanki	Huk sasachakuymi kay cableado nisqawan kachkan.	entailment
+25564	quy	Ancha allinmi uyarikun, arí, hayka ruray atinankum pantay manachiwan	Indulgentekuna kayninkuwanmi qalay pantaymanani.	contradiction
+25565	quy	Ancha allinmi uyarikun, arí, hayka ruray atinankum pantay manachiwan	Chaypi mikuywan, yakuwan saqirususqaykim paytaymanachiwan.	neutral
+25566	quy	Ancha allinmi uyarikun, arí, hayka ruray atinankum pantay manachiwan	Anchatam imayna tariy atisqankuwan pantaykachiwarqa.	entailment
+25567	quy	arí, chay kaqmanmi nillachkani, chay allichakuyta tukurunaykipaqmi, llapan llamkay chay apakusqanwan…podrías ir a un Club Med vacaciones nisqapi llapan chaniyuqwan.	$ 2000 iskay waranqa chanim llapan munasqaykipa.	neutral
+25568	quy	arí, chay kaqmanmi nillachkani, chay allichakuyta tukurunaykipaqmi, llapan llamkay chay apakusqanwan…podrías ir a un Club Med vacaciones nisqapi llapan chaniyuqwan.	Achka chaniyuqwanmi kikikiqa pachakuwaq.	entailment
+25569	quy	arí, chay kaqmanmi nillachkani, chay allichakuyta tukurunaykipaqmi, llapan llamkay chay apakusqanwan…podrías ir a un Club Med vacaciones nisqapi llapan chaniyuqwan.	Pisi chaniyuqllam pachakuyqa.	contradiction
+25570	quy	Ow, Ichaqa iskay chunka hukniyuq hinataq inskay chunka tawayuq watayuqkunañam warmayqa, chaynama manam nanaychu	Manam chayqa allinñachu iskay chunka watanmanta aswanniyuqkunañam.	entailment
+25571	quy	Ow, Ichaqa iskay chunka hukniyuq hinataq inskay chunka tawayuq watayuqkunañam warmayqa, chaynama manam nanaychu	Ruranaymi, watanmanmi chayay chkankuña.	neutral
+25572	quy	Ow, Ichaqa iskay chunka hukniyuq hinataq inskay chunka tawayuq watayuqkunañam warmayqa, chaynama manam nanaychu	Ruranaymi iskayninkum chunka, chunka hukniyuq watayuq.	contradiction
+25573	quy	Waw, kusa Fresno nisqachu kay.	Fresno nisqapim paqarirqani.	neutral
+25574	quy	Waw, kusa Fresno nisqachu kay.	Manam kay may kasqanta yachanichu.	contradiction
+25575	quy	Waw, kusa Fresno nisqachu kay.	Nisayki Fresnom Kay.	entailment
+25576	quy	Ari, imay pachapas runakuna imaynanpipas llamkayninpi tarikuq utaq ima rurananta ruranan kachkaptin mana atiqkunapaq.	Arí, ichapas runakuna mana imaynanpipas allinta ruranmankuchu.	entailment
+25577	quy	Ari, imay pachapas runakuna imaynanpipas llamkayninpi tarikuq utaq ima rurananta ruranan kachkaptin mana atiqkunapaq.	Ari, ichapas runakuna mana yarqayniyuq kaqkuna.	neutral
+25578	quy	Ari, imay pachapas runakuna imaynanpipas llamkayninpi tarikuq utaq ima rurananta ruranan kachkaptin mana atiqkunapaq.	Arí, runakunapa ima rurayninkupas mana imaypipas sasachakuypi tarikunchu.	contradiction
+25579	quy	Manam, muyuyllapiraqmi kachkan. Suqta wata tukuymantam muyuyllapiraq kachkarqa.	Manaraq waranqa isqun pachak qanchis chunkatam muyuypi kachkarqa.	entailment
+25580	quy	Manam, muyuyllapiraqmi kachkan. Suqta wata tukuymantam muyuyllapiraq kachkarqa.	Purikachayta munanku.	neutral
+25581	quy	Manam, muyuyllapiraqmi kachkan. Suqta wata tukuymantam muyuyllapiraq kachkarqa.	Chayraq purikachayta tukurunku.	contradiction
+25582	quy	imaynatataq aeróbicos nisqata rurawaq	¿Yachaykachiwankimanchu imaynatataq aerobic nisqata rurawaq?	entailment
+25583	quy	imaynatataq aeróbicos nisqata rurawaq	Aeróbic nisqatam anchata munachkani chay cardiovascular ruraymanta kachkani.	neutral
+25584	quy	imaynatataq aeróbicos nisqata rurawaq	Ama hina kaspaypi amaña ejercicios aeróbicosmanta rimaychu.	contradiction
+25585	quy	Kusa, chayqa allinmi mana allillanqa hamutasqanichu chaymanta.	Chaymi huk mana allin yachay hayna punchawkuna wischusqay.	contradiction
+25586	quy	Kusa, chayqa allinmi mana allillanqa hamutasqanichu chaymanta.	Kaymi allin kaq.	entailment
+25587	quy	Kusa, chayqa allinmi mana allillanqa hamutasqanichu chaymanta.	Chay paradoja nisqayki allin kaqmi.	neutral
+25588	quy	Uywana iskay punchawl punchawkunapi, Tercera edad uywana nispam sutinchanku, ichaqa payqa centro de la tercera de edadmanmi rin	Pichqa watayuq warmakunallapaqmi uywana wasi sapa punchaw kicharayachkan.	contradiction
+25589	quy	Uywana iskay punchawl punchawkunapi, Tercera edad uywana nispam sutinchanku, ichaqa payqa centro de la tercera de edadmanmi rin	Iskay punchawmanta aswannintaraqmi punchawkuna tercera edad allinniqraq kaq rinanta saqinku.	neutral
+25590	quy	Uywana iskay punchawl punchawkunapi, Tercera edad uywana nispam sutinchanku, ichaqa payqa centro de la tercera de edadmanmi rin	Machukuna uywanapaq hinatam payta nin, ichaqa centro para personas mayores nisqam sutin.	entailment
+25591	quy	Chaychu munasqan meta nisqa karqa oh	Chayraykum aswanta kallpachakusqaku.	entailment
+25592	quy	Chaychu munasqan meta nisqa karqa oh	Chaychuqaya ñawmanta munasqanku karqa.	contradiction
+25593	quy	Chaychu munasqan meta nisqa karqa oh	Munasqanta hayparunkuchu.	neutral
+25594	quy	arma nisqa harkayqa iskay makiwan ruraymi	Tiro de pistola nisqawan chawpi pantayqa huk makillawan rurasqam kan.	neutral
+25595	quy	arma nisqa harkayqa iskay makiwan ruraymi	Armakunataqa allintaqa controlanmanku iskay chakiwan rurasqam.	contradiction
+25596	quy	arma nisqa harkayqa iskay makiwan ruraymi	Iskaynin makikiwan hapiy allinta armata controlanaykipaq.	entailment
+25597	quy	Ichapasyá huk kaq mana yachasqaymanta hamun ichaqa	Manam yachanichu maymanta hamusqanta, ichaqa apurawmi.	entailment
+25598	quy	Ichapasyá huk kaq mana yachasqaymanta hamun ichaqa	Apurawtam hamun, ichaqa maymanta hamusqanta yachanim.	neutral
+25599	quy	Ichapasyá huk kaq mana yachasqaymanta hamun ichaqa	Melaza nisqa hinam hamun hinaqa yachanim haykappi hamunanta.	contradiction
+25600	quy	Manam, allillanqa manam riqsinichu, manachá.	Manam anchachu chaymanta yachani.	entailment
+25601	quy	Manam, allillanqa manam riqsinichu, manachá.	Waykukuykunamantaqa upa mana yachaqmi kani.	neutral
+25602	quy	Manam, allillanqa manam riqsinichu, manachá.	Watantinmi kaymanta yachachkarqani.	contradiction
+25603	quy	Arí, yachankiñam pay kusa kasqanta.	Yachanchusmi allinsu kasqanta.	neutral
+25604	quy	Arí, yachankiñam pay kusa kasqanta.	Manam, payqa millapam karqa.	contradiction
+25605	quy	Arí, yachankiñam pay kusa kasqanta.	Ari, payqa ancha allinmi karqa.	entailment
+25606	quy	Arí, payqa huk Fregona nisqa chay usanallaykita hina rantinallaykitam yachachirqa.	Huk aspiradora rantiytam yachachirqa.	contradiction
+25607	quy	Arí, payqa huk Fregona nisqa chay usanallaykita hina rantinallaykitam yachachirqa.	Huk fregona tariytam yachachirqa.	entailment
+25608	quy	Arí, payqa huk Fregona nisqa chay usanallaykita hina rantinallaykitam yachachirqa.	Huk Trapeador nisqawanmi yawar pichayta munarqa.	neutral
+25609	quy	Kaypim imakunapas mana allin kachkan, autopistapim huk tiroteo apakurqun, wasiykumanta kimsa manzana nisqapi.	Yachasqaymanta pachak waranqa karunpim tiroteo apakurqa.	contradiction
+25610	quy	Kaypim imakunapas mana allin kachkan, autopistapim huk tiroteo apakurqun, wasiykumanta kimsa manzana nisqapi.	Wasiypa anchunpim tiroteo apakurqa chaymi lluqsiyta manchakuni.	neutral
+25611	quy	Kaypim imakunapas mana allin kachkan, autopistapim huk tiroteo apakurqun, wasiykumanta kimsa manzana nisqapi.	Wasiypa anchumpim huk tiroteo karun, chiqaqtaqa manam kaypiqa allinchu.	entailment
+25612	quy	Oh, Chayqa chiqaqtaqa manam chiqaqchu, oh allinsuchu	Manam qanwanqa allin rimanakuypichu kani, sapa kutim.	contradiction
+25613	quy	Oh, Chayqa chiqaqtaqa manam chiqaqchu, oh allinsuchu	Sutillapas allin qikutaynikiwanqa allinchusmi kanki.	neutral
+25614	quy	Oh, Chayqa chiqaqtaqa manam chiqaqchu, oh allinsuchu	Allinmi mana allin kaq niqwan kanki.	entailment
+25615	quy	Chaypiim hina suqitayta munachkani.	Chaymanmi qikutapayayta munachkani.	entailment
+25616	quy	Chaypiim hina suqitayta munachkani.	Chiqaqpataqa atisqaymanta aswan allintam rurachkani.	neutral
+25617	quy	Chaypiim hina suqitayta munachkani.	Saqinanta saqispaqa manam imaypipas qipata qawasaqchu.	contradiction
+25618	quy	Arí, ¿Imayna uywataq kapusuchkanki?	¿Uywaykiqa allin warman?	neutral
+25619	quy	Arí, ¿Imayna uywataq kapusuchkanki?	¿Imayna misitataq hapiramunki?	contradiction
+25620	quy	Arí, ¿Imayna uywataq kapusuchkanki?	¿Imayna malta allquta kapusuchkanki?	entailment
+25621	quy	Kusa, Warmaykuna kan niwarqanki, ¿hayka watayuqkunataq?	¿Hayka warmaykitaq kan?	neutral
+25622	quy	Kusa, Warmaykuna kan niwarqanki, ¿hayka watayuqkunataq?	Uyay mananiqa mana warmayuq kay atinaykita.	contradiction
+25623	quy	Kusa, Warmaykuna kan niwarqanki, ¿hayka watayuqkunataq?	Waymaykunam kan nirqanki, ¿Haykataq watankuna?	entailment
+25624	quy	manapaschá aswan tiqsi muyumanta yachay sapakunachu karqaku, ichaqa yaw, ancha allinmi karqakutaq, kaymi …yachapakuq munaq runakunata munaparqaku	Ichapas mana yachay spa kayta atirqakuchu, ichaqa wayllukuqmi karqaku chaymi yachapakuqkunata munarqaku.	entailment
+25625	quy	manapaschá aswan tiqsi muyumanta yachay sapakunachu karqaku, ichaqa yaw, ancha allinmi karqakutaq, kaymi …yachapakuq munaq runakunata munaparqaku	Yachaysapakunam karqa, ichaqa mana riqsisqanpa anchunpi kaspaqa mana yachaq tukuqmi karqaku.	neutral
+25626	quy	manapaschá aswan tiqsi muyumanta yachay sapakunachu karqaku, ichaqa yaw, ancha allinmi karqakutaq, kaymi …yachapakuq munaq runakunata munaparqaku	Yachaysapakunam karqaku, ichaqa pipas yachaypi kallpachakuqtam chiqnirqaku.	contradiction
+25627	quy	Huk kutitam chayman rirqaniku, eh, chaypi, evento nisqamanta kutimuraniku hinaspa hatuschakuypa waqtankunapi luzkunata achkichiraniku hinaptinmi huk mofeta kasqa.	Hatuschakuyman kutimunaykutam añas suyawachkarqaku.	neutral
+25628	quy	Huk kutitam chayman rirqaniku, eh, chaypi, evento nisqamanta kutimuraniku hinaspa hatuschakuypa waqtankunapi luzkunata achkichiraniku hinaptinmi huk mofeta kasqa.	Huk cabratam hatuspi luzkunata wañuchachispa tarirurqaniku.	contradiction
+25629	quy	Huk kutitam chayman rirqaniku, eh, chaypi, evento nisqamanta kutimuraniku hinaspa hatuschakuypa waqtankunapi luzkunata achkichiraniku hinaptinmi huk mofeta kasqa.	Huk evento nisqamanta kutimuspaykum huk mofeta nisqata tarirurqaniku.	entailment
+25630	quy	Yachanki, llapan warmaykunam kusakuna, ancha allinkuna, manachusmá, hatun warmakunamantapas yachanmi, ichaqa	Huk hatun warmakunamantam yacharqa ichaqa llapanqa paqariyniyqa eclipsam.	entailment
+25631	quy	Yachanki, llapan warmaykunam kusakuna, ancha allinkuna, manachusmá, hatun warmakunamantapas yachanmi, ichaqa	Ancha allinmi kusikuni warmaykunapa allin yachayninkunawan.	neutral
+25632	quy	Yachanki, llapan warmaykunam kusakuna, ancha allinkuna, manachusmá, hatun warmakunamantapas yachanmi, ichaqa	Chiqaqtaqa warmaykunaqa mana yachaqkunam.	contradiction
+25633	quy	Chaynataqmy runakuna aswan qupa quñunantapas saqirunman mmm…, mmm, volumenniy limitayqa sutillpas aswan peso limitana kaqpichusmi kachkan	Achka qupakuna limitayqa aswan qupapa llasayninpim kachkan.	entailment
+25634	quy	Chaynataqmy runakuna aswan qupa quñunantapas saqirunman mmm…, mmm, volumenniy limitayqa sutillpas aswan peso limitana kaqpichusmi kachkan	Llapa runakunaqa manam anchachu qukunamanta llakikunman kayta kunan allinta mayman wikatiptinchiqa.	contradiction
+25635	quy	Chaynataqmy runakuna aswan qupa quñunantapas saqirunman mmm…, mmm, volumenniy limitayqa sutillpas aswan peso limitana kaqpichusmi kachkan	Llapa runakunaqa kunanqa qawarinanmi hayka qupa kasqantawan llasaynin rikurichisqanqa.	neutral
+25636	quy	Chayqa kunan pantanki, qampa quchaykim, niyman	Ama llakikuychu, huk pantay kaptinqa, quchachaytam yanapasaq.	contradiction
+25637	quy	Chayqa kunan pantanki, qampa quchaykim, niyman	Huk pantay kaptinqa qampa quchaykim.	entailment
+25638	quy	Chayqa kunan pantanki, qampa quchaykim, niyman	Huk pantayta rurarquspa, kikikim chayta munaychakunayki.	neutral
+25639	quy	Yachanki… llapanmanta costuras rurayqa chaynallataq chay ruraykunaqa huk profesional nisqapa tukunanta qunki.	Costuraskunataqa yachaywanmi ruranki.	entailment
+25640	quy	Yachanki… llapanmanta costuras rurayqa chaynallataq chay ruraykunaqa huk profesional nisqapa tukunanta qunki.	Apurawmanmi costurakunaqa rurakurqa chaymi saqisqa qawakun.	contradiction
+25641	quy	Yachanki… llapanmanta costuras rurayqa chaynallataq chay ruraykunaqa huk profesional nisqapa tukunanta qunki.	Unaysum costuran tukunanpaqa karqa.	neutral
+25642	quy	Arí, ari, llamkayniypiqa iskay punchawkunatam qallarinaykipaq qusunki chaymantaqa sapa watan watanmi huk punchaw, huk punchawta tawa kanankama qusunki	Pachaykiqa watan watanmi yapakuchkan.	entailment
+25643	quy	Arí, ari, llamkayniypiqa iskay punchawkunatam qallarinaykipaq qusunki chaymantaqa sapa watan watanmi huk punchaw, huk punchawta tawa kanankama qusunki	Pachaykiqa manam haykappipas kimsa punchawmanta aswanninqa kanqachu.	contradiction
+25644	quy	Arí, ari, llamkayniypiqa iskay punchawkunatam qallarinaykipaq qusunki chaymantaqa sapa watan watanmi huk punchaw, huk punchawta tawa kanankama qusunki	Samanayki punchawkunaqa hatun llaqtapim llamkaypim yapakun.	neutral
+25645	quy	Chaymi allin hatun llaqtapi yachay, manam kaykunamanta llakikunaykichu	Hatun llaqtapi yachaymi chaynakunaman sapa kuti manchakuywan yachanaykita ruran.	contradiction
+25646	quy	Chaymi allin hatun llaqtapi yachay, manam kaykunamanta llakikunaykichu	Suyupi kayqa mana chaykunaman hina llakikunaykitam rurasunki.	entailment
+25647	quy	Chaymi allin hatun llaqtapi yachay, manam kaykunamanta llakikunaykichu	Sumaq kaqa chakrapiqa manam chay imaynata hatun llaqtapi ruranaykikunamantaqa hina llakikunaykitachu ruran.	neutral
+25648	quy	Oh, oh Dios, kusa, chayqa kusikuy hina uyarikun	Chayqa asikuy utaq kusikuy, llakikuy hina qawakun.	neutral
+25649	quy	Oh, oh Dios, kusa, chayqa kusikuy hina uyarikun	Chayqa huk hatun aventura nisqa nina uyarikun.	entailment
+25650	quy	Oh, oh Dios, kusa, chayqa kusikuy hina uyarikun	Manchapa yachay hina qawakun.	contradiction
+25651	quy	kunanqa Alemaniapi huk paniy kan	Kunanqa Alemaniapi huk wawqiy yachaq kan.	entailment
+25652	quy	kunanqa Alemaniapi huk paniy kan	Kanmi huk paniy kunan Cubapi kachkan.	contradiction
+25653	quy	kunanqa Alemaniapi huk paniy kan	Kanmi huk paniy Alemán simita rimaq.	neutral
+25654	quy	Kunanqa kanmi huk uchuy waway chaymi sasa chayman apay, ichqa risaqmi, eh...	Yaqachu chayman warmay apayta atiyman.	neutral
+25655	quy	Kunanqa kanmi huk uchuy waway chaymi sasa chayman apay, ichqa risaqmi, eh...	Tumpa sasam ñuqapaq chayman waway apay.	entailment
+25656	quy	Kunanqa kanmi huk uchuy waway chaymi sasa chayman apay, ichqa risaqmi, eh...	Kunan conduciyta atispanqa, wawayqa kikillanmanta chayman imaynatapas chayamun.	contradiction
+25657	quy	Arí, Huk hatun punchaw rupay kapusunki.	Samanayki punchawpi mana allin punchawkuna kapusunaykitam suyani.	contradiction
+25658	quy	Arí, Huk hatun punchaw rupay kapusunki.	Chiqaqtaqa ñawpaqllamanñam rupay punchaw kaypi kanqa.	neutral
+25659	quy	Arí, Huk hatun punchaw rupay kapusunki.	Ari, Huk Allin rupay punchawyá kapusunki.	entailment
+25660	quy	Manam chiqaq naturalistas nisqachu kaniku nitaq imapas ichaqa eh.	Chiqaqtaqa manam naturalistas hinachu kaniku.	entailment
+25661	quy	Manam chiqaq naturalistas nisqachu kaniku nitaq imapas ichaqa eh.	¡Chiqaq Naturalista nisqam qalay kaniku hinaqa hukniraq hamutasqa hukmanmi kaniku!	contradiction
+25662	quy	Manam chiqaq naturalistas nisqachu kaniku nitaq imapas ichaqa eh.	Ñawpaq punchawta Naturalista kanaykupaq kallpachakuyta munaymanku, ichaqa kunanqa manam kanikuchu.	neutral
+25663	quy	Arí, machuykunatam yuyarini, ñantam lluqsiq karqa hinaspa latakunata quqarimuq hina eh	Huk iskay huñunakurunmanku hinaspa ñanpi qupakunata picharunmanku.	neutral
+25664	quy	Arí, machuykunatam yuyarini, ñantam lluqsiq karqa hinaspa latakunata quqarimuq hina eh	Carreterapi latakuna quqariytam machuykunata yanapaq karqani.	entailment
+25665	quy	Arí, machuykunatam yuyarini, ñantam lluqsiq karqa hinaspa latakunata quqarimuq hina eh	Taytaypa wasintam raymiman riq kaniku.	contradiction
+25666	quy	Chaynaqa kayqa manam ñawpaq ñawpaq allquwanqa yachayllaykiraqchu	Sutillapas manam chayraqchu allquwanqa kachkanki.	entailment
+25667	quy	Chaynaqa kayqa manam ñawpaq ñawpaq allquwanqa yachayllaykiraqchu	Llakikunii, manam yacharqanichu kay ñawpaq chayraq allqu rikunaykita.	contradiction
+25668	quy	Chaynaqa kayqa manam ñawpaq ñawpaq allquwanqa yachayllaykiraqchu	Kayqa manam chayraqkuchu huk uywana allquta uywachkanki.	neutral
+25669	quy	Ari, ari, ama atinapata ruraychu rí	Kawsay usupa tukuynintaqa niwankimanmi.	neutral
+25670	quy	Ari, ari, ama atinapata ruraychu rí	Maman llapantachu ruranayki.	entailment
+25671	quy	Ari, ari, ama atinapata ruraychu rí	Llapan asunto nisqa rurakuytam ruranayki.	contradiction
+25672	quy	waw, recinto nisqapa qawanpim ñuqa yachani	Ñuqaqa manam campus nisqapichu yachani.	entailment
+25673	quy	waw, recinto nisqapa qawanpim ñuqa yachani	Campus nisqamanta huk manzasanankuna nisqapiraqmi yachani.	neutral
+25674	quy	waw, recinto nisqapa qawanpim ñuqa yachani	Campus nisqapim yachani.	contradiction
+25675	quy	Manam huchayuqchu kani huk kaq warminta huk qariwan puñukuchkaqta wañunankaman maqasqanmanta tumpasqanmanta	Huk qarim warminta huk qariwan puñusqanmanta wañurachin chay acusación previa nisqamanta kacharisqa kasqa.	entailment
+25676	quy	Manam huchayuqchu kani huk kaq warminta huk qariwan puñukuchkaqta wañunankaman maqasqanmanta tumpasqanmanta	Huk qarim tumpayninkunamanta huk problema técnico kaptin kacharisqa karqa hinaspan rirurqa chaymi ñawpa yananta wañurachin.	neutral
+25677	quy	Manam huchayuqchu kani huk kaq warminta huk qariwan puñukuchkaqta wañunankaman maqasqanmanta tumpasqanmanta	Warminmi ñawpa qarin allin qalay wichqasqa kananta waqaycharqa.	contradiction
+25678	quy	Chayqa chay yanapariykunwan cuentas de ahorro hinam	Manataqmi imapas tupachinay kanchu.	contradiction
+25679	quy	Chayqa chay yanapariykunwan cuentas de ahorro hinam	Chay huk cuenta de ahorro individual hinallam.	entailment
+25680	quy	Chayqa chay yanapariykunwan cuentas de ahorro hinam	Chay ahorrros aportados nisqaqa chay hinallachusmi kanman.	neutral
+25681	quy	Wills Point nisqapam karqa, yachankichu manachá	Will Point nisqamanta uyarirankichu manapaschá.	entailment
+25682	quy	Wills Point nisqapam karqa, yachankichu manachá	Wills Point nisqamantam uyarirani.	neutral
+25683	quy	Wills Point nisqapam karqa, yachankichu manachá	Cambridgemantam.	contradiction
+25684	quy	Relojniywan kasqantam nichkani hinaqa llapachan zapatoypim kachkarqa chayqa sachakunapiqa llapanmi wak urapiqa yuraq rikurirun	Pampallapim tiyarurqa, chaynapi zapatoyqa chuya karqa.	contradiction
+25685	quy	Relojniywan kasqantam nichkani hinaqa llapachan zapatoypim kachkarqa chayqa sachakunapiqa llapanmi wak urapiqa yuraq rikurirun	Maman allinchu zapatoyta taparquptinqa karqa.	neutral
+25686	quy	Relojniywan kasqantam nichkani hinaqa llapachan zapatoypim kachkarqa chayqa sachakunapiqa llapanmi wak urapiqa yuraq rikurirun	Zapatoyqa kaykunawanmi tapasqa karqa.	entailment
+25687	quy	Wayllukuywan llamkayta hinam ruran, chayraykum oficial nisqapa yachaynin allin	Manam directivo kaytaqa uyanichu.	contradiction
+25688	quy	Wayllukuywan llamkayta hinam ruran, chayraykum oficial nisqapa yachaynin allin	Oficial kay nisqaqa allinsuchusmi kanman.	entailment
+25689	quy	Wayllukuywan llamkayta hinam ruran, chayraykum oficial nisqapa yachaynin allin	Huk runakunaqa hamutan oficial kayqa kusasu kasqanta.	neutral
+25690	quy	Chayqa, aswan allinsu yachaynin kapurqa	Sutillapas allinsuchusmi qawakunman.	neutral
+25691	quy	Chayqa, aswan allinsu yachaynin kapurqa	Sasachuqaya chaymanta allin yuyaymanay karqa.	entailment
+25692	quy	Chayqa, aswan allinsu yachaynin kapurqa	Diseño nisqaqa millapam karqa	contradiction
+25693	quy	Hinaspaykum hukpi lataykuta churarqaniku, vasoykutañataqa hukpi, rapita hukpi hinaspa qunta kaptinñataqmi coche nisqaman qispichirqaniku chaymantaqa apayqa tumpallañam	Ancha sasam rapikuna, vidrio, latakuna kikinpa yaykunanpi rakinaruspa qispichiyqa.	entailment
+25694	quy	Hinaspaykum hukpi lataykuta churarqaniku, vasoykutañataqa hukpi, rapita hukpi hinaspa qunta kaptinñataqmi coche nisqaman qispichirqaniku chaymantaqa apayqa tumpallañam	Rapim ñawpaqtaqa quntarun, chaymanta latakuna, chaymanta vidrío.	neutral
+25695	quy	Hinaspaykum hukpi lataykuta churarqaniku, vasoykutañataqa hukpi, rapita hukpi hinaspa qunta kaptinñataqmi coche nisqaman qispichirqaniku chaymantaqa apayqa tumpallañam	Ñuqaykuqa manam imata rakinanikuchu, wayqallamanmi llapanta wikatiniku.	contradiction
+25696	quy	Locust Hill oh awriki, ari, kusa	Locust Hill nisqaqa allinmi.	neutral
+25697	quy	Locust Hill oh awriki, ari, kusa	Mana, Locust Hill nisqaqa manam.	contradiction
+25698	quy	Locust Hill oh awriki, ari, kusa	Arí, chayqa allinmi, Locust Hill.	entailment
+25699	quy	Césped bermuda kaypi kapuwan chaymi achka yakupaq hinaqa huk green campo de golf hina kananpaqa taksallatam kachinayki.	Céspedes Bermudan nisqapaqa achkam llamkayninku kachkan.	neutral
+25700	quy	Césped bermuda kaypi kapuwan chaymi achka yakupaq hinaqa huk green campo de golf hina kananpaqa taksallatam kachinayki.	Césped islas bermudas nisqaman, golf quyllur pampata hinam qawarichinman.	entailment
+25701	quy	Césped bermuda kaypi kapuwan chaymi achka yakupaq hinaqa huk green campo de golf hina kananpaqa taksallatam kachinayki.	Césped de bermuda nisqallatam yananpi parqunayki.	contradiction
+25702	quy	huk niquel asnin, utaq hina kaqlla, kimsa chunka centavos nisqa suqta botellamanta, llapachankum huk suyuta chimpanku pisi chaniyuq upyana rantiq.	Huk suq qipipi yaykuqmi yaqapas kimsa chunka centavos aswan pisi chaniyuq huklaw suyupa chinpanpi.	entailment
+25703	quy	huk niquel asnin, utaq hina kaqlla, kimsa chunka centavos nisqa suqta botellamanta, llapachankum huk suyuta chimpanku pisi chaniyuq upyana rantiq.	Achka runakunam pisi chaniyuqlla upyanakuna tariq huklaw suyuta chinpanku.	neutral
+25704	quy	huk niquel asnin, utaq hina kaqlla, kimsa chunka centavos nisqa suqta botellamanta, llapachankum huk suyuta chimpanku pisi chaniyuq upyana rantiq.	Suyupa huklawninpim botellakuna aswan chaniyuq.	contradiction
+25705	quy	Arí, uyarinin	Payqa aswan allin sinchi ñuqa uyarinaypaq hina.	entailment
+25706	quy	Arí, uyarinin	Manam uyariyta atiymanchu.	contradiction
+25707	quy	Arí, uyarinin	Uyarinichusmi.	neutral
+25708	quy	Sapa kuti articulo nisqata rantinki, aswanqa huk articulo hatun rantinata, chayqa huk payllanaykim hinaqa yaparqankim diez por ciento de impuesto nisqata.	Diez por ciento nsiqa payllayqa paqwaysum.	neutral
+25709	quy	Sapa kuti articulo nisqata rantinki, aswanqa huk articulo hatun rantinata, chayqa huk payllanaykim hinaqa yaparqankim diez por ciento de impuesto nisqata.	Sapa kutim rantisqaykim diez por ciento impuesto nisqata llapa rantisqaykipa chanin qurqusqaykiman yapanayki.	entailment
+25710	quy	Sapa kuti articulo nisqata rantinki, aswanqa huk articulo hatun rantinata, chayqa huk payllanaykim hinaqa yaparqankim diez por ciento de impuesto nisqata.	Amam haykappipas chanin qurqunaykipaqa impuesto nisqataqa qurqunaykichu.	contradiction
+25711	quy	tumpa yanallanpim ichaqa auspicios nisqantakamanmi rurakun	Manam sapa kutichu.	entailment
+25712	quy	tumpa yanallanpim ichaqa auspicios nisqantakamanmi rurakun	Sapa punchaw hinam.	contradiction
+25713	quy	tumpa yanallanpim ichaqa auspicios nisqantakamanmi rurakun	Yanallanpim kayna runaqa rikukun.	neutral
+25714	quy	Chaymi rurana patanchasqa kachkan, chaynam ari kananta suyani	Pay rurananta allintayá ruranman.	entailment
+25715	quy	Chaymi rurana patanchasqa kachkan, chaynam ari kananta suyani	Allinsun paypaq kanqa ruray munasqanta ruraptinqa.	neutral
+25716	quy	Chaymi rurana patanchasqa kachkan, chaynam ari kananta suyani	Manam chay rurananpaqa qallariynin kanchu.	contradiction
+25717	quy	Chay kaq, ichaqa chay musuq kamachikuykunawanqa ancha sasa kasqanmanta nichkani	Chiqaq kaqmantaqa, kamachikuykunaqa ñawpa mana allin kaqñam.	contradiction
+25718	quy	Chay kaq, ichaqa chay musuq kamachikuykunawanqa ancha sasa kasqanmanta nichkani	Chaypunin, ichaqa chay regulación nisqa ruraykunataqa unaysupim chiqaqtaqa qispiramun.	neutral
+25719	quy	Chay kaq, ichaqa chay musuq kamachikuykunawanqa ancha sasa kasqanmanta nichkani	Chaywanqa, musuq regulacionkuna nisqakunawanqa, kunan aswan sasam.	entailment
+25720	quy	Golly, Payqa manam mayqin kamachikuykunatapas qatirqachu hinaqa ñuqata mana ancha piñachiwaqniy hinachu karqa, chaynapunim, kamaslla qaytawan qurqurunku	Pyqa llapan kamachikuykunatam mana kasunchu.	entailment
+25721	quy	Golly, Payqa manam mayqin kamachikuykunatapas qatirqachu hinaqa ñuqata mana ancha piñachiwaqniy hinachu karqa, chaynapunim, kamaslla qaytawan qurqurunku	Payqa llapan kamachikuykunatam qatirqa chaywanpas wikatisqam karqa.	contradiction
+25722	quy	Golly, Payqa manam mayqin kamachikuykunatapas qatirqachu hinaqa ñuqata mana ancha piñachiwaqniy hinachu karqa, chaynapunim, kamaslla qaytawan qurqurunku	Payqa llapa normas nisqatamiki qatinman karqa.	neutral
+25723	quy	Arí, Manataqmi atikuq hinachu, ¿awriki?	Manam iskayrayanichu kunankunalla apakunanta.	contradiction
+25724	quy	Arí, Manataqmi atikuq hinachu, ¿awriki?	Chiqaqtaqa manachusma apakuyta atinmanchu.	entailment
+25725	quy	Arí, Manataqmi atikuq hinachu, ¿awriki?	Arí, manachusma apakunmanchu, ichaqa hinataqmi apakunan saywa kan.	neutral
+25726	quy	Yaqallapas richkanku Washington mana atipachikuq, Buffalo Nueva Orleans chaynallataq Chicago kayqa iskayllakamanmi atiparqachikun huk kaqninmi Buffalo nisqa karqa.	Buffalo nisqaqa allin equipo general nisqayuqmi kachkan.	neutral
+25727	quy	Yaqallapas richkanku Washington mana atipachikuq, Buffalo Nueva Orleans chaynallataq Chicago kayqa iskayllakamanmi atiparqachikun huk kaqninmi Buffalo nisqa karqa.	Huk kaq iskaywan Chicago atipachikusqan equipo nisqaqa Buffalo nisqam.	entailment
+25728	quy	Yaqallapas richkanku Washington mana atipachikuq, Buffalo Nueva Orleans chaynallataq Chicago kayqa iskayllakamanmi atiparqachikun huk kaqninmi Buffalo nisqa karqa.	Washinton nisqata llapachan partido nisqapim atiparachikun.	contradiction
+25729	quy	hum, hum, hum, pachapi impuesto nisqanchiqa kachkanmi.	Pachakunaqa mana impuesto nisqayuqllam.	contradiction
+25730	quy	hum, hum, hum, pachapi impuesto nisqanchiqa kachkanmi.	Rantikuna impuesto nisqaqa aswanllay aswansum.	neutral
+25731	quy	hum, hum, hum, pachapi impuesto nisqanchiqa kachkanmi.	Rantikunamanta Tropa nisqakunapa impuesto kan.	entailment
+25732	quy	Way allinta qawani, ñuqapas kawsaypachata munanim	Kawsaypachataqa munanim.	entailment
+25733	quy	Way allinta qawani, ñuqapas kawsaypachata munanim	Manam ancha allinchu kani kay llakipa chawpinpi.	contradiction
+25734	quy	Way allinta qawani, ñuqapas kawsaypachata munanim	Ancah allinmi kaypi tarikuni chaytam munaniqa.	neutral
+25735	quy	Mmm, kanmi huk warmi, qari waway chunka pusaq killayuq.	Acha warmaymi kan.	contradiction
+25736	quy	Mmm, kanmi huk warmi, qari waway chunka pusaq killayuq.	Huk warmi wawaymi kan, huk warmi wawa chunka pusaq killayuq.	entailment
+25737	quy	Mmm, kanmi huk warmi, qari waway chunka pusaq killayuq.	Aswan warmayuq kayta munayman.	neutral
+25738	quy	Iskay kapuqninqa camada nisqamanta huk cachorrokunam chaynallataq sapallan urqu usasqanmi kirunpi sasachakuyniyuq karqa	Paypaqa manam uchuy alluquchaqa karqachu.	contradiction
+25739	quy	Iskay kapuqninqa camada nisqamanta huk cachorrokunam chaynallataq sapallan urqu usasqanmi kirunpi sasachakuyniyuq karqa	urqu kaqpam kirun mana allin karqachu iskay kaq allquchañataq basuramanta quqarirurqaku.	entailment
+25740	quy	Iskay kapuqninqa camada nisqamanta huk cachorrokunam chaynallataq sapallan urqu usasqanmi kirunpi sasachakuyniyuq karqa	llapampim pusaq allquchakuna karqa, urqu kaqllapam mana kirunwan allinchu karqa.	neutral
+25741	quy	oh chaymantachu qamun nisqayki	¿Chay kasqaykimantachu qayakamuchkanki?	entailment
+25742	quy	oh chaymantachu qamun nisqayki	Karu karumantam qayakamuchkan.	neutral
+25743	quy	oh chaymantachu qamun nisqayki	Manachu chaymanta qayakamuchkanki.	contradiction
+25744	quy	Allillaqa manam yachanichu, manaraqmi ancha pachata apaniraqchu, yachasqaykiman hinaqa.	Manam sapakutichu pacha pachakunawanqa churakunichu.	entailment
+25745	quy	Allillaqa manam yachanichu, manaraqmi ancha pachata apaniraqchu, yachasqaykiman hinaqa.	Allin pachakuytam munani.	neutral
+25746	quy	Allillaqa manam yachanichu, manaraqmi ancha pachata apaniraqchu, yachasqaykiman hinaqa.	Pacha pachakuytam sapakuti churakuni.	contradiction
+25747	quy	¿europa suyupi museokunaman rirankichu?	¿Mayqin museo europeo niqta watukurankichu?	entailment
+25748	quy	¿europa suyupi museokunaman rirankichu?	¿Mayqin museo canada suyupi kaqta watukurankichu?	contradiction
+25749	quy	¿europa suyupi museokunaman rirankichu?	Munaqcha kanki europa watukuyta.	neutral
+25750	quy	allintachusmi ñawparichkanki ¿yachakichu imaynam kachkan camisetayki icha ñuqachu?	¿Qusaykita camisetaykita munanchu?	entailment
+25751	quy	allintachusmi ñawparichkanki ¿yachakichu imaynam kachkan camisetayki icha ñuqachu?	¿ñañayki imatataq nin walikimanta?	contradiction
+25752	quy	allintachusmi ñawparichkanki ¿yachakichu imaynam kachkan camisetayki icha ñuqachu?	Ancha sumaqmi camisetaykiqa.	neutral
+25753	quy	Manachus aluminio forjado niqpaqchu, ichaqa aluminio prensadollas	Hukniraq pisi qullqillapaq metal nisqawan ruwaspa kachkan.	entailment
+25754	quy	Manachus aluminio forjado niqpaqchu, ichaqa aluminio prensadollas	Cobrepuromantam ruwasqa kasqa.	contradiction
+25755	quy	Manachus aluminio forjado niqpaqchu, ichaqa aluminio prensadollas	Mana allin willakuqkunam karqaku.	neutral
+25756	quy	manchachiwachkasqaraq	Tumpa mancharisqam kachkarani.	neutral
+25757	quy	manchachiwachkasqaraq	Hinallam mancharisqa kachkarani.	entailment
+25758	quy	manchachiwachkasqaraq	manam manchachiwanchu.	contradiction
+25759	quy	Chaymantaqa iskay ñiqi kaqta yaqapas payllay atinankutam qawayman	Hintaqmi qawani mayqintaq allin paykunapaq.	entailment
+25760	quy	Chaymantaqa iskay ñiqi kaqta yaqapas payllay atinankutam qawayman	Imananchu imawan chaniyuqwanaykichikpaqpas.	contradiction
+25761	quy	Chaymantaqa iskay ñiqi kaqta yaqapas payllay atinankutam qawayman	Yachakunmi, manachus anchataqa uyanaykichu.	neutral
+25762	quy	Kusa, manam yuyanichu, chaynachusmi karqa, ichaya manapas kanmanchu, ninimá ninimá	Manam allillaqa kanmanchu, ichapas chayna.	entailment
+25763	quy	Kusa, manam yuyanichu, chaynachusmi karqa, ichaya manapas kanmanchu, ninimá ninimá	Manam allillaqa lliwtaqa yuyarinichu chisim achka vinota upiarurani.	neutral
+25764	quy	Kusa, manam yuyanichu, chaynachusmi karqa, ichaya manapas kanmanchu, ninimá ninimá	Chay tuta ima kasqantapas chuyatam qamutayniy yuyarin.	contradiction
+25765	quy	Qam TV nisqaytikiwan, sutillpas huk allin televisión suwakuymanta wanachinapaqa wañuchiychusmi kanman	¿Suwakuymanta wañuywan wanachiy allinchu kanman?	neutral
+25766	quy	Qam TV nisqaytikiwan, sutillpas huk allin televisión suwakuymanta wanachinapaqa wañuchiychusmi kanman	Qampaq allinchu pipas televisión suwakuqta wañuchiywan huchachay kanman.	entailment
+25767	quy	Qam TV nisqaytikiwan, sutillpas huk allin televisión suwakuymanta wanachinapaqa wañuchiychusmi kanman	Televisión allin suwakunankupaq allinchu ripukunan saqiy kanman.	contradiction
+25768	quy	Playa nisqaqa sumaqmi karqa chaymi aswan munay watuykunapaq karqa, sutillapas chaychusmi allin munay llaqtay qampaqa?	Ñuqaqa playa nisqatam munani kayqa allin chuya, sumaq waqaychasqam kachkan.	neutral
+25769	quy	Playa nisqaqa sumaqmi karqa chaymi aswan munay watuykunapaq karqa, sutillapas chaychusmi allin munay llaqtay qampaqa?	Huk chayaykuy munasqayqa playa nisqam, kayqa ancha munaycham. ¿Mayqintaq chayaykuy manasqayki kaw?	entailment
+25770	quy	Playa nisqaqa sumaqmi karqa chaymi aswan munay watuykunapaq karqa, sutillapas chaychusmi allin munay llaqtay qampaqa?	Ñuqapaqa sasa sachapa ukunpi kaychusmi allin kanman.	contradiction
+25771	quy	huk willakuyta chay ukuman chamqariy	Ama yachachiychu ima willakuykunatapas.	contradiction
+25772	quy	huk willakuyta chay ukuman chamqariy	Refresco niqpata willakuyta churay.	neutral
+25773	quy	huk willakuyta chay ukuman chamqariy	Coca cola niqta willakuyta wakpi churay.	entailment
+25774	quy	Kusa, allinta yachaykunayta suyaykuway, chaynaqa hamutanki pistolapaq icha pichqa punchaw suyanata utaq hina chaykuna allinlla kananqa	¿Yaqachu wakin runakuna pichqa punchaw harkasqata suyanakupaq allin kanman?	neutral
+25775	quy	Kusa, allinta yachaykunayta suyaykuway, chaynaqa hamutanki pistolapaq icha pichqa punchaw suyanata utaq hina chaykuna allinlla kananqa	¿Imaynataq chay armas de juego rantiy maskaqkunawan pichqa punchaw harkaruywan kanman?	entailment
+25776	quy	Kusa, allinta yachaykunayta suyaykuway, chaynaqa hamutanki pistolapaq icha pichqa punchaw suyanata utaq hina chaykuna allinlla kananqa	¿Imaniwaqtaq hawapi suyamuchunku pichqa minuto pachalla manaraq permiso nisqanta quchkaptinchik?	contradiction
+25777	quy	¡Anri! Cocker Spaniel kapuwaptinmi, hun hawapi allqu karqa chaychusmi sutillapas ancha munayqa karqa munaychusmi	Munaymanqa huk allin wasi ukupi allquchatam huk tukuy punchaw hawapi kaq allqu munaqmantaqa.	contradiction
+25778	quy	¡Anri! Cocker Spaniel kapuwaptinmi, hun hawapi allqu karqa chaychusmi sutillapas ancha munayqa karqa munaychusmi	Anchataqa hawapi yachaq allqukunatam munani, kaykunaqa llapankun allin uywakuna.	neutral
+25779	quy	¡Anri! Cocker Spaniel kapuwaptinmi, hun hawapi allqu karqa chaychusmi sutillapas ancha munayqa karqa munaychusmi	Ichaqa hawapi allqukunatam munani chay Cocker Spaniel kapuwaq hinata.	entailment
+25780	quy	Qanchis punchawpis antecedentes nisqanchikta hatipanqaku caywan ex convicto utaq mana kapususqaykita yachananpaq	Ñawpa kaq antecendentes hatipaytaqa manam apuraw ruraytaqa atikunchu.	neutral
+25781	quy	Qanchis punchawpis antecedentes nisqanchikta hatipanqaku caywan ex convicto utaq mana kapususqaykita yachananpaq	Antecedentes ñawpa kaq hatipaqa apukanqa huk killapa aswanninpiraqmi.	contradiction
+25782	quy	Qanchis punchawpis antecedentes nisqanchikta hatipanqaku caywan ex convicto utaq mana kapususqaykita yachananpaq	Hinaqa kay qanchis punchawkunatas hatipayta ruranqa.	entailment
+25783	quy	Aviónman qispiykuspam chaymanqa chayamuyman allinta kusikuman chaypi.	Chaymaqa allin kanman pawaspa chayankinan karqa.	neutral
+25784	quy	Aviónman qispiykuspam chaymanqa chayamuyman allinta kusikuman chaypi.	Acha qikutasqam kachkani avion uraychananmanta chayaykuspa ancha kusisqa kanaypaq.	entailment
+25785	quy	Aviónman qispiykuspam chaymanqa chayamuyman allinta kusikuman chaypi.	Manam imay pachapaq pawaymanchu.	contradiction
+25786	quy	Huk killakunam, suqta jurados miembros kapurqa. Yuyaymanarqani chunka iskayniyuq qyachaynin hawasqakuta imaynanpipas nisqa fieles chulla sunqukuna.	Chunka iskayniyuq juradopi runakuna sapakuti kaqtam pantarusqani.	entailment
+25787	quy	Huk killakunam, suqta jurados miembros kapurqa. Yuyaymanarqani chunka iskayniyuq qyachaynin hawasqakuta imaynanpipas nisqa fieles chulla sunqukuna.	Chunka kimsayuq runakunam sapakuti jurado hina kanku.	contradiction
+25788	quy	Huk killakunam, suqta jurados miembros kapurqa. Yuyaymanarqani chunka iskayniyuq qyachaynin hawasqakuta imaynanpipas nisqa fieles chulla sunqukuna.	Munasqaykichik lliw runakunatam jurado hinata akllakunkichikman.	neutral
+25789	quy	Llapan CEO institucion financiera nisqapa chaynallataq chay runakuna munaqpatam, hinaqa payqa aswanta munarqa institución financiera nisqakunamanta imakunapas apakusqanmanta yachayta.	Payqa manam kaqpaqchu qapiq llapa cooperativas de ahorro y credito niqta.	contradiction
+25790	quy	Llapan CEO institucion financiera nisqapa chaynallataq chay runakuna munaqpatam, hinaqa payqa aswanta munarqa institución financiera nisqakunamanta imakunapas apakusqanmanta yachayta.	Cooperativas de creditos niqtam payqa munaq.	entailment
+25791	quy	Llapan CEO institucion financiera nisqapa chaynallataq chay runakuna munaqpatam, hinaqa payqa aswanta munarqa institución financiera nisqakunamanta imakunapas apakusqanmanta yachayta.	Payqa llapa cooperativas de ahorro y credito niqtam imayna qullqichakuqtam yachayta munaq.	neutral
+25792	quy	Yachanim sasachakuykunallapi, llakikunapi tarikusqankuta, hinataq runakunapa sasachakuyninkuna kapusqanta chaynallataqmi mana tiyankuchu ni aswan allin imapas lluqsinanta mana rimayta yachaspaqa.	llapa runakuna tiyaqta ima sasachakuyninkullamanta rimaqtam rikuchkani.	contradiction
+25793	quy	Yachanim sasachakuykunallapi, llakikunapi tarikusqankuta, hinataq runakunapa sasachakuyninkuna kapusqanta chaynallataqmi mana tiyankuchu ni aswan allin imapas lluqsinanta mana rimayta yachaspaqa.	Ichaqa pisi runakunallam kunan sasachakuyninkumanta rimarinqaku.	neutral
+25794	quy	Yachanim sasachakuykunallapi, llakikunapi tarikusqankuta, hinataq runakunapa sasachakuyninkuna kapusqanta chaynallataqmi mana tiyankuchu ni aswan allin imapas lluqsinanta mana rimayta yachaspaqa.	Runakunaqa manam tiyanchu llapa sasachakuyninmanta utaq llakikuyninmanta rimanampaq.	entailment
+25795	quy	Brian en Plano, Texas, ¿imaynallataq kachkanki?	¿Maria imaynallam kachkanki?	contradiction
+25796	quy	Brian en Plano, Texas, ¿imaynallataq kachkanki?	¿Imaynallam punchawniki kachkan?	entailment
+25797	quy	Brian en Plano, Texas, ¿imaynallataq kachkanki?	Plano, Texas niqmi allin kaq.	neutral
+25798	quy	imarayku, mmmm..., Allinmi ima chakrunakuyllatam apamun	Paymantapacham ima sasachakuykuna kaqpas.	entailment
+25799	quy	imarayku, mmmm..., Allinmi ima chakrunakuyllatam apamun	Qawkallam ichaqa manam chaqrunakuyta maskanchu.	contradiction
+25800	quy	imarayku, mmmm..., Allinmi ima chakrunakuyllatam apamun	Wakin runakunam ima chaqrunakuy paqarichqtam munan.	neutral
+25801	quy	Arí, chay kaqtam kamas kunan rurarun, Darkman nisqatam apakurqani, rikurqankichu manam rikunichu, kunan tuta rikunaytan yuyaymanachkani	Tawa kutitam Darkman niqta qawaruni.	contradiction
+25802	quy	Arí, chay kaqtam kamas kunan rurarun, Darkman nisqatam apakurqani, rikurqankichu manam rikunichu, kunan tuta rikunaytan yuyaymanachkani	Manaraqmi chay Darkman nisqata qawaniraqchu, ichaqa kunan tutam qawaq riyta munaruni.	entailment
+25803	quy	Arí, chay kaqtam kamas kunan rurarun, Darkman nisqatam apakurqani, rikurqankichu manam rikunichu, kunan tuta rikunaytan yuyaymanachkani	Darkman niqtam allin pelicula kasqanta uyarirani.	neutral

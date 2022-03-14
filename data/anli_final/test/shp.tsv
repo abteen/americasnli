@@ -1,0 +1,751 @@
+id	language	premise	hypothesis	label
+25051	shp	Jakon riki, ja shinanamara ea ike, ikaxbi kikin frustradara ea ike jakopira ea jabe yoyo iribake.	Eara jabe yoyo iribiama iki.	contradiction
+25052	shp	Jakon riki, ja shinanamara ea ike, ikaxbi kikin frustradara ea ike jakopira ea jabe yoyo iribake.	Kikini sinatara ea ike jakopira ea jabe yoyo iki peoko ribake.	entailment
+25053	shp	Jakon riki, ja shinanamara ea ike, ikaxbi kikin frustradara ea ike jakopira ea jabe yoyo iribake.	Kikin jaonira noa yoyo ike.	neutral
+25054	shp	En shinanara ike westiora privilegio, itan neskara iki, itan neskara iki, eabichora 922 Ex-O ike nokon carreranko AFFC nato Fuerza Aéreankonia.	Enra onanyama ike eabicho jain ja nete.	neutral
+25055	shp	En shinanara ike westiora privilegio, itan neskara iki, itan neskara iki, eabichora 922 Ex-O ike nokon carreranko AFFC nato Fuerza Aéreankonia.	Enra onantania ibake eabicho ja numeroya ja AFFC Air Force Career camponko.	entailment
+25056	shp	En shinanara ike westiora privilegio, itan neskara iki, itan neskara iki, eabichora 922 Ex-O ike nokon carreranko AFFC nato Fuerza Aéreankonia.	Jatibira noa ja numerosbires menibakanke, nato privilegiosbo menikanai ibatabo shinabenokainxon, jatibira janso ike.	contradiction
+25057	shp	Eara yoibakanke, nato... westiora jonin ea kenai japokao noa oinyanananon ixon.	Eara tson yoiyama iki joni en onani kai.	contradiction
+25058	shp	Eara yoibakanke, nato... westiora jonin ea kenai japokao noa oinyanananon ixon.	Eara yoikanke westiora joni kenakanai ea onanti kopi.	entailment
+25059	shp	Eara yoibakanke, nato... westiora jonin ea kenai japokao noa oinyanananon ixon.	Ja jonira kikin yantan nokoke.	neutral
+25060	shp	Jarake mesko jaki yoyo iti, ikaxbira en jabo winoresai.	¡Jatibi en onana jawekibora mia yoikasai!	contradiction
+25061	shp	Jarake mesko jaki yoyo iti, ikaxbira en jabo winoresai.	Eara jaki yoyo iyamai, icha jaweki yoiti ikenbi.	entailment
+25062	shp	Jarake mesko jaki yoyo iti, ikaxbira en jabo winoresai.	Eara nato jeman historiaki yoyo iyamai mesko jawekibo yoiti jakenbi.	neutral
+25063	shp	Jara ike ja jaweki kikin importante salvankasi noa iwana, jaweskaxonbi nato bomba hidrogena potatikomara ike 30 inxon, westiora C124.	Jawebi benxoatira noa importanyamake.	contradiction
+25064	shp	Jara ike ja jaweki kikin importante salvankasi noa iwana, jaweskaxonbi nato bomba hidrogena potatikomara ike 30 inxon, westiora C124.	Westiora jawekiresra noa salvankasi ike wetsabo akamabi.	entailment
+25065	shp	Jara ike ja jaweki kikin importante salvankasi noa iwana, jaweskaxonbi nato bomba hidrogena potatikomara ike 30 inxon, westiora C124.	Nato bomba -H salvankasira noa ike kikin manejantikoma ikentian.	neutral
+25066	shp	Jaskara riki enra onanshamanyamake jawe kopi.	Enra onanbiresreske jawekopiki ika ixon.	contradiction
+25067	shp	Jaskara riki enra onanshamanyamake jawe kopi.	Enra onanyamake jawe kopira jan axeti xobobo transfierenke ixon.	neutral
+25068	shp	Jaskara riki enra onanshamanyamake jawe kopi.	Eanra onanyamake jwekopiki ja jaweki winota ixon.	entailment
+25069	shp	Nato riki Fannie Flono. Ag-- Augusta, GA tainra ja ania iki, jara yoyo ikai mesko jaweki bake ikax winotaboki.	Fannie Flononinra reprogramanribiai itan nin westiora historiabira noa rama yoiti atipanyamke.	contradiction
+25070	shp	Nato riki Fannie Flono. Ag-- Augusta, GA tainra ja ania iki, jara yoyo ikai mesko jaweki bake ikax winotaboki.	Fannie Flonora neno iki itan noara yoikai mesko jaweki bake ikax winotaboki Augusta, GA yain anixon.	entailment
+25071	shp	Nato riki Fannie Flono. Ag-- Augusta, GA tainra ja ania iki, jara yoyo ikai mesko jaweki bake ikax winotaboki.	Fannie Flonoraninra rama nete noa yoyoake jawen agendain jaweki atibo icha ikenbi.	neutral
+25072	shp	Itan pichika destacamento potara ike nato U2 ainoa.	U2 batanra en tratana iki.	entailment
+25073	shp	Itan pichika destacamento potara ike nato U2 ainoa.	U2 batanra en lidianamabirex iki.	contradiction
+25074	shp	Itan pichika destacamento potara ike nato U2 ainoa.	Eara teeke nato U2nin destacamentosain nete tibi chosko chonka baritia kaman.	neutral
+25075	shp	Westiora ikira ea bicho ikatiai nato reguladorbo iimai cámaras de altitud maxkoshoko tanakanainko.	Nokon kemara ike eabicho reguladorbo iimai iti nato tanatiainko.	neutral
+25076	shp	Westiora ikira ea bicho ikatiai nato reguladorbo iimai cámaras de altitud maxkoshoko tanakanainko.	Nato tanatira ike cámaras de altitud maxkoshokoain.	entailment
+25077	shp	Westiora ikira ea bicho ikatiai nato reguladorbo iimai cámaras de altitud maxkoshoko tanakanainko.	Noa ikaboainra jakanke jatiribibo nato tanatien reguladorbo iimakanabo.	contradiction
+25078	shp	Ea riki, nato, ja sargento koshi axeamis, jubilameta, Ricknin yoiya keska.	Teeresi riki ea nato nete kopi.	contradiction
+25079	shp	Ea riki, nato, ja sargento koshi axeamis, jubilameta, Ricknin yoiya keska.	2002 tianra eara pikota iki.	neutral
+25080	shp	Ea riki, nato, ja sargento koshi axeamis, jubilameta, Ricknin yoiya keska.	Rickninki mia yoiya moa retirado.	entailment
+25081	shp	Jarake jaweti proyecciónbo nato flujo de cajana itan, uh,eh, ja riki Cutty akanaitona, clientenin jane.	Nato cliente Cutty akanaitonra $ 10000 ganai oxetebi.	neutral
+25082	shp	Jarake jaweti proyecciónbo nato flujo de cajana itan, uh,eh, ja riki Cutty akanaitona, clientenin jane.	Westiora cliente Cutty akanaira jake.	entailment
+25083	shp	Jarake jaweti proyecciónbo nato flujo de cajana itan, uh,eh, ja riki Cutty akanaitona, clientenin jane.	Noara yamake Cutty akanai janeya clientebo.	contradiction
+25084	shp	Ja xontako jan ea akinti atipanara jema rebonko iki.	Ja xontako ea akinti keni iitaira kikin ochoira jake.	entailment
+25085	shp	Ja xontako jan ea akinti atipanara jema rebonko iki.	Ja bake jan ea akini kaira 5 millas ocho iki.	neutral
+25086	shp	Ja xontako jan ea akinti atipanara jema rebonko iki.	Yama rake tson ea akinti.	contradiction
+25087	shp	Ikaxbi jatora kaxkekana ika iki tsoaborin campokonia mekenbo itan tsoaborin xobonkonia bakebo ixon onantimatax, neskara keskara ika iki...	Jatibira jen ikanke jatibi noa camponko tekanti.	contradiction
+25088	shp	Ikaxbi jatora kaxkekana ika iki tsoaborin campokonia mekenbo itan tsoaborin xobonkonia bakebo ixon onantimatax, neskara keskara ika iki...	Jatora ikastimakana ike acuerdo iki tsoaborin campokonia mekenbo itan tsoaborin xobonkonia ixon.	entailment
+25089	shp	Ikaxbi jatora kaxkekana ika iki tsoaborin campokonia mekenbo itan tsoaborin xobonkonia bakebo ixon onantimatax, neskara keskara ika iki...	Ikastimakanara ike acuerdo iki tsobeki teeti iki ixon waxmen campokon itan tsonkin tapo chocatiki ixon.	neutral
+25090	shp	Tercera SS kira rama netera noa yoyo akai, ja U2 Quick itan ja Blackbird.	Janra desidenke moa yoyo iyamai.	contradiction
+25091	shp	Tercera SS kira rama netera noa yoyo akai, ja U2 Quick itan ja Blackbird.	Jara yoyo ikai kimisha submarinobo keskaki.	neutral
+25092	shp	Tercera SS kira rama netera noa yoyo akai, ja U2 Quick itan ja Blackbird.	Jara yoyo ikai kimisha keska jaweki.	entailment
+25093	shp	Eara yoikasai jatora jaya ikatiai, neskara keska, pichika bake. Westiora bawata iki.	Jatibi jan bakebora jirikana iki.	contradiction
+25094	shp	Eara yoikasai jatora jaya ikatiai, neskara keska, pichika bake. Westiora bawata iki.	Westiora bakera mawata iki pichika batiayax.	entailment
+25095	shp	Eara yoikasai jatora jaya ikatiai, neskara keska, pichika bake. Westiora bawata iki.	Ja bake mawatara pikota ike problemabo saludyain.	neutral
+25096	shp	Itan, jaskara riki, Androv Gromikov ninra jawebi respodenyamai, ikaxbi jatibi nato U2nin aka peliculanin informaciónyara noa ike.	Nato U2ninra kikin icha película bike.	entailment
+25097	shp	Itan, jaskara riki, Androv Gromikov ninra jawebi respodenyamai, ikaxbi jatibi nato U2nin aka peliculanin informaciónyara noa ike.	Nato U2ninra westiora tonelada de película onpax namamea bike.	neutral
+25098	shp	Itan, jaskara riki, Androv Gromikov ninra jawebi respodenyamai, ikaxbi jatibi nato U2nin aka peliculanin informaciónyara noa ike.	Noara material de archivoma ike, jakopira non adivinanreske.	contradiction
+25099	shp	Beon ronki beronkoniax pikotai irake, itan japekao ronki yoike Joe porche kaman ka.	Porchenko mapewe akara, beronko beonya ike.	entailment
+25100	shp	Beon ronki beronkoniax pikotai irake, itan japekao ronki yoike Joe porche kaman ka.	Janra beon kikin ishtonbires soake Joe porchenkonia pota pekao.	contradiction
+25101	shp	Beon ronki beronkoniax pikotai irake, itan japekao ronki yoike Joe porche kaman ka.	Kikin rarora ike Joe oinax jakopira wini peokoke.	neutral
+25102	shp	Neskara nato aeronave menoti ikenbira, ¿jawe kopiki menotiki itan charatiki si nato iki westiora componente de plomoya jaskatax nato radiación filtrameti kopi?	Nato radiaciónra contienemeti atipanke menoti itainko.	neutral
+25103	shp	Neskara nato aeronave menoti ikenbira, ¿jawe kopiki menotiki itan charatiki si nato iki westiora componente de plomoya jaskatax nato radiación filtrameti kopi?	Nato radiciónra filtrametiki westiora componente pricipalainoax avión menota pekao.	entailment
+25104	shp	Neskara nato aeronave menoti ikenbira, ¿jawe kopiki menotiki itan charatiki si nato iki westiora componente de plomoya jaskatax nato radiación filtrameti kopi?	Nato radiaciónra filtrameyamatiki menoti itainko.	contradiction
+25105	shp	Ja riki sargento koshi axeamis Clem Francis, jubilado nato fuerzas aéreas estadounidenses ainoa.	Ja Koshira moa nato Fuerza Aérea de los Estados Unidos ainoax pikota iki.	entailment
+25106	shp	Ja riki sargento koshi axeamis Clem Francis, jubilado nato fuerzas aéreas estadounidenses ainoa.	Ja Koshira ramachabi pikoibata iki jaweti semana riki.	neutral
+25107	shp	Ja riki sargento koshi axeamis Clem Francis, jubilado nato fuerzas aéreas estadounidenses ainoa.	Ja Fuerza Aérea de los Estados Unidosnin koshinra ramabi jawen carrera peoke nato semanabi.	contradiction
+25108	shp	Jakon, neskara kaman nokota iki jake rabe iamax kimisha aeronavebo nokokanaibo westiora semananinbicho itan onanyama jawenoki noyai ixon.	Semana tibira nokotai avión westiora winobires.	entailment
+25109	shp	Jakon, neskara kaman nokota iki jake rabe iamax kimisha aeronavebo nokokanaibo westiora semananinbicho itan onanyama jawenoki noyai ixon.	Nato tráfico de avionbo kaitara kikin jakoma iki.	neutral
+25110	shp	Jakon, neskara kaman nokota iki jake rabe iamax kimisha aeronavebo nokokanaibo westiora semananinbicho itan onanyama jawenoki noyai ixon.	Jawetianbira westiora aviónbi nokoyamai.	contradiction
+25111	shp	Jatonra moa entrenamiento bikana ibake trajes presurizadosain itan ea kikini basike nato traje presurizado sawei.	Kimisha oxera manakanai nato entrenamiento traje de presión saweti onanti senen anoxon.	neutral
+25112	shp	Jatonra moa entrenamiento bikana ibake trajes presurizadosain itan ea kikini basike nato traje presurizado sawei.	Nato entrenamiento traje de presión saweti onanti senen atira tiempoya iti jake.	entailment
+25113	shp	Jatonra moa entrenamiento bikana ibake trajes presurizadosain itan ea kikini basike nato traje presurizado sawei.	Nonra mia entrenana iti atipanke nato traje de presión jatibi saweti onantien nato nete senenaitian.	contradiction
+25114	shp	Eara yoikasai bombaya jitira onsabo yama ike too iyamai kopi, kikini taponko paketaxbi.	Ja bombara pilotonin desactivana ike.	neutral
+25115	shp	Eara yoikasai bombaya jitira onsabo yama ike too iyamai kopi, kikini taponko paketaxbi.	Ja bombara tooiti atinpayama ike.	entailment
+25116	shp	Eara yoikasai bombaya jitira onsabo yama ike too iyamai kopi, kikini taponko paketaxbi.	Kikin onsara ike nato bomba tooinaketian.	contradiction
+25117	shp	Jaweskaki itiki kikin en akasai jisaribi aka.	Enra onanyamake yaweskaki min nato oinai ixon.	contradiction
+25118	shp	Jaweskaki itiki kikin en akasai jisaribi aka.	Jaskarara ikayai, eara akasi iitai.	entailment
+25119	shp	Jaweskaki itiki kikin en akasai jisaribi aka.	Wetsa semana nokon proyecto senen akasi riki ea.	neutral
+25120	shp	Ikaxbi jaskara ikenbi, ja yoinabora jatibitian manotiki,en especial nato cabrabo.	Nato cabrabora granjeroinoax jabakanai nete tibi.	neutral
+25121	shp	Ikaxbi jaskara ikenbi, ja yoinabora jatibitian manotiki,en especial nato cabrabo.	Nato cabrabora jaweti iki jabakanai.	entailment
+25122	shp	Ikaxbi jaskara ikenbi, ja yoinabora jatibitian manotiki,en especial nato cabrabo.	Nato cabrabora jawe winoyamai itan moa bikana ike.	contradiction
+25123	shp	Noa jikiketianra, nato puertabo xepo ike.	Jatibi puertabora kepen ike.	contradiction
+25124	shp	Noa jikiketianra, nato puertabo xepo ike.	Noara llaveboya ibake.	neutral
+25125	shp	Noa jikiketianra, nato puertabo xepo ike.	Noara jikike puertabo kepo ikenbi.	entailment
+25126	shp	Jaskara ixonra nato jatibi totalres bixon tanati itan neska akin resuelventi iki.	Enra onana iki nato totalboresra ea kenai iki nato en resuelventi kopi.	neutral
+25127	shp	Jaskara ixonra nato jatibi totalres bixon tanati itan neska akin resuelventi iki.	Enra onanyamake jawe atirin ixon nato totalesboan bicho. Por favor, ea yoiwe jaskaxonshaman en jakoma jaweki winotabo en jakon ati kopi.	contradiction
+25128	shp	Jaskara ixonra nato jatibi totalres bixon tanati itan neska akin resuelventi iki.	Enra calculanai nato totalboki basamexon.	entailment
+25129	shp	Jara joke, puertara kepenke itan en shinanai pekao en oinxon jawen bemana jaskakiranai, itan en oina ika iki decepcionado.	Kikin emociondora ike itan kikin raro jakopira nato puerta del marco timake.	contradiction
+25130	shp	Jara joke, puertara kepenke itan en shinanai pekao en oinxon jawen bemana jaskakiranai, itan en oina ika iki decepcionado.	No culpable sientememakasira ike, ikaxbi non onana ike non problemabo ima.	neutral
+25131	shp	Jara joke, puertara kepenke itan en shinanai pekao en oinxon jawen bemana jaskakiranai, itan en oina ika iki decepcionado.	Ponte jawen bemanain jaweskakinki oinaixonra en onanke kikin decepcionado puertanko jikikiranaitian.	entailment
+25132	shp	Jaskara kopira, ea westiora historia shamama iki.	Eara westiora jainshama marokin bitioma iki.	entailment
+25133	shp	Jaskara kopira, ea westiora historia shamama iki.	Eara westiora xobo jain en marokin bitiya iki.	contradiction
+25134	shp	Jaskara kopira, ea westiora historia shamama iki.	Jarake kikin maroti xobobo icha.	neutral
+25135	shp	Itan neskara ika iki ja jawetianbi janbixbi jaweki ati maxkayama.	Jara kikin akin akinkanai.	entailment
+25136	shp	Itan neskara ika iki ja jawetianbi janbixbi jaweki ati maxkayama.	Ja jawen piti itan chopabonin akinkanai.	neutral
+25137	shp	Itan neskara ika iki ja jawetianbi janbixbi jaweki ati maxkayama.	Jara independiente iki.	contradiction
+25138	shp	Enra shinanpachoai, nokon Rios, itan Ramonara jain ike.	Ramonara naman taponko ika iki acurrucada bake poko meran ika keska.	contradiction
+25139	shp	Enra shinanpachoai, nokon Rios, itan Ramonara jain ike.	Ramonaninra eki neteshoko jakoma shinani iitai.	neutral
+25140	shp	Enra shinanpachoai, nokon Rios, itan Ramonara jain ike.	Ramonara erguidares ika ea jain kexa kepenya ikentian.	entailment
+25141	shp	¡Itan kikin ligera riki !	Kikin ichara jawekiake, ikaxbira xoayamake.	neutral
+25142	shp	¡Itan kikin ligera riki !	Jara bebon iweirama ike.	entailment
+25143	shp	¡Itan kikin ligera riki !	Jara kikin raro ike.	contradiction
+25144	shp	Enra onanyamake jaskara winota pekaoki Augustanko baeta ixon.	Jara Augustanko jai baneresa iki ataquebo ikana pakaobi.	neutral
+25145	shp	Enra onanyamake jaskara winota pekaoki Augustanko baeta ixon.	Jara Augustanko jaresai.	entailment
+25146	shp	Enra onanyamake jaskara winota pekaoki Augustanko baeta ixon.	Kikin ishtonra Augustainoax wetsanko kake.	contradiction
+25147	shp	Jatibi non akabo... jawetianbira noa yoiyamakana iki jawenoki bokanai ixon,ponte nato basekoniax pikonkibi wetsankobo jain jawete nete baneti kakinbi.	Enra jato yokayosma iki jawenoki bokanai ixon.	neutral
+25148	shp	Jatibi non akabo... jawetianbira noa yoiyamakana iki jawenoki bokanai ixon,ponte nato basekoniax pikonkibi wetsankobo jain jawete nete baneti kakinbi.	Jatibitianra noa onamankanai jawenoki ikanai itan jaweranoki bokanai ixon.	contradiction
+25149	shp	Jatibi non akabo... jawetianbira noa yoiyamakana iki jawenoki bokanai ixon,ponte nato basekoniax pikonkibi wetsankobo jain jawete nete baneti kakinbi.	Noara jawetianbi jain kai akin yoiyosma iki.	entailment
+25150	shp	Neskara yoikanke: Westiora jain mia nokoti kopiaki riki noa.	Jawebira noa kopi kopiayamakani.	contradiction
+25151	shp	Neskara yoikanke: Westiora jain mia nokoti kopiaki riki noa.	Jatora kopi aki iki nato nokona itan nokon wetsabo xobo kopi.	neutral
+25152	shp	Neskara yoikanke: Westiora jain mia nokoti kopiaki riki noa.	Kopiaki riki ja xobo kopi.	entailment
+25153	shp	Jakon, ja nete pekao, jaskara iki, ja presidente Kennedy, mm..., Cuba bloqueana iki itan, mm..., non buqueboan westiora barco ruso yatankana iki Cuba winobaini kai itan merakana iki misilbo.	Kennedyninra non tropabo misilbo benati yoike.	entailment
+25154	shp	Jakon, ja nete pekao, jaskara iki, ja presidente Kennedy, mm..., Cuba bloqueana iki itan, mm..., non buqueboan westiora barco ruso yatankana iki Cuba winobaini kai itan merakana iki misilbo.	Westiora barcobira chiteyamakanke mesko conflictobo kenyamakin.	contradiction
+25155	shp	Jakon, ja nete pekao, jaskara iki, ja presidente Kennedy, mm..., Cuba bloqueana iki itan, mm..., non buqueboan westiora barco ruso yatankana iki Cuba winobaini kai itan merakana iki misilbo.	20 misilbora barconko merakanke.	neutral
+25156	shp	Wetsa jawekibires winotaitianra, ja joni jikiai.	Ja jonira sala del tribunalyain jikia iki.	neutral
+25157	shp	Wetsa jawekibires winotaitianra, ja joni jikiai.	Ja jonira habitaciónyain jikike.	entailment
+25158	shp	Wetsa jawekibires winotaitianra, ja joni jikiai.	Ja jonira ishotoke wetsaori bires.	contradiction
+25159	shp	Mmm..., nokon yosibora jatibitian jonibo kikin, kikin cariñosaboika iki itan wetsatianra nokon papaboribi ikana iki itan sencillamentera kikin jakon ono naman noa winota iki.	Eara kikini basike nokon yosiboan xobo kaman conduceni.	neutral
+25160	shp	Mmm..., nokon yosibora jatibitian jonibo kikin, kikin cariñosaboika iki itan wetsatianra nokon papaboribi ikana iki itan sencillamentera kikin jakon ono naman noa winota iki.	Nokon yosibora ikana iki westiora pareja kikin cariñosa.	entailment
+25161	shp	Mmm..., nokon yosibora jatibitian jonibo kikin, kikin cariñosaboika iki itan wetsatianra nokon papaboribi ikana iki itan sencillamentera kikin jakon ono naman noa winota iki.	Nokon yosibora jatibitian kikin maniáticobo ika iki itan jawetianbira jaton xobonko kakasma ikatiai.	contradiction
+25162	shp	Eara tiempoma ike jatibi jawekibo wetsa jawekibiresbo tratanti.	Enra yantancha niakin keyoti atipanke.	neutral
+25163	shp	Eara tiempoma ike jatibi jawekibo wetsa jawekibiresbo tratanti.	Jatibira en niake a tiempo.	contradiction
+25164	shp	Eara tiempoma ike jatibi jawekibo wetsa jawekibiresbo tratanti.	Eara tiempoma baneke jatibi niamabi.	entailment
+25165	shp	Itan, westiora ebe teetaira ja momentobi ka iki jonibo jato axeai jaskaxon paracídabo westiora toati de armas nuclearesyain akanti kopi, ja nato bomba atómicaninbi detonanai.	Nato bomba atómicara gatilloma iki.	contradiction
+25166	shp	Itan, westiora ebe teetaira ja momentobi ka iki jonibo jato axeai jaskaxon paracídabo westiora toati de armas nuclearesyain akanti kopi, ja nato bomba atómicaninbi detonanai.	Ja detonadorninra detonamai ja bomba jaibakea potaitian.	entailment
+25167	shp	Itan, westiora ebe teetaira ja momentobi ka iki jonibo jato axeai jaskaxon paracídabo westiora toati de armas nuclearesyain akanti kopi, ja nato bomba atómicaninbi detonanai.	Shokores koshiatira mia maxkake nato bomba atómicanin gatillo tsekati kopi.	neutral
+25168	shp	Nokon yoxamanra wetsatian ea yoikatitai mesko ja baketian winota jawekibo itan, neskarabokishaman, janra ea yoikatitai jawen rareboki itan ribi jaweskashamanki ja épokabo jakatikanai ixon.	Jatibitianra en disfrutankatitai neskara winota jawekibo ea nokon yoxaman yoyai ninkati.	neutral
+25169	shp	Nokon yoxamanra wetsatian ea yoikatitai mesko ja baketian winota jawekibo itan, neskarabokishaman, janra ea yoikatitai jawen rareboki itan ribi jaweskashamanki ja épokabo jakatikanai ixon.	Nokon yoxanra jatibitian baketian winotaboki yoyoikashama iki.	contradiction
+25170	shp	Nokon yoxamanra wetsatian ea yoikatitai mesko ja baketian winota jawekibo itan, neskarabokishaman, janra ea yoikatitai jawen rareboki itan ribi jaweskashamanki ja épokabo jakatikanai ixon.	Nokon yoxamanra ea yoiya iki mesko jawen rarebo winotabo ja bake ikentian.	entailment
+25171	shp	Noara trajebo de presión completoya iki nato aviónyain, astronautaboan saweai keska, ikaxbi jaresriki nona kikin jatiobi peneshamanres, peneshamanres, botayashaman, xana reflejametai kopi, jaskara riki.	Non trajebora kikin astronautaboana jisamabobi iki.	contradiction
+25172	shp	Noara trajebo de presión completoya iki nato aviónyain, astronautaboan saweai keska, ikaxbi jaresriki nona kikin jatiobi peneshamanres, peneshamanres, botayashaman, xana reflejametai kopi, jaskara riki.	Non trajebora astronautaboana jisaribi iki, ikaxbi jaresriki nato xana reflejanai, jatian nonara peneshaman ikatiai.	entailment
+25173	shp	Noara trajebo de presión completoya iki nato aviónyain, astronautaboan saweai keska, ikaxbi jaresriki nona kikin jatiobi peneshamanres, peneshamanres, botayashaman, xana reflejametai kopi, jaskara riki.	Enra merati atipanke nato trajebo mesko color mia kenai keska.	neutral
+25174	shp	Itan jaskara ike, nokon yosira jakon jonima ike.	Nokon yosira westiora idiota ika iki.	entailment
+25175	shp	Itan jaskara ike, nokon yosira jakon jonima ike.	Nokon yosira ikatiai kikin racista itan jakoma.	neutral
+25176	shp	Itan jaskara ike, nokon yosira jakon jonima ike.	¡Nokon yosira ikatiai kikin agradable joni min westiora akinres merati!	contradiction
+25177	shp	30 iamax 40 U2 aviónbo riki, itan non peowa ika iki entrenankin piloto chinobo, piloto británicobo jatobatan, justo jatibi non netenkoshaman ja non aliadobo inontian.	Noara jawetianbi tsobebi formación biyosma iki.	contradiction
+25178	shp	30 iamax 40 U2 aviónbo riki, itan non peowa ika iki entrenankin piloto chinobo, piloto británicobo jatobatan, justo jatibi non netenkoshaman ja non aliadobo inontian.	5 semanabo kamanra non entrenana iki británicobobetan.	neutral
+25179	shp	30 iamax 40 U2 aviónbo riki, itan non peowa ika iki entrenankin piloto chinobo, piloto británicobo jatobatan, justo jatibi non netenkoshaman ja non aliadobo inontian.	Icha mesko soldadobobetanra non entrenana iki.	entailment
+25180	shp	Jaskara kopira, yoiyai jakon benawe, benawe nato ono itan ono empresain.	Janra ea yoyo ayamake.	contradiction
+25181	shp	Jaskara kopira, yoiyai jakon benawe, benawe nato ono itan ono empresain.	Eara westiora jweki benati yoike.	entailment
+25182	shp	Jaskara kopira, yoiyai jakon benawe, benawe nato ono itan ono empresain.	Janra ea yoike jawen información financiera bexonti.	neutral
+25183	shp	Janra yoike nortenko mapekana.	Yoirake jaweti iki tsasikana ja baiyain.	neutral
+25184	shp	Janra yoike nortenko mapekana.	Yoirake suryain pakekana.	contradiction
+25185	shp	Janra yoike nortenko mapekana.	Yoirake nortekiri bokana.	entailment
+25186	shp	Hum, ikama, en ponte yoikasai, enra westiora librobi en yoyo ati ikabo yoyoayosma iki.	Enra yoyo ayosma iki jawebi libro 100 pei winoaya ikabo.	neutral
+25187	shp	Hum, ikama, en ponte yoikasai, enra westiora librobi en yoyo ati ikabo yoyoayosma iki.	Icha librobora en yoyo akama iki.	entailment
+25188	shp	Hum, ikama, en ponte yoikasai, enra westiora librobi en yoyo ati ikabo yoyoayosma iki.	Librobora nete tibi yoyo akai.	contradiction
+25189	shp	Kareske itan equipaje bike itan ea ka iki ja kati yoikanaika direcciónyen.	En ja pisha jenea iki itan jara nokon problema iki ixon en shinana iki.	contradiction
+25190	shp	Kareske itan equipaje bike itan ea ka iki ja kati yoikanaika direcciónyen.	Ja pisha jan departamentonko en boa iki.	neutral
+25191	shp	Kareske itan equipaje bike itan ea ka iki ja kati yoikanaika direcciónyen.	En ja pisha boa iki jan ibo iba.	entailment
+25192	shp	Jara ike cambio de humor ikon atimabires.	Jawen estado de ánimora kikin consitente iitai.	contradiction
+25193	shp	Jara ike cambio de humor ikon atimabires.	Raro iwanaxbira oniske.	neutral
+25194	shp	Jara ike cambio de humor ikon atimabires.	Ja estado de ánimora kikini cambiametai.	entailment
+25195	shp	Eara...eara 15 joninkoniaixon katokanke ja axeti xobonko kati, itan ea kayamai, eara kayamai.	Eara katoyamakanke ja axeti xoboko kati.	contradiction
+25196	shp	Eara...eara 15 joninkoniaixon katokanke ja axeti xobonko kati, itan ea kayamai, eara kayamai.	Eara katokanke ja axeti xoboko kati.	entailment
+25197	shp	Eara...eara 15 joninkoniaixon katokanke ja axeti xobonko kati, itan ea kayamai, eara kayamai.	Eara ike ja candidato kikin ikon ati.	neutral
+25198	shp	Meskokeska cámaras de altitudra winoti akanke, eh, paseosbo nato U2 noyai peokotamabi ribi iamax trajes de presiónya noyamabi ribi.	Jatiribi joniboanra nato tanátibo desapruebankanai itan jawetianbi nato U2 noyamabi atipanyamakanai.	neutral
+25199	shp	Meskokeska cámaras de altitudra winoti akanke, eh, paseosbo nato U2 noyai peokotamabi ribi iamax trajes de presiónya noyamabi ribi.	Kikin icha entremamientobora winokanti jake nato U2 noyamabi.	entailment
+25200	shp	Meskokeska cámaras de altitudra winoti akanke, eh, paseosbo nato U2 noyai peokotamabi ribi iamax trajes de presiónya noyamabi ribi.	Nato U2 ra mia noyamakanai reken neteres.	contradiction
+25201	shp	Eara ja jawekiribi oini iki.	Enra cubrinai jatibi nato bena material.	contradiction
+25202	shp	Eara ja jawekiribi oini iki.	Enra cubrinai ja wetsa revistaboan akai jawekibo ribi.	neutral
+25203	shp	Eara ja jawekiribi oini iki.	Eara jaton yoyai jaweki ribi yoi iki.	entailment
+25204	shp	Natora primera vez ike, nato 75 baritian winota ika iki, nato legislatura de Texasnin pota ika iki westiora unidad militar Texasnin Embajadorbo ikenbi, jaska ikax, embajadorbo Texasna keni ika iki.	Nato unidades militaresbo ronki TX nin emajadorabo iti atipanyamake.	contradiction
+25205	shp	Natora primera vez ike, nato 75 baritian winota ika iki, nato legislatura de Texasnin pota ika iki westiora unidad militar Texasnin Embajadorbo ikenbi, jaska ikax, embajadorbo Texasna keni ika iki.	Nato unidad militar ronki ike Texasnin Embajadorabo janekana nato Congreso de los Estados Unidos ainxon.	neutral
+25206	shp	Natora primera vez ike, nato 75 baritian winota ika iki, nato legislatura de Texasnin pota ika iki westiora unidad militar Texasnin Embajadorbo ikenbi, jaska ikax, embajadorbo Texasna keni ika iki.	Nato unidad militar riki janekana Embajadores TX.	entailment
+25207	shp	Itiki jawe en ati atipana.	Enra jawe ati atipanke.	entailment
+25208	shp	Itiki jawe en ati atipana.	Enra onana ike jaweshaman en atipanyamai.	contradiction
+25209	shp	Itiki jawe en ati atipana.	En shinana riki en atipana ika jawebires salvanti kopi.	neutral
+25210	shp	Jara jawen kenma ikatiai, itan jaweti akin akatiai jawen poi yoikin nete tibi, janra yoika titai, jakomakin aki riki mia.	Janra jawen wetsa mesko jakon shinanbo yoikatitai.	contradiction
+25211	shp	Jara jawen kenma ikatiai, itan jaweti akin akatiai jawen poi yoikin nete tibi, janra yoika titai, jakomakin aki riki mia.	Kikin onantibires jenea iki yoikin jawen wetsa jawe jakon ati onama.	neutral
+25212	shp	Jara jawen kenma ikatiai, itan jaweti akin akatiai jawen poi yoikin nete tibi, janra yoika titai, jakomakin aki riki mia.	Jara jawen wetsabetan kikin crítica ika iki.	entailment
+25213	shp	Jaskataxra ea jawen xobon katanke itan japekaora ja número jain nokoxon en kenati ibata kenai bake.	Jawen telefonora prestanxon yatana iki kenti kopi.	neutral
+25214	shp	Jaskataxra ea jawen xobon katanke itan japekaora ja número jain nokoxon en kenati ibata kenai bake.	Enra kenake ja número jawen xobon nokoxon.	entailment
+25215	shp	Jaskataxra ea jawen xobon katanke itan japekaora ja número jain nokoxon en kenati ibata kenai bake.	En suponenkewetin kenai, ikaxbi ayamakewetin.	contradiction
+25216	shp	Jakon riki, jainra nato yamekiri nokoke itan, eh, eara jaskati shinabenoke... Westiora yoka keskara en ake, iamax jara jikike, iamax enra onanyamake.	Ramara ea kama iki, jakopira en oinama iki.	contradiction
+25217	shp	Jakon riki, jainra nato yamekiri nokoke itan, eh, eara jaskati shinabenoke... Westiora yoka keskara en ake, iamax jara jikike, iamax enra onanyamake.	Eara rama gimnasionko katanke itan japekaora yantancha ja joke itan ea saludanke.	neutral
+25218	shp	Jakon riki, jainra nato yamekiri nokoke itan, eh, eara jaskati shinabenoke... Westiora yoka keskara en ake, iamax jara jikike, iamax enra onanyamake.	Eara nato yamekiri katanke itan jara kashokoke.	entailment
+25219	shp	Nonra onanyama ike jawenoki bokanai ixon.	Nonra onanyama ike jawenoki nato grupo bokanai ixon interestatalyain.	neutral
+25220	shp	Nonra onanyama ike jawenoki bokanai ixon.	Nonra onanyama ike jawenoki nato jonibo bokanai ixon.	entailment
+25221	shp	Nonra onanyama ike jawenoki bokanai ixon.	nonra onanyama ike jawenoki bokanai ixon.	contradiction
+25222	shp	Ikaxbi neskara era ike, shinanbenowe, eara almuerzo jawekiaki kai. Pikasira ea ike.	Eara kikin pikashamaibobi ike.	contradiction
+25223	shp	Ikaxbi neskara era ike, shinanbenowe, eara almuerzo jawekiaki kai. Pikasira ea ike.	Pikasira ea ike, jakopira en nokon almuerzo pike.	entailment
+25224	shp	Ikaxbi neskara era ike, shinanbenowe, eara almuerzo jawekiaki kai. Pikasira ea ike.	Eara kikini pikashorai ike, jakopira ea cafeterianko kake.	neutral
+25225	shp	Naskara kopira, en mia yoinon rama netera ea ike nokoti renunciantires shinani.	Enra renunciankeanke.	entailment
+25226	shp	Naskara kopira, en mia yoinon rama netera ea ike nokoti renunciantires shinani.	Eara kikin akin isin atakana ike moa en atipanyamara ike.	neutral
+25227	shp	Naskara kopira, en mia yoinon rama netera ea ike nokoti renunciantires shinani.	Eara nokon maponko winotama iki renuncianti.	contradiction
+25228	shp	Mil ochocientos ochenta winomara pikota iki, 1888 iamax 1889 tianbora iti ika iki.	1900 winoamabira pikota iki.	entailment
+25229	shp	Mil ochocientos ochenta winomara pikota iki, 1888 iamax 1889 tianbora iti ika iki.	1880 diciembre oxera pikota iki.	neutral
+25230	shp	Mil ochocientos ochenta winomara pikota iki, 1888 iamax 1889 tianbora iti ika iki.	Jara pikotama iki 1984 ikamabi.	contradiction
+25231	shp	Jakonra itiki shokores ja maxko tornillo nama aka kikin atibres riki min jakomati wetsa jonibiresnin bonxan.	Ja tornilloninra tson bonxanbo jakomati atipanke.	entailment
+25232	shp	Jakonra itiki shokores ja maxko tornillo nama aka kikin atibres riki min jakomati wetsa jonibiresnin bonxan.	Ja tornillora onsama iki, jaskopira min kikin akin pachoti atipanke min kena keska akin.	contradiction
+25233	shp	Jakonra itiki shokores ja maxko tornillo nama aka kikin atibres riki min jakomati wetsa jonibiresnin bonxan.	Ja tornillora jikiai tesharantinko itan bonxanbo jakoma atipanke.	neutral
+25234	shp	Enra biche koshi joi Del Rionko kati, TX, jaskara ikax ea jain nokoketianra, jakon, en onana iki nato base de Laughlin Air Force konke ea kati.	Eara Del Rionko rankana iki, Texasain teeti kopi.	entailment
+25235	shp	Enra biche koshi joi Del Rionko kati, TX, jaskara ikax ea jain nokoketianra, jakon, en onana iki nato base de Laughlin Air Force konke ea kati.	Eara Texasyain jawetianbi kayosma iki	contradiction
+25236	shp	Enra biche koshi joi Del Rionko kati, TX, jaskara ikax ea jain nokoketianra, jakon, en onana iki nato base de Laughlin Air Force konke ea kati.	Nato fuerzas aéreasninra ea Del Rionko rankana iki, TX 2001 tian.	neutral
+25237	shp	Kikin jatibi joninra champán xeai, ikaxbi jatibixonra ja nachita keyoyamakanai; ja copanko banetebora bakeboan xeai, jakopira noa jain iki, mayamayati itan ja jatibi champán xeai.	Ja bakeboanra xeakana ike 3 botellas de champaña.	neutral
+25238	shp	Kikin jatibi joninra champán xeai, ikaxbi jatibixonra ja nachita keyoyamakanai; ja copanko banetebora bakeboan xeai, jakopira noa jain iki, mayamayati itan ja jatibi champán xeai.	Ja bakeboanra ichama champaña xeakana ike.	entailment
+25239	shp	Kikin jatibi joninra champán xeai, ikaxbi jatibixonra ja nachita keyoyamakanai; ja copanko banetebora bakeboan xeai, jakopira noa jain iki, mayamayati itan ja jatibi champán xeai.	Jatibi pishtara ike manxan itan xeati peobota metex yamakanke.	contradiction
+25240	shp	Jarake icha historiabo nato desnuda jemanko.	Enra jawebi historiabo ninkatama iki	contradiction
+25241	shp	Jarake icha historiabo nato desnuda jemanko.	Jara icha historiabo militarboki yoi ikabo.	neutral
+25242	shp	Jarake icha historiabo nato desnuda jemanko.	Jarake icha historiabo yoikanaibo.	entailment
+25243	shp	Jatiriki itan axeti riki, min onanke,jawetianki tanai, eh, avión.	Enra avionbo tanati jawekiboki jawebi onanyamake.	contradiction
+25244	shp	Jatiriki itan axeti riki, min onanke,jawetianki tanai, eh, avión.	Avionbo tanatiainra mia mesko keska jawekibo axeai.	entailment
+25245	shp	Jatiriki itan axeti riki, min onanke,jawetianki tanai, eh, avión.	Avionbo tanatiainkora mia axeakai nato presión gestionanti.	neutral
+25246	shp	Eara yoikasai jara ike jatibi ja punto.	Enra ja punto ninkastiayamai.	contradiction
+25247	shp	Eara yoikasai jara ike jatibi ja punto.	En shinanra ike ja punto jaweska onsarin ixon noa yoiti.	neutral
+25248	shp	Eara yoikasai jara ike jatibi ja punto.	Enra moa ninkake ja punto.	entailment
+25249	shp	Westiora nato base aéreainoaxra ike Cuba manao winotaikiax, itan akanke Rudolph Anderson pakekin.	Jatibi aviónbora sobrevivenkana iki tson toakamabi.	contradiction
+25250	shp	Westiora nato base aéreainoaxra ike Cuba manao winotaikiax, itan akanke Rudolph Anderson pakekin.	Jawera Cubanko paxakanke.	entailment
+25251	shp	Westiora nato base aéreainoaxra ike Cuba manao winotaikiax, itan akanke Rudolph Anderson pakekin.	Ja kikin ani aviónra poxakana iki Cuba manaonko mayo oxen.	neutral
+25252	shp	Jaweska ikaxra nato itiatipanke ja rekena jaweki bake ikax ea ikatiai jaweki en shinananai, ja jakoma jaweki parishaman kaya akabo ikentian.	Kikin jawebira en shinanyamai ea baketian ikatiai jawekibo.	contradiction
+25253	shp	Jaweska ikaxra nato itiatipanke ja rekena jaweki bake ikax ea ikatiai jaweki en shinananai, ja jakoma jaweki parishaman kaya akabo ikentian.	Kikin jakomara ea sientemetai ramakamanbi.	neutral
+25254	shp	Jaweska ikaxra nato itiatipanke ja rekena jaweki bake ikax ea ikatiai jaweki en shinananai, ja jakoma jaweki parishaman kaya akabo ikentian.	Jara ika iki nokon rekena recuerdobo.	entailment
+25255	shp	Simplementera wiso iti jato gustanyamake ja netebo, itan jara ike, minra moa onanke, en suponena riki, jaweska ikax ja ibirake, min onanke, nato década de 1930 peokotaitian, jatian akanontian.	Wiso itira suryain kikin itikoma iki.	neutral
+25256	shp	Simplementera wiso iti jato gustanyamake ja netebo, itan jara ike, minra moa onanke, en suponena riki, jaweska ikax ja ibirake, min onanke, nato década de 1930 peokotaitian, jatian akanontian.	¡Kikin itibiresra ikatiai wiso iti!	contradiction
+25257	shp	Simplementera wiso iti jato gustanyamake ja netebo, itan jara ike, minra moa onanke, en suponena riki, jaweska ikax ja ibirake, min onanke, nato década de 1930 peokotaitian, jatian akanontian.	Wiso itira kikin itikoma ikatiai jatian.	entailment
+25258	shp	Tsonra onanyama ika iki jawenoki bokanai ixon.	Jatixonbira onana ika iki jawenoki bokanai ixon.	contradiction
+25259	shp	Tsonra onanyama ika iki jawenoki bokanai ixon.	Tsonra onanyama ika iki jawerato xobonki bokanai ixon.	neutral
+25260	shp	Tsonra onanyama ika iki jawenoki bokanai ixon.	Jawen destinora ike kikin tson onantima.	entailment
+25261	shp	Itan baneti atipanyamakanke nato Augusta áreanko joniboan onana ikentian nato jaweki kikin tabú ikenbi jaton akaskasa ikentian itan joxo joni keskakatax winokasaitian.	Joniboanra shinanamabobi ike natobo joxo mabobo.	contradiction
+25262	shp	Itan baneti atipanyamakanke nato Augusta áreanko joniboan onana ikentian nato jaweki kikin tabú ikenbi jaton akaskasa ikentian itan joxo joni keskakatax winokasaitian.	Joniboanra onana ike afroamericanobo.	neutral
+25263	shp	Itan baneti atipanyamakanke nato Augusta áreanko joniboan onana ikentian nato jaweki kikin tabú ikenbi jaton akaskasa ikentian itan joxo joni keskakatax winokasaitian.	Joniboanra onana ike natobo joxo mabo.	entailment
+25264	shp	Jen jen, jakon, ja bakeranonra neno iki.	Ja bakeranonra neno itinke.	entailment
+25265	shp	Jen jen, jakon, ja bakeranonra neno iki.	Ja jonisira ramabi pikoke hace 2 minutos.	neutral
+25266	shp	Jen jen, jakon, ja bakeranonra neno iki.	Jaisira (joni) neno joyosma iki.	contradiction
+25267	shp	Telenko jaweki oinira noa ike.	Noara televisiónma ika iki.	contradiction
+25268	shp	Telenko jaweki oinira noa ike.	Televisión oinira noa ike.	entailment
+25269	shp	Telenko jaweki oinira noa ike.	Noticiabo televisiónyen oinara noa ike.	neutral
+25270	shp	Jaskara ikaxra, en shinanai Ramona betan yoyo iribati.	Jawetianbira ea Ramona betan yoyoiyosma iki.	contradiction
+25271	shp	Jaskara ikaxra, en shinanai Ramona betan yoyo iribati.	Ramona betanra ea jakiribi yoyoiribake.	entailment
+25272	shp	Jaskara ikaxra, en shinanai Ramona betan yoyo iribati.	Kikin jakonra ea jabe yoyo ike.	neutral
+25273	shp	Ja baja bichora ike nato Crisis de Cubankonia itan, eh, Kaiser, eh, jara nato imágenboya ike itan noyake Andrews Air Force pontebi Washingtonko.	10 000 jonira nato crisis Cubanainko mawakanke.	contradiction
+25274	shp	Ja baja bichora ike nato Crisis de Cubankonia itan, eh, Kaiser, eh, jara nato imágenboya ike itan noyake Andrews Air Force pontebi Washingtonko.	Westiora joniresra nato crisis Cubanainko mawake.	entailment
+25275	shp	Ja baja bichora ike nato Crisis de Cubankonia itan, eh, Kaiser, eh, jara nato imágenboya ike itan noyake Andrews Air Force pontebi Washingtonko.	Westiora joniresra mawake accidentenko nato ja crisis Cubanko.	neutral
+25276	shp	Hum itan jan yoike... yoike...yoike...cariño, yoike, minra nato vida en akai keska akin entiendeyamai.	Janra yoike ni ideaomabobiri riki ixon.	contradiction
+25277	shp	Hum itan jan yoike... yoike...yoike...cariño, yoike, minra nato vida en akai keska akin entiendeyamai.	Janra yoike mesko nato vidankonia onana.	entailment
+25278	shp	Hum itan jan yoike... yoike...yoike...cariño, yoike, minra nato vida en akai keska akin entiendeyamai.	Eara yoike minra onanyamake jaweskatiki nato nete real funcionanai ixon itan ja chibantiki.	neutral
+25279	shp	Japekaora merakanke itan ea neskara keska baneke, kikin jakon. ¿Jaweki en nato akai?	Nato artilugiomakaiki utilizanai ika.	neutral
+25280	shp	Japekaora merakanke itan ea neskara keska baneke, kikin jakon. ¿Jaweki en nato akai?	Enra onanyamake jaweatikaiki en usanai ixon.	entailment
+25281	shp	Japekaora merakanke itan ea neskara keska baneke, kikin jakon. ¿Jaweki en nato akai?	¡Enra onana ike jaweskaxon utilizantirin ixon!	contradiction
+25282	shp	Westiora minutores ea meniwe, cuentankaskin, ea, hum, moa kai.	Eara moa ramabi katires iki.	contradiction
+25283	shp	Westiora minutores ea meniwe, cuentankaskin, ea, hum, moa kai.	Eara westiora minuto neno kenai.	entailment
+25284	shp	Westiora minutores ea meniwe, cuentankaskin, ea, hum, moa kai.	Eara westiora minuto kenai nokon shinanbo biti kopi.	neutral
+25285	shp	Jakopira ea Washington D.C.yain ka iki itan pontebishamanra ea kayama iki jain ea rankanaikon.	Washington D. C. yain kayosma riki ea.	contradiction
+25286	shp	Jakopira ea Washington D.C.yain ka iki itan pontebishamanra ea kayama iki jain ea rankanaikon.	D. C. yainra ea ka iki nokon supervisor oini.	neutral
+25287	shp	Jakopira ea Washington D.C.yain ka iki itan pontebishamanra ea kayama iki jain ea rankanaikon.	Eara ka iki nato capital de la naciónyain.	entailment
+25288	shp	Jariki westiora joni wiso jawen yoya claraya.	Jara ika iki kikin ikon atima wisoshaman yoraya.	contradiction
+25289	shp	Jariki westiora joni wiso jawen yoya claraya.	Jara jawen yora joxocha ike afroamericana jisama.	entailment
+25290	shp	Jariki westiora joni wiso jawen yoya claraya.	Jara kikin ligera ika iki wetsa jabe raenanai wisobo winoa.	neutral
+25291	shp	Jaskara ikenbira, papa kai itan westiora vaso ani lecheya itan chocolateyara ea axonbainai.	Papanra ea ichama leche chocolateya neverainoa menike.	neutral
+25292	shp	Jaskara ikenbira, papa kai itan westiora vaso ani lecheya itan chocolateyara ea axonbainai.	Papanra ea westiora vaso lecheya metexonke.	entailment
+25293	shp	Jaskara ikenbira, papa kai itan westiora vaso ani lecheya itan chocolateyara ea axonbainai.	Papanra yoike en bexnan eati atipanyama.	contradiction
+25294	shp	Ja DOT ninra ja inmueble marokin bireske itan ja.	Ja Departamento de Transporteninra wetsa propiedad merati iki alquilanti ja itinama.	contradiction
+25295	shp	Ja DOT ninra ja inmueble marokin bireske itan ja.	Ja propiedad itan ja equipora ja DOTnin marokin bike.	entailment
+25296	shp	Ja DOT ninra ja inmueble marokin bireske itan ja.	DOT ninra tres millones de dólares winoa kopi bike ja propiedad.	neutral
+25297	shp	Jara pikota bira ika iki.	Diciembre 2010 tian pikoti mankanara ika iki.	neutral
+25298	shp	Jara pikota bira ika iki.	Non suponena ikewetin noa pikota iti.	entailment
+25299	shp	Jara pikota bira ika iki.	Non suponena ikewetin pikotima akin.	contradiction
+25300	shp	Eariki neskara keska, enra onanke jati ocho ea nokota.	Enra jato yoike en onanyama nato jaweki en aki iitaibo.	contradiction
+25301	shp	Eariki neskara keska, enra onanke jati ocho ea nokota.	Enra jato yoike en onana ika iki jawen expectativabo superana 40% kaman.	neutral
+25302	shp	Eariki neskara keska, enra onanke jati ocho ea nokota.	Enra jato yoike enra onanke jaweki en lograna ixon.	entailment
+25303	shp	Vale, ¿minki ea ninkati atipana?	¿Minki ramabi ea ninkati atipana?	entailment
+25304	shp	Vale, ¿minki ea ninkati atipana?	¿Minki ninkati atipana en mia yoi iitai?	neutral
+25305	shp	Vale, ¿minki ea ninkati atipana?	Eanra onanke min ea ninkati atipanyama.	contradiction
+25306	shp	Mmm, ¿jawebi? Min yoiye jawebi min yoyo aka shinanyamai, ikaxbi, moa mia ticha axeti xobonko ikentianka, ¿westiora libro min ken iamax min kenmaki yama ikatiai?	¿Miaki Harry Potternin librobo gustana iamax akama?	neutral
+25307	shp	Mmm, ¿jawebi? Min yoiye jawebi min yoyo aka shinanyamai, ikaxbi, moa mia ticha axeti xobonko ikentianka, ¿westiora libro min ken iamax min kenmaki yama ikatiai?	¿ Min kenki ika iamax min kenmaki ika jaweti librobo?	entailment
+25308	shp	Mmm, ¿jawebi? Min yoiye jawebi min yoyo aka shinanyamai, ikaxbi, moa mia ticha axeti xobonko ikentianka, ¿westiora libro min ken iamax min kenmaki yama ikatiai?	Enra onanke mia meraxonkana jatibi librobo min yoyo akabo.	contradiction
+25309	shp	Westiora hélice maxko riki westiora inyección fraguanai, ikaxbi ja tubo de presión jan pilotonin joinaira itan nato contrapresión.	Ja tornilloninra nato presión jakoma akai.	entailment
+25310	shp	Westiora hélice maxko riki westiora inyección fraguanai, ikaxbi ja tubo de presión jan pilotonin joinaira itan nato contrapresión.	Ja tornillora maxko itan pene iki.	neutral
+25311	shp	Westiora hélice maxko riki westiora inyección fraguanai, ikaxbi ja tubo de presión jan pilotonin joinaira itan nato contrapresión.	Tornillobora yamake, botonboresra jake.	contradiction
+25312	shp	Jara neskatai, masa shinanyamawe, min onanke, min kenati basiwe.	Janra ea yoike ishtonti.	contradiction
+25313	shp	Jara neskatai, masa shinanyamawe, min onanke, min kenati basiwe.	Eara yoike jaweiyamai noa jaweti horabires ja aki basiaitian.	neutral
+25314	shp	Jara neskatai, masa shinanyamawe, min onanke, min kenati basiwe.	Eara yoike ishtoma kati.	entailment
+25315	shp	Nato apo Kennedyninra neskakin pilotobo yoiyai, yoiyai, 'Caballeros,matonta jakon fotobo akai'.	Kennedyninra jato onanyamake.	contradiction
+25316	shp	Nato apo Kennedyninra neskakin pilotobo yoiyai, yoiyai, 'Caballeros,matonta jakon fotobo akai'.	Kennedyra yoyo ike nato pilotos de la Fuerza Aéreabobetan.	neutral
+25317	shp	Nato apo Kennedyninra neskakin pilotobo yoiyai, yoiyai, 'Caballeros,matonta jakon fotobo akai'.	Kennedyra pilotobobetan yoyo ike.	entailment
+25318	shp	Itan eara ike neskara sientemeti, kikin moa acabado keska.	Enra yoike 10minutos kaman ensenen akai.	neutral
+25319	shp	Itan eara ike neskara sientemeti, kikin moa acabado keska.	Enra jawetianbira min keyoyamai akin yoike.	contradiction
+25320	shp	Itan eara ike neskara sientemeti, kikin moa acabado keska.	Enra mato yoike moa keyotira ike akin.	entailment
+25321	shp	Enra tratanke jatibi wishakin.	Eara jawekibo wishai biri iitai.	entailment
+25322	shp	Enra tratanke jatibi wishakin.	Eara jawebi wishakashamake.	contradiction
+25323	shp	Enra tratanke jatibi wishakin.	Enra wishake jatibi tee aka yoiyabo.	neutral
+25324	shp	Ikama, jara pikota iki 1900 baritian 16 baritiayara ika iki, itan ibira ika iki 1926 tian. 19, min onanke, 1930 ikamabi.	Pikota iki 1 de enero oxe 1900 baritia.	neutral
+25325	shp	Ikama, jara pikota iki 1900 baritian 16 baritiayara ika iki, itan ibira ika iki 1926 tian. 19, min onanke, 1930 ikamabi.	Jara siglo peokotaitian pikota iki	entailment
+25326	shp	Ikama, jara pikota iki 1900 baritian 16 baritiayara ika iki, itan ibira ika iki 1926 tian. 19, min onanke, 1930 ikamabi.	Jara pikotama iki 1943 ikamabi.	contradiction
+25327	shp	Jaskara ikaxra kikin interesante ike.	Kikin interesadara ea ike jawetiki en piti atipana ixon onankasi.	neutral
+25328	shp	Jaskara ikaxra kikin interesante ike.	Kikin intesadomara ea ike.	contradiction
+25329	shp	Jaskara ikaxra kikin interesante ike.	Enra interesante merake.	entailment
+25330	shp	Jawen poira joxo keskatax winoke, itan neskatax joxo keskati winoke.	Jawen poira kikin jatibi vecindarionkoniabaon yora winoa metsa iki.	neutral
+25331	shp	Jawen poira joxo keskatax winoke, itan neskatax joxo keskati winoke.	Jatibitianra suponenkana iki jawen poi joxo.	entailment
+25332	shp	Jawen poira joxo keskatax winoke, itan neskatax joxo keskati winoke.	nato wetsa Sher ra ikatiai kikin lúgubre.	contradiction
+25333	shp	Jakon, kikin yosira ikatiai jawen papa iti jisa.	Jara ika iki 27 baritia mayor que ja ainbo.	neutral
+25334	shp	Jakon, kikin yosira ikatiai jawen papa iti jisa.	Jara ikatiai kikin bakeranobirex ja ainbo winoa.	contradiction
+25335	shp	Jakon, kikin yosira ikatiai jawen papa iti jisa.	Ja jonira ainbo winoa yosicha iki.	entailment
+25336	shp	Ja, eara ika iki eabicho 922 nato soporte vitalnin joni, ja wetsa jonira ika iki westiora apoyo fisiológico.	Tsonra jawekeska apoyobi meniamake.	contradiction
+25337	shp	Ja, eara ika iki eabicho 922 nato soporte vitalnin joni, ja wetsa jonira ika iki westiora apoyo fisiológico.	Wetiora joninra apoyo fisiológico ja tropabo menike.	neutral
+25338	shp	Ja, eara ika iki eabicho 922 nato soporte vitalnin joni, ja wetsa jonira ika iki westiora apoyo fisiológico.	Wetiora joninra apoyo fisiológico menike.	entailment
+25339	shp	Itan neno riki ea jorai ixon shinanani, min onanke, ebe tsekanoxon, min onanke, ea sina aki cambiama keska.	En onanara ike ja neno joyamabiresai.	contradiction
+25340	shp	Itan neno riki ea jorai ixon shinanani, min onanke, ebe tsekanoxon, min onanke, ea sina aki cambiama keska.	En shinanara ike timanankasi joi.	entailment
+25341	shp	Itan neno riki ea jorai ixon shinanani, min onanke, ebe tsekanoxon, min onanke, ea sina aki cambiama keska.	En shinanra ike nokon tonoki jejametai.	neutral
+25342	shp	Jakon, jaskara riki, necesarioma riki westiora error non cometenti atipanyama iti.	Jakon riki non jaweti errorbo cometena.	contradiction
+25343	shp	Jakon, jaskara riki, necesarioma riki westiora error non cometenti atipanyama iti.	Nin westiora errorbira noa atima yoikanai.	entailment
+25344	shp	Jakon, jaskara riki, necesarioma riki westiora error non cometenti atipanyama iti.	Noara jawebi jakomakin deletreanmayamakanke.	neutral
+25345	shp	Itan, oh, ikaxbi, oh, en shinanai, yamera ea oxati atipanyamai.	Eara yame jakoni oxakastiamai.	entailment
+25346	shp	Itan, oh, ikaxbi, oh, en shinanai, yamera ea oxati atipanyamai.	Enra jakomabo namaresai jaboanra ea oxamakastimayamai.	neutral
+25347	shp	Itan, oh, ikaxbi, oh, en shinanai, yamera ea oxati atipanyamai.	Yamera ea westiora bakeshoko betan oxai.	contradiction
+25348	shp	Westiora jaweki ja ikonbires jayata westiora ani defensa.	Jara defiendemeti atipanke nato ochitibo salvajeboki.	neutral
+25349	shp	Westiora jaweki ja ikonbires jayata westiora ani defensa.	Jara jakoni defiendemeta iki.	entailment
+25350	shp	Westiora jaweki ja ikonbires jayata westiora ani defensa.	Jara ikatiai ikon atima keska vulnerable.	contradiction
+25351	shp	Um, jakopira jawetianbi yoiyama iki--	Janra yoike jatibi jaweki onankasi ikabo	contradiction
+25352	shp	Um, jakopira jawetianbi yoiyama iki--	Jawebira ea yoiyamakanke nato protocolo de seguridadki.	neutral
+25353	shp	Um, jakopira jawetianbi yoiyama iki--	Wetsatianra ea yoiyamakanai.	entailment
+25354	shp	Jaskara ikax nato zonanko noa ikatiai.	Non robora ikatiai neke.	entailment
+25355	shp	Jaskara ikax nato zonanko noa ikatiai.	Non xobora ikatiai nenoax ocho.	contradiction
+25356	shp	Jaskara ikax nato zonanko noa ikatiai.	Non xobora rabe manzana winobaini iki.	neutral
+25357	shp	Itan kikin ishton yoyo iki riki, telefónonin yoyo iki riki.	Kikin ishtonmashoko atipana senen yoyo iki riki.	contradiction
+25358	shp	Itan kikin ishton yoyo iki riki, telefónonin yoyo iki riki.	Wetiora iPhonenin yoyo iki riki.	neutral
+25359	shp	Itan kikin ishton yoyo iki riki, telefónonin yoyo iki riki.	Móvilnin yoyo iki riki.	entailment
+25360	shp	Enra shinanti atipanyamake jaskara ika, ikaxbi iitimabira ea kikin nervioso ike axeti xobonko privera vez kai shinanax itan jaweska ikax ika iki ja nokon nete bebon estresante ika nato vidanko.	Kikin relajadora ike nato escuela akin peoti.	contradiction
+25361	shp	Enra shinanti atipanyamake jaskara ika, ikaxbi iitimabira ea kikin nervioso ike axeti xobonko privera vez kai shinanax itan jaweska ikax ika iki ja nokon nete bebon estresante ika nato vidanko.	Preocupadora ea ike escuelanko kati ikentian	entailment
+25362	shp	Enra shinanti atipanyamake jaskara ika, ikaxbi iitimabira ea kikin nervioso ike axeti xobonko privera vez kai shinanax itan jaweska ikax ika iki ja nokon nete bebon estresante ika nato vidanko.	Preocupadora ea ike jardín de infancia peoti ikentian	neutral
+25363	shp	Eh, St. Louis pikotainra jakatiai, Jefferson City itan St. Louis, MO xaran.	Texasainra ea jakatiai.	contradiction
+25364	shp	Eh, St. Louis pikotainra jakatiai, Jefferson City itan St. Louis, MO xaran.	Eara ikatia westiora xobo panshiain Missourinko.	neutral
+25365	shp	Eh, St. Louis pikotainra jakatiai, Jefferson City itan St. Louis, MO xaran.	Missouriainra ika iki.	entailment
+25366	shp	Westiora lugar onantibires Del Rionko jato informanira iki, japeora ea Laughlin Air Force Basenko katanke, jakiribi kepenriba ike.	Nato Base Aérea Laughlinra westiora tiempo xepo ike.	entailment
+25367	shp	Westiora lugar onantibires Del Rionko jato informanira iki, japeora ea Laughlin Air Force Basenko katanke, jakiribi kepenriba ike.	Nato Base de la Fuerza Aérea Laughlinra jatibian kepen ika iki.	contradiction
+25368	shp	Westiora lugar onantibires Del Rionko jato informanira iki, japeora ea Laughlin Air Force Basenko katanke, jakiribi kepenriba ike.	Nato Base de la Fuerza Aérea de Laughlinra westiora hogar 10 000 soldadoboana iki.	neutral
+25369	shp	Nokonara igual iki jawekaxonki min akai ixon.	Eara importanyamake jawe colorki min biai ixon.	neutral
+25370	shp	Nokonara igual iki jawekaxonki min akai ixon.	Rama rama bishokobora en apruebanti jake.	contradiction
+25371	shp	Nokonara igual iki jawekaxonki min akai ixon.	Eara interesanyamake jaweskaxonki min keyoai ixon.	entailment
+25372	shp	Jaskara ikentian en bochiki oinai, Ramona jain ika en onani itan jain en kenai.	Nokon xobonra en Ramona kenake.	neutral
+25373	shp	Jaskara ikentian en bochiki oinai, Ramona jain ika en onani itan jain en kenai.	Ramonara en kenake jawenorin ixon onanoxon.	entailment
+25374	shp	Jaskara ikentian en bochiki oinai, Ramona jain ika en onani itan jain en kenai.	Ramona oinama keskara ea ike.	contradiction
+25375	shp	Jaskara itainbira nato Fuerza Aéreanin nato SR71 marokin bike, rama ja A-12, ja CIAb betan noa teeti iitai .	Nato Fuerza Aéreaninra 18 aviónbo marokin bike.	neutral
+25376	shp	Jaskara itainbira nato Fuerza Aéreanin nato SR71 marokin bike, rama ja A-12, ja CIAb betan noa teeti iitai .	Nato Fuerzas Aéreaboanra aviónbo marokin bikanke.	entailment
+25377	shp	Jaskara itainbira nato Fuerza Aéreanin nato SR71 marokin bike, rama ja A-12, ja CIAb betan noa teeti iitai .	Nato Fuerza Aéreara jawe planyoma ike.	contradiction
+25378	shp	¿Jaskara ikax jawen wetsan beneribi yora clara ikatiai?	Jawen wetsara westiora joni wiso beneya iki.	neutral
+25379	shp	¿Jaskara ikax jawen wetsan beneribi yora clara ikatiai?	Jawen wetsara moa beneya iki.	entailment
+25380	shp	¿Jaskara ikax jawen wetsan beneribi yora clara ikatiai?	Jawen wetsara beneoma iki.	contradiction
+25381	shp	Ikaxbi moa ani ani kainkira, jawetianbi reconocenama iki equivocameni, ikaxbi jawen ika jaweki cambiana iki.	Janra jawetianbi jawen ika jaweki cambiayosma iki.	contradiction
+25382	shp	Ikaxbi moa ani ani kainkira, jawetianbi reconocenama iki equivocameni, ikaxbi jawen ika jaweki cambiana iki.	Janra jawetianbi eara equivocameke iki iyosma iki.	entailment
+25383	shp	Ikaxbi moa ani ani kainkira, jawetianbi reconocenama iki equivocameni, ikaxbi jawen ika jaweki cambiana iki.	Janra yoiyosma iki razónya sobre nato pastel de carneki.	neutral
+25384	shp	Nokon epa, jara kikin ani chaval iki.	Nokon epara kikin jakon ea paketai.	entailment
+25385	shp	Nokon epa, jara kikin ani chaval iki.	¡Nokon epara westiora imbécil iki!	contradiction
+25386	shp	Nokon epa, jara kikin ani chaval iki.	Nokon epara kikin akinmisti shinanya iki.	neutral
+25387	shp	Jain xoboya nokon wetsa ikenra ea ka iki jaiba. Jawen benera serviocionko ika iki itan teeta iki ja Inteligenciain, itan ea jawen xobon ka iki.	Nokon benewetsara ejércitonko ika tiai.	neutral
+25388	shp	Jain xoboya nokon wetsa ikenra ea ka iki jaiba. Jawen benera serviocionko ika iki itan teeta iki ja Inteligenciain, itan ea jawen xobon ka iki.	Nokon benewetsara ikatiai ja servicio ikainko.	entailment
+25389	shp	Jain xoboya nokon wetsa ikenra ea ka iki jaiba. Jawen benera serviocionko ika iki itan teeta iki ja Inteligenciain, itan ea jawen xobon ka iki.	Nokon wetsara jawetiabi alistameyosma iki.	contradiction
+25390	shp	Enra shinantiki. Jakon, kai, enra wetsa kati jeneai, ikaxbi japekora en shiantiki, ¡nokon Rios!	En shinanara ike wetsa nokon toan ranai.	entailment
+25391	shp	Enra shinantiki. Jakon, kai, enra wetsa kati jeneai, ikaxbi japekora en shiantiki, ¡nokon Rios!	En shinanara ike wetsa nokon toan nato reunionyen ja lugar meniai.	neutral
+25392	shp	Enra shinantiki. Jakon, kai, enra wetsa kati jeneai, ikaxbi japekora en shiantiki, ¡nokon Rios!	Enra moa wetsabo ranyamai ike.	contradiction
+25393	shp	Westiora minuto ikenra escritorio timai, japeora jakon ikai, nokon escritorio ainoa biwe, da, da, da, da, da.	Jawen shinanbora bebonira cambianai.	entailment
+25394	shp	Westiora minuto ikenra escritorio timai, japeora jakon ikai, nokon escritorio ainoa biwe, da, da, da, da, da.	Min opinión cambianwe minra onanyamake jaweki aki iitai ixon.	neutral
+25395	shp	Westiora minuto ikenra escritorio timai, japeora jakon ikai, nokon escritorio ainoa biwe, da, da, da, da, da.	Jara kikin constante itan kikin iiyosma shoko.	contradiction
+25396	shp	Jakon, jaskara ikaxbira, jain jikikainke itan neskarara ike ¿jaweskaki jawekibo kai ikai kesra ike?.	Jaweskaki jawekibo kai ixonra yokake.	entailment
+25397	shp	Jakon, jaskara ikaxbira, jain jikikainke itan neskarara ike ¿jaweskaki jawekibo kai ikai kesra ike?.	Nonki documental keyoai ixonra noa yokake.	neutral
+25398	shp	Jakon, jaskara ikaxbira, jain jikikainke itan neskarara ike ¿jaweskaki jawekibo kai ikai kesra ike?.	Janra noa yoyo ayamabobike.	contradiction
+25399	shp	Japekaora nokon rueda mayamai ea iitai, en onanyamake, kikin ibaitai keskara en oinbake.	Eara ishtonke itan en kikin ishtonbires en keyoke.	contradiction
+25400	shp	Japekaora nokon rueda mayamai ea iitai, en onanyamake, kikin ibaitai keskara en oinbake.	Eara jain yakake rabe hora kaman.	neutral
+25401	shp	Japekaora nokon rueda mayamai ea iitai, en onanyamake, kikin ibaitai keskara en oinbake.	Nokon ruedara en basi mayamake.	entailment
+25402	shp	Itan jara tuberculosiya ikatiai itan enra jawetianbi nikayosmaribi ika tiai.	Enra onanyama ike tuberculosisnin mawakeana.	neutral
+25403	shp	Itan jara tuberculosiya ikatiai itan enra jawetianbi nikayosmaribi ika tiai.	Enra onanyama ike tuberculosisya.	entailment
+25404	shp	Itan jara tuberculosiya ikatiai itan enra jawetianbi nikayosmaribi ika tiai.	Enra onana ikejakomashoko tuberculosis isiman ikai.	contradiction
+25405	shp	Min onanke, min atipanyamake, miara sobrevivemeti atipanyamake jawebi contrapresión yamax, jaskara bochiki ikax ja presión kikini keyati.	Nato mostradornin presióninra mia jatibiatian reteai.	contradiction
+25406	shp	Min onanke, min atipanyamake, miara sobrevivemeti atipanyamake jawebi contrapresión yamax, jaskara bochiki ikax ja presión kikini keyati.	Miara maxkake westiora contrapresión superior a 5000 pies.	neutral
+25407	shp	Min onanke, min atipanyamake, miara sobrevivemeti atipanyamake jawebi contrapresión yamax, jaskara bochiki ikax ja presión kikini keyati.	Miara maxkake westiora contrapresión ja altitud.	entailment
+25408	shp	Jatianbira en peoke, eh, entrenani wetsa rabe bakeranon jain ikabobetan.	Enra entremiento biyosma iki, jakopira en avanzankin descubrenke.	contradiction
+25409	shp	Jatianbira en peoke, eh, entrenani wetsa rabe bakeranon jain ikabobetan.	Rabe bakeranonboanra ea entrenana iki ja tiendanko teeti kopi.	neutral
+25410	shp	Jatianbira en peoke, eh, entrenani wetsa rabe bakeranon jain ikabobetan.	Rabe epanra ea entrenanke.	entailment
+25411	shp	Westiora ápice ikentianra, jaweti ajuste min reguladoryain ati jake.	Jawera valenyamake ja regulador.	contradiction
+25412	shp	Westiora ápice ikentianra, jaweti ajuste min reguladoryain ati jake.	Ja reguladorninra cambiantiki jatibi presión min trajenkonia.	neutral
+25413	shp	Westiora ápice ikentianra, jaweti ajuste min reguladoryain ati jake.	Reguladornin parira ea tsiniti jake.	entailment
+25414	shp	Oh, ea bicho respaririki iskon rabe rabe nato iyección reguladoryain ani westiora akin.	Martesan inyector akara ibake.	neutral
+25415	shp	Oh, ea bicho respaririki iskon rabe rabe nato iyección reguladoryain ani westiora akin.	Eara ika iki westiora 922	entailment
+25416	shp	Oh, ea bicho respaririki iskon rabe rabe nato iyección reguladoryain ani westiora akin.	Eara westiora 922 iyosma iki.	contradiction
+25417	shp	Nato ceremonia nupcialra entiendenyamabobi kanke, ni onanyamabobira ike moa casametabobi, ikon--	Janra entiendenyama ike ja bakeranonbetan moa jatibian nexakata jawetianbi onanyosma ikaxbi.	neutral
+25418	shp	Nato ceremonia nupcialra entiendenyamabobi kanke, ni onanyamabobira ike moa casametabobi, ikon--	Entiendenyamaira ike jaweki winota ixon.	entailment
+25419	shp	Nato ceremonia nupcialra entiendenyamabobi kanke, ni onanyamabobira ike moa casametabobi, ikon--	Onanara ike jawenoki niakatai ixon.	contradiction
+25420	shp	Noara jain jikitiki.	Jainra noa jikiai ike 8 p.m.	neutral
+25421	shp	Noara jain jikitiki.	Noara jikiai.	entailment
+25422	shp	Noara jain jikitiki.	Jawetianbira noa jikitima iki.	contradiction
+25423	shp	Itan janbixbi rechazametai jisara ike, jaweska keska, por, min onanke, jaskakin jato tratanpachoai, onanke, ja jawetsa jawen bababo.	Janra jatibi jato jaskakin bires tratanke.	contradiction
+25424	shp	Itan janbixbi rechazametai jisara ike, jaweska keska, por, min onanke, jaskakin jato tratanpachoai, onanke, ja jawetsa jawen bababo.	Wetsa jawen bababora wetsaresbi akin jato tratanai.	entailment
+25425	shp	Itan janbixbi rechazametai jisara ike, jaweska keska, por, min onanke, jaskakin jato tratanpachoai, onanke, ja jawetsa jawen bababo.	Jawen bababora wetsaresbi akin tratanai wisobo ikentian.	neutral
+25426	shp	Kikin guayra kake, itan jan sayara shokores noyake niwen kopi--	Ja sayara ondeanai niwenko.	entailment
+25427	shp	Kikin guayra kake, itan jan sayara shokores noyake niwen kopi--	Ja sayara kikin chixkoshoko iki itan jakopira shokores noyai.	neutral
+25428	shp	Kikin guayra kake, itan jan sayara shokores noyake niwen kopi--	Niwera yama ike jakopira ja saya quieto ike.	contradiction
+25429	shp	Oh, kikin basi nokon tiempora ea winoke, neno, actividades especialesyain.	Actividades especialesyainra ea ike rabe nete winomax.	neutral
+25430	shp	Oh, kikin basi nokon tiempora ea winoke, neno, actividades especialesyain.	Eara actividades especialesain ika iki.	entailment
+25431	shp	Oh, kikin basi nokon tiempora ea winoke, neno, actividades especialesyain.	Eara actividades especialesain iyosma iki.	contradiction
+25435	shp	Ikaxbi… jarakatikanai westiora jema Evans akanainko Augutainoax pikokain shoko, ramakamanbi jaresai. Jainra ea icha kaiboya pari iki jain jakanabo.	Rabe chonka kaibo Evansyain jakanara jaya ika iki.	neutral
+25436	shp	Ikaxbi… jarakatikanai westiora jema Evans akanainko Augutainoax pikokain shoko, ramakamanbi jaresai. Jainra ea icha kaiboya pari iki jain jakanabo.	Atlantainra jakatikanai.	contradiction
+25437	shp	Ikaxbi… jarakatikanai westiora jema Evans akanainko Augutainoax pikokain shoko, ramakamanbi jaresai. Jainra ea icha kaiboya pari iki jain jakanabo.	Evansainra jakana iki, jara ika iki kikin maxkoshoko.	entailment
+25438	shp	Nokon wetsanra ea neskakin yoiresai, yoiyai: Wetsatian riki non yoxan keska, jonibo min jato jakomaresai jainmabiresbo.	Nokon wetsanra ea racistanin yoimiske.	neutral
+25439	shp	Nokon wetsanra ea neskakin yoiresai, yoiyai: Wetsatian riki non yoxan keska, jonibo min jato jakomaresai jainmabiresbo.	Nokon wetsanra yoike jatibianki ea amablema.	entailment
+25440	shp	Nokon wetsanra ea neskakin yoiresai, yoiyai: Wetsatian riki non yoxan keska, jonibo min jato jakomaresai jainmabiresbo.	Nokon wetsanra yoike nokon xoyan jisamabobironki ea iki.	contradiction
+25441	shp	Hum, japekaora noa wetsa xobon bena ikain ka iki.	Noara ka iki wetsa xobo non ja paronko construinainko.	neutral
+25442	shp	Hum, japekaora noa wetsa xobon bena ikain ka iki.	Noara trasladametaa iki bena residenciain.	entailment
+25443	shp	Hum, japekaora noa wetsa xobon bena ikain ka iki.	Noara baneta iki ja xobonkobi jatibitian.	contradiction
+25444	shp	Eara ika iki neskara keska, OK, jakon, jara jakon iki, min onanke, neskara.	Enra yoiya iki kikin akinbires en kenyamabiresai akin itan en anibires rechazanai akin	contradiction
+25445	shp	Eara ika iki neskara keska, OK, jakon, jara jakon iki, min onanke, neskara.	Enra yoike rama bewakan versiónra nokon ken akin.	neutral
+25446	shp	Eara ika iki neskara keska, OK, jakon, jara jakon iki, min onanke, neskara.	Enra moa yoike nokon aprobaciónya.	entailment
+25447	shp	Itan nato mancha de pinturara wetsaresbi ikai cada cien grados, jaweska ikax itiki joshin iwanaxbi yankon iki, en jishaman akares.	Nato pinturara ikai wetsaresbiti según color akaitian.	entailment
+25448	shp	Itan nato mancha de pinturara wetsaresbi ikai cada cien grados, jaweska ikax itiki joshin iwanaxbi yankon iki, en jishaman akares.	Nato pinturara wetsaresbitai jaskaxon min onanti kopi jaskara xana ikai min medinamabi.	neutral
+25449	shp	Itan nato mancha de pinturara wetsaresbi ikai cada cien grados, jaweska ikax itiki joshin iwanaxbi yankon iki, en jishaman akares.	nato pinturara jatibitian wiso iki.	contradiction
+25450	shp	Enra kikin ishton pike, en atipa senen ishton itan japekaora ja jikike itan ea keyokinke ja jaweki.	Enra pizza pike rabe minuto ikamabi.	neutral
+25451	shp	Enra kikin ishton pike, en atipa senen ishton itan japekaora ja jikike itan ea keyokinke ja jaweki.	Enra ishtonmashoko pike isintima kopi.	contradiction
+25452	shp	Enra kikin ishton pike, en atipa senen ishton itan japekaora ja jikike itan ea keyokinke ja jaweki.	Enra jawekiati zarpanke.	entailment
+25453	shp	Jawen wetsan beneribira ika iki jawen yora clara ribi.	Jawen benewetsara color claro ika iki.	entailment
+25454	shp	Jawen wetsan beneribira ika iki jawen yora clara ribi.	Jawen benewetsara Sueco ika iki.	neutral
+25455	shp	Jawen wetsan beneribira ika iki jawen yora clara ribi.	jawen wetsara beneoma ika iki	contradiction
+25456	shp	Jaskara ixonbi, neskara jaweki alto regulador de O2 keska pikoti jato ocurrimeta iki.	Jatonra westiora bena regulador pikokana iki.	entailment
+25457	shp	Jaskara ixonbi, neskara jaweki alto regulador de O2 keska pikoti jato ocurrimeta iki.	Westiora regulador pikokana iki espacionko funcionanai.	neutral
+25458	shp	Jaskara ixonbi, neskara jaweki alto regulador de O2 keska pikoti jato ocurrimeta iki.	Onanyamaresa ika iki jaweskaxon westiora regulador de oxígeno fabricanti.	contradiction
+25459	shp	Itan jainoax, noa Las Vegasain ka iki, NV, itan en informana iki, Washingtonko aka keskaribiakin, onantima direcciónyain Las Vegas napon bekonshama.	Las Vegasainra ea kayosma iki.	contradiction
+25460	shp	Itan jainoax, noa Las Vegasain ka iki, NV, itan en informana iki, Washingtonko aka keskaribiakin, onantima direcciónyain Las Vegas napon bekonshama.	Eara teeta iki Las Vegasain itan Washingtonko ribi.	entailment
+25461	shp	Itan jainoax, noa Las Vegasain ka iki, NV, itan en informana iki, Washingtonko aka keskaribiakin, onantima direcciónyain Las Vegas napon bekonshama.	Taxista keskara ea teeta iki ja rabe jemankobi.	neutral
+25462	shp	Jen jen, 4.º jara kikin divertido ike.	¡Kikin jatibi ja axeti xobora nokon kema ikatiai!	contradiction
+25463	shp	Jen jen, 4.º jara kikin divertido ike.	Nokon kenra ike cuarto grado rabe recesoya ikentian.	neutral
+25464	shp	Jen jen, 4.º jara kikin divertido ike.	Nokon kenra ika tiai cuarto grado.	entailment
+25465	shp	Westiora archivo keska riki kikin icha meskokeska pestañaboya, min onanke. Ja pestañabora westiora hoja de cálculo keskaya iki ja jisama.	Ja páginara westiora númerobo joyotares iki.	contradiction
+25466	shp	Westiora archivo keska riki kikin icha meskokeska pestañaboya, min onanke. Ja pestañabora westiora hoja de cálculo keskaya iki ja jisama.	Nato tabulacionbora kikin icha datoboya iki.	entailment
+25467	shp	Westiora archivo keska riki kikin icha meskokeska pestañaboya, min onanke. Ja pestañabora westiora hoja de cálculo keskaya iki ja jisama.	Nato pestañaboanra noa oinmai ramabishoko saldo itina nato jatibi cuentaboana.	neutral
+25468	shp	Eara importanyamke jaweskaxonki min akai ixon.	Eara importanyamake minki akai iamax minki jato contratanai ixon.	neutral
+25469	shp	Eara importanyamke jaweskaxonki min akai ixon.	Eara importanyame jaweratorin min método ixon.	entailment
+25470	shp	Eara importanyamke jaweskaxonki min akai ixon.	Eara onankasai jaweskaxonshamanki min nato aki kai ixon.	contradiction
+25471	shp	Itan bokana iki Mallard Creekain Charlottenko.	Mallard Creekainra xoboakana iki.	neutral
+25472	shp	Itan bokana iki Mallard Creekain Charlottenko.	Jawetianbira Charlotteainko bokanama iki.	contradiction
+25473	shp	Itan bokana iki Mallard Creekain Charlottenko.	Japekaora Mallard Creekain jakana iki.	entailment
+25474	shp	Ja jain ikatiai westiora, jara ika iki westiora ministronin bake, jaskara iakax ja jaya ika iki, jatora propiedadesboya ika iki, itan wetsa jawekibo riki, itan kikini jakoni conectameta ika iki jemanko itan ikatiai kikin akin, kikin akin estimankana.	Jawen papara pastor luterano ikaitia.	neutral
+25475	shp	Ja jain ikatiai westiora, jara ika iki westiora ministronin bake, jaskara iakax ja jaya ika iki, jatora propiedadesboya ika iki, itan wetsa jawekibo riki, itan kikini jakoni conectameta ika iki jemanko itan ikatiai kikin akin, kikin akin estimankana.	Jawen papara ikatiai westiora covicto kikin iglesianko kayosma.	contradiction
+25476	shp	Ja jain ikatiai westiora, jara ika iki westiora ministronin bake, jaskara iakax ja jaya ika iki, jatora propiedadesboya ika iki, itan wetsa jawekibo riki, itan kikini jakoni conectameta ika iki jemanko itan ikatiai kikin akin, kikin akin estimankana.	Jawen papara pastor ikatiai.	entailment
+25477	shp	Pues, enra onanyama ike jaweti jawekiboshamanki kenai ixon.	Enra onanyama ike jaki viajanti horariobo onankastiki ixon.	neutral
+25478	shp	Pues, enra onanyama ike jaweti jawekiboshamanki kenai ixon.	Enra jatibi detallebo menike ja kenai onaxon.	contradiction
+25479	shp	Pues, enra onanyama ike jaweti jawekiboshamanki kenai ixon.	Seguromara ea ike jaweti chichoshamanki itiki ixon.	entailment
+25480	shp	Itan um, wetsa resbi riki, como que clientetibira, iki jatibi jawen documentobo.	Jatora jawe archivoma iki.	contradiction
+25481	shp	Itan um, wetsa resbi riki, como que clientetibira, iki jatibi jawen documentobo.	Jatibi archivobora benxoakanai.	entailment
+25482	shp	Itan um, wetsa resbi riki, como que clientetibira, iki jatibi jawen documentobo.	Archivos médicosra benxoakanai itan legalesbo ribi jatibi meskoanan.	neutral
+25483	shp	Natora kikin bires simplificado keska iki, jan ea menia keska jatibi detallado itan kikin atikoma, itan ja rabeitinra jatibi kikin simple ike.	Janra ea rabe keska jaweki yoike.	entailment
+25484	shp	Natora kikin bires simplificado keska iki, jan ea menia keska jatibi detallado itan kikin atikoma, itan ja rabeitinra jatibi kikin simple ike.	Janra ea menike rabe keska instrumento itan en prefierenke ja kikin detalladabo ika shaman.	neutral
+25485	shp	Natora kikin bires simplificado keska iki, jan ea menia keska jatibi detallado itan kikin atikoma, itan ja rabeitinra jatibi kikin simple ike.	Janra westiora jawekires ea yoike itan jaweti ichama línearesra baneta ike.	contradiction
+25486	shp	Nato realidad ika iki Augustanko jayamakanai, jatora ika iki jakana… jakon, min onanke, Augustara ika iki ja época westiora jema maxkopari, jonibo nato jema anikeskain jakanaboan oinabira, Augustara anitanima iki.	Augustara 10000 joniyares iki.	neutral
+25487	shp	Nato realidad ika iki Augustanko jayamakanai, jatora ika iki jakana… jakon, min onanke, Augustara ika iki ja época westiora jema maxkopari, jonibo nato jema anikeskain jakanaboan oinabira, Augustara anitanima iki.	Augustara ani jemama iki.	entailment
+25488	shp	Nato realidad ika iki Augustanko jayamakanai, jatora ika iki jakana… jakon, min onanke, Augustara ika iki ja época westiora jema maxkopari, jonibo nato jema anikeskain jakanaboan oinabira, Augustara anitanima iki.	Jato jakatiai Augutanin jointinkoshama.	contradiction
+25489	shp	1962 keyotaitianra, Washington, DCyain kati koshi joi en bia iki	Era yoikana iki DC yain kati.	entailment
+25490	shp	1962 keyotaitianra, Washington, DCyain kati koshi joi en bia iki	Ejercitoninra ea DCyain kikin ishtonbires rana iki.	neutral
+25491	shp	1962 keyotaitianra, Washington, DCyain kati koshi joi en bia iki	Era yoikana iki Áfricain kati.	contradiction
+25492	shp	DOT nin jawen propiedad tomanketianra, noa ka iki Concordain westiora área kikibires maxkonko, jain yoinaya iti kenyamakaninko zona keskati dividimeta ikax, jaskara kopira nato yoinanin historia nenores keyotai.	Non xobo Concordainra yoinabo iti kenyamakana iki.	entailment
+25493	shp	DOT nin jawen propiedad tomanketianra, noa ka iki Concordain westiora área kikibires maxkonko, jain yoinaya iti kenyamakaninko zona keskati dividimeta ikax, jaskara kopira nato yoinanin historia nenores keyotai.	Non xobo Concordainra 30000 acresya iki itan kikin icha yoinabo.	contradiction
+25494	shp	DOT nin jawen propiedad tomanketianra, noa ka iki Concordain westiora área kikibires maxkonko, jain yoinaya iti kenyamakaninko zona keskati dividimeta ikax, jaskara kopira nato yoinanin historia nenores keyotai.	Jatibi non yoinabora non maroa iki Concordain kakin.	neutral
+25495	shp	Wetsa keska ikenra, noa desplegametai, itan ramabi en yoiti atipanke jaskara kopi noa desplegametai Kadinain, Okinawanko, itan natora ika iki 1968 tian.	Fuerzabora non despleganaiki 1968 tian.	entailment
+25496	shp	Wetsa keska ikenra, noa desplegametai, itan ramabi en yoiti atipanke jaskara kopi noa desplegametai Kadinain, Okinawanko, itan natora ika iki 1968 tian.	Jawetianbira tsoabi non despleglan yosma iki.	contradiction
+25497	shp	Wetsa keska ikenra, noa desplegametai, itan ramabi en yoiti atipanke jaskara kopi noa desplegametai Kadinain, Okinawanko, itan natora ika iki 1968 tian.	Non tropabora non rana iki Japónyain nato junio de 1968 tian.	neutral
+25498	shp	Eara yoike con exactitud kenai itan rama nete kenai.	Yoirake jawetianbires meniti atipana.	contradiction
+25499	shp	Eara yoike con exactitud kenai itan rama nete kenai.	Eara yioke 2 p.m. kamanres jaya nato proyecto keyoti kopi.	neutral
+25500	shp	Eara yoike con exactitud kenai itan rama nete kenai.	Eara urgenteri akin yoike.	entailment
+25501	shp	Moara ka ike itan ea yoike moa masashinantima.	Eara yoike minra shinanxonti jake que nato axeti xobo jakon ikai.	neutral
+25502	shp	Moara ka ike itan ea yoike moa masashinantima.	En masashinantimara ea yoike.	entailment
+25503	shp	Moara ka ike itan ea yoike moa masashinantima.	Yoirake pánicoin jikiti hora riki akin.	contradiction
+25504	shp	Natoboriki, min onanke.Oinwe, miaki problemanya iki.	Kikin onsa meran riki mia.	entailment
+25505	shp	Natoboriki, min onanke.Oinwe, miaki problemanya iki.	¡Miara jakon ikai!	contradiction
+25506	shp	Natoboriki, min onanke.Oinwe, miaki problemanya iki.	Miara deportankanti onsa meran iki.	neutral
+25507	shp	Nokon titanra keyoke reken jawen favoritama ixonbi itan, ah, jakopira camponko teeti relegada ike mientras jatiribi wetsa bakebo camponko teeyamainbi.	Nokon titanra tsinkiparike waxmen itan xeki.	neutral
+25508	shp	Nokon titanra keyoke reken jawen favoritama ixonbi itan, ah, jakopira camponko teeti relegada ike mientras jatiribi wetsa bakebo camponko teeyamainbi.	Nokon titara ika iki ja xontako de oro jakopira jawetianbi teyosma ika tiai.	contradiction
+25509	shp	Nokon titanra keyoke reken jawen favoritama ixonbi itan, ah, jakopira camponko teeti relegada ike mientras jatiribi wetsa bakebo camponko teeyamainbi.	Nokon titara jeman teeta iki.	entailment
+25510	shp	Itan min onanke, al final, min onanke. Min onanke jonibo yokakana, jatoribi itan ja wetsaboribi, itan tson onanyama ike jaweki ikanai ixon itan, wetsatian, min onanke, simplemente moa reconciliamekana Joe akiribi oinyamaxon jaskara yoikanares.	Joeresbichora ipachoai nato sala jain tantiti llaveya.	neutral
+25511	shp	Itan min onanke, al final, min onanke. Min onanke jonibo yokakana, jatoribi itan ja wetsaboribi, itan tson onanyama ike jaweki ikanai ixon itan, wetsatian, min onanke, simplemente moa reconciliamekana Joe akiribi oinyamaxon jaskara yoikanares.	Jawetiakinbires jaweskakinbires non akabira, non consiguenyamake Joekan jakonmareskin noa jeneti.	contradiction
+25512	shp	Itan min onanke, al final, min onanke. Min onanke jonibo yokakana, jatoribi itan ja wetsaboribi, itan tson onanyama ike jaweki ikanai ixon itan, wetsatian, min onanke, simplemente moa reconciliamekana Joe akiribi oinyamaxon jaskara yoikanares.	Westiora netera, Joe ka ika iki itan tson onanyama iki jawenoki ka ixon.	entailment
+25513	shp	Enra jato yoike nokon wetsana.	Nokon wetsara en culpanke.	entailment
+25514	shp	Enra jato yoike nokon wetsana.	Enra yoike ja nokona.	contradiction
+25515	shp	Enra jato yoike nokon wetsana.	Enra joto yoike ja ochiti nokon wetsana.	neutral
+25516	shp	Itan japekaora jawen titan yoike, jawen titanra ea menkonke rekena kiri akin itan oinke itan neskake: Ja keskati niwe.	Janra yoike jawen titaribi niai de puntillas.	neutral
+25517	shp	Itan japekaora jawen titan yoike, jawen titanra ea menkonke rekena kiri akin itan oinke itan neskake: Ja keskati niwe.	Janra yoike jawen titaribi ja keskati niai	entailment
+25518	shp	Itan japekaora jawen titan yoike, jawen titanra ea menkonke rekena kiri akin itan oinke itan neskake: Ja keskati niwe.	Yoike jawen titaki paralizada itan niti atipanyama.	contradiction
+25519	shp	onanke, itan ja iki pétalosbo ono rellenani itan en onanyama ike nin westiora secuenciabi.	Enra onanyama ike kikini isinai.	neutral
+25520	shp	onanke, itan ja iki pétalosbo ono rellenani itan en onanyama ike nin westiora secuenciabi.	Enra onanyama ike jaweki ja winotiki ixon.	entailment
+25521	shp	onanke, itan ja iki pétalosbo ono rellenani itan en onanyama ike nin westiora secuenciabi.	Enra moa onana ike jaweki winoti kai ixon jan neskara akentian.	contradiction
+25522	shp	Ah, wetsa jaweki jain winota ribi en shinana interesante keska riki nokon wetsan primeros recuerdobo, itan jara winita iki ja nokon patio pekaoyenribi.	Enra ja xobo shinanyamai.	contradiction
+25523	shp	Ah, wetsa jaweki jain winota ribi en shinana interesante keska riki nokon wetsan primeros recuerdobo, itan jara winita iki ja nokon patio pekaoyenribi.	Enra shinanai margaritabo en tsinkikatitai nokon patio pekaoyen.	neutral
+25524	shp	Ah, wetsa jaweki jain winota ribi en shinana interesante keska riki nokon wetsan primeros recuerdobo, itan jara winita iki ja nokon patio pekaoyenribi.	Enra shinanai westiora jaweki nokon patio pekaoyen winota.	entailment
+25525	shp	Jaskara ikax jatibi nato estrés itan, osea, jatibi motivoyara ea ike rama nete estresameti, neskara keskara ike, westiora jaweki min jaskakin ati onanyama meniai keska, itan jise awe,akai jisa.	Enra onanyama ike jaskaxon nato ea rama nete tee menikana ati.	entailment
+25526	shp	Jaskara ikax jatibi nato estrés itan, osea, jatibi motivoyara ea ike rama nete estresameti, neskara keskara ike, westiora jaweki min jaskakin ati onanyama meniai keska, itan jise awe,akai jisa.	Eara yoikanke reemplazanti nato caja de fusiblebo ja oficinankonia, ikaxbi en jawe onanyamake nato cableado eléctricoboki.	neutral
+25527	shp	Jaskara ikax jatibi nato estrés itan, osea, jatibi motivoyara ea ike rama nete estresameti, neskara keskara ike, westiora jaweki min jaskakin ati onanyama meniai keska, itan jise awe,akai jisa.	Ramara ea yoikanke ea kikin akin jainshama entrenankanaikon jaino tareabores ati.	contradiction
+25528	shp	Jaskara kopi rama, neno iki, eara rama kenai.	Janra yoiyai wetsatianbires biti atipana.	contradiction
+25529	shp	Jaskara kopi rama, neno iki, eara rama kenai.	Janra yoiyai rama biti kenai.	entailment
+25530	shp	Jaskara kopi rama, neno iki, eara rama kenai.	Janra yoiya ja kenai riki nato proyecto final biti 5.00 de la tarde ikamabi.	neutral
+25531	shp	Itan, jakomabires, noa wetsanko kariba iki.	Wetsa monetora noara ka iki.	entailment
+25532	shp	Itan, jakomabires, noa wetsanko kariba iki.	Wetsa estadoinra noa ka iki 1992tian.	neutral
+25533	shp	Itan, jakomabires, noa wetsanko kariba iki.	Japekaora noa jawetianbi jaweno kayosma iki.	contradiction
+25534	shp	Nato Señora Faulkora en onanshamayamake, jara 80 baritia keska ikatiai, itan kikin jakon ainbora ikatiai, jawetiakinra en oinke, ikaxbi jakopira ea kikin nerviosares ike.	Enra jawetianki nato Sra. Faulk oina iki, ikaxbira en jakon akin oanayamake.	entailment
+25535	shp	Nato Señora Faulkora en onanshamayamake, jara 80 baritia keska ikatiai, itan kikin jakon ainbora ikatiai, jawetiakinra en oinke, ikaxbi jakopira ea kikin nerviosares ike.	Eara ika westiora amigo kikin ochoma de la Sra. Faulk.	contradiction
+25536	shp	Nato Señora Faulkora en onanshamayamake, jara 80 baritia keska ikatiai, itan kikin jakon ainbora ikatiai, jawetiakinra en oinke, ikaxbi jakopira ea kikin nerviosares ike.	Nato Señora Faulkninra akatiai westiora Honda panshin conducenkin nete tibi teeti kakin.	neutral
+25537	shp	Noara 85 de Mallard Creekain ikatiai, jatian ja ramatian iki 485 noa jainoax pikota iki ja 485 kopi.	Ja xobo yankoainra noa jakatitai.	neutral
+25538	shp	Noara 85 de Mallard Creekain ikatiai, jatian ja ramatian iki 485 noa jainoax pikota iki ja 485 kopi.	Jainra noa jakatitai kikin icha baritia.	entailment
+25539	shp	Noara 85 de Mallard Creekain ikatiai, jatian ja ramatian iki 485 noa jainoax pikota iki ja 485 kopi.	Rabe semanaresra noa jain ika iki.	contradiction
+25540	shp	Colega, doble personalidad jaya jisa riki, epa.	Sinaresira ike.	entailment
+25541	shp	Colega, doble personalidad jaya jisa riki, epa.	Nokon koshira ike iamax kikin raro iamax kikin loco.	neutral
+25542	shp	Colega, doble personalidad jaya jisa riki, epa.	Nokon koshira ike suave itan consecuente.	contradiction
+25543	shp	Jara bebonbires yosi iki nokon papa iti jisa.	Jara 27 baritia mayor que ea iki.	neutral
+25544	shp	Jara bebonbires yosi iki nokon papa iti jisa.	Jara kikin ea winoa bebonbires bakeranon iki.	contradiction
+25545	shp	Jara bebonbires yosi iki nokon papa iti jisa.	Jara mayor que ea iki.	entailment
+25546	shp	Jatibira conectadoiki itan rios, enra onanyamabobike jaweti basi kamarin ixon.	Enra onanyamake jaweti basiki ibirai ixon.	entailment
+25547	shp	Jatibira conectadoiki itan rios, enra onanyamabobike jaweti basi kamarin ixon.	Enra onanyamake jaweti basiki historia ikai ixon.	neutral
+25548	shp	Jatibira conectadoiki itan rios, enra onanyamabobike jaweti basi kamarin ixon.	Enra onanke midenai 4 pies (10 cm) nenke.	contradiction
+25549	shp	Nato vezra ea ni raroyamabobike jain ikenbi kikin estresada ikax.	¡Eara ike kikin raro itan relajado!	contradiction
+25550	shp	Nato vezra ea ni raroyamabobike jain ikenbi kikin estresada ikax.	Kikin bebonbires ansiosora ike como para raro iti kopi ja ainbo westiora nete maxkakenbi nokoketian.	neutral
+25551	shp	Nato vezra ea ni raroyamabobike jain ikenbi kikin estresada ikax.	Kikin bebonbires ansiosora ike raro ikakasi ja ainbo jain ikentian.	entailment
+25552	shp	itan jatiribi neskaraboriki ja titibo drogodependientebo ikentian	Ja titabora drogadictabo iki.	neutral
+25553	shp	itan jatiribi neskaraboriki ja titibo drogodependientebo ikentian	Ja titaboanra prescripcionbo ni medicamentobo xeayamakani.	contradiction
+25554	shp	itan jatiribi neskaraboriki ja titibo drogodependientebo ikentian	Jan titanra drogabo xeai	entailment
+25555	shp	Jen jen, kikin agradable riki, oi beira iitai.	Eara oi importanyame.	neutral
+25556	shp	Jen jen, kikin agradable riki, oi beira iitai.	Kikin metsa itan oishaman.	entailment
+25557	shp	Jen jen, kikin agradable riki, oi beira iitai.	Kikin jakoma riki nato insensante barin joeya.	contradiction
+25558	shp	Oh, jati kopi westiora vida humana ikenbi itan atikon iamax atikoma ikenbi rehabilitamemakin wetsabires.	Jatibi vidara valenke rehabilitameti itan nato segundas oportunidadesbo ribi.	neutral
+25559	shp	Oh, jati kopi westiora vida humana ikenbi itan atikon iamax atikoma ikenbi rehabilitamemakin wetsabires.	Nin westiora jonibira merecenyamake rehabilitanmete.	contradiction
+25560	shp	Oh, jati kopi westiora vida humana ikenbi itan atikon iamax atikoma ikenbi rehabilitamemakin wetsabires.	Idependientemente de nato rehabilitación, nato vidara valenke jati.	entailment
+25561	shp	oh, bake, nenora mia onantima problema de cableadoya iki	Jawetianbira en oinyosma iki neskara problema de cableado.	neutral
+25562	shp	oh, bake, nenora mia onantima problema de cableadoya iki	Ja cableadora problemama iki.	contradiction
+25563	shp	oh, bake, nenora mia onantima problema de cableadoya iki	Jarake westiora problema nato en onanyama cableadonin ima.	entailment
+25564	shp	kikin divertidora keskara en ninkatai, jen jen, eara ratetai jaweti jaweti jawekibo permitenkanketian	Eara kikini ratetama iki mato idulgentebo ikentian.	contradiction
+25565	shp	kikin divertidora keskara en ninkatai, jen jen, eara ratetai jaweti jaweti jawekibo permitenkanketian	Eara ratetai mia pitiya itan xeatiya jikimakana kopi.	neutral
+25566	shp	kikin divertidora keskara en ninkatai, jen jen, eara ratetai jaweti jaweti jawekibo permitenkanketian	Eara ratetai jaweskaxonki nokokana ixon.	entailment
+25567	shp	jen jen, jaskarashaman, ja yoiki ea, jawetianki mia equipameti senenaxra, kikin ja ati tee ikenbi... miara kati atipanke westiora Club Medyain de vaciones jatibiya.	$ 2000 jati kopirikijatibi ja kenai bixonti.	neutral
+25568	shp	jen jen, jaskarashaman, ja yoiki ea, jawetianki mia equipameti senenaxra, kikin ja ati tee ikenbi... miara kati atipanke westiora Club Medyain de vaciones jatibiya.	Kikin kopiriki nonbixbi chopa saweti.	entailment
+25569	shp	jen jen, jaskarashaman, ja yoiki ea, jawetianki mia equipameti senenaxra, kikin ja ati tee ikenbi... miara kati atipanke westiora Club Medyain de vaciones jatibiya.	Kikin kopima riki chopa saweti.	contradiction
+25570	shp	oh, ikaxbi jaskara ikenbi nokon bakebo rama rabe chonka westiora itan rabe chonka choskoya iki, jaskara kopira en atima jake	Necesarioma riki nokon bakebo rabe chonka winoa baritiaya ikentian.	entailment
+25571	shp	oh, ikaxbi jaskara ikenbi nokon bakebo rama rabe chonka westiora itan rabe chonka choskoya iki, jaskara kopira en atima jake	Enra ati jake, moa ja baritia nokoti ikanaitian.	neutral
+25572	shp	oh, ikaxbi jaskara ikenbi nokon bakebo rama rabe chonka westiora itan rabe chonka choskoya iki, jaskara kopira en atima jake	Ramabira en ati jake jato rabebira chonka itan chonka westiora baritiaya iki.	contradiction
+25573	shp	¡Vaya! jakon natora Fresno iki.	Fresnokonra ea pikota iki.	neutral
+25574	shp	¡Vaya! jakon natora Fresno iki.	Enra onanyamake jawenori ja ixon.	contradiction
+25575	shp	¡Vaya! jakon natora Fresno iki.	Fresnoriki nato arai en mia.	entailment
+25576	shp	Jen jen, jonibo wetsa monentobires iiti atipana teeyain iamax jawen decisionbo nublamete atipana westiora decisión tomanti ikentian.	Jen jen, jonibo jaweska ikax jakon decisiónbo tomanti onanma.	entailment
+25577	shp	Jen jen, jonibo wetsa monentobires iiti atipana teeyain iamax jawen decisionbo nublamete atipana westiora decisión tomanti ikentian.	Jen jen, jonibo jaweska ikax jawekiakashamaibo.	neutral
+25578	shp	Jen jen, jonibo wetsa monentobires iiti atipana teeyain iamax jawen decisionbo nublamete atipana westiora decisión tomanti ikentian.	Jen jen, ja jonibo jaton facultades de decisión jawetianbi afectamenyosmabo.	contradiction
+25579	shp	Ikama, girankobira ikanai. Jatonra gira peowoa iki sesenta baritia keyotaitian.	Jatonra gira peowoa iki 1970 ikamabi.	entailment
+25580	shp	Ikama, girankobira ikanai. Jatonra gira peowoa iki sesenta baritia keyotaitian.	Jaton ken riki recorridobo ati.	neutral
+25581	shp	Ikama, girankobira ikanai. Jatonra gira peowoa iki sesenta baritia keyotaitian.	Jaton gira ramachabi keyokanke.	contradiction
+25582	shp	jaweskaxonki min aeróbicobo atiki	¿Minki ea explicanti atipana jaweskakin atikairin aerobic?	entailment
+25583	shp	jaweskaxonki min aeróbicobo atiki	Eara interesado iki aeróbicki shokores actividad cardiovascular maxkatax.	neutral
+25584	shp	jaweskaxonki min aeróbicobo atiki	Por favor, moa jenwe yoyo ike nato ejercio aeróbicoboki.	contradiction
+25585	shp	Jakon, jara westiora kikin jakon iki jaki en shinanama ika neskaakin.	Jara westiora shinan tonta iki westa semana winoibatian en descartaninbata.	contradiction
+25586	shp	Jakon, jara westiora kikin jakon iki jaki en shinanama ika neskaakin.	Natora jakon punto iki.	entailment
+25587	shp	Jakon, jara westiora kikin jakon iki jaki en shinanama ika neskaakin.	Ja pardoja min yoiyai riki jakon punto.	neutral
+25588	shp	guardería rabe iki semanatiki ikai, guardería de la tercera edad akin janekanai, ikaxbira ja kai nato centro de la tercera edadain	Nato guarderíara kepen iki nete tibi bakebo pichika baritia mananyaboanares.	contradiction
+25589	shp	guardería rabe iki semanatiki ikai, guardería de la tercera edad akin janekanai, ikaxbira ja kai nato centro de la tercera edadain	Rabe netebichomara semanatibi jato imakanai nato jonibo de la tercera edad ja altura ikentian.	neutral
+25590	shp	guardería rabe iki semanatiki ikai, guardería de la tercera edad akin janekanai, ikaxbira ja kai nato centro de la tercera edadain	Ja yoira ikanai westiora guardería yosiboana iki, ikaxbira jawen jane iki el centro para personas mayores.	entailment
+25591	shp	jara jawen meta iki oh	Jariki ja jakopi kikini esfuerzameta.	entailment
+25592	shp	jara jawen meta iki oh	Jamara ika iki ja kenkanai.	contradiction
+25593	shp	jara jawen meta iki oh	Jaton metara noko kanke.	neutral
+25594	shp	control de armabora significanke rabe mekenbi usanti	Nato mitad de jatibi fallas de tiro riki nato westiora mekenres usankana resultado.	neutral
+25595	shp	control de armabora significanke rabe mekenbi usanti	Nato kikin jakon akin armabo controlantiriki rabe taebi usanti.	contradiction
+25596	shp	control de armabora significanke rabe mekenbi usanti	Rabe mekenbe utilizanwe nato control de armabo practicankasai ixon.	entailment
+25597	shp	itan yama yamaxbi joai westiora lujar non onayamainkoniax ikaxbi non onanyama jawenoaxki joi ixon ikaxbi	Enra onanyamake jawenoaxki joai ixon, ikaxbi kikin ishton riki.	entailment
+25598	shp	itan yama yamaxbi joai westiora lujar non onayamainkoniax ikaxbi non onanyama jawenoaxki joi ixon ikaxbi	Ishtonra joai, ikaxbira en onanke jawenoaxki joai ixon.	neutral
+25599	shp	itan yama yamaxbi joai westiora lujar non onayamainkoniax ikaxbi non onanyama jawenoaxki joi ixon ikaxbi	Jorai melaza keska itan en onanke jawetianki joai ixon.	contradiction
+25600	shp	ikama, jaskara ixonra en onanyamabobike, jaskarama keska riki	Enra onanshamanyamake ja jaweki.	entailment
+25601	shp	ikama, jaskara ixonra en onanyamabobike, jaskarama keska riki	Eara kikin onama iki nato asuntos de amoryain.	neutral
+25602	shp	ikama, jaskara ixonra en onanyamabobike, jaskarama keska riki	Eara nato estudiani ikatiai jweti baritia bires.	contradiction
+25603	shp	Jen jen, min onanke ja ikatiai kikin genial.	En shinara onanke kikin increible ika.	neutral
+25604	shp	Jen jen, min onanke ja ikatiai kikin genial.	Ikama, jara kikin yakoma ikatiai.	contradiction
+25605	shp	Jen jen, min onanke ja ikatiai kikin genial.	Jen jen, jara kikin jakon ikatiai.	entailment
+25606	shp	Jen jen, janra sugierenke westiora fregona biti min usanai keska.	Janra sugierenke westiora aspiradora biti.	contradiction
+25607	shp	Jen jen, janra sugierenke westiora fregona biti min usanai keska.	Janra sugierenke westiora fregona biti.	entailment
+25608	shp	Jen jen, janra sugierenke westiora fregona biti min usanai keska.	Westiora trapeadornin jimi soa kasira ike.	neutral
+25609	shp	Nenora realmente jawekibo jakoma iki, ramabira ike westiora tiriteo autopistanko, non xobonkoniax kimisha manzana winobainira ike.	Ja tiroteora ike al menos 100 millas ea jain ikainkoniax.	contradiction
+25610	shp	Nenora realmente jawekibo jakoma iki, ramabira ike westiora tiriteo autopistanko, non xobonkoniax kimisha manzana winobainira ike.	Ja tiroteora nokon xobo ochoma ike itan jakopira ea pikotinin raketai.	neutral
+25611	shp	Nenora realmente jawekibo jakoma iki, ramabira ike westiora tiriteo autopistanko, non xobonkoniax kimisha manzana winobainira ike.	Westiora tiroteora ike nokon xobo ochoma, realmentera jakon irama iki nato áreanko.	entailment
+25612	shp	oh, jara de verdad realmentema iki, oh consistente	Eata de acuerdoma iki mibe, bebon constante ira riki.	contradiction
+25613	shp	oh, jara de verdad realmentema iki, oh consistente	En shinana riki mia razonya ja jawen consistencia min yoyainko.	neutral
+25614	shp	oh, jara de verdad realmentema iki, oh consistente	Miara razonya iki consistente itima yoiyain.	entailment
+25615	shp	eara kikin akin jain tenei iki	Eara jaki aferrameti tanati iki.	entailment
+25616	shp	eara kikin akin jain tenei iki	Realmente akiriki ea lo mejorke en atipana.	neutral
+25617	shp	eara kikin akin jain tenei iki	Enra ranresai itan jawetianbira en pekao akin oinyamai.	contradiction
+25618	shp	jen jen, ¿jaweska cachorroyarin mia?	¿Min cachorroki kikin jakon bake iki?	neutral
+25619	shp	jen jen, ¿jaweska cachorroyarin mia?	¿Jaweka mishoki min reskatana?	contradiction
+25620	shp	jen jen, ¿jaweska cachorroyarin mia?	¿Jaweska ochiti bakeranonyarin mia?	entailment
+25621	shp	Jakon, min yoike mia bakeyabo,¿ jaweti baritiaya ?	¿Jaweti bakeyarin mia?	neutral
+25622	shp	Jakon, min yoike mia bakeyabo,¿ jaweti baritiaya ?	Enra sientenai mia bakeakosma ikentian.	contradiction
+25623	shp	Jakon, min yoike mia bakeyabo,¿ jaweti baritiaya ?	Minra yoike mia bakeya, ¿jaweti baritiayaborin?	entailment
+25624	shp	problamenetera nato non netenkonia inteligente winoabo ikanama iki, ikaxbi ninkawe, kikin agradablebora ikana iki itan, nato...intresadobora ikana iki ja jonibo estudiankasaiboki	Jatora kikin integente irama ikaboma iki, ikaxbi kikin amablebora ikana iki itan intresadobora ikana iki ja estudiankanaiboki.	entailment
+25625	shp	problamenetera nato non netenkonia inteligente winoabo ikanama iki, ikaxbi ninkawe, kikin agradablebora ikana iki itan, nato...intresadobora ikana iki ja jonibo estudiankasaiboki	Kikin integentera ikana iki, ikaxbi westabobetan ikaxra tontobo keska ikanke jato jakon akin onanshamanyamax.	neutral
+25626	shp	problamenetera nato non netenkonia inteligente winoabo ikanama iki, ikaxbi ninkawe, kikin agradablebora ikana iki itan, nato...intresadobora ikana iki ja jonibo estudiankasaiboki	Brillante winoara ikana iki, ikaxbi kikin akin jakomakatikanai wetsa bires estudiankasaibo.	contradiction
+25627	shp	Westiora ikira noa ja xobonko ka iki, eh, jain, westiora eventoainax joira noa ika iki itan non joe kete aka iki campamento alredoryain itan wetiora mofeta jai ika iki	Ja zorrillora noa camapamentonko karibati manata ike.	neutral
+25628	shp	Westiora ikira noa ja xobonko ka iki, eh, jain, westiora eventoainax joira noa ika iki itan non joe kete aka iki campamento alredoryain itan wetiora mofeta jai ika iki	Westiora cabrara non merake campamentonko non joe nokaka pekao.	contradiction
+25629	shp	Westiora ikira noa ja xobonko ka iki, eh, jain, westiora eventoainax joira noa ika iki itan non joe kete aka iki campamento alredoryain itan wetiora mofeta jai ika iki	Westiora eventonkoniax jokin, westiora mofeta non mera iki.	entailment
+25630	shp	onake, jatibi nokon bakebo riki genialbo, kikin jakonbo, itan en shinana riki ikama, axerakanai wetsa bakebo anichabokeax ribi, ikaxbi	Jara axea iki wetsa bake anichabo oinax ikaxbi jatibi nokon descendencia eclipsa.	entailment
+25631	shp	onake, jatibi nokon bakebo riki genialbo, kikin jakonbo, itan en shinana riki ikama, axerakanai wetsa bakebo anichabokeax ribi, ikaxbi	Eara kikin orgulloso iki mesko icha jawekibo nokon bakeboan onaketian.	neutral
+25632	shp	onake, jatibi nokon bakebo riki genialbo, kikin jakonbo, itan en shinana riki ikama, axerakanai wetsa bakebo anichabokeax ribi, ikaxbi	Nokon bakebora kikin idiotabo iki.	contradiction
+25633	shp	itan jaskaxon ribi non causantiki joniboan jawen basurabo kikin akin compactanti mmm..., itan mmm..., itan limitar ja volumen jaweska ikax iti atipanke shokores ochoma que nato problema real iitai ja jati iwe limitanti yoiyai	Nato limitación jati basura atira kikin problema ochoma iki que nato basuranin iwe en sí.	entailment
+25634	shp	itan jaskaxon ribi non causantiki joniboan jawen basurabo kikin akin compactanti mmm..., itan mmm..., itan limitar ja volumen jaweska ikax iti atipanke shokores ochoma que nato problema real iitai ja jati iwe limitanti yoiyai	Nato joniboanra masa shinantima jake icha basurabo jakentian natobo jakon akin potakanai ikentian.	contradiction
+25635	shp	itan jaskaxon ribi non causantiki joniboan jawen basurabo kikin akin compactanti mmm..., itan mmm..., itan limitar ja volumen jaweska ikax iti atipanke shokores ochoma que nato problema real iitai ja jati iwe limitanti yoiyai	Nato joniboanra consideranti jake jaton basura aki iitaitonin volumen itan jawen iwe ribi.	neutral
+25636	shp	jaskara kopi, westiora error jakentianra, min error iki, supongo	Preocupameyamawe, westiora error jakentianra, en mia akinai ja culpankinkin.	contradiction
+25637	shp	jaskara kopi, westiora error jakentianra, min error iki, supongo	Westiora error jakenra min culpa iki.	entailment
+25638	shp	jaskara kopi, westiora error jakentianra, min error iki, supongo	Westiora error akentianra, jawenabiti jake.	neutral
+25639	shp	Onanke… jatibi, costurabo ati itan jaskara jawekiboankayara westiora acabado kikin prosional meniai.	Nato costurabora akanai de modo kikin habilidoso.	entailment
+25640	shp	Onanke… jatibi, costurabo ati itan jaskara jawekiboankayara westiora acabado kikin prosional meniai.	Nato costurabora kikin ishtonbires akana iki itan jakopira descuidada min oinai.	contradiction
+25641	shp	Onanke… jatibi, costurabo ati itan jaskara jawekiboankayara westiora acabado kikin prosional meniai.	Kikinira basikanke nato costurabo keyonoxon.	neutral
+25642	shp	jen jen, jen jen, nokon teetiainra mia menikanai rabe semana peokotaitian itan japekao baritia tibira mia menikanai westiora nete extra hasta mia choska semanaya ikai kaman	Min tiempora kai kairesai baritia tibi.	entailment
+25643	shp	jen jen, jen jen, nokon teetiainra mia menikanai rabe semana peokotaitian itan japekao baritia tibira mia menikanai westiora nete extra hasta mia choska semanaya ikai kaman	Min tiemponira superanyamai nato kimisha netebi.	contradiction
+25644	shp	jen jen, jen jen, nokon teetiainra mia menikanai rabe semana peokotaitian itan japekao baritia tibira mia menikanai westiora nete extra hasta mia choska semanaya ikai kaman	Min tiempo de vacionesra kaitai nato jeman empleoboain.	neutral
+25645	shp	ja riki ja jakon non paron más jati, miara masashinantima jake natobo kopi	Non paronko ixonra mia akai neskara jaweki winoti rakeya shinanboya jamakin.	contradiction
+25646	shp	ja riki ja jakon non paron más jati, miara masashinantima jake natobo kopi	Ja jakon noa neno non paronko ika riki que noa jaskara jawekiboki non masa shinanyamai.	entailment
+25647	shp	ja riki ja jakon non paron más jati, miara masashinantima jake natobo kopi	Ja kikin jakon riki nato camponko ixon mia ja jawekiboki masashinani iiyamai ani jeman min akai keska akin.	neutral
+25648	shp	oh, oh Rios, jakon, jara en ninkatai westiora aventura keska	Jara iti jisa iki kikin divertido iamax kikin aburrido.	neutral
+25649	shp	oh, oh Rios, jakon, jara en ninkatai westiora aventura keska	Jara kikin ani aventura keska en ninkatai.	entailment
+25650	shp	oh, oh Rios, jakon, jara en ninkatai westiora aventura keska	Kikin jakoma experiencia keska riki.	contradiction
+25651	shp	itan ramara ea westiora wetsaya iki Alemanianko	Ramabira ea westiora poiya iki Alemanianko residenai.	entailment
+25652	shp	itan ramara ea westiora wetsaya iki Alemanianko	Westiora wetsaya riki ea jara ramabishoko Cubanko iki.	contradiction
+25653	shp	itan ramara ea westiora wetsaya iki Alemanianko	Westiora nokon westa Alemán yoyo ikaiya riki ea.	neutral
+25654	shp	Ramabira ea westiora bake ainbo maxkoya iki itan jain botikoma riki itan ja, ikaxbira en, eh...	Jaweskaixonra en nokon bake ainbo jain boti atipanke.	neutral
+25655	shp	Ramabira ea westiora bake ainbo maxkoya iki itan jain botikoma riki itan ja, ikaxbira en, eh...	Nokonara difisilcha iki nokon bake ainbo jain boti.	entailment
+25656	shp	Ramabira ea westiora bake ainbo maxkoya iki itan jain botikoma riki itan ja, ikaxbira en, eh...	Rama kaya conducenti atipanxonra, nakon bake ainbonin janbiri neno nokoti onanke.	contradiction
+25657	shp	Jen jen, westiora verano kikin jakonya iwe.	Eara kenai min vaciones de verano kikin miserablebo winoti.	contradiction
+25658	shp	Jen jen, westiora verano kikin jakonya iwe.	Jaskara riki nato veranora ramachabi moa nokotai.	neutral
+25659	shp	Jen jen, westiora verano kikin jakonya iwe.	Jen jen, westiora verano kikinagradableya iwe.	entailment
+25660	shp	noara kikin ikon naturalistaboma iki ikaxmi eh	En realidad, noara naturalistasbo considerameyamai.	entailment
+25661	shp	noara kikin ikon naturalistaboma iki ikaxmi eh	¡Noara totalmente ikon naturalistabo iki itan noa sientemetai kikin ramibires wetsa keska akin no shinankana!	contradiction
+25662	shp	noara kikin ikon naturalistaboma iki ikaxmi eh	Non kenra itiki wetsatianbires esfuerzameti naturalistasbo ikasi, ikaxbi ramabi, noa jama iki.	neutral
+25663	shp	jen jen, enra nokon yosibo shinanai itan callenko pikokatitai wetsatianbo itan latabo tsinki itan eh	Jaweti resra tsinkikanai ike itan callenkonia basura limpiankana iki.	neutral
+25664	shp	jen jen, enra nokon yosibo shinanai itan callenko pikokatitai wetsatianbo itan latabo tsinki itan eh	Enra nokon yosibo akinkatitai latabo carreterainoa tsinkikin.	entailment
+25665	shp	jen jen, enra nokon yosibo shinanai itan callenko pikokatitai wetsatianbo itan latabo tsinki itan eh	Noara kakatitai pishtanko nokon papan xobonko.	contradiction
+25666	shp	jaskara ikax primera vezma iki min experiecia westiora ochitibetan	Jakara ikax, natora min primera vezma iki westiora ochitibetan.	entailment
+25667	shp	jaskara ikax primera vezma iki min experiecia westiora ochitibetan	Lo siento, enra onanyama ike natori jawen primera vez ochiti oini ixon.	contradiction
+25668	shp	jaskara ikax primera vezma iki min experiecia westiora ochitibetan	Natora primera vezma iki westiora yoina domestikankana manejanai.	neutral
+25669	shp	jaskara, jaskara, jatibi posible ayamawe itan	Minra ea yoiti atipanke jaweskaki nato historia keyotai ixon.	neutral
+25670	shp	jaskara, jaskara, jatibi posible ayamawe itan	Minbichora jatibi ati atipanyamake.	entailment
+25671	shp	jaskara, jaskara, jatibi posible ayamawe itan	Miara maxkate jatibi asuntoki winoti.	contradiction
+25672	shp	eeri eara recintonko jayamake	Eara campusyain jayamake.	entailment
+25673	shp	eeri eara recintonko jayamake	Eara jake ja campus ikainko jaweti manzanabo winobaini.	neutral
+25674	shp	eeri eara recintonko jayamake	Campusyainra ea jake.	contradiction
+25675	shp	eara libre iki nato westiora jonin jawen pota awin westa jonibetan oxaitian retenon kaman chachia acusación akanainko, eara yoikasai pota awin, min onanke noa yoyo iki itan	Westiora joninra jawen awin reteke wetsa joni betan acuestametaitian wetsa acusación previanko absuelvenkana pekao.	entailment
+25676	shp	eara libre iki nato westiora jonin jawen pota awin westa jonibetan oxaitian retenon kaman chachia acusación akanainko, eara yoikasai pota awin, min onanke noa yoyo iki itan	Westiora jonira liberankana ike nato cargamea westiora problema técnico kopi itan akanke itan jawen pota awin reteke.	neutral
+25677	shp	eara libre iki nato westiora jonin jawen pota awin westa jonibetan oxaitian retenon kaman chachia acusación akanainko, eara yoikasai pota awin, min onanke noa yoyo iki itan	Ja awinra asegurameke jawen pota bene jatibi jan vida xepomeran iti kopi.	contradiction
+25678	shp	jara cuentas de ahorro contribuciónya keska iki	Eara jawe comparanti ribi yamaribake.	contradiction
+25679	shp	jara cuentas de ahorro contribuciónya keska iki	Jariki cuenta de ahorro minabicho keska ribi.	entailment
+25680	shp	jara cuentas de ahorro contribuciónya keska iki	Ja ahorrobo aportankanara jaribi ikai.	neutral
+25681	shp	Wills Point nara ike, enra onanyamake minki onana ixon	Eara seguroma iki minki Wills Pointiki yoyo ikanai ninkata ixon.	entailment
+25682	shp	Wills Point nara ike, enra onanyamake minki onana ixon	Wills Pointin yoyaira en ninkake.	neutral
+25683	shp	Wills Point nara ike, enra onanyamake minki onana ixon	Jara Cambridge noa iki.	contradiction
+25684	shp	Eara nokon relojya iwana yoi iki itan jatibi nokon zapatobokira iwanke itan nato arbustosainra jatibi oxobicho iwanke ja naman	Mainkoresra aterrizameke, jaskara kopira nokon zapatobo kerasyamakanke.	contradiction
+25685	shp	Eara nokon relojya iwana yoi iki itan jatibi nokon zapatobokira iwanke itan nato arbustosainra jatibi oxobicho iwanke ja naman	Kikin jakomara ike nokon zapato ea maponankana.	neutral
+25686	shp	Eara nokon relojya iwana yoi iki itan jatibi nokon zapatobokira iwanke itan nato arbustosainra jatibi oxobicho iwanke ja naman	Nokon zapatobora naton mapokana ike.	entailment
+25687	shp	westiora tee de amor keskra akanai, jakopira ja nato oficialnin shinan jakon iki	Enra moa sopotanyamai nato directivo iti shinan.	contradiction
+25688	shp	westiora tee de amor keskra akanai, jakopira ja nato oficialnin shinan jakon iki	En shinanara nato oficialnin yoiwana shinanra estupenda iki.	entailment
+25689	shp	westiora tee de amor keskra akanai, jakopira ja nato oficialnin shinan jakon iki	Wetsa joniboanra shinanai nato oficialnin yoiwana shinanra brillante iki.	neutral
+25690	shp	jaskara ikax westiora pinta kikin ingeniosaya ike	Genialkeskara en oinwanke.	neutral
+25691	shp	jaskara ikax westiora pinta kikin ingeniosaya ike	Kikin atibiresra ike ja onanti.	entailment
+25692	shp	jaskara ikax westiora pinta kikin ingeniosaya ike	Ja diseñora kikin mecho ike	contradiction
+25693	shp	itan latabo non benxoake westiora jawekiain itan nato vasobo wetsanko itan ja papel wetsanko ribi itan moa bocho ikentianra non cochekaman papike itan non boke westiora peñazonko	Papitikoma riki nato papel , nato vidrio itan nato latabo jaton contenedoryainbiri apakea pekao.	entailment
+25694	shp	itan latabo non benxoake westiora jawekiain itan nato vasobo wetsanko itan ja papel wetsanko ribi itan moa bocho ikentianra non cochekaman papike itan non boke westiora peñazonko	Ja papel riki japari bochoai, japekao latabo itan japekao vidrio.	neutral
+25695	shp	itan latabo non benxoake westiora jawekiain itan nato vasobo wetsanko itan ja papel wetsanko ribi itan moa bocho ikentianra non cochekaman papike itan non boke westiora peñazonko	Nonra jawebi separanyamai, jatibira non westiora bolsaninres potai.	contradiction
+25696	shp	Locust Hill oh ikon, jen jen,kikin jakon	Locust Hillra ja mejor iki.	neutral
+25697	shp	Locust Hill oh ikon, jen jen,kikin jakon	Ikama, ikama Locust Hill.	contradiction
+25698	shp	Locust Hill oh ikon, jen jen,kikin jakon	Jen jen, jara ikon iki, Locust Hill.	entailment
+25699	shp	eara westiora céped Bermudaya iki neno itan necesitanke kikin icha onpax itan kikin maxkoshoko min imati jake nato green de westiora campo de golf keska imakaskin.	Ja céspedes Bermudanbora kikin tee ichaya iki.	neutral
+25700	shp	eara westiora céped Bermudaya iki neno itan necesitanke kikin icha onpax itan kikin maxkoshoko min imati jake nato green de westiora campo de golf keska imakaskin.	Ja césped nato Islas Bermudasainoa, toninra meniti atipanke westiora aspecto nato campos de golf yankon keskaribi akin.	entailment
+25701	shp	eara westiora céped Bermudaya iki neno itan necesitanke kikin icha onpax itan kikin maxkoshoko min imati jake nato green de westiora campo de golf keska imakaskin.	Jawetiankiresra ja césped bermudana min ompax machiti jake.	contradiction
+25702	shp	westiora níquel namanres, iamax jatiribi ikaxbi, sokota botella bia kimisha centavoshoko menosres. Jatibira shitakanai ja xeatibo jain kopimacha marokin bi	Westiora pack sokota jikiaira aproximadamente 30 centavos mas kopima iki nato frontera shitabaini.	entailment
+25703	shp	westiora níquel namanres, iamax jatiribi ikaxbi, sokota botella bia kimisha centavoshoko menosres. Jatibira shitakanai ja xeatibo jain kopimacha marokin bi	Jaweti joniboanra nato frontera shitakanai bebidabo kobimacha biti kopi.	neutral
+25704	shp	westiora níquel namanres, iamax jatiribi ikaxbi, sokota botella bia kimisha centavoshoko menosres. Jatibira shitakanai ja xeatibo jain kopimacha marokin bi	Nato botellabora bebonbires kopi iki frontera winobaini.	contradiction
+25705	shp	jen jen, enra mia ninkatai	Jara definitivamente kikin koshi winoa iki jaskaxon en ninkati.	entailment
+25706	shp	jen jen, enra mia ninkatai	Enra ninkati atipanyamake.	contradiction
+25707	shp	jen jen, enra mia ninkatai	En keskra nikatai.	neutral
+25708	shp	Jawetianki min westiora artículo marokin biai, especialmente westiora artículo kikin ani min bii kai, jara min kopiaki kai jaweki iki itan jatibitian min akak iki añadenkin chonka por ciento de nato impuesto.	Westiora chonka por ciento impuesto kopiatira beboinra iki.	neutral
+25709	shp	Jawetianki min westiora artículo marokin biai, especialmente westiora artículo kikin ani min bii kai, jara min kopiaki kai jaweki iki itan jatibitian min akak iki añadenkin chonka por ciento de nato impuesto.	Jatibitianra min westiora impuesto de chonka por ciento axonti jake jatibi min marokin bi iitai nato jawetiki itiki ixon caculanki.	entailment
+25710	shp	Jawetianki min westiora artículo marokin biai, especialmente westiora artículo kikin ani min bii kai, jara min kopiaki kai jaweki iki itan jatibitian min akak iki añadenkin chonka por ciento de nato impuesto.	Jawetianbira min impuesto calculanti atipanyamake nato coste onanoxon.	contradiction
+25711	shp	natora shoko inusual iki ikaxbira auspicioninbo akanai	Bebon comunma riki.	entailment
+25712	shp	natora shoko inusual iki ikaxbira auspicioninbo akanai	Netetibi ikai keskabi riki.	contradiction
+25713	shp	natora shoko inusual iki ikaxbira auspicioninbo akanai	Inusual riki neskara non jonibo ointi.	neutral
+25714	shp	ja riki ja planeana ati, jaskara ixonra ea manatai anon ixon	Eara manatai ja planeana jan ati.	entailment
+25715	shp	ja riki ja planeana ati, jaskara ixonra ea manatai anon ixon	Kikin jakonra itiki jawena ja planeana iitai jakeki aka.	neutral
+25716	shp	ja riki ja planeana ati, jaskara ixonra ea manatai anon ixon	Ja ati planeanama riki.	contradiction
+25717	shp	jaskara shaman, ikaxbira ea yoi iitai nato bena leyesboki nato relidadyen ramabi kikin atikomi iki	Ikon jaweki ochobires, nato leybora kikin moatianbi itan obsoletabo iki.	contradiction
+25718	shp	jaskara shaman, ikaxbira ea yoi iitai nato bena leyesboki nato relidadyen ramabi kikin atikomi iki	Jaskara iki, ikaxbira nato regulaciónbora realidad iki kikini basikanke.	neutral
+25719	shp	jaskara shaman, ikaxbira ea yoi iitai nato bena leyesboki nato relidadyen ramabi kikin atikomi iki	Jaskara kopi, neskara nato bena regulaciónbo jakenbira, rama kikinbires atikoma iki.	entailment
+25720	shp	Golly, min onanke jan jawe reglabi chibanyama itan ea jaskara ikenbi sinayamabobike, jaskarara ikayai, kikin jatianbira jamaananbi teskakanke	Janra jatibi reglabo senen ayamake.	entailment
+25721	shp	Golly, min onanke jan jawe reglabi chibanyama itan ea jaskara ikenbi sinayamabobike, jaskarara ikayai, kikin jatianbira jamaananbi teskakanke	Janra jatibi reglabo senen ake itan jaskara ikenbira potakanke.	contradiction
+25722	shp	Golly, min onanke jan jawe reglabi chibanyama itan ea jaskara ikenbi sinayamabobike, jaskarara ikayai, kikin jatianbira jamaananbi teskakanke	Janra jatibi normabo chibana iti ika iki.	neutral
+25723	shp	Jen jen, ponte jaskara iti jisama riki, ¿ikon?	Eara dudaoma iki wetsatiabiresra ikai.	contradiction
+25724	shp	Jen jen, ponte jaskara iti jisama riki, ¿ikon?	Ja ikonriki kikin winoti jisama.	entailment
+25725	shp	Jen jen, ponte jaskara iti jisama riki, ¿ikon?	Jen jen, en shinanara iti atipanyamake, ikaxbi jatibitianra esperanzabo jake neskarabo iti.	neutral
+25726	shp	Boira ikanai neskara entre Washington jawe pierdemetamabobi itan Buffalo Nueva Orleans itan Chicago nato Chicagora rabe ikires pierdemeta iki itan ja westiora riki ja Buffalobetan ibata.	Buffalora jatibiainoa kikin jakon equipoya iki.	neutral
+25727	shp	Boira ikanai neskara entre Washington jawe pierdemetamabobi itan Buffalo Nueva Orleans itan Chicago nato Chicagora rabe ikires pierdemeta iki itan ja westiora riki ja Buffalobetan ibata.	Ja rabe equipoinoa Chicago jabe pierdemetainoa riki Buffalo ja westsa.	entailment
+25728	shp	Boira ikanai neskara entre Washington jawe pierdemetamabobi itan Buffalo Nueva Orleans itan Chicago nato Chicagora rabe ikires pierdemeta iki itan ja westiora riki ja Buffalobetan ibata.	Washingtonra jatibi partidobo pierdemeke.	contradiction
+25729	shp	hum, hum, hum, jen jen noara chopanko impuestoboya iki.	Nato chopabora impuestoyoma iki.	contradiction
+25730	shp	hum, hum, hum, jen jen noara chopanko impuestoboya iki.	Ja impuesto a las ventabora bebon alto ira iki.	neutral
+25731	shp	hum, hum, hum, jen jen noara chopanko impuestoboya iki.	Nato tropabora westiora impuesto sobre ventaya iki.	entailment
+25732	shp	ay enra jakon akin oinai, nokon ken ribiriki nato ambiente	Nokon ken riki nato ambiente.	entailment
+25733	shp	ay enra jakon akin oinai, nokon ken ribiriki nato ambiente	Nokon kenma riki nato jakoma energía nato lugarnin producenai.	contradiction
+25734	shp	ay enra jakon akin oinai, nokon ken ribiriki nato ambiente	Eara kikin seguro iki neno itan jakopira nokon ken iki.	neutral
+25735	shp	Mmm eara westiora benbo westiora aiboya iki jara dieciocho oxeya iki.	Eara icha bakeya iki	contradiction
+25736	shp	Mmm eara westiora benbo westiora aiboya iki jara dieciocho oxeya iki.	Eara wetiora ainbo bakeya iki, westiora ainbo bake dieciocho oxeya.	entailment
+25737	shp	Mmm eara westiora benbo westiora aiboya iki jara dieciocho oxeya iki.	Eara icha bakebo kenai.	neutral
+25738	shp	Ja segundo itinara ja camadainoa cachorro ribi iki itan ja jabichoshoko benbo usanara ike westiora problemanya xetanko.	Jara cachorroma ika iki.	contradiction
+25739	shp	Ja segundo itinara ja camadainoa cachorro ribi iki itan ja jabichoshoko benbo usanara ike westiora problemanya xetanko.	Ja benera ike westiora problemanya xetanko, itan ja wetsa cachorrora basurainoa joai ike.	entailment
+25740	shp	Ja segundo itinara ja camadainoa cachorro ribi iki itan ja jabichoshoko benbo usanara ike westiora problemanya xetanko.	8 resra ike ja canadanko, beneresra ike ja westiora problemanya xetanko.	neutral
+25741	shp	oh jain noaxkayaki joai nato min yoyai jaweki	¿Jainxonki min kenai iitai?	entailment
+25742	shp	oh jain noaxkayaki joai nato min yoyai jaweki	Larga distanciankoxon kenai riki.	neutral
+25743	shp	oh jain noaxkayaki joai nato min yoyai jaweki	Jainxo kenai mariki mia.	contradiction
+25744	shp	Honestamentera, en onanyamake, enra boyosma pari iki jati icha ropa de vestir, ikon yoiri ea	Jawetiakinresra en ropa de vestir saweai.	entailment
+25745	shp	Honestamentera, en onanyamake, enra boyosma pari iki jati icha ropa de vestir, ikon yoiri ea	Nokon ken riki jakoni vistemeti.	neutral
+25746	shp	Honestamentera, en onanyamake, enra boyosma pari iki jati icha ropa de vestir, ikon yoiri ea	Jatibitianra en ropa de vestir saweai.	contradiction
+25747	shp	¿Europankoniaxki mia museonkobo ka iki?	¿Algún museo europeoki min onantana?	entailment
+25748	shp	¿Europankoniaxki mia museonkobo ka iki?	¿Minki onantana algún museo Candayain?	contradiction
+25749	shp	¿Europankoniaxki mia museonkobo ka iki?	Enra apuestanai min ken ira ikatiai Europa oanati.	neutral
+25750	shp	jainra mia jakon kai, ¿minki onana jaweskaki min camiseta itan eki shinanai?	¿Min benen kenrin min camiseta ?	entailment
+25751	shp	jainra mia jakon kai, ¿minki onana jaweskaki min camiseta itan eki shinanai?	¿Jaweskaki min wetsan min jayaki shinanai ?	contradiction
+25752	shp	jainra mia jakon kai, ¿minki onana jaweskaki min camiseta itan eki shinanai?	Min camiseta riki kikin metsaira.	neutral
+25753	shp	hm, kikin aluminio forjadomabobi, ponte aluminio prensadores	Westiora metal kikin kopimanin akanara ike.	entailment
+25754	shp	hm, kikin aluminio forjadomabobi, ponte aluminio prensadores	Cobre ninshamanin akanara ike.	contradiction
+25755	shp	hm, kikin aluminio forjadomabobi, ponte aluminio prensadores	Fuentebo kikin endeblebora ikatiai.	neutral
+25756	shp	itan kikin akinra ea rateke	Shokores ratetara ea ike.	neutral
+25757	shp	itan kikin akinra ea rateke	Eara ratetabi ike.	entailment
+25758	shp	itan kikin akinra ea rateke	Eara rateyamake.	contradiction
+25759	shp	itan japekao ja segunda jaweki en ointira itiki jawetiki kopiakantiki ixon	Jaska ribira en oinai jaweki jatona asequible ixon.	entailment
+25760	shp	itan japekao ja segunda jaweki en ointira itiki jawetiki kopiakantiki ixon	Eara importanyamake jawe jawekiboki kopiakanti ixon.	contradiction
+25761	shp	itan japekao ja segunda jaweki en ointira itiki jawetiki kopiakantiki ixon	Por lo generalra, bebonira permitemekanti atipanyamakanke.	neutral
+25762	shp	Jakon, enra shinanyamai, jaskara keskara ike, ikaxbi jaskara mara itiki, suponenai, suponenai	Eara seguroma iki, ikaxbi jaskara keskara itiki.	entailment
+25763	shp	Jakon, enra shinanyamai, jaskara keskara ike, ikaxbi jaskara mara itiki, suponenai, suponenai	Enra jatibishaman shinanyamai yame kikin icha vino xeawanxo.	neutral
+25764	shp	Jakon, enra shinanyamai, jaskara keskara ike, ikaxbi jaskara mara itiki, suponenai, suponenai	Nokon memoriara kikin clara iki sobre ja jame winoibata.	contradiction
+25765	shp	Min ja TV aparatonin itan mia, en shinanara westiora jakon castigo telvisión yometsoketianra itiki jato reteti-	¿Min shinanaki jato reteti westiora castigo bebon koshiora iti atipana yometsokana kopi?	neutral
+25766	shp	Min ja TV aparatonin itan mia, en shinanara westiora jakon castigo telvisión yometsoketianra itiki jato reteti-	Min shinanaki jakon iki nato televisor xometsoaibo retekekin jato castiganti.	entailment
+25767	shp	Min ja TV aparatonin itan mia, en shinanara westiora jakon castigo telvisión yometsoketianra itiki jato reteti-	Jakon mainki min shinana nato televisión yometsokanaibo ponte neskarares jato jeneresti.	contradiction
+25768	shp	Ja playara ika iki kikin metsa itan jara ika iki westiora lujar kikin jakoinra visitanti, jaskara kopira jaweska ikax ja iki kikin nokon kenira lugarbo, ¿itan minakan?	Realmentera kikin nokon ken iki nato playa kikin kerasma itan kikin akin koirakanai kopi.	neutral
+25769	shp	Ja playara ika iki kikin metsa itan jara ika iki westiora lujar kikin jakoinra visitanti, jaskara kopira jaweska ikax ja iki kikin nokon kenira lugarbo, ¿itan minakan?	Mesko nokon ken lugarbo visitantiainoa ribi riki nato playa, kikin metsa ikentian, ¿jaweratorin min kenshama lugar visitanti ?	entailment
+25770	shp	Ja playara ika iki kikin metsa itan jara ika iki westiora lujar kikin jakoinra visitanti, jaskara kopira jaweska ikax ja iki kikin nokon kenira lugarbo, ¿itan minakan?	Jariki nokon shinan, jakonra itiki nii meran non acampana.	contradiction
+25771	shp	jain chico potawe westiora anuncio colana	Jawe anunciobi publicanyamawe.	contradiction
+25772	shp	jain chico potawe westiora anuncio colana	Westiora refresconin anuncio awe.	neutral
+25773	shp	jain chico potawe westiora anuncio colana	Westiora Coca Colanin anuncio awe jain.	entailment
+25774	shp	jakon, ea aseguramemawe jaskara ixon min shinanai jaweska ikax westiora periodo de pichika nete jato manamati para pistolabo iamax ja jawekibo legítimabo ikai	¿Min shinanaki, jatiribi joniboana, pena valentiki neskara periodo de retención pichika nete manati?	neutral
+25775	shp	jakon, ea aseguramemawe jaskara ixon min shinanai jaweska ikax westiora periodo de pichika nete jato manamati para pistolabo iamax ja jawekibo legítimabo ikai	¿Jaweskarin nato westiora retención de pichikia nete ja armas de juego bikaskin benakanaibo akanai?	entailment
+25776	shp	jakon, ea aseguramemawe jaskara ixon min shinanai jaweska ikax westiora periodo de pichika nete jato manamati para pistolabo iamax ja jawekibo legítimabo ikai	¿ Jaweskaki min oinai nato pichika minutobores jeman jato manamakanai jato westiora permiso meninoxon?	contradiction
+25777	shp	¡Vaya! westiora Cocker Spanielya ikaxra, ea westiora ochiti jeman pikokana keska ikatiai itan kikin nokon ken keskara ikatiai ¡vaya!	Enra prefierenai westiora ochiti chikish chicho itina que westiora activo kikin jemanres ibai kasai.	contradiction
+25778	shp	¡Vaya! westiora Cocker Spanielya ikaxra, ea westiora ochiti jeman pikokana keska ikatiai itan kikin nokon ken keskara ikatiai ¡vaya!	Nokon ken riki jatibi keska ochiti jemanres ikas, jaskarabo iki jatibibo kikin jakon bakebo.	neutral
+25779	shp	¡Vaya! westiora Cocker Spanielya ikaxra, ea westiora ochiti jeman pikokana keska ikatiai itan kikin nokon ken keskara ikatiai ¡vaya!	En keskara prefierenai ochiti jeman ikasbo nato Cocker Spaniel ea jaya ikatiai keska.	entailment
+25780	shp	Supuestamenteronki nato siete netenki non an tecedentesbo revisankanai itan aseguramekanai mia westiora ex convictoma iamax mia jayaoma	Nato comprovación de antecedentesbo ronki kikin ishton atikoma iki.	neutral
+25781	shp	Supuestamenteronki nato siete netenki non an tecedentesbo revisankanai itan aseguramekanai mia westiora ex convictoma iamax mia jayaoma	Nato verificación de antecedentesbo ronki westiora oxe winobain ikai.	contradiction
+25782	shp	Supuestamenteronki nato siete netenki non an tecedentesbo revisankanai itan aseguramekanai mia westiora ex convictoma iamax mia jayaoma	Supuestamente ronki westiora verificación de antecedentes akanai nato siete nete boan.	entailment
+25783	shp	min onanke en prefierentiki westiora avióyen mapeti itan jain nokoti itan jakon winoti.	Kikin segurora iti ike noyai jain nokota.	neutral
+25784	shp	min onanke en prefierentiki westiora avióyen mapeti itan jain nokoti itan jakon winoti.	Eara kikin avión ainoax pakekashorai iki itan jain nokotax kikin jakon winokasi.	entailment
+25785	shp	min onanke en prefierentiki westiora avióyen mapeti itan jain nokoti itan jakon winoti.	Eara jawetianbi noyatima iki.	contradiction
+25786	shp	Nenoax jaweti oxera, sokota juradobo mienbroya ikana iki. En shinanara ika iki maton onana jatibitian ikatiai doce benbobo tanakanai itan, westsa keska akin yoiya , fieles.	Eara equivocado ike nato juradobo jatibitian doce jonibo ikai shinanax.	entailment
+25787	shp	Nenoax jaweti oxera, sokota juradobo mienbroya ikana iki. En shinanara ika iki maton onana jatibitian ikatiai doce benbobo tanakanai itan, westsa keska akin yoiya , fieles.	Ja juradobora 13 joni iki jatibitian.	contradiction
+25788	shp	Nenoax jaweti oxera, sokota juradobo mienbroya ikana iki. En shinanara ika iki maton onana jatibitian ikatiai doce benbobo tanakanai itan, westsa keska akin yoiya , fieles.	Jatonra katoti atipanke jatibi jonibo jurado imakasibo.	neutral
+25789	shp	Jatibi CEObo nato instituciones financieraboana itan ja jonibo naton kenbo, jaskara ikaxra ja ike kikin interesada jatibi nato instituciones financierabo winotaibo onantiain.	Jara importanyamabobike jawebi nato cooperativas de ahorrobo itan crédito.	contradiction
+25790	shp	Jatibi CEObo nato instituciones financieraboana itan ja jonibo naton kenbo, jaskara ikaxra ja ike kikin interesada jatibi nato instituciones financierabo winotaibo onantiain.	Jara interesada ike nato cooperativas de créditonko.	entailment
+25791	shp	Jatibi CEObo nato instituciones financieraboana itan ja jonibo naton kenbo, jaskara ikaxra ja ike kikin interesada jatibi nato instituciones financierabo winotaibo onantiain.	Jara kikin bebonbires interesada ike jaweskaxonki nato cooperativas de ahorro itan créditoboan koriki ganani ixon.	neutral
+25792	shp	Enra onanke jatibi ikanai jatibitian ocupadobo itan masashinanaibo, itan nato jonibo kikin icha problemayabo iki ixon itan jato yakayamai jakibo yoyo iki jatibi jakon ika kai onanax	Enra jonibores oinai yakakanai itan yoyoikanai jaton problemaboki.	contradiction
+25793	shp	Enra onanke jatibi ikanai jatibitian ocupadobo itan masashinanaibo, itan nato jonibo kikin icha problemayabo iki ixon itan jato yakayamai jakibo yoyo iki jatibi jakon ika kai onanax	Jaskara kaya, jaweti joniboresra yoyoikanai rama jaton problemabo winoti iitaiboki.	neutral
+25794	shp	Enra onanke jatibi ikanai jatibitian ocupadobo itan masashinanaibo, itan nato jonibo kikin icha problemayabo iki ixon itan jato yakayamai jakibo yoyo iki jatibi jakon ika kai onanax	Nato jonibora yakayamabirakanai itan yoyo iyamakanai jawen problemaboki itan jaton masha shinanboki.	entailment
+25795	shp	Brian Planonko, Texas, ¿jaweskarin mia rama nete?	¿Jaweskarin mia María?	contradiction
+25796	shp	Brian Planonko, Texas, ¿jaweskarin mia rama nete?	¿Jaweskaki min nete kai iitai?	entailment
+25797	shp	Brian Planonko, Texas, ¿jaweskarin mia rama nete?	Plano, Texas riki westiora lugar tson ikon atima keska.	neutral
+25798	shp	jaskara kopira, mmm..., jakon, wetsa jawekibora beyamai caosyaresra beai	Jaibakeara caosres min biai.	entailment
+25799	shp	jaskara kopira, mmm..., jakon, wetsa jawekibora beyamai caosyaresra beai	Kikin yoiti shoko riki itan jawe problemara ayamai.	contradiction
+25800	shp	jaskara kopira, mmm..., jakon, wetsa jawekibora beyamai caosyaresra beai	Jatiribi joniboanra gustanke ja caos akanai.	neutral
+25801	shp	jen jen, jashaman riki en rama nete awana, enra boa iki uh Darkman, minki ja oina uh enra oinama iki, enra rama yamebira ointiki	Enra moa oina iki Darkman 4 akin winoabira.	contradiction
+25802	shp	jen jen, jashaman riki en rama nete awana, enra boa iki uh Darkman, minki ja oina uh enra oinama iki, enra rama yamebira ointiki	Enra Darkman oinama pari iki, jakopira en nato yame oini kati shinanke.	entailment
+25803	shp	jen jen, jashaman riki en rama nete awana, enra boa iki uh Darkman, minki ja oina uh enra oinama iki, enra rama yamebira ointiki	Enra ninkake nato Darkmanki westiora kikin jakon película.	neutral

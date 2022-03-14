@@ -1,0 +1,26 @@
+2021-10-27 14:33:49,976 [INFO] Number of GPUs available: 1
+2021-10-27 14:34:04,058 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/translate_train_mlm-aug/translate_train_mlm-aug_oto_42/final_model/
+2021-10-27 14:34:09,358 [INFO] Example 0 for oto lang: ('mi-ga, nin mibⴘy mbô̮nitho ane guenu, guedi mibⴘy nho ⴘnmⴘy xi di mⴘdi o ñana nen nⴘua manaigui', 'hin din bi pengui nen nⴘa', 0)
+2021-10-27 14:34:09,358 [INFO] Example 1 for oto lang: ('mi-ga, nin mibⴘy mbô̮nitho ane guenu, guedi mibⴘy nho ⴘnmⴘy xi di mⴘdi o ñana nen nⴘua manaigui', 'dimi nho mbueracua guê di mⴘdi o ñana nen nⴘua manaigui', 2)
+2021-10-27 14:34:09,358 [INFO] Example 2 for oto lang: ('mi-ga, nin mibⴘy mbô̮nitho ane guenu, guedi mibⴘy nho ⴘnmⴘy xi di mⴘdi o ñana nen nⴘua manaigui', 'dibime nai ndot nahia', 1)
+2021-10-27 14:34:09,359 [INFO] Pred loop key: oto
+2021-10-27 14:34:09,359 [INFO] Number of examples: 748
+2021-10-27 14:34:09,359 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-10-27 14:34:09,359 [INFO] Pretokenizing...
+2021-10-27 14:34:09,600 [INFO] ----------------------------------
+2021-10-27 14:34:09,611 [INFO] Example 0 for oto lang: ('xi nⴘdi biênâ: maMe dimi an ngû', 'bi matti o ini maMe zaditho-nho tengu nⴘa nᶎarutîhî bi tzogui', 1)
+2021-10-27 14:34:09,612 [INFO] Example 1 for oto lang: ('xi nⴘdi biênâ: maMe dimi an ngû', 'nⴘdi hin biênâ nā hia', 0)
+2021-10-27 14:34:09,612 [INFO] Example 2 for oto lang: ('xi nⴘdi biênâ: maMe dimi an ngû', 'bimâbi o ini maMe guê o ngû', 2)
+2021-10-27 14:34:09,612 [INFO] Pred loop key: oto
+2021-10-27 14:34:09,612 [INFO] Number of examples: 222
+2021-10-27 14:34:09,612 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-10-27 14:34:09,612 [INFO] Pretokenizing...
+2021-10-27 14:34:09,676 [INFO] ----------------------------------
+2021-10-27 14:34:13,920 [INFO] Language: oto
+2021-10-27 14:34:13,922 [INFO] Test accuracy: 35.96
+2021-10-27 14:34:13,922 [INFO] Eval accuracy: 42.34
+2021-10-27 14:34:13,922 [INFO] ---------------------------------
+2021-10-27 14:34:13,922 [INFO] All scores:
+2021-10-27 14:34:13,922 [INFO] Test: 35.96
+2021-10-27 14:34:13,923 [INFO] Eval: 42.34
+2021-10-27 14:34:13,923 [INFO] Done

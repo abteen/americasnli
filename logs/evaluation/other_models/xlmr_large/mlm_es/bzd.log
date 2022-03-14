@@ -1,0 +1,26 @@
+2021-11-12 10:46:32,209 [INFO] Number of GPUs available: 1
+2021-11-12 10:46:53,465 [INFO] Number of GPUs available: 1
+2021-11-12 10:47:26,688 [INFO] Number of GPUs available: 1
+2021-11-12 10:47:34,868 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/xlmr_large/mlm_es/xlmr_large_zero_shot_mlm_es_bzd_42/final_model/
+2021-11-12 10:47:40,608 [INFO] Example 0 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Kèq ye' ùtẽnẽ ie' tã páxlĩ.", 0)
+2021-11-12 10:47:40,608 [INFO] Example 1 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Sulû ye' ulùnãwã e' wa tã ye' ujtémĩnẽ ie' tã páxlĩ.", 2)
+2021-11-12 10:47:40,608 [INFO] Example 2 for bzd lang: ("Bua', kèq ye' kũ e' bikeitsök erë ye' chkénãwã tã ye' ujtémĩne ie' tã páxlĩnẽ.", "Sa' káxpake tãîx.", 1)
+2021-11-12 10:47:40,609 [INFO] Pred loop key: bzd
+2021-11-12 10:47:40,609 [INFO] Number of examples: 750
+2021-11-12 10:47:40,609 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-11-12 10:47:40,609 [INFO] ----------------------------------
+2021-11-12 10:47:40,620 [INFO] Example 0 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "I ãmìx ichàke irir bét wèxs tabèchka shko ẽ' wóqulâwõ dör i méxãt.", 1)
+2021-11-12 10:47:40,620 [INFO] Example 1 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "Ie' kèq wã ujtè yèqnẽ ét.", 0)
+2021-11-12 10:47:40,620 [INFO] Example 2 for bzd lang: ("Ẽnã ie' iche: ãmìx, ye' tso' ù ã.", "I ãmìx ã iché irir tö ye' démĩnẽ ù ã.", 2)
+2021-11-12 10:47:40,620 [INFO] Pred loop key: bzd
+2021-11-12 10:47:40,620 [INFO] Number of examples: 743
+2021-11-12 10:47:40,620 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-11-12 10:47:40,620 [INFO] ----------------------------------
+2021-11-12 10:48:02,087 [INFO] Language: bzd
+2021-11-12 10:48:02,089 [INFO] Test accuracy: 40.40
+2021-11-12 10:48:02,089 [INFO] Eval accuracy: 45.36
+2021-11-12 10:48:02,089 [INFO] ---------------------------------
+2021-11-12 10:48:02,089 [INFO] All scores:
+2021-11-12 10:48:02,089 [INFO] Test: 40.40
+2021-11-12 10:48:02,089 [INFO] Eval: 45.36
+2021-11-12 10:48:02,090 [INFO] Done

@@ -1,0 +1,26 @@
+2021-10-05 19:28:25,313 [INFO] Number of GPUs available: 1
+2021-10-05 19:28:40,336 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/translate_train_mlm/translate_train_mlm_aym_925/final_model/
+2021-10-05 19:28:46,492 [INFO] Example 0 for aym lang: ("Ukhamaxa, janiw ukatuqits lup'kayätti, ukhamarus wali phiñasitayätwa, ukatx jupampiw mayamp aruskipañ qallanttha.", 'Janiw mayamp jupampix parlxapxti.', 0)
+2021-10-05 19:28:46,492 [INFO] Example 1 for aym lang: ("Ukhamaxa, janiw ukatuqits lup'kayätti, ukhamarus wali phiñasitayätwa, ukatx jupampiw mayamp aruskipañ qallanttha.", 'Wali phiñasitaskayätwa, ukhamipan mayamp jupamp aruskipañ qallanta.', 2)
+2021-10-05 19:28:46,492 [INFO] Example 2 for aym lang: ("Ukhamaxa, janiw ukatuqits lup'kayätti, ukhamarus wali phiñasitayätwa, ukatx jupampiw mayamp aruskipañ qallanttha.", 'Wali kusa aruskipäwipuninaw jupampixa.', 1)
+2021-10-05 19:28:46,492 [INFO] Pred loop key: aym
+2021-10-05 19:28:46,492 [INFO] Number of examples: 750
+2021-10-05 19:28:46,492 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-10-05 19:28:46,492 [INFO] Pretokenizing...
+2021-10-05 19:28:46,708 [INFO] ----------------------------------
+2021-10-05 19:28:46,719 [INFO] Example 0 for aym lang: ('Jupax sanwa: Mamita, utankastwa.', 'Yatiñ utan awtux jaytawayki ukxpachaw mamaytapar jawsanxa.', 1)
+2021-10-05 19:28:46,720 [INFO] Example 1 for aym lang: ('Jupax sanwa: Mamita, utankastwa.', 'Jupax janiw mä ars arskänti', 0)
+2021-10-05 19:28:46,720 [INFO] Example 2 for aym lang: ('Jupax sanwa: Mamita, utankastwa.', 'Utar purinxtwa sasaw mamaparux sanxa', 2)
+2021-10-05 19:28:46,720 [INFO] Pred loop key: aym
+2021-10-05 19:28:46,720 [INFO] Number of examples: 743
+2021-10-05 19:28:46,720 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-10-05 19:28:46,720 [INFO] Pretokenizing...
+2021-10-05 19:28:46,935 [INFO] ----------------------------------
+2021-10-05 19:28:53,353 [INFO] Language: aym
+2021-10-05 19:28:53,355 [INFO] Test accuracy: 48.67
+2021-10-05 19:28:53,355 [INFO] Eval accuracy: 50.74
+2021-10-05 19:28:53,355 [INFO] ---------------------------------
+2021-10-05 19:28:53,355 [INFO] All scores:
+2021-10-05 19:28:53,355 [INFO] Test: 48.67
+2021-10-05 19:28:53,355 [INFO] Eval: 50.74
+2021-10-05 19:28:53,355 [INFO] Done

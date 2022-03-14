@@ -1,0 +1,26 @@
+2021-09-12 16:36:45,149 [INFO] Number of GPUs available: 1
+2021-09-12 16:36:52,671 [INFO] Loading model from: /rc_scratch/abeb4417/americasnli/mlm_es_271/zero_shot_mlm_es_tar_271/final_model/
+2021-09-12 16:36:57,271 [INFO] Example 0 for tar lang: ('Ga’lá ju, ke tási newalayé nejé echi kítira, we ne majáli, a’lí ko uchécho ne yua ku ra’íchaki.', 'Tási ne uchecho yua ra’ícha échi rejói.', 0)
+2021-09-12 16:36:57,272 [INFO] Example 1 for tar lang: ('Ga’lá ju, ke tási newalayé nejé echi kítira, we ne majáli, a’lí ko uchécho ne yua ku ra’íchaki.', 'We ne yoa iníli, analí ariká ne yua ku ra’íchaki.', 2)
+2021-09-12 16:36:57,272 [INFO] Example 2 for tar lang: ('Ga’lá ju, ke tási newalayé nejé echi kítira, we ne majáli, a’lí ko uchécho ne yua ku ra’íchaki.', 'A ta wilibé ra’íchaki.', 1)
+2021-09-12 16:36:57,272 [INFO] Pred loop key: tar
+2021-09-12 16:36:57,272 [INFO] Number of examples: 750
+2021-09-12 16:36:57,272 [INFO] Data loaded from: data/anli_final/test/anli.test.tsv
+2021-09-12 16:36:57,272 [INFO] Pretokenizing...
+2021-09-12 16:36:57,466 [INFO] ----------------------------------
+2021-09-12 16:36:57,475 [INFO] Example 0 for tar lang: ('A’lí je aníli échiko: ku bitichí ne atíki Nana', 'Jiyáwiti bayéli kipu iyé, mapu a’lí ke séali kamíoni aseyá.', 1)
+2021-09-12 16:36:57,475 [INFO] Example 1 for tar lang: ('A’lí je aníli échiko: ku bitichí ne atíki Nana', 'Ke ne’óli binóiko', 0)
+2021-09-12 16:36:57,476 [INFO] Example 2 for tar lang: ('A’lí je aníli échiko: ku bitichí ne atíki Nana', 'Iyéla ku ruyéli, mapu bitichí ku nawáli.', 2)
+2021-09-12 16:36:57,476 [INFO] Pred loop key: tar
+2021-09-12 16:36:57,476 [INFO] Number of examples: 743
+2021-09-12 16:36:57,476 [INFO] Data loaded from: data/anli_final/dev/anli.dev.tsv
+2021-09-12 16:36:57,476 [INFO] Pretokenizing...
+2021-09-12 16:36:57,680 [INFO] ----------------------------------
+2021-09-12 16:37:04,634 [INFO] Language: tar
+2021-09-12 16:37:04,635 [INFO] Test accuracy: 37.47
+2021-09-12 16:37:04,635 [INFO] Eval accuracy: 37.82
+2021-09-12 16:37:04,635 [INFO] ---------------------------------
+2021-09-12 16:37:04,635 [INFO] All scores:
+2021-09-12 16:37:04,635 [INFO] Test: 37.47
+2021-09-12 16:37:04,636 [INFO] Eval: 37.82
+2021-09-12 16:37:04,636 [INFO] Done

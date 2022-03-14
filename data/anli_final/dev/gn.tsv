@@ -1,0 +1,744 @@
+id	language	premise	hypothesis	label
+12451	gn	Ha ha'e he'i: Mama, aime ógape.	Ohenói isýpe oguejymíre mba'yrúgui.	neutral
+12452	gn	Ha ha'e he'i: Mama, aime ógape.	Ha'e nde'íri mba'evete.	contradiction
+12453	gn	Ha ha'e he'i: Mama, aime ógape.	He'íkuri isýpe oĝuahêhague hógape.	entailment
+12454	gn	Ndoikuaái mba'erâpa oho ni mba'eve, upémaramo omombe'úta Whashington-pe oje'ehaguépe	Chéniko naiméiva Whashington-pe, upévare akañy ahekávo upe tenda oje'éva chéve añemondóramoguare upépe. 	neutral
+12455	gn	Ndoikuaái mba'erâpa oho ni mba'eve, upémaramo omombe'úta Whashington-pe oje'ehaguépe	Oikuaa porâiterei ojapova'erâ ohokuévo Washington-pe.	contradiction
+12456	gn	Ndoikuaái mba'erâpa oho ni mba'eve, upémaramo omombe'úta Whashington-pe oje'ehaguépe	Ndaikuaaporâi mba'épa ajapóta, upévare aha Washington-pe oje'ehaguépe chéve amomaranduva'erâha. 	entailment
+12457	gn	Ha'e ndaikatúi oho..	Ha'eraêvete oñekonvida ha ovy'arasa upépe.	contradiction
+12458	gn	Ha'e ndaikatúi oho..	Ndojehejái chupe oike.	entailment
+12459	gn	Ha'e ndaikatúi oho..	Ndojehejái chupe oike upe Museo-pe jepe'a'ypýpe.	neutral
+12460	gn	Ha che aime porâiterei, Ha upévante!	Amoneî rire, opa.	entailment
+12461	gn	Ha che aime porâiterei, Ha upévante!	Ambotove ha ipuku hetaverei.	contradiction
+12462	gn	Ha che aime porâiterei, Ha upévante!	Amoneîvo, ro'e romendataha upe árape.	neutral
+12463	gn	Upéve oî oñeha'âvo omyatyrô.	Hesakâ porâ chéve iñepyrûmby guive.	contradiction
+12464	gn	Upéve oî oñeha'âvo omyatyrô.	Añeha'â aikuaa moôpa ohopa viru.	neutral
+12465	gn	Upéve oî oñeha'âvo omyatyrô.	Añeha'â antende.	entailment
+12466	gn	Ha, ehendumi, añetehápe dohovéi hogayguakuera rendápe he'ígui hikuái morotîtaha. 	Oho hikuái ko'êkoêre.	contradiction
+12467	gn	Ha, ehendumi, añetehápe dohovéi hogayguakuera rendápe he'ígui hikuái morotîtaha. 	Ndohovéi hogaygua rechávo.	entailment
+12468	gn	Ha, ehendumi, añetehápe dohovéi hogayguakuera rendápe he'ígui hikuái morotîtaha. 	Ndohovéi oñandúvo hogayguakuéra ohechávo iperesa'y rehegua ndojokupytýi.	neutral
+12469	gn	Ijarýi omombe'úmi mba'éichapa ikypy'y ha iména oho hikuái tavaguasúpe, Augusta-pe ha ohasávo hkuái ipiremorotîvaramo. 	Aguéla kypy'y ipire morotî ha ova Texas-pe.	contradiction
+12470	gn	Ijarýi omombe'úmi mba'éichapa ikypy'y ha iména oho hikuái tavaguasúpe, Augusta-pe ha ohasávo hkuái ipiremorotîvaramo. 	Aguéla kypy'y nda'ipiremorotîri.	entailment
+12471	gn	Ijarýi omombe'úmi mba'éichapa ikypy'y ha iména oho hikuái tavaguasúpe, Augusta-pe ha ohasávo hkuái ipiremorotîvaramo. 	Aguéla kypy'y nda'ipiremorotîri, katu upeichase ikatu haĝuáicha oike mbo'ehaópe.	neutral
+12475	gn	Katu, nde reikuaa, hetavégui, ha'e umi iñemitÿguasúva ra'ýicha ha'e rupi ko karai ijyvyguasuetéva ra'y.	Itúva márô ndorekóiva mba'eve. 	contradiction
+12476	gn	Katu, nde reikuaa, hetavégui, ha'e umi iñemitÿguasúva ra'ýicha ha'e rupi ko karai ijyvyguasuetéva ra'y.	túva oreko 2000 há. Iñemitÿmbyre yvy.	neutral
+12477	gn	Katu, nde reikuaa, hetavégui, ha'e umi iñemitÿguasúva ra'ýicha ha'e rupi ko karai ijyvyguasuetéva ra'y.	túva oreko heta mba'e.	entailment
+12478	gn	Che rembiapóniko amoî paracaida ha chaleco salvavidas upe ojevevepota jave okaha gotyo. 	Ndacherembiapói, upéva rehe añongatupaite umi káha oîva guive ógape. 	contradiction
+12479	gn	Che rembiapóniko amoî paracaida ha chaleco salvavidas upe ojevevepota jave okaha gotyo. 	Arahauka káha Japón-pe.	neutral
+12480	gn	Che rembiapóniko amoî paracaida ha chaleco salvavidas upe ojevevepota jave okaha gotyo. 	Arahauka.	entailment
+12481	gn	Upéichakuri, mmm…, añeñapytîhague.	Ajeasegura haĝua añapytîtu'u ijevilla.	neutral
+12482	gn	Upéichakuri, mmm…, añeñapytîhague.	Peichaite chejora hikuái.	contradiction
+12483	gn	Upéichakuri, mmm…, añeñapytîhague.	Upechaite opyta oñeñapytî.	entailment
+12484	gn	Ha ha'e ikuñarayhurasa, ha!, ha'ete ku okápe oîva. Ha nde reikuaáma, ndo'aporâi chéve umíva, katu umíva che rembiasánte.	Ha'e hory ha ijeroviapy.	contradiction
+12485	gn	Ha ha'e ikuñarayhurasa, ha!, ha'ete ku okápe oîva. Ha nde reikuaáma, ndo'aporâi chéve umíva, katu umíva che rembiasánte.	Ndacha'éi hese ojerovuetei rehe.	neutral
+12486	gn	Ha ha'e ikuñarayhurasa, ha!, ha'ete ku okápe oîva. Ha nde reikuaáma, ndo'aporâi chéve umíva, katu umíva che rembiasánte.	Ndaha'éi ku agueropepoitereíva chupe. 	entailment
+12487	gn	Oipyso jave upe toldo oñepyrûtavo onohê, ohechauka mokôi tembiporu upe aviô asu gotyo hykuva'ekue oveve aja.	Opaite aviô rembporu oî hendaguéicha.	contradiction
+12488	gn	Oipyso jave upe toldo oñepyrûtavo onohê, ohechauka mokôi tembiporu upe aviô asu gotyo hykuva'ekue oveve aja.	Hasy oñenohê haĝua.	neutral
+12489	gn	Oipyso jave upe toldo oñepyrûtavo onohê, ohechauka mokôi tembiporu upe aviô asu gotyo hykuva'ekue oveve aja.	Oî aviô rembiporu hykuva'ekue.	entailment
+12490	gn	Añetehápe nontendéi.	Ha'e nontendeporâi'anga iñe'ê ambue rupi.	neutral
+12491	gn	Añetehápe nontendéi.	Añetehápe chupe nahesakâi.	entailment
+12492	gn	Añetehápe nontendéi.	Ha'e oikuaa porâiterei mba'érepa oñeñe'ê.	contradiction
+12493	gn	Oiméne ha'e he'ira'e chupekuéra ha upe jave che nañatendéinera'e.	Nahendúi chupe he'íramoguare chupekuéra.	entailment
+12494	gn	Oiméne ha'e he'ira'e chupekuéra ha upe jave che nañatendéinera'e.	Ahendupaite ha'e he'iva'ekue.	contradiction
+12495	gn	Oiméne ha'e he'ira'e chupekuéra ha upe jave che nañatendéinera'e.	Oñe'êhínakuri ambuéva ndive upe jave.	neutral
+12496	gn	Mokôi, mbohapy aviô rupinte oñehundi orehegui roiméramoguare upépe, ha, húi!, tantéo.	Oñehundi mokôi aviô ara vai rupi.	neutral
+12497	gn	Mokôi, mbohapy aviô rupinte oñehundi orehegui roiméramoguare upépe, ha, húi!, tantéo.	Mokôi aviô ohehundi.	entailment
+12498	gn	Mokôi, mbohapy aviô rupinte oñehundi orehegui roiméramoguare upépe, ha, húi!, tantéo.	Araka'eve noñendundíri peteî aviôntejepe.	contradiction
+12499	gn	Aikotevêmi nderehe. 	Ndaikotevêi avave rehe.	contradiction
+12500	gn	Aikotevêmi nderehe. 	Tembiapo guasu tekotevêva ajapo.	neutral
+12501	gn	Aikotevêmi nderehe. 	Oî aikotevêva ojejapopapyrémava.	entailment
+12502	gn	Ikoe, paracaida iñambuetéva ha ovevéva guyrápe, tyapu pya'ekuégui mbohapy jey, 22000 millas peteî aravópe. 	Oveve hetave 20000 millas-gui peteî aravópe 	entailment
+12503	gn	Ikoe, paracaida iñambuetéva ha ovevéva guyrápe, tyapu pya'ekuégui mbohapy jey, 22000 millas peteî aravópe. 	10000 millas-nte ohupyty peteî aravópe.	contradiction
+12504	gn	Ikoe, paracaida iñambuetéva ha ovevéva guyrápe, tyapu pya'ekuégui mbohapy jey, 22000 millas peteî aravópe. 	Jet oveve 20000 millas peteî aravópe.	neutral
+12505	gn	Rorekóva Rudolph Anderson, peteîva umi mbohapy U2 atypegua 	Rodolph Anderson-pe ndaikatúi ojejuhu mamove, upéva rehe roreko U2-nte.	contradiction
+12506	gn	Rorekóva Rudolph Anderson, peteîva umi mbohapy U2 atypegua 	Rodolph Anderson niko U2 atypegua.	entailment
+12507	gn	Rorekóva Rudolph Anderson, peteîva umi mbohapy U2 atypegua 	Orepo'a ikatúre orepytyvô Rudolph Anderson U2 ndive. 	neutral
+12508	gn	Oî gueteri upe hyepýpe	Ha'e oho hapykuere'ÿ rehe.	contradiction
+12509	gn	Oî gueteri upe hyepýpe	Ha'e hi'aĝuimínte upégui gueteri.	entailment
+12510	gn	Oî gueteri upe hyepýpe	Ore roimo'â ha'e oho hague, katu opyta.	neutral
+12511	gn	Avei, e'a, eheja tosê upévagui.	Natekotevêi añorairô ko mba'e rehe.	contradiction
+12512	gn	Avei, e'a, eheja tosê upévagui.	Ahesa'ÿijomíta.	entailment
+12513	gn	Avei, e'a, eheja tosê upévagui.	Avicheamíta ko'â marandu.	neutral
+12514	gn	Katu,peichahágui, orerenói rohecha haĝua upe ovevéva.	Oñeha'arô romaña aviô rehe.	neutral
+12515	gn	Katu,peichahágui, orerenói rohecha haĝua upe ovevéva.	Oñeha'arô romaña upe ovevéva rehe.	entailment
+12516	gn	Katu,peichahágui, orerenói rohecha haĝua upe ovevéva.	Oje'e oréve ani haĝua omaña oka gotyo.	contradiction
+12517	gn	Ha'e omondoro kuatia ha omoî yvyku'ípe, ombojepota ha ohapy upe mba'yru'i ojapóva yvyku'íguipe, ha upéi oipyvu ikusugue.	Ha'e oemondýi, ndaikatúi oime ha'emba'e ohapy mba'eve, oñeha'âmbareimínte.	contradiction
+12518	gn	Ha'e omondoro kuatia ha omoî yvyku'ípe, ombojepota ha ohapy upe mba'yru'i ojapóva yvyku'íguipe, ha upéi oipyvu ikusugue.	Ha'e ohapýne upe kuatia.	entailment
+12519	gn	Ha'e omondoro kuatia ha omoî yvyku'ípe, ombojepota ha ohapy upe mba'yru'i ojapóva yvyku'íguipe, ha upéi oipyvu ikusugue.	Ha'e ohaíne ikerayvoty kuatiápe ha upéi ohapýne.	neutral
+12520	gn	Um, rehenóiva'erâ Ramona-pe Concord-pe. Ehechakuaa kóva mba'apo rendaha. Añetehápe, cliente oî ambue táva rembe'ýpe. Ñaime Monroe-pe. Ha'e oî Concord-pe.	Ramona hekovepukukue oiko Concord-pe.	neutral
+12521	gn	Um, rehenóiva'erâ Ramona-pe Concord-pe. Ehechakuaa kóva mba'apo rendaha. Añetehápe, cliente oî ambue táva rembe'ýpe. Ñaime Monroe-pe. Ha'e oî Concord-pe.	Ramona noîriva Concord-pe.	contradiction
+12522	gn	Um, rehenóiva'erâ Ramona-pe Concord-pe. Ehechakuaa kóva mba'apo rendaha. Añetehápe, cliente oî ambue táva rembe'ýpe. Ñaime Monroe-pe. Ha'e oî Concord-pe.	Ramona oî Concord-pe.	entailment
+12523	gn	Umíva, ipyahu chéve, jachechávo ko'â 16 ro'y amba'apoha katupyrýpe ko'â mba'e hechapyrâvape.	Amba'apo ko'â mba'e hechapyrâvape heta ary.	entailment
+12524	gn	Umíva, ipyahu chéve, jachechávo ko'â 16 ro'y amba'apoha katupyrýpe ko'â mba'e hechapyrâvape.	Namba'apóiva.	contradiction
+12525	gn	Umíva, ipyahu chéve, jachechávo ko'â 16 ro'y amba'apoha katupyrýpe ko'â mba'e hechapyrâvape.	Che mba'apo ahayhuvéva ko'â mba'e hechapyrâva.	neutral
+12526	gn	Upéva rehe oiméne nachemandu'ái.	Nachemandu'aietevoi.	contradiction
+12527	gn	Upéva rehe oiméne nachemandu'ái.	Oiméne upéva rehe nachemandu'âi héra.	neutral
+12528	gn	Upéva rehe oiméne nachemandu'ái.	Oiméne upéva rehe che mandu'a héra.	entailment
+12529	gn	Oiméne upéva rehe che mandu'a umíva rehe.	Nemoñandu porâiterei.	contradiction
+12530	gn	Oiméne upéva rehe che mandu'a umíva rehe.	Nemoñandu vaieterei.	entailment
+12531	gn	Oiméne upéva rehe che mandu'a umíva rehe.	Reñeñandu porâ peteî aravo rire.	neutral
+12532	gn	Natekotevêi repyta upépe.	Ikatu reho nde rógape rehoséramo.	neutral
+12533	gn	Natekotevêi repyta upépe.	Ikatu reho.	entailment
+12534	gn	Natekotevêi repyta upépe.	Repytava'erâ upepete!	contradiction
+12535	gn	Upáva!... Ára ivaipajepéva.	Ára neporâva ñanemombytu'úva.	contradiction
+12536	gn	Upáva!... Ára ivaipajepéva.	Ñanemongyhyje añete upe vytu pochy oguahêva távape.	neutral
+12537	gn	Upáva!... Ára ivaipajepéva.	Upe arape añemondýi añete.	entailment
+12538	gn	Upéicha, héê, ipya'eve, ipya'eteve ohóvo ha roveve pytagua retâ gotyo.	Ipya'eve ohóvo.	entailment
+12539	gn	Upéicha, héê, ipya'eve, ipya'eteve ohóvo ha roveve pytagua retâ gotyo.	Ndopamo'âivoi.	contradiction
+12540	gn	Upéicha, héê, ipya'eve, ipya'eteve ohóvo ha roveve pytagua retâ gotyo.	Ipya'ekue chembotarovapotáma.	neutral
+12541	gn	Upéicha, héê, opáichavo, umi mbohapy, umi U2 pilóto oî mburuvichavete Kennedy mba'apoha rendápe ipya'eve, Washington general May ndive. 	General May ha umi pilóto ohasa porâiterei ohóvo hikuái upoe mba'apoha rendápe.	neutral
+12542	gn	Upéicha, héê, opáichavo, umi mbohapy, umi U2 pilóto oî mburuvichavete Kennedy mba'apoha rendápe ipya'eve, Washington general May ndive. 	Greneral May márô ndohóiva Mburuvichavete Kennedy mba'apoha rendápe.	contradiction
+12543	gn	Upéicha, héê, opáichavo, umi mbohapy, umi U2 pilóto oî mburuvichavete Kennedy mba'apoha rendápe ipya'eve, Washington general May ndive. 	kóva General May ha mbohapy U2 pilóto mburuvichavete Kennedy mba'apoha rendápe.	entailment
+12544	gn	Cheovapete mboyve, mba'ére ndacherejái ta'umi chokoláte kambýre?	Ndaikatúi ha'u kamby.	contradiction
+12545	gn	Cheovapete mboyve, mba'ére ndacherejái ta'umi chokoláte kambýre?	Ha'usete chokoláte kambýre.	entailment
+12546	gn	Cheovapete mboyve, mba'ére ndacherejái ta'umi chokoláte kambýre?	Ha'utepépa chokolate kambýre ha tapytu'umi aikuaápype ajavy'imihague.	neutral
+12547	gn	Ha, upéicharamo, emoingepa rire, ikatu resegi upe guive.	Ikatu resegi remoingepa vove.	entailment
+12548	gn	Ha, upéicharamo, emoingepa rire, ikatu resegi upe guive.	Ikatu resegi regueroikepa vove umi marandu hendápe.	neutral
+12549	gn	Ha, upéicharamo, emoingepa rire, ikatu resegi upe guive.	Epytamava'erâ pepete.	contradiction
+12550	gn	Katu, ema'emi, epensami hese.	Py'ÿi apensa hese.	neutral
+12551	gn	Katu, ema'emi, epensami hese.	Ndaha'éichene mba'eve umi repensaséva.	contradiction
+12552	gn	Katu, ema'emi, epensami hese.	Upéva repensa haĝua.	entailment
+12553	gn	Ogueraha hendivekuéra Joe-pe ha che jarýi he'i óga itaperetereiha, ndereikuaa, opavave ohechaga'u Joe-pe ha ndoikuaái hikuái mba'épa ojapóta.  	Opavave ógape ndovy'a ohechaga'u rupi Joe-pe.	entailment
+12554	gn	Ogueraha hendivekuéra Joe-pe ha che jarýi he'i óga itaperetereiha, ndereikuaa, opavave ohechaga'u Joe-pe ha ndoikuaái hikuái mba'épa ojapóta.  	Maymavéva ovy'a!	contradiction
+12555	gn	Ogueraha hendivekuéra Joe-pe ha che jarýi he'i óga itaperetereiha, ndereikuaa, opavave ohechaga'u Joe-pe ha ndoikuaái hikuái mba'épa ojapóta.  	Joe omano ha añetehápe avave ndovy'ái.	neutral
+12556	gn	Oî 158 vore ha romboja'ómante, rombojoajujey ha romboja'ojey ha ndorojavýiva'erâ.  	Rombyai ha romohendajey.	entailment
+12557	gn	Oî 158 vore ha romboja'ómante, rombojoajujey ha romboja'ojey ha ndorojavýiva'erâ.  	Rombyai umi aviô ha upéi romohendajey.	neutral
+12558	gn	Oî 158 vore ha romboja'ómante, rombojoajujey ha romboja'ojey ha ndorojavýiva'erâ.  	Ndojehejaiete oréve ropoko.	contradiction
+12559	gn	Ndaikeséi upe Tercera SS-pe ha'éva upe Tecer Escuadón de Apoyo Estratégico. 	Naha'aôkuaái aike haĝua upe Third SS-pe.	contradiction
+12560	gn	Ndaikeséi upe Tercera SS-pe ha'éva upe Tecer Escuadón de Apoyo Estratégico. 	Ndaikeséi upe Tercera SS-pe.	entailment
+12561	gn	Ndaikeséi upe Tercera SS-pe ha'éva upe Tecer Escuadón de Apoyo Estratégico. 	Upe Tercera SS niko upe escuadrón ivaivéva.	neutral
+12562	gn	Ndaipóri mba'evete upépe, nandi vera, upe aviô guejyha rapére osê ñana mante.	Ka'aguy hovy upépe.	contradiction
+12563	gn	Ndaipóri mba'evete upépe, nandi vera, upe aviô guejyha rapére osê ñana mante.	Ka'aguy karape upépe.	entailment
+12564	gn	Ndaipóri mba'evete upépe, nandi vera, upe aviô guejyha rapére osê ñana mante.	Ysypo mante okakuaa upe aviô guejyha rapére.	neutral
+12565	gn	Nde'ivéi chéve mba'e aravópa ha chemondo upépe kane'ô reheve, ha ndaikuaái araka'épa tekotevê.	Che ajepy'apy ndaikuaái rupi mba'eravorâpa.	entailment
+12566	gn	Nde'ivéi chéve mba'e aravópa ha chemondo upépe kane'ô reheve, ha ndaikuaái araka'épa tekotevê.	Chepy'apy ajavýramo upe techaukaha ndaikuaá rupi mba'e aravorâpa.	neutral
+12567	gn	Nde'ivéi chéve mba'e aravópa ha chemondo upépe kane'ô reheve, ha ndaikuaái araka'épa tekotevê.	Ndajepy'apýi mba'evetére, toiko oikóva.	contradiction
+12568	gn	Ha'e Grecia-ygua ha ha'e peteî táva michîva Grecia-pe oîva hérava Tokalleka, ou Amérika-pe, chéverô ĝuarâ 1969 térâ 1970 rupi ha pya'e voi omenda.	Ha'e griego katu noñe'êi inglés.	neutral
+12569	gn	Ha'e Grecia-ygua ha ha'e peteî táva michîva Grecia-pe oîva hérava Tokalleka, ou Amérika-pe, chéverô ĝuarâ 1969 térâ 1970 rupi ha pya'e voi omenda.	Ha'e griego.	entailment
+12570	gn	Ha'e Grecia-ygua ha ha'e peteî táva michîva Grecia-pe oîva hérava Tokalleka, ou Amérika-pe, chéverô ĝuarâ 1969 térâ 1970 rupi ha pya'e voi omenda.	Ha'e Irlanda-ygua.	contradiction
+12571	gn	 Upéicha rupi ahenoijey Ramona-pe aporandu haĝua chupe..., néi, eheja tamohu'â, apoandu chupe peteî mba'e ojapóva rehegua.	Nañemongu'éi ahenói haĝua Ramona-pe.	contradiction
+12572	gn	 Upéicha rupi ahenoijey Ramona-pe aporandu haĝua chupe..., néi, eheja tamohu'â, apoandu chupe peteî mba'e ojapóva rehegua.	Ndaijái chéve aporandúvo upéva.	neutral
+12573	gn	 Upéicha rupi ahenoijey Ramona-pe aporandu haĝua chupe..., néi, eheja tamohu'â, apoandu chupe peteî mba'e ojapóva rehegua.	Amba'eporanduse Ramona-pe.	entailment
+12574	gn	Ko'â mba'e vyrorei vaicha, katu omoambue tuicha umi ajaposéva.	Ni natanteái ajapo haĝua.	contradiction
+12575	gn	Ko'â mba'e vyrorei vaicha, katu omoambue tuicha umi ajaposéva.	Añeha'â ahupytyty peteî mba'e.	entailment
+12576	gn	Ko'â mba'e vyrorei vaicha, katu omoambue tuicha umi ajaposéva.	Añeha'â amohu'â ta'ânga guasu che mbo'ehakotýpe ĝuarâ ha umi haicha pyahu chepytyvô.	neutral
+12577	gn	Néi, upépe ndaipóri avave ikatuva'erâ chepytyvô. 	Che nadajapokuaái chejehegui.	neutral
+12578	gn	Néi, upépe ndaipóri avave ikatuva'erâ chepytyvô. 	Oî heta tapicha ikatúva chepytyvô upépe.	contradiction
+12579	gn	Néi, upépe ndaipóri avave ikatuva'erâ chepytyvô. 	Upépe ndaipóri avave chepytyvôkuaáva.	entailment
+12580	gn	CIA omboguejy peteî ta'ângamýi ha oraha Tetânguéra Joajupavême upehague ko'ême.	CIA ogueru upe ta'ângamýi ONU-pe.	entailment
+12581	gn	CIA omboguejy peteî ta'ângamýi ha oraha Tetânguéra Joajupavême upehague ko'ême.	CIA oñongatu upe ta'ângamýi chupekuéra ĝuarâ.	contradiction
+12582	gn	CIA omboguejy peteî ta'ângamýi ha oraha Tetânguéra Joajupavême upehague ko'ême.	CIA oimo'â ONU oikotevêha ohecha upe ta'ângamýi upe jave.	neutral
+12583	gn	Amombe'úma, añeha'â amyesakâ chepochyha ndarekoihaguére marandu oñeikotevêva.	Ha'ékuri chupe nahenduseveiha mba'eve	contradiction
+12584	gn	Amombe'úma, añeha'â amyesakâ chepochyha ndarekoihaguére marandu oñeikotevêva.	Ha'e chupe aikotevêveha marandu  aikuaa haĝua mba'épa ajapóta upe tembiapógui.	neutral
+12585	gn	Amombe'úma, añeha'â amyesakâ chepochyha ndarekoihaguére marandu oñeikotevêva.	Ha'e chupe aikotevêveha marandu.	entailment
+12586	gn	Upévare namohu'âi mbo'ehaovusu, márô namoñe'êi umi aranduka amoñe'êva'erâ	Namohu'âi mbo'ehaovusu.	entailment
+12587	gn	Upévare namohu'âi mbo'ehaovusu, márô namoñe'êi umi aranduka amoñe'êva'erâ	Amohu'â mbo'ehaovusu ha chekuatiapa.	contradiction
+12588	gn	Upévare namohu'âi mbo'ehaovusu, márô namoñe'êi umi aranduka amoñe'êva'erâ	Ahejava'ekue mbo'ehaovusu 2002 ramo.	neutral
+12589	gn	Héê, oho hikuái ko távagui ha upe guive ndohechavéi heindýpe.	Ova Texas-pe ha ndohechavéiva heindýpe.	neutral
+12590	gn	Héê, oho hikuái ko távagui ha upe guive ndohechavéi heindýpe.	Upe rire ndohechavéiva heind'ýpe.	entailment
+12591	gn	Héê, oho hikuái ko távagui ha upe guive ndohechavéi heindýpe.	Ko'êko'êre ohecha heindýpe.	contradiction
+12592	gn	Ijarýi opu'â, oguejy upe yvatégui, oguata tape gotyo ha opyta oñembo'y upépe.	Granny opyta upe ogaguýpe.	contradiction
+12593	gn	Ijarýi opu'â, oguejy upe yvatégui, oguata tape gotyo ha opyta oñembo'y upépe.	Granny oguata'imi upe óga guive.	neutral
+12594	gn	Ijarýi opu'â, oguejy upe yvatégui, oguata tape gotyo ha opyta oñembo'y upépe.	Granny oñemombyry'imi hógagui.	entailment
+12595	gn	Ko amombe'úva peême ko pyhare oñe'ê che ru rehe ha tekoeta oîva'ekue ovaramoguare Estados Unidos-pe.	Nañe'êséi che ru umíva rehe.	contradiction
+12596	gn	Ko amombe'úva peême ko pyhare oñe'ê che ru rehe ha tekoeta oîva'ekue ovaramoguare Estados Unidos-pe.	Amombe'úta ndéve mba'épa ohasa che ru umíva ova ramóme.	entailment
+12597	gn	Ko amombe'úva peême ko pyhare oñe'ê che ru rehe ha tekoeta oîva'ekue ovaramoguare Estados Unidos-pe.	Ha'éta ndéve ojehuva'ekue che rúpe ovaramoguare Mexico-gui	neutral
+12598	gn	Ikate rekóva renda upéva, katu upe hetavéva gueteri umi tava rembe'ygua reko	Itavaygua reko meme.	contradiction
+12599	gn	Ikate rekóva renda upéva, katu upe hetavéva gueteri umi tava rembe'ygua reko	Umi mba'e hepy'^yva meme jajuhu upérupi.	neutral
+12600	gn	Ikate rekóva renda upéva, katu upe hetavéva gueteri umi tava rembe'ygua reko	Óga porâporâ upe táva rembe'ýpe jajuhu.	entailment
+12601	gn	Ahendu oho, upéva rehe ndajapopái gueteri ajapova'erâ.	Ajapo ajapova'erâ ko árape.	entailment
+12602	gn	Ahendu oho, upéva rehe ndajapopái gueteri ajapova'erâ.	Ajapo ko mba'e tuichamba'éva oñeme'êva chéve ko pyhareve.	neutral
+12603	gn	Ahendu oho, upéva rehe ndajapopái gueteri ajapova'erâ.	Nañemyangekomo'âi upéva rehe.	contradiction
+12604	gn	Ha ojuhu hikuái ko óga, ko Departamento, térâ pemboheraseháicha, oiko haĝua hikuái ha oî kavalete Broad Street rembe'ýpe.	Oiko hikuái peteî óga morotîme oîva Broed Street ári.	neutral
+12605	gn	Ha ojuhu hikuái ko óga, ko Departamento, térâ pemboheraseháicha, oiko haĝua hikuái ha oî kavalete Broad Street rembe'ýpe.	Ha'ekuéra oiko Broad Street-pe.	entailment
+12606	gn	Ha ojuhu hikuái ko óga, ko Departamento, térâ pemboheraseháicha, oiko haĝua hikuái ha oî kavalete Broad Street rembe'ýpe.	Oiko hikuái peteî óga vaimíme Main Street-pe.	contradiction
+12607	gn	Ndokapumo'âi upe gatillo'ÿre.	Upe gatillo ombokapu.	entailment
+12608	gn	Ndokapumo'âi upe gatillo'ÿre.	Upe detonador ombokapu upe mboka.	neutral
+12609	gn	Ndokapumo'âi upe gatillo'ÿre.	Ndaipóri gatillo embokapu haĝua.	contradiction
+12610	gn	Oje'éramoguare chupe ohova'erâha hógape upe kuimba'e ndive, ha'e he'i: Che, ahava'erâ hendive?	Oje'e ndaikatuiha gueteri ojeho moôve.	contradiction
+12611	gn	Oje'éramoguare chupe ohova'erâha hógape upe kuimba'e ndive, ha'e he'i: Che, ahava'erâ hendive?	Oje'e chupe okeva'erâha upe kuimba'e ndive.	neutral
+12612	gn	Oje'éramoguare chupe ohova'erâha hógape upe kuimba'e ndive, ha'e he'i: Che, ahava'erâ hendive?	Oje'e chupe oho haĝua upe kuimba'e ndive.	entailment
+12613	gn	Ha ore ru he'i oréve ndoro'eiva'erâha umíva mymbaha.	Ore ru he'i oréve ndoro'éiva'erâ chupekuéra mymba.	entailment
+12614	gn	Ha ore ru he'i oréve ndoro'eiva'erâha umíva mymbaha.	Ore ru he'i oréve mymbaha.	contradiction
+12615	gn	Ha ore ru he'i oréve ndoro'eiva'erâha umíva mymbaha.	Ore ru he'i oréve mitâha, ndaha'éiha mymba.	neutral
+12616	gn	Ndoikói mba'eve ndereikuaáiramo mba'eve hesegua.	Aikuaa ndaha'eiha rehayhupáva upéva.	neutral
+12617	gn	Ndoikói mba'eve ndereikuaáiramo mba'eve hesegua.	Chéverô ĝuarâ ehecha ambueva'erâ ha ejesarekove kóva rehe!	contradiction
+12618	gn	Ndoikói mba'eve ndereikuaáiramo mba'eve hesegua.	Ndoikói mba'eve ndereikuaáiramo mba'eve hesegua.	entailment
+12619	gn	Ndaikuaái mba'éichapa oha'arôta che ajapoha umíva.	Nantendéi mba'érepa oha'arô che amoha'ângapataha ko árape.	neutral
+12620	gn	Ndaikuaái mba'éichapa oha'arôta che ajapoha umíva.	Nantendéi mba'érepa oimo'â che ajapopataha. 	entailment
+12621	gn	Ndaikuaái mba'éichapa oha'arôta che ajapoha umíva.	Aikuaa ha'e oikuaaha ndajapopamo'âiha kóva ko pyhare.	contradiction
+12622	gn	 Ndahechávai, ndaikuaái mba'érepa, noiméipa oikuaaase mba'épa ajapo ha oimeraê. 	Ndahechái.	entailment
+12623	gn	 Ndahechávai, ndaikuaái mba'érepa, noiméipa oikuaaase mba'épa ajapo ha oimeraê. 	Ndahechái upe tapicha ojapóva upe arakôi.	neutral
+12624	gn	 Ndahechávai, ndaikuaái mba'érepa, noiméipa oikuaaase mba'épa ajapo ha oimeraê. 	Ahechapa.	contradiction
+12625	gn	Omba'eporandu chéve, ambohovái ha he'i chéve: ko'aĝaite tereho upe rehova'erâhápekuri reĝuahêre Washington-pe.	Oje'e chéve apytava'erâha ógape.	contradiction
+12626	gn	Omba'eporandu chéve, ambohovái ha he'i chéve: ko'aĝaite tereho upe rehova'erâhápekuri reĝuahêre Washington-pe.	Oje'e chéve ajagarrava'erâha che maléta.	entailment
+12627	gn	Omba'eporandu chéve, ambohovái ha he'i chéve: ko'aĝaite tereho upe rehova'erâhápekuri reĝuahêre Washington-pe.	Oje'e chéve ajagarrava'erâha maléta morotî.	neutral
+12628	gn	Rojuhu upe aviô ha'eha U2, ndaikatúi ro'e mba'eve upéva rehegua, avavépe, ni oe rembirekópe, ni ore familia-pe.	Ndaikatúi ro'e  avavépe U2 oguejyhague.	neutral
+12629	gn	Rojuhu upe aviô ha'eha U2, ndaikatúi ro'e mba'eve upéva rehegua, avavépe, ni oe rembirekópe, ni ore familia-pe.	Romombe'u opavavépe kóva.	contradiction
+12630	gn	Rojuhu upe aviô ha'eha U2, ndaikatúi ro'e mba'eve upéva rehegua, avavépe, ni oe rembirekópe, ni ore familia-pe.	Ndojehejái oréve roñe'ê U2 rehe.	entailment
+12631	gn	Nde po reipe'áramo nde ao ryepýgui, tuichavéta 5 jey chugui ojehúramo descompensación. 	Nde pire naiñambuemo'âi.	contradiction
+12632	gn	Nde po reipe'áramo nde ao ryepýgui, tuichavéta 5 jey chugui ojehúramo descompensación. 	Nde po ikatu iñambue tuichakuépe renohêramo nde ao ryégui.	entailment
+12633	gn	Nde po reipe'áramo nde ao ryepýgui, tuichavéta 5 jey chugui ojehúramo descompensación. 	Nde po okakuaa tuichaitereíta reiméramo jasýpe ha nde po oîramo okápe nandi.	neutral
+12634	gn	Reikueápiko mbe'érepa ha'e nde'íri ndéve?	Aikuaa ha'e ndoreikói mba'érepa nde'íri ndéve. .	contradiction
+12635	gn	Reikueápiko mbe'érepa ha'e nde'íri ndéve?	Mba'ére ha'e nde'imo'âi ndéve?	entailment
+12636	gn	Reikueápiko mbe'érepa ha'e nde'íri ndéve?	Mba'éguipiko ha'é nde'imo'â ndéve mba'eve upe mitâra'y rehegua?	neutral
+12637	gn	hgh  	He'e ndohóiva ihentekuéra andúvo.	contradiction
+12638	gn	hgh  	Opyta ihentekuéra ndive Brooklynn-pe.	neutral
+12639	gn	hgh  	ha'e opyta hendivekuéra New York-pe.	entailment
+12640	gn	Nahániri, peteîjeýnte ohókuri pyharevekue ha he'íkuri oujeytaha ko mba'apoha rendápe. 	Ha'e nde'íri ojevýtapa térâpa nahániri.	contradiction
+12641	gn	Nahániri, peteîjeýnte ohókuri pyharevekue ha he'íkuri oujeytaha ko mba'apoha rendápe. 	He'íkuri outaha kurive.	entailment
+12642	gn	Nahániri, peteîjeýnte ohókuri pyharevekue ha he'íkuri oujeytaha ko mba'apoha rendápe. 	Ha'e he'íkuri oujeytaha ko mba'apoha rendápe asaje.	neutral
+12643	gn	Ndoroikuaáikuri mba'épa peteî U2 ha avave ndoikuaái mba'eve hesegua.	Ndoroikuaáikuri mba'e añápa upe U2.	entailment
+12644	gn	Ndoroikuaáikuri mba'épa peteî U2 ha avave ndoikuaái mba'eve hesegua.	Ndoroikuaái mba'éichapa rohenóita upe rohecháva árare.	neutral
+12645	gn	Ndoroikuaáikuri mba'épa peteî U2 ha avave ndoikuaái mba'eve hesegua.	Roikuaapa U2 rehegua.	contradiction
+12646	gn	Che jarýi o'ararecha 1910-pe, mitâkuña'iva'ekue ha'e.	Che jarýi onace 10 ary iñambue rire siglo.	entailment
+12647	gn	Che jarýi o'ararecha 1910-pe, mitâkuña'iva'ekue ha'e.	Che jarýi onace 1899-pe.	contradiction
+12648	gn	Che jarýi o'ararecha 1910-pe, mitâkuña'iva'ekue ha'e.	Che jarýi onace jasypoteî ára peteîha 1910 ramo.	neutral
+12649	gn	 Ha'e opyta Augustare-pe upe? 	Opyta Augusta-pe?	entailment
+12650	gn	 Ha'e opyta Augustare-pe upe? 	Opyta Augusta-pe guyryry rire?	neutral
+12651	gn	 Ha'e opyta Augustare-pe upe? 	Aikua ohohague Augustagui upe riremíntema.	contradiction
+12652	gn	Opáichavo opu'â, roreko oiméne, mmmm, ndachemandu'ái mboýpa.	Nachemandu'ái mboýpa roreko.	entailment
+12653	gn	Opáichavo opu'â, roreko oiméne, mmmm, ndachemandu'ái mboýpa.	Nachemandu'ái mboýpa omba'apóva orendive.	neutral
+12654	gn	Opáichavo opu'â, roreko oiméne, mmmm, ndachemandu'ái mboýpa.	Aikuaa porâiterei opa mba'e papapy.	contradiction
+12655	gn	Opáichavo, angete aĝuahê ógape ko 6:30 rupi. Upéva che ára.	Ajevy ógape asaje karurâ ha apytu'u ka'arukue.	contradiction
+12656	gn	Opáichavo, angete aĝuahê ógape ko 6:30 rupi. Upéva che ára.	Mba'eve guasu ndajapovéima ko árape 6:30 rire.	entailment
+12657	gn	Opáichavo, angete aĝuahê ógape ko 6:30 rupi. Upéva che ára.	Ára pukukue ahasa ñorairôhápe peteî ñemuhára kuatia iñapañuâi rehe. 	neutral
+12658	gn	Ha'e oguapy, ha reikuaa nde, oñomongeta hikuái, ohecha hikuái upe tapichá upévape, kóva oiko pya'e, pya'eterei voi. 	Ha'e oñe'ê imba'apohára irûnguéra ndive upe kuimba'e opiâva rehe.	neutral
+12659	gn	Ha'e oguapy, ha reikuaa nde, oñomongeta hikuái, ohecha hikuái upe tapichá upévape, kóva oiko pya'e, pya'eterei voi. 	Ha'e oñe'ênte gueteri.	entailment
+12660	gn	Ha'e oguapy, ha reikuaa nde, oñomongeta hikuái, ohecha hikuái upe tapichá upévape, kóva oiko pya'e, pya'eterei voi. 	Ha'e okirirî ha omaña imesa gotyo.	contradiction
+12661	gn	Ha ojupíramo ha ojupivéramo ikatu hyapu "guis" neñakâ'óramoguáicha.	Oiméramo descarga eléctrica ikatu opyvoi oimeraê oîva ijypýpe rehe.	neutral
+12662	gn	Ha ojupíramo ha ojupivéramo ikatu hyapu "guis" neñakâ'óramoguáicha.	Oîramo sobrecarga hyapu'i.	entailment
+12663	gn	Ha ojupíramo ha ojupivéramo ikatu hyapu "guis" neñakâ'óramoguáicha.	Peteî jeýnte oikóta.	contradiction
+12664	gn	Ndarekopái marandu.	Arekopaite marandu aikotevêkuaátava.	contradiction
+12665	gn	Ndarekopái marandu.	Aikotevêve mrandu ha'e haĝua mba'eichagua mba'yrúpa ajoguáta.	neutral
+12666	gn	Ndarekopái marandu.	Aikotevêve marandu kóva rehegua.	entailment
+12667	gn	Rohenoijeýta aĝamive, he'i.	He'i ohenoitaha oĝuahê vove hógape.	neutral
+12668	gn	Rohenoijeýta aĝamive, he'i.	He'i ombojevytaha ndéve rehenoihague.	entailment
+12669	gn	Rohenoijeýta aĝamive, he'i.	He'i oñe'êmbamahague.	contradiction
+12670	gn	Upépe oporandu chéve mba'érepa aha.	Oporandu chéve hikuái mba'érepa aha upégui.	entailment
+12671	gn	Upépe oporandu chéve mba'érepa aha.	Oporandu chéve hikuái mba'érepa aha upe ñemuhágui.	neutral
+12672	gn	Upépe oporandu chéve mba'érepa aha.	Oporandu chéve hikuái mba'érepa apyta ógape.	contradiction
+12673	gn	Tekotevê añepyrû añembokatupyry upe ñeñaníme.	Ndatekotevêi añembokatupyry.	contradiction
+12674	gn	Tekotevê añepyrû añembokatupyry upe ñeñaníme.	Tekotevê aikuaa upe ñeñani ñepysânga rehegua.	neutral
+12675	gn	Tekotevê añepyrû añembokatupyry upe ñeñaníme.	Tekotevê añepyrû añembosako'i.	entailment
+12676	gn	Néi, opáichavo, ajevy che mesa amba'apohápe.	Ndaguapyvéima.	contradiction
+12677	gn	Néi, opáichavo, ajevy che mesa amba'apohápe.	Ajevy che apykápe.	entailment
+12678	gn	Néi, opáichavo, ajevy che mesa amba'apohápe.	Ajevy ha aguapy che mburuvicha he'i rupi chéve.	neutral
+12679	gn	Nde!!!, upéva ñemihaitepeguavoira'e.	Oiméramo oî oikuaáva upe marandu oñembotýta ka'irâime.	neutral
+12680	gn	Nde!!!, upéva ñemihaitepeguavoira'e.	Upéva upe marandu opavéva mba'e.	contradiction
+12681	gn	Nde!!!, upéva ñemihaitepeguavoira'e.	Upéva upe marandu oñemohenda ijykepete.	entailment
+12682	gn	Ndopytaséi poguýpe.	Chupekuéra ojejagarra ha opiâse hikuái.	entailment
+12683	gn	Ndopytaséi poguýpe.	Ojejagarra chupekuéra ñemonda ramoite oikova'ekuére.	neutral
+12684	gn	Ndopytaséi poguýpe.	Opavavéva okyhyje ojeporamo ĝuarâ chuguikuéra.	contradiction
+12685	gn	Oiméne petî mokôi aravópe mba'e ajuhu ahekáva.	Pya'eterei ajuhu.	contradiction
+12686	gn	Oiméne petî mokôi aravópe mba'e ajuhu ahekáva.	Heta aheka, upe aranduka iñambusu ha ñandesareapa.	neutral
+12687	gn	Oiméne petî mokôi aravópe mba'e ajuhu ahekáva.	Hasýpe ajuhu.	entailment
+12688	gn	Upe soporte fisiológico iñambue upe tekove rehegua soporte-gui oiporúva umi pilóto ta'ânga onohêva ijyvatekue tuicháva 80.000 py peve ha agueru jey.	Umi pilóto-pe ojehecha tânga onohêva ijyvatekuépe.	entailment
+12689	gn	Upe soporte fisiológico iñambue upe tekove rehegua soporte-gui oiporúva umi pilóto ta'ânga onohêva ijyvatekue tuicháva 80.000 py peve ha agueru jey.	Umi pilñotope ojehecha amo 20 jey rupi peteî jasýpe umi ta'ânga onohêva ijyvatekue tuichávape.	neutral
+12690	gn	Upe soporte fisiológico iñambue upe tekove rehegua soporte-gui oiporúva umi pilóto ta'ânga onohêva ijyvatekue tuicháva 80.000 py peve ha agueru jey.	Upe ta'ânga noheha ojepe'ákuri.	contradiction
+12691	gn	Ha ova hikuái upe táva mbyte gotyo ha upéicha gueteri Augusta. Upe tape guasu mbytepegua héra Broad Street. Ha añetehápe kóvantevoi upe tape ipevépe upépe.	Oheja hikuái Augusta y ha oho hikuái Atalnte-pe.	contradiction
+12692	gn	Ha ova hikuái upe táva mbyte gotyo ha upéicha gueteri Augusta. Upe tape guasu mbytepegua héra Broad Street. Ha añetehápe kóvantevoi upe tape ipevépe upépe.	Oho hikuái upe táva mbytépe, tape tuichavéva ári.	entailment
+12693	gn	Ha ova hikuái upe táva mbyte gotyo ha upéicha gueteri Augusta. Upe tape guasu mbytepegua héra Broad Street. Ha añetehápe kóvantevoi upe tape ipevépe upépe.	Oho hikuái upe tape oî hetahápe jekaruha ha je'y'uha.	neutral
+12694	gn	Upéva che apañuâi.	Ajapo ajavy'ÿre.	contradiction
+12695	gn	Upéva che apañuâi.	Ajavy peteî hendápe arahaukávo upe ñemyenyhêmbyrâ.	neutral
+12696	gn	Upéva che apañuâi.	Ajavy peteî hendápe.	entailment
+12697	gn	Ha'éniko, emañava'erâ ápe, ápe emaña, Ha'e he'i chéve mbohapy henda rupi amaña haĝua computadora-pe. 	Ha'e ndoikuaái moôpa omañava'erâ.	contradiction
+12698	gn	Ha'éniko, emañava'erâ ápe, ápe emaña, Ha'e he'i chéve mbohapy henda rupi amaña haĝua computadora-pe. 	Ha'e he'i chéve umi kuatia ñongatuha oîtaha che mesa amba'apoha ári.	neutral
+12699	gn	Ha'éniko, emañava'erâ ápe, ápe emaña, Ha'e he'i chéve mbohapy henda rupi amaña haĝua computadora-pe. 	Ha'e he'i chéve moôpa ahekava'erâ.	entailment
+12700	gn	Snake River, heta mbói ipype.	Jepe héra he'i, Snake River ndorekói mbói ipype.Héra upéicha ikoni rupi S-icha.	contradiction
+12701	gn	Snake River, heta mbói ipype.	Snake River, oreko heta karumbe oporusu'úva.	neutral
+12702	gn	Snake River, heta mbói ipype.	Snake River henyhê mbóigui.	entailment
+12703	gn	Héê, areko cooperativa oipurukáva viru.	Areko cooperativa oiporukáva viru ahahápe.	entailment
+12704	gn	Héê, areko cooperativa oipurukáva viru.	Ahájepi py'ÿi che cooperativa oipurukáva virúpe.	neutral
+12705	gn	Héê, areko cooperativa oipurukáva viru.	Mba'épa upe Viru Jeporukarâ Joaju? 	contradiction
+12706	gn	Upéichaite, oku'e añetéramo, ndaha'ei ku… nde reikuaa, ikatuhápe reike pypuku pype ha eha'arô mba'e porâ, añetehápe ndaroviái.	Remba'apova'erâ 10 aravo pype ikatu haĝuáicha nderatupyry ipype.	neutral
+12707	gn	Upéichaite, oku'e añetéramo, ndaha'ei ku… nde reikuaa, ikatuhápe reike pypuku pype ha eha'arô mba'e porâ, añetehápe ndaroviái.	Chéverô ĝuarâ  remba'apova'erâ hese ndekatupyry haĝua ipype.	entailment
+12708	gn	Upéichaite, oku'e añetéramo, ndaha'ei ku… nde reikuaa, ikatuhápe reike pypuku pype ha eha'arô mba'e porâ, añetehápe ndaroviái.	Mba'eve ndoikói nderejaporâiramo ne rembiapo.	contradiction
+12709	gn	Chéverô ĝuarâ tuicha mba'e upe jajaposéva hese, ha'ese ñamoambuetaha umi tapicha ñamoîva ñande rérape omýi haĝua.	Katuete upéva nañamemokyre'ÿmo'âi ha ndatekovemo'âi ñamoambu'e umi tapicha omýiva ñande rérape, upéicharamo ni nañañeha'âiva'erâ.	contradiction
+12710	gn	Chéverô ĝuarâ tuicha mba'e upe jajaposéva hese, ha'ese ñamoambuetaha umi tapicha ñamoîva ñande rérape omýi haĝua.	Chéverô ĝuarâ tuicha mba'éta ha ipahápe katuete iporâta.	neutral
+12711	gn	Chéverô ĝuarâ tuicha mba'e upe jajaposéva hese, ha'ese ñamoambuetaha umi tapicha ñamoîva ñande rérape omýi haĝua.	Ñamoambueva'erâ umi tapicha omýiva ñande rérape.	entailment
+12712	gn	Ikatu penderoryeterei avei peñembokatupyry rire.	Ndahoryvéi ha ipireanambusupa oñembokatupyry rire.	contradiction
+12713	gn	Ikatu penderoryeterei avei peñembokatupyry rire.	Pya'eterei iñambue oñembokatupyry aja hikuái.	neutral
+12714	gn	Ikatu penderoryeterei avei peñembokatupyry rire.	Oñembokatupyrýramo ikatu hory hikuái.	entailment
+12715	gn	Oñembokatupyry jave horykuaa hikuái.	Ndetavy, ipurasántema ko demanda.	neutral
+12716	gn	Oñembokatupyry jave horykuaa hikuái.	Nembotavyai ipuku lája ko demanda.	entailment
+12717	gn	Oñembokatupyry jave horykuaa hikuái.	Peteî arapokôindynte ipuku.	contradiction
+12718	gn	Héê, rerekónera'e isâ'ÿva.	Emyatyrô erévo upe rerekohague naisâi.	entailment
+12719	gn	Héê, rerekónera'e isâ'ÿva.	Upe rerekóvaniko añetehápe isâvante.	contradiction
+12720	gn	Héê, rerekónera'e isâ'ÿva.	Ikatu oime rereko peteî isâ ha isâkuaa'ÿva.	neutral
+12721	gn	Ndépa ere sy ha tuvakuéra….?	Ndépa erereína umi temimbo'e voi ojapohague térâ mbo'ehárape oipytyvôva?	contradiction
+12722	gn	Ndépa ere sy ha tuvakuéra….?	 Mbo'ehára térâpa tuvakuéra?	entailment
+12723	gn	Ndépa ere sy ha tuvakuéra….?	Mba'épa ere mbo'ehára ha tuvakuéra rehe?	neutral
+12724	gn	Ha upéva ári amañáne , ikatu V6. 	Ahecha'aína ijápa V6.	entailment
+12725	gn	Ha upéva ári amañáne , ikatu V6. 	Chéverô ĝuarâ V6 iporâvéva ikatúva rejapo.	neutral
+12726	gn	Ha upéva ári amañáne , ikatu V6. 	Noikéichéne che akâme V6.	contradiction
+12727	gn	Néi, oiméne ndaikuaaporâi, añetehápe ne'írâ gueteri amohendapa porâ añandúva upe pohâ vai rehegua añehesa'ÿijoukáramoguare. Chéniko heterosexual ha nda'éiva haune haĝua pohâ vai. 	Naimeietevoi upe pohâ vai rehegua ñehesa'ÿijo ojejapóvo.	contradiction
+12728	gn	Néi, oiméne ndaikuaaporâi, añetehápe ne'írâ gueteri amohendapa porâ añandúva upe pohâ vai rehegua añehesa'ÿijoukáramoguare. Chéniko heterosexual ha nda'éiva haune haĝua pohâ vai. 	Añehesa'ÿijóramo che, asê porâne.	neutral
+12729	gn	Néi, oiméne ndaikuaaporâi, añetehápe ne'írâ gueteri amohendapa porâ añandúva upe pohâ vai rehegua añehesa'ÿijoukáramoguare. Chéniko heterosexual ha nda'éiva haune haĝua pohâ vai. 	Chéverô ĝuarâ upéicha, katu ndaikuaaporâi gueteri che remiandu upe pohâ vai rehegua ñehesa'ÿijo.	entailment
+12730	gn	Rejepy'apyva'erâ upe mba'éichapa marandu tetâmegua oĝuahê umi tekoha rupi.	Ajepy'apy umi tekoha upi mba'éichapa oĝuahê marandu tetâmegua.	entailment
+12731	gn	Rejepy'apyva'erâ upe mba'éichapa marandu tetâmegua oĝuahê umi tekoha rupi.	Ndaikatúi ndachepy'apýivo marandu tetâmegua mba'éichapa ohecha oikóva ñande rekoha rupi.	contradiction
+12732	gn	Rejepy'apyva'erâ upe mba'éichapa marandu tetâmegua oĝuahê umi tekoha rupi.	Umi kuatiahai tetâmegua ohechauka ñande rekohakuéra itapykueha.	neutral
+12733	gn	Nahániri, jepivéramo, reikuaáma nde, ore sái, térâkatu sái ha kamisa, térâ ojováiva, rehecháva voi árupi, upéva rehe oî porâ apyta amba'apo ógape iaktu oimehaichagua ao rehe aime, che ao'írente. 	Amba'apo jave ógape nañemondéi.	entailment
+12734	gn	Nahániri, jepivéramo, reikuaáma nde, ore sái, térâkatu sái ha kamisa, térâ ojováiva, rehecháva voi árupi, upéva rehe oî porâ apyta amba'apo ógape iaktu oimehaichagua ao rehe aime, che ao'írente. 	Amba'apo jave ógape ao jyva kuara rei rehente aime.	neutral
+12735	gn	Nahániri, jepivéramo, reikuaáma nde, ore sái, térâkatu sái ha kamisa, térâ ojováiva, rehecháva voi árupi, upéva rehe oî porâ apyta amba'apo ógape iaktu oimehaichagua ao rehe aime, che ao'írente. 	Aiporu che sái amba'aporamojepe ógape , chekatevevaicha chéve.	contradiction
+12736	gn	Héê, ereko moôpa reiko niko tuichaiterei mba'e, ni ndaja'epakuaái.	Ereko moôpa reikóta niko peteî kerayvoty oiko añetéva.	neutral
+12737	gn	Héê, ereko moôpa reiko niko tuichaiterei mba'e, ni ndaja'epakuaái.	Añetehápe chéve peteîcha areko ha ndarekóipe aiko haĝua.	contradiction
+12738	gn	Héê, ereko moôpa reiko niko tuichaiterei mba'e, ni ndaja'epakuaái.	Iporâ jareko jaiko haĝua. 	entailment
+12739	gn	Héê, héê, héê, mba'evete chéve ni orekóramo viru renda guasu.	Ndahasyichéne jaikuaa upe iviru rendépa ojehepyme'ê chupe.	neutral
+12740	gn	Héê, héê, héê, mba'evete chéve ni orekóramo viru renda guasu.	Chembopochýpe oiméramo aikuaa ojehepyme'êhague chupe iviru renda.	contradiction
+12741	gn	Héê, héê, héê, mba'evete chéve ni orekóramo viru renda guasu.	Oime rire iviru renda ojehepyme'ê, chéve nachemyangekomo'âi upéva.	entailment
+12742	gn	Héê, ko'âva oîva ko yvate ñanemba'e ha ñande joaju tekoha okaraygua ndive naiporâiete.	Sapy'ánte osyryporâiterei árupi upe joaju.	neutral
+12743	gn	Héê, ko'âva oîva ko yvate ñanemba'e ha ñande joaju tekoha okaraygua ndive naiporâiete.	Ndajajuhúi joaju porâ árupi.	entailment
+12744	gn	Héê, ko'âva oîva ko yvate ñanemba'e ha ñande joaju tekoha okaraygua ndive naiporâiete.	Ñande jareko conexión iporâvéva ko'árupi.	contradiction
+12745	gn	Ha chepy'ara'â sapy'ánte upe havilla ha sapy'ánte nahániri. Meme nahániri voi.	Nda'uséi havilla hû.	contradiction
+12746	gn	Ha chepy'ara'â sapy'ánte upe havilla ha sapy'ánte nahániri. Meme nahániri voi.	Ahechamíta aĝave 'Black Eyed Pea'.	neutral
+12747	gn	Ha chepy'ara'â sapy'ánte upe havilla ha sapy'ánte nahániri. Meme nahániri voi.	Upe Black Eyed Pea iporâ katu chéverô ĝuarâ atyhapegua	entailment
+12748	gn	Katu ja'eva'erâ ja'u hetaitereihague mapache, mykurâ ha karumbe opaichagua.	Nda'úi mba'eveichagua so'o.	contradiction
+12749	gn	Katu ja'eva'erâ ja'u hetaitereihague mapache, mykurâ ha karumbe opaichagua.	Nda'úiva mymba ndajajepokuaáiva oje'umeme.	entailment
+12750	gn	Katu ja'eva'erâ ja'u hetaitereihague mapache, mykurâ ha karumbe opaichagua.	Opaichagua mymba atantea hi'upýramo.	neutral
+12751	gn	Peteî mba'e iporâva jahupytýva niko upe jaha oparupi, javiaha.	Jeho upe iporâvéva ko mba'égui.	neutral
+12752	gn	Peteî mba'e iporâva jahupytýva niko upe jaha oparupi, javiaha.	Jeho niko upe mba'e iporâva jahupytýva kóvape.	entailment
+12753	gn	Peteî mba'e iporâva jahupytýva niko upe jaha oparupi, javiaha.	Mba'evete ndajahupytýi.	contradiction
+12754	gn	Ivai añete.	Ahendu naiporâiha.	neutral
+12755	gn	Ivai añete.	Ivaieterei.	entailment
+12756	gn	Ivai añete.	Ndaivairiete.	contradiction
+12757	gn	Iporâ'i.	Nahániri, ndaroviái, kóva noîporâi.	contradiction
+12758	gn	Iporâ'i.	Héê, ha iporâ'ivoi.	entailment
+12759	gn	Iporâ'i.	Héê, rohechakuaa hasyhague, katu ipahápe osê porâiterei.	neutral
+12760	gn	Jepivéramo rojotopa che tio róga okayguápe y rembe'ýpe ha rohasájepi peteî, mokôi ára rupi upépe.	Rohójepi sapy'a upe óga okáyguápe.	entailment
+12761	gn	Jepivéramo rojotopa che tio róga okayguápe y rembe'ýpe ha rohasájepi peteî, mokôi ára rupi upépe.	Roho upe óga okaygua Minnesota-pe.	neutral
+12762	gn	Jepivéramo rojotopa che tio róga okayguápe y rembe'ýpe ha rohasájepi peteî, mokôi ára rupi upépe.	Ndorohóiva upe óga okayguápe.	contradiction
+12763	gn	Upéicha, cheaguara asy he'i peve chéve máva ndivepa oî.	Ndaguerohorýi pe ha'e oîha.	neutral
+12764	gn	Upéicha, cheaguara asy he'i peve chéve máva ndivepa oî.	Ha'e ndachemoaguaraietevoi.	contradiction
+12765	gn	Upéicha, cheaguara asy he'i peve chéve máva ndivepa oî.	Ha'e chemoñandu porâitereíkuri aikuaaha peve máva ndivepa oî.	entailment
+12766	gn	Remoñe'êpiko The firm?	Remoñe'êpiko La firma?	entailment
+12767	gn	Remoñe'êpiko The firm?	Remoñe'êpiko The Soft?	contradiction
+12768	gn	Remoñe'êpiko The firm?	Reiporusépa Che aranduka La firma remoñe'ê haĝua?	neutral
+12769	gn	Héê, ha upéicha romoñemoi chugui ha rojapo chupe vy'aguasu hi'aramboty rehegua oikaa'ÿre ha'e. Upéva upe oikóvakuri. 	Aguerohoryrasa upe vy'aguasu kañymby oñembosako'íva'ekue.	neutral
+12770	gn	Héê, ha upéicha romoñemoi chugui ha rojapo chupe vy'aguasu hi'aramboty rehegua oikaa'ÿre ha'e. Upéva upe oikóvakuri. 	Ndorojapói mba'evete hi'aramboty rehegua.	contradiction
+12771	gn	Héê, ha upéicha romoñemoi chugui ha rojapo chupe vy'aguasu hi'aramboty rehegua oikaa'ÿre ha'e. Upéva upe oikóvakuri. 	Rombosako'i chupe vy'aguasu kañyhapete hi'aramboty rehegua.	entailment
+12772	gn	Ndaikuaái rejúpa Texas-gui, ikatu oime ndaikuaái, noñemboykeiva'erâ avavépe, katu upe ojevichea mboka jereko árupi ndojehechaporâi, apensamva'erâ	Mboka jereko jevichea oiméne ndojehechaporâi Texas-pe.	entailment
+12773	gn	Ndaikuaái rejúpa Texas-gui, ikatu oime ndaikuaái, noñemboykeiva'erâ avavépe, katu upe ojevichea mboka jereko árupi ndojehechaporâi, apensamva'erâ	Chéverô ĝuarâ avavépe nomyangekóichéne Texas-pe ojevicheáramo mboka jereko.	contradiction
+12774	gn	Ndaikuaái rejúpa Texas-gui, ikatu oime ndaikuaái, noñemboykeiva'erâ avavépe, katu upe ojevichea mboka jereko árupi ndojehechaporâi, apensamva'erâ	Texas orekova'erâ umi léi imbaretéva mboka jereko ojevichea haĝua. 	neutral
+12775	gn	Ha'e ikalida, tapicha nderorýva, oguapýta oimeraêva ndive, oñua'âta oimeraêva ndive. 	Ha'e katuete oñemoî máva ykére oguapy térâ oñua'â.	entailment
+12776	gn	Ha'e ikalida, tapicha nderorýva, oguapýta oimeraêva ndive, oñua'âta oimeraêva ndive. 	Ha'e oha'âjepi pócker térâ blackjack, sapy'ánte oha'â scrabble.	neutral
+12777	gn	Ha'e ikalida, tapicha nderorýva, oguapýta oimeraêva ndive, oñua'âta oimeraêva ndive. 	Ha'e ndoguapymo'âi oikaa'ÿva ykére.	contradiction
+12778	gn	Katuete, umíva ikatu omokyre'ÿve mba'e vai apoha, nde reikuaa, oî oikéva omonda nde téle ha ohepyme'êjey upérupi nomba'apovéi rupi.	Tapichakuéra niko omba'apóta oñeme'êramo chupe.	neutral
+12779	gn	Katuete, umíva ikatu omokyre'ÿve mba'e vai apoha, nde reikuaa, oî oikéva omonda nde téle ha ohepyme'êjey upérupi nomba'apovéi rupi.	Upáva ikatu ombohetave vai apoha.	entailment
+12780	gn	Katuete, umíva ikatu omokyre'ÿve mba'e vai apoha, nde reikuaa, oî oikéva omonda nde téle ha ohepyme'êjey upérupi nomba'apovéi rupi.	Upéva ikatu omboguejy vai apoha.	contradiction
+12781	gn	Héê, oreko heta mba'e ojeka jojapáva.	Umi mba'e orekóva ojeka jojapanunga 	entailment
+12782	gn	Héê, oreko heta mba'e ojeka jojapáva.	Mba'evete vera ndojekái.	contradiction
+12783	gn	Héê, oreko heta mba'e ojeka jojapáva.	Umi ojekáva apytépe oî hepýva.	neutral
+12784	gn	Ha upéicharô re'use tembi'u ojoparáva?	Re'usépa opaichagua tembi'u.	entailment
+12785	gn	Ha upéicharô re'use tembi'u ojoparáva?	Ahendu ere ndere'useiha tembi'u reikuaa ramóva.	contradiction
+12786	gn	Ha upéicharô re'use tembi'u ojoparáva?	Retanteava'erâniko opaichagua tembi'u ipyahúva.	neutral
+12787	gn	Ndepa ere umi kuatiahaipyre Colorado Sping-pegua onohê marandu ñande rekohapegua.	Ndépa ere umi kuatiahaipyre ñande rekohapegua ndoikuaaséi tetâyguakuéra he'iséva?	neutral
+12788	gn	Ndepa ere umi kuatiahaipyre Colorado Sping-pegua onohê marandu ñande rekohapegua.	Mba'épa nde ere umi kuatiahaipyre tetâmegua ha mba'éichapa omombe'u oikóva mundo-pe.	contradiction
+12789	gn	Ndepa ere umi kuatiahaipyre Colorado Sping-pegua onohê marandu ñande rekohapegua.	Mba'épa nde ere umi kuatiahaipyre mba'éichapa omombe'u oikóva ñande rekoha rupi.	entailment
+12790	gn	Reikuaápa ambue mba'e iporâva oúva chéve ko'áĝa. Ndaiporúiva gueteri, ikatu haĝuáicha nga'u, umi empresa guasu ikatu ohepyme'ê porâ tekombo'éramo. 	Iporâne ñamba'apo empesa tuichavévape ome'êtaramo chéve viru Mbo'ehaovusúpe ĝuarâ.	neutral
+12791	gn	Reikuaápa ambue mba'e iporâva oúva chéve ko'áĝa. Ndaiporúiva gueteri, ikatu haĝuáicha nga'u, umi empresa guasu ikatu ohepyme'ê porâ tekombo'éramo. 	Ndaipóri empresa ohepyme'êtava ndéve tekombo'erâ, tatuicha térâ tamichî.	contradiction
+12792	gn	Reikuaápa ambue mba'e iporâva oúva chéve ko'áĝa. Ndaiporúiva gueteri, ikatu haĝuáicha nga'u, umi empresa guasu ikatu ohepyme'ê porâ tekombo'éramo. 	Sapy'ánte oî empresa tuicháva nepytyvôva rehepyme'ê haĝua nde rekombo'e.	entailment
+12793	gn	Néi, mba'ére nerepyrûi? Ijákuri ndéve repensa haĝua hese, ajépa!	Mba'ére nereñe'êimi oréve ne aranduka rehe.	neutral
+12794	gn	Néi, mba'ére nerepyrûi? Ijákuri ndéve repensa haĝua hese, ajépa!	Mba'ére nereñepyrûi nde?	entailment
+12795	gn	Néi, mba'ére nerepyrûi? Ijákuri ndéve repensa haĝua hese, ajépa!	Nde rehoramo'â ipahaitépe, ko ndereikuaáiva mba'eve.	contradiction
+12796	gn	Ndépa revy'a térâpa nahániri remba'apóvo ko ta'ângaryrýi ojoajúva marandume'ê'ê.	Revy'ápa ko marandu ñemyasâi joajúpe rehe?	entailment
+12797	gn	Ndépa revy'a térâpa nahániri remba'apóvo ko ta'ângaryrýi ojoajúva marandume'ê'ê.	Oiméne nde nderehechái marandu.	contradiction
+12799	gn	Héê, ndajapoporâiniko, Mba'épa oiko upe jasypakôime ñandetapykueramoguare? Mboy vóto rehe? Heta voto rehe? 	Oñemboyke tapichakuéra nosêséi rupi vota.	neutral
+12800	gn	Héê, ndajapoporâiniko, Mba'épa oiko upe jasypakôime ñandetapykueramoguare? Mboy vóto rehe? Heta voto rehe? 	Itapykue ndahetaitéi voto rupi.	entailment
+12801	gn	Héê, ndajapoporâiniko, Mba'épa oiko upe jasypakôime ñandetapykueramoguare? Mboy vóto rehe? Heta voto rehe? 	Ohasa 99% rupi hi'ári.	contradiction
+12802	gn	MMM, nahániri, katu pereko heno rehegua ñeñani ko Oklahoma rapére.	Kavaju ñemoñani ñanembovy'a.	neutral
+12803	gn	MMM, nahániri, katu pereko heno rehegua ñeñani ko Oklahoma rapére.	Oî kavaju ñeñani upe Oklahoma rapére.	entailment
+12804	gn	MMM, nahániri, katu pereko heno rehegua ñeñani ko Oklahoma rapére.	Ndaipóri kavaju ñeñani Oklahóma rapére.	contradiction
+12805	gn	Katu che aikuaa okaháre, heta hendápe, naiporâitéi.	Naiporâiete heta hendápe okaháre.	entailment
+12806	gn	Katu che aikuaa okaháre, heta hendápe, naiporâitéi.	Iporâ okaháre.	neutral
+12807	gn	Katu che aikuaa okaháre, heta hendápe, naiporâitéi.	Iporâ tava ha okaháre.	contradiction
+12808	gn	Néi, upéva ohasáta upe ikuara'i rupi.	Isýi rei.	neutral
+12809	gn	Néi, upéva ohasáta upe ikuara'i rupi.	Osê yvytu pepóre.	entailment
+12810	gn	Néi, upéva ohasáta upe ikuara'i rupi.	Oho ytýpe.	contradiction
+12811	gn	20 % hepykué ári.	Ikatúpa hepyve 20 %-gui?	neutral
+12812	gn	20 % hepykué ári.	20%-piko hepykué ári?	entailment
+12813	gn	20 % hepykué ári.	Ndaipohyivéima hepykue ári?	contradiction
+12814	gn	kóva upe omongyhyjevéva mondahakuérape, umi ogaykeregua ombohyapuetereíva ha avei oiméramo ha'e hymba jagua oñarôreipáva, kóva oipytyvôta avei upevarâ. 	Mondahápe ndo'aporâi jagua ijayvueterei rupi ha avei oisu'uhaguére chupekuéra.	neutral
+12815	gn	kóva upe omongyhyjevéva mondahakuérape, umi ogaykeregua ombohyapuetereíva ha avei oiméramo ha'e hymba jagua oñarôreipáva, kóva oipytyvôta avei upevarâ. 	Mondahápe ndo'aporâi jagua.	entailment
+12816	gn	kóva upe omongyhyjevéva mondahakuérape, umi ogaykeregua ombohyapuetereíva ha avei oiméramo ha'e hymba jagua oñarôreipáva, kóva oipytyvôta avei upevarâ. 	Mondaha oikuaa jagua pya'eterei okirirîha.	contradiction
+12817	gn	he he, ikachiâi ha oiméne umichagua techaukarâ ahayhuvehína.	Ndo'aporâi chéve umi techaukarâ ikachiâiva.	contradiction
+12818	gn	he he, ikachiâi ha oiméne umichagua techaukarâ ahayhuvehína.	Ahechase tembiapopy ikachiâiva.	entailment
+12819	gn	he he, ikachiâi ha oiméne umichagua techaukarâ ahayhuvehína.	Oiméne ahechajeýva'erâ upe tembiapo pukarâ.	neutral
+12820	gn	Ndaikuaái, avy'a ñañomongeta rehe tandepyhare porâite.	Tandepyhareveporâiterei!! Iporâite ñañomongeta internet rupive.	contradiction
+12821	gn	Ndaikuaái, avy'a ñañomongeta rehe tandepyhare porâite.	Ndaikuaái mba'érepa nañeñanduporâi, katu nda'eséi ndéve.	neutral
+12822	gn	Ndaikuaái, avy'a ñañomongeta rehe tandepyhare porâite.	Ndaikuaaporâi, katu aime porâiterei. Oî porâ ñañomongeta upe pyhare.	entailment
+12823	gn	Rojevy Grand Rapids-gui ore ñemoñarekuéra omohu'à haguépe imbo'ehaovusu.	Grand Rapids peteî tenda neporâva.	neutral
+12824	gn	Rojevy Grand Rapids-gui ore ñemoñarekuéra omohu'à haguépe imbo'ehaovusu.	Ndaoreñemoñaréi.	contradiction
+12825	gn	Rojevy Grand Rapids-gui ore ñemoñarekuéra omohu'à haguépe imbo'ehaovusu.	Rohókuri ore ñemoñarê mbo'esyry ñemohu'âhápe Gran Rapids-pe. 	entailment
+12826	gn	Ndépiko rekekuaa okápe?	Ndépiko rehora'e upe yvyku'itýpe oikóramoguare campamento?	entailment
+12827	gn	Ndépiko rekekuaa okápe?	Rehópikora'e campamento oikóva okahápe?	contradiction
+12828	gn	Ndépiko rekekuaa okápe?	Aimo'â reho ra'e campamento-pe.	neutral
+12829	gn	Ha'ete ku vaichánte oñembyai añetéva.	Oñembyai sa'isa'ípe.	neutral
+12830	gn	Ha'ete ku vaichánte oñembyai añetéva.	Ha'ete ku oñembyaíva.	entailment
+12831	gn	Ha'ete ku vaichánte oñembyai añetéva.	Oî porâ ohóvo.	contradiction
+12832	gn	Añetehápe chembopochy ndarekovéigui, katu oiméne upeichatantevoi ndekorapyséramo.	Ereko nde yvotyty ndaha'éi ku hasy'ÿva, ñembosaraihápente rejapóva, katu che ahayhurasa.	neutral
+12833	gn	Añetehápe chembopochy ndarekovéigui, katu oiméne upeichatantevoi ndekorapyséramo.	Ndaperdeséiniko, katu mba'e hemby chéve cheytotytyséniko.	entailment
+12834	gn	Añetehápe chembopochy ndarekovéigui, katu oiméne upeichatantevoi ndekorapyséramo.	Rereko vove nde yvy pehê'imi ndaiporivéma reperdeva'erâ.	contradiction
+12835	gn	Rembohéramo chupekuéra ÿramo he'íta ndéve mba'épa rejapova'erâ, ndatekotevê rejapo neaño.	He'i rire ndéve mba'épa rejapóta ehónte nde tenode gotyo ha ejapo ndejeheguiete.	entailment
+12836	gn	Rembohéramo chupekuéra ÿramo he'íta ndéve mba'épa rejapova'erâ, ndatekotevê rejapo neaño.	Nde'imo'âi asy ndéve mba'éichapa rejapóta.	contradiction
+12837	gn	Rembohéramo chupekuéra ÿramo he'íta ndéve mba'épa rejapova'erâ, ndatekotevê rejapo neaño.	He'i ndéve mba'eichaitépa rejapova'erâ.	neutral
+12838	gn	Ndaha'éi mo'âhára año, avei tahachi, hue ha opaite tekojoja rembijokuái oîvéva. 	Umi leikuéra rehe omba'apóva ndoikeiete pype.	contradiction
+12839	gn	Ndaha'éi mo'âhára año, avei tahachi, hue ha opaite tekojoja rembijokuái oîvéva. 	Peteîteî oike upe tekojoja rekojoajúpe.	entailment
+12840	gn	Ndaha'éi mo'âhára año, avei tahachi, hue ha opaite tekojoja rembijokuái oîvéva. 	Opavave nunga oîva upe tekojoja rekojoajúpe oî pype, ha hetave umíva apytépe tahachi.	neutral
+12841	gn	hûûû, jahechami, oiméne amo 2500 rupi oîne aikéramoguare che. 	Aike ramo guare che oîmane amo 2500 tapicha rupi iguýre upéva.	entailment
+12842	gn	hûûû, jahechami, oiméne amo 2500 rupi oîne aikéramoguare che. 	Chéverô ĝuarâ aike ramo guare oi sa'imi tapicha che aikuaáva.	neutral
+12843	gn	hûûû, jahechami, oiméne amo 2500 rupi oîne aikéramoguare che. 	Amo 100 tapicha rupi oike.	contradiction
+12844	gn	Hûûû, Upéva ha'étakuri che, kóva ovevéta oimeháicha, ojehechátantevoi oimeraêva oúva oma'ê.	Añetehápe, ndaikuaái mba'épa aiporavóta.	contradiction
+12845	gn	Hûûû, Upéva ha'étakuri che, kóva ovevéta oimeháicha, ojehechátantevoi oimeraêva oúva oma'ê.	Che aiporavóta I'll Fly Away	entailment
+12846	gn	Hûûû, Upéva ha'étakuri che, kóva ovevéta oimeháicha, ojehechátantevoi oimeraêva oúva oma'ê.	I'll Fly Away upe ta'ângamýi ahechaseséva, ahechájepi peteîjey arakopôindýpe.	neutral
+12847	gn	Héê, katu ndaroviái ijáne haĝua rojapóvo, árupi ndaikatúi jajuhu pukoe arupiguáva ha upéva upe marandu roipotavéva.	Hepy ho'a porâiterei hese.	neutral
+12848	gn	Héê, katu ndaroviái ijáne haĝua rojapóvo, árupi ndaikatúi jajuhu pukoe arupiguáva ha upéva upe marandu roipotavéva.	Ndaipóri káso, jahechátamente marandu apegua.	contradiction
+12849	gn	Héê, katu ndaroviái ijáne haĝua rojapóvo, árupi ndaikatúi jajuhu pukoe arupiguáva ha upéva upe marandu roipotavéva.	Ndoroipotái ndoroguerohorýi umi marandu apegua ha ndoreokói pukoe arupigua.	entailment
+12850	gn	Chéverôguarâ héra Anderson kuri, ha upéva upe kuimba'e oha'âva'ekue  Reagan-pe ojehechauka haĝua isâ'ÿvaramo.	Anderson itenonde Reagan rehe.	contradiction
+12851	gn	Chéverôguarâ héra Anderson kuri, ha upéva upe kuimba'e oha'âva'ekue  Reagan-pe ojehechauka haĝua isâ'ÿvaramo.	Anderson oñua'â Reagan ndive isa'ÿvaramo.	entailment
+12852	gn	Chéverôguarâ héra Anderson kuri, ha upéva upe kuimba'e oha'âva'ekue  Reagan-pe ojehechauka haĝua isâ'ÿvaramo.	Oî avei ambue kuatiápe isâ'ÿva oku'e porâitemíva avei.	neutral
+12853	gn	Héê, Chéverô ĝuarâ ikaru'ieterei ha upéva rehe ikatu aiko areterei peteî carga rehe. 	Añetehápe ndahepyeite igas-kuéra.	entailment
+12854	gn	Héê, Chéverô ĝuarâ ikaru'ieterei ha upéva rehe ikatu aiko areterei peteî carga rehe. 	Hepyrasa icombustible ha py'ÿinte acargamanteva'erâ.	contradiction
+12855	gn	Héê, Chéverô ĝuarâ ikaru'ieterei ha upéva rehe ikatu aiko areterei peteî carga rehe. 	Mba'yru iporâvéva árupi umíva. 	neutral
+12856	gn	Nda'areguasúi che añemoarandu upépe ha upéi aha Londres-pe poteî jasy. 	Nda'areguasúi añemoarandu Londres-pe poteî jasy pukukue. 	entailment
+12857	gn	Nda'areguasúi che añemoarandu upépe ha upéi aha Londres-pe poteî jasy. 	Ndaháiva okápe añemoarandúvo upe mboyve.	contradiction
+12858	gn	Nda'areguasúi che añemoarandu upépe ha upéi aha Londres-pe poteî jasy. 	Umi Londres-pegua mbo'ehao umi iporâvéva.	neutral
+12859	gn	Ojejapo umi mba'e ambue hendáicha hendivekuéra.	Rejapo opavavéicha.	contradiction
+12860	gn	Ojejapo umi mba'e ambue hendáicha hendivekuéra.	Pe oiporuháicha iporâvéva.	neutral
+12861	gn	Ojejapo umi mba'e ambue hendáicha hendivekuéra.	Ojapo hendivekuéra ambue hendáicha hikuái.	entailment
+12862	gn	Ndajapokuaáiva mba'eve ko'â mbujapégui.	Ndaikatúi oiporu umi mbujape.	entailment
+12863	gn	Ndajapokuaáiva mba'eve ko'â mbujapégui.	Akói aikuaa mba'épa ajapóta mbujapégui!	contradiction
+12864	gn	Ndajapokuaáiva mba'eve ko'â mbujapégui.	Hi'â aiporukuaa mbujape katu ndaiporúi che.	neutral
+12865	gn	Areko peteî VCR ha ombojevy heta jey ndoikoporâi rupi ha ko'áĝa peve ndohechauka porâi gueteri ta'ânga ipype.	Areko videograbadora oiko porâva gueteri.	entailment
+12866	gn	Areko peteî VCR ha ombojevy heta jey ndoikoporâi rupi ha ko'áĝa peve ndohechauka porâi gueteri ta'ânga ipype.	Che videograbadora oiko porâiterei.	contradiction
+12867	gn	Areko peteî VCR ha ombojevy heta jey ndoikoporâi rupi ha ko'áĝa peve ndohechauka porâi gueteri ta'ânga ipype.	Upe videograbadora oiko peteî arapokôindy ha upéi oñembyaijeýma.	neutral
+12868	gn	Néi, iporâ upéva, añetegua, hetia'e, aha ñomongetarâme upeichaguápe, ñomongeta satélite rupive ha kuñáme guarânte.	Añetehápe ndaguerohorýi ñomongeta satélite rupive.	contradiction
+12869	gn	Néi, iporâ upéva, añetegua, hetia'e, aha ñomongetarâme upeichaguápe, ñomongeta satélite rupive ha kuñáme guarânte.	Ahákuri upe ñomongetarâ Satelite rupive ojejapóvape.	entailment
+12870	gn	Néi, iporâ upéva, añetegua, hetia'e, aha ñomongetarâme upeichaguápe, ñomongeta satélite rupive ha kuñáme guarânte.	Hetaiterei tapicha oî upe ñomongetarâme, ojejapóva satélite rupive.	neutral
+12871	gn	Héê, añetehápe ha'e ohasa upe mba'apoha rupi.	Hi'âva'erâkuri chéve ndoikói ñanemokangyeterei rupi.	neutral
+12872	gn	Héê, añetehápe ha'e ohasa upe mba'apoha rupi.	Héê! Ojapomi mba'evete ojehu'ÿre chupe!!	contradiction
+12873	gn	Héê, añetehápe ha'e ohasa upe mba'apoha rupi.	Héê, ojekuaa heta mba'e ohasahague.	entailment
+12874	gn	Ma'ê nde! Iporâitépa, ndépiko reñembokatupyry rejapokuaa haĝua upéva?	Ha'emi che oiméne haĝua nde rejapokuaa ndejeheguínte.	neutral
+12875	gn	Ma'ê nde! Iporâitépa, ndépiko reñembokatupyry rejapokuaa haĝua upéva?	Ñambyasyetépa. Chembovy'a ndeikuaaiha mba'éichapa ojejapo.	contradiction
+12876	gn	Ma'ê nde! Iporâitépa, ndépiko reñembokatupyry rejapokuaa haĝua upéva?	Moôpiko rejapokuaa upéva?	entailment
+12877	gn	Ambuekuéra ndive roñomoangirû. Rojapo sy arapeguáicha, rojopyruhápe.	Ohókuri túva árape ha Ellen akói oñangareko hese.	contradiction
+12878	gn	Ambuekuéra ndive roñomoangirû. Rojapo sy arapeguáicha, rojopyruhápe.	Oî angirû oguerovy'áva sy ára.	entailment
+12879	gn	Ambuekuéra ndive roñomoangirû. Rojapo sy arapeguáicha, rojopyruhápe.	Oî angirû ojopyýva ome'ê haĝua brunch sy ára rehegua.	neutral
+12880	gn	Jaikuaápiko ja'étava?	Reikuaápa mba'e haipy ñe'êrâpa ome'êta ñandéve?	neutral
+12881	gn	Jaikuaápiko ja'étava?	Aikuaa ndajaikuaaiha mba'evete ja'eva'erâgui.	contradiction
+12882	gn	Jaikuaápiko ja'étava?	Mba'e jajapo ja'e haĝua?	entailment
+12883	gn	Héê, upéicha, napeñe'êpeínara'e, reikuaaporâpype ndaikatuiha reñangareko hesekuéra, ha katu reikuaa outaha umi ogapy kakuaágui. 	Opavave oñangareko hogapýre tou oúva.	contradiction
+12884	gn	Héê, upéicha, napeñe'êpeínara'e, reikuaaporâpype ndaikatuiha reñangareko hesekuéra, ha katu reikuaa outaha umi ogapy kakuaágui. 	Oî tapicha ndaikatúiva oñangareko hogaygua otyarômava ehe hógakuéra yvate rupi.	neutral
+12885	gn	Héê, upéicha, napeñe'êpeínara'e, reikuaaporâpype ndaikatuiha reñangareko hesekuéra, ha katu reikuaa outaha umi ogapy kakuaágui. 	Oî tapicha ikatu'ÿva oñangareko ambue tapicha rehe.	entailment
+12886	gn	Néi, oî porâ. Jajuecha peve!	Jajuecha peve!	entailment
+12887	gn	Néi, oî porâ. Jajuecha peve!	Chembovy'aite ñañomongeta rehe. Ñañe'êvéta ko'êrô.	neutral
+12888	gn	Néi, oî porâ. Jajuecha peve!	Ñañe'êve jahávo.	contradiction
+12889	gn	Néi, heterei pene lasáña.	kóva ko lasáña he'ÿvéva aikûmbýva!	contradiction
+12890	gn	Néi, heterei pene lasáña.	Ne lasáña heterei.	entailment
+12891	gn	Néi, heterei pene lasáña.	Ilasáña hetereive upe vutifarra itai'imíva omoî rehe chupe.	neutral
+12892	gn	Che sogue guive ndaikatuvéi ha'u ha'uséva.	Ndacheviruhetái ko'áĝa. 	entailment
+12893	gn	Che sogue guive ndaikatuvéi ha'u ha'uséva.	Areko heta viru ko'áĝa upéva rehe ahase añemu.	contradiction
+12894	gn	Che sogue guive ndaikatuvéi ha'u ha'uséva.	Areko 20 $-nte ojehepyme'êha ára peve.	neutral
+12895	gn	Héê, oîpa aty ndepy'ara'âvéva.	Ko atýpe heta mba'e ho'a porâ.	contradiction
+12896	gn	Héê, oîpa aty ndepy'ara'âvéva.	kóva ko aty omba'apose ñande rekoha reko rehe.	neutral
+12897	gn	Héê, oîpa aty ndepy'ara'âvéva.	kóva ko aty omba'apose upéva rehe.	entailment
+12898	gn	Na… ndaipóri mba'eve ivaíva túva ome'êmbátava orekóva tapicha ndeichagua rehe.	Oî porâ túva ome'êva heta jopói.	entailment
+12899	gn	Na… ndaipóri mba'eve ivaíva túva ome'êmbátava orekóva tapicha ndeichagua rehe.	oî porâ tuvakuéra oykekóva iñemoñarépe âva ikatuha peve oiko ijehegui.	neutral
+12900	gn	Na… ndaipóri mba'eve ivaíva túva ome'êmbátava orekóva tapicha ndeichagua rehe.	Tuvakuéra niko oñongatuva'erâ orekomíva, nome'êiva'erâ avavépe.	contradiction
+12901	gn	Che aimeramoguare upépe, Texas-pe, areko 55000. 	Upe mboyve naiméikuri texas-pe.	contradiction
+12902	gn	Che aimeramoguare upépe, Texas-pe, areko 55000. 	Aikókuri Texas-pe '80 pukukue.	neutral
+12903	gn	Che aimeramoguare upépe, Texas-pe, areko 55000. 	Aiméjepi Texas-pe.	entailment
+12904	gn	Hepy, heta viru rehupytykuaa umichagua mba'épe, iporâva rehe nga'u.	Ndahepyiete, ndoikói avei.	contradiction
+12905	gn	Hepy, heta viru rehupytykuaa umichagua mba'épe, iporâva rehe nga'u.	Ikatu ohepyme'ê porâ ndéve hese.	entailment
+12906	gn	Hepy, heta viru rehupytykuaa umichagua mba'épe, iporâva rehe nga'u.	Ikatu heta viru rehupyty rerekóramo téla aorâ iporâva.	neutral
+12907	gn	Cheñyrô, rohepyme'ê oikuaávape. Mitâ ñeñangareko, katu rohepyme'ê okapaguáichante avei.	Mitâ ñeñangareko hepyve 2000$ ambuévagui.	neutral
+12908	gn	Cheñyrô, rohepyme'ê oikuaávape. Mitâ ñeñangareko, katu rohepyme'ê okapaguáichante avei.	Mitâ ñeñangareko ndahepyvéi okaháre.	entailment
+12909	gn	Cheñyrô, rohepyme'ê oikuaávape. Mitâ ñeñangareko, katu rohepyme'ê okapaguáichante avei.	Mitâ ñeñangareko reiete ojejapo okaháre.	contradiction
+12910	gn	E'a, upépe oî marandu he'íva mba'eichagua alarma rereko ha oĝuahêramo mondaha ikatu oikytînte ne pumbyry.	Naiporâi remombe'u rerekoha alarma.	contradiction
+12911	gn	E'a, upépe oî marandu he'íva mba'eichagua alarma rereko ha oĝuahêramo mondaha ikatu oikytînte ne pumbyry.	Upe ohepyme'êva alarma ome'ê upe marandurâ oñemoî haĝua ovetâ oîhaguéichape.	neutral
+12912	gn	E'a, upépe oî marandu he'íva mba'eichagua alarma rereko ha oĝuahêramo mondaha ikatu oikytînte ne pumbyry.	Pépe oî marandu rerekoha alarma.	entailment
+12913	gn	Héê, roreko poteî che ména ndive.	Che namendáiva ko'áĝa peve.	contradiction
+12914	gn	Héê, roreko poteî che ména ndive.	Che ména ha che poteî orememby.	neutral
+12915	gn	Héê, roreko poteî che ména ndive.	Che rembireko ha che poteî roreko.	entailment
+12916	gn	héê, néi, ndaha'éi ku ndaikatúiva nemboka texas-pe, nombohovakéi léi, katu iporâve rerekóramo nde rógapente.	Ivai rereko mboka péicha nandi rei Texas-pe.	neutral
+12917	gn	héê, néi, ndaha'éi ku ndaikatúiva nemboka texas-pe, nombohovakéi léi, katu iporâve rerekóramo nde rógapente.	Texas-pe ikatu rereko mboka nde pópe mamo reikohápe.	contradiction
+12918	gn	héê, néi, ndaha'éi ku ndaikatúiva nemboka texas-pe, nombohovakéi léi, katu iporâve rerekóramo nde rógapente.	Texas-pe ndaikatúi rereko mboka péicha rei, nde rógape ikatu.	entailment
+12919	gn	Néi, Ikatu ha'e arekoha che computadora, roreko mokî ógape ha katu ni peteî ndaha'éi chemba'e teete ha ndaha'éi che mba'apoha avei.	Ndarekói mba'evéichagua tembiporu pyahu.	contradiction
+12920	gn	Néi, Ikatu ha'e arekoha che computadora, roreko mokî ógape ha katu ni peteî ndaha'éi chemba'e teete ha ndaha'éi che mba'apoha avei.	Areko peteî computadora Apple ha HP ógape.	neutral
+12921	gn	Néi, Ikatu ha'e arekoha che computadora, roreko mokî ógape ha katu ni peteî ndaha'éi chemba'e teete ha ndaha'éi che mba'apoha avei.	ögape areko mokôi computadora.	entailment
+12922	gn	mmm, iporâ resê ha re'u ka'avo jehe'a.	Nda'úvai ka'avop jehe'a, chembojeguaru!.	contradiction
+12923	gn	mmm, iporâ resê ha re'u ka'avo jehe'a.	Sapy'apy'a ha'use ka'avo jehe'a amo yvate.	neutral
+12924	gn	mmm, iporâ resê ha re'u ka'avo jehe'a.	Sapy'apy'a ha'use ka'avo jehe'a.	entailment
+12925	gn	Háaaa… heterei.	Añetehápe heterei chéve.	entailment
+12926	gn	Háaaa… heterei.	Arekoseve ambuéva, iporâiterei upéva.	neutral
+12927	gn	Háaaa… heterei.	Ñanembojeguaru!!	contradiction
+12928	gn	Nde!! Iporâiténe. Tekotevê aha ahecha upe ñoha'ânga ha upéi jaha ñasena, jaguapy ha ñañomngetami hese.	Ndahaseietépa ahecha upe ta'ângamýi.	contradiction
+12929	gn	Nde!! Iporâiténe. Tekotevê aha ahecha upe ñoha'ânga ha upéi jaha ñasena, jaguapy ha ñañomngetami hese.	Ikatu jaha ja'u tembi'u chino jahecha rire upe ta'ângamýi ojegueroikeséva Oscar-pe	neutral
+12930	gn	Nde!! Iporâiténe. Tekotevê aha ahecha upe ñoha'ânga ha upéi jaha ñasena, jaguapy ha ñañomngetami hese.	Ikatu jaha ñasena jahecha rire upe mba'eporâ.	entailment
+12931	gn	Ha'ekuéra oikuaa mboýpa nde regueroike ha oñeha'â anirejogua rehasa haĝuáicha.	HA'ekuéra oikuaa porâ viru rehupytýva.	entailment
+12932	gn	Ha'ekuéra oikuaa mboýpa nde regueroike ha oñeha'â anirejogua rehasa haĝuáicha.	Ndoikuaái mboy virúpa nde rehupyty.	contradiction
+12933	gn	Ha'ekuéra oikuaa mboýpa nde regueroike ha oñeha'â anirejogua rehasa haĝuáicha.	Ha'ekuéra oikuaa nde rehupytyha 2903$ peteî jasýpe.	neutral
+12934	gn	Néi, upéicharamo japytáta ñanemboriahu ha ojehasapa ñande ári.	Ñane rembiapo ojoko chupekuéra omoporâve haĝua.	entailment
+12935	gn	Néi, upéicharamo japytáta ñanemboriahu ha ojehasapa ñande ári.	Ñamokyre'ÿ ha jahechauka chupekuéra ko'êreíre.	contradiction
+12936	gn	Néi, upéicharamo japytáta ñanemboriahu ha ojehasapa ñande ári.	Jajapovaieterei ha upéva rehe ko atypegua nosêi tenonde.	neutral
+12937	gn	Ha'ete ku havô, peteî mba'e novela pyharéicha	Peteî tembiapo ipyahúva ha iporâva.	contradiction
+12938	gn	Ha'ete ku havô, peteî mba'e novela pyharéicha	Ha'e ku novela mba'e.	entailment
+12939	gn	Ha'ete ku havô, peteî mba'e novela pyharéicha	Upe techaukarâ niko ojogua Days of Our lives-pe.	neutral
+12940	gn	Akói ha'éva, anete upéva. Amanóramo aikevesejey jaguáramo, upeva upe iporâvétava aikove haĝua che.	Ndaroviái ikatúne haĝua jaikove ñamano rire.	contradiction
+12941	gn	Akói ha'éva, anete upéva. Amanóramo aikevesejey jaguáramo, upeva upe iporâvétava aikove haĝua che.	Chéverô ĝuarâ tapichakuéra omanóva oikovejey mymbáramo. 	neutral
+12942	gn	Akói ha'éva, anete upéva. Amanóramo aikevesejey jaguáramo, upeva upe iporâvétava aikove haĝua che.	Amanóramo, chéverô ĝuarâ aikevejeýta jaguápe.	entailment
+12943	gn	mmmm,… oî porâ, che ha'étakuri ikatuha ambue henda rupi oñekytî, nde reikuaa, che ndaikuaái, natekotevêikuri upépe oñekytî. 	Aimo'â oñekytîva'erâha hi'upy repýpe ha anitei arandukápe.	neutral
+12944	gn	mmmm,… oî porâ, che ha'étakuri ikatuha ambue henda rupi oñekytî, nde reikuaa, che ndaikuaái, natekotevêikuri upépe oñekytî. 	Ha'étakuri oñekytî haĝua ambue hendápe.	entailment
+12945	gn	mmmm,… oî porâ, che ha'étakuri ikatuha ambue henda rupi oñekytî, nde reikuaa, che ndaikuaái, natekotevêikuri upépe oñekytî. 	Ndaiporivéima mba'épa oñekytî haĝua!	contradiction
+12946	gn	Upe ñoñe'ême'ê mba'aporâ ipahaitepegua oñeme'êva'ekue Virginia-pe niko oime oñedemanda Gratín contrape ani haĝua oñepyrû hembiapo oga'apo rehegua pokarême ojehupyty rupi, nde reikuaa.	Umi ñoñe'ême'ê mba'aporâ iñapañuâi heta.	entailment
+12947	gn	Upe ñoñe'ême'ê mba'aporâ ipahaitepegua oñeme'êva'ekue Virginia-pe niko oime oñedemanda Gratín contrape ani haĝua oñepyrû hembiapo oga'apo rehegua pokarême ojehupyty rupi, nde reikuaa.	Umi ñoñe'ême'ê mba'aporâ omonambipu'â mo'âharakuérape.	neutral
+12948	gn	Upe ñoñe'ême'ê mba'aporâ ipahaitepegua oñeme'êva'ekue Virginia-pe niko oime oñedemanda Gratín contrape ani haĝua oñepyrû hembiapo oga'apo rehegua pokarême ojehupyty rupi, nde reikuaa.	Umi ñoñe'ême'ê mba'aporâ ojehepyme'ê ñepysânga'ÿre.	contradiction
+14194	gn	Nde jopói iporâitereíta jaguerovy'a haĝua Ára 85º. 	Jopói rohupytýva naiporâi nemba'éicha.	neutral
+14195	gn	Nde jopói iporâitereíta jaguerovy'a haĝua Ára 85º. 	Mba'evete oréve nde jopói.	contradiction
+14196	gn	Nde jopói iporâitereíta jaguerovy'a haĝua Ára 85º. 	Ko'à mba'e rojapo rojúvo 80 ro'y pukukue árima.	entailment
+14197	gn	Ñaikotevê ñambojoaju viru privado ha mbo'ehaovusu mba'e teévaikatu haĝuáicha okakuaa ñane mbo'ehao oñembokatupyryhápe mo'âhararâ tuichakuépe ha oĝuahêhápe.	Ñane Mbo'ehao oñembokatupyryhápe mo'âhararâ oñesâingo viru privado rehente.	contradiction
+14198	gn	Ñaikotevê ñambojoaju viru privado ha mbo'ehaovusu mba'e teévaikatu haĝuáicha okakuaa ñane mbo'ehao oñembokatupyryhápe mo'âhararâ tuichakuépe ha oĝuahêhápe.	Ñane Mbo'ehao oñembokatupyryhápe mo'âhararâme oipytyvô Fundación Melinda ha Bill Gates.	neutral
+14199	gn	Ñaikotevê ñambojoaju viru privado ha mbo'ehaovusu mba'e teévaikatu haĝuáicha okakuaa ñane mbo'ehao oñembokatupyryhápe mo'âhararâ tuichakuépe ha oĝuahêhápe.	Ñane mbo'ehao oñembokatupyryhápe mo'âhararâ oikotevevê viru okakuaave haĝua.	entailment
+14200	gn	Upe tuichave mba'éva niko upe jahecha ñoha'ânga IRT-pe, ndaha'éi jaha reínteva.	Rehecha ñoha'ânga IRT-pe niko ndaha'éi ku reguatareínteva okarusúpe.	entailment
+14201	gn	Upe tuichave mba'éva niko upe jahecha ñoha'ânga IRT-pe, ndaha'éi jaha reínteva.	Rehecha ñoha'ânga IRT-pe niko nembopytu'úta, ombovevýta ne rembiapo pohýi ha repensáta.	contradiction
+14202	gn	Upe tuichave mba'éva niko upe jahecha ñoha'ânga IRT-pe, ndaha'éi jaha reínteva.	Ñoha'ânga IRT-pe rehecha haĝua tekotevê reñembosako'i, rejesareko porâ, reikuaa hembiasa hamba'e, péicha ikatúta ovale ndéve. 	neutral
+14203	gn	Umi orepytyvôva py'a porâme rupivente heta mba'e rohupyty.	Bill Gates ome'ê oréve 5 millones $	neutral
+14204	gn	Umi orepytyvôva py'a porâme rupivente heta mba'e rohupyty.	Jahechápype mba'éichapa ijetu'upa viru ñongatuhakuéra reko, orepytyv`vakuéra oipe'apa umígui iviru.	contradiction
+14205	gn	Umi orepytyvôva py'a porâme rupivente heta mba'e rohupyty.	Umi viru ome'êva ipy'aporâva rupive heta mba'e rohupyty.	entailment
+14206	gn	Ore aguyje peykekóre ko Idiapolis Museo de Arte 1999 ramo. 	Aguyje pe 100$ peme'ê rehe Indiapolis Museo de Arte-pe.	neutral
+14207	gn	Ore aguyje peykekóre ko Idiapolis Museo de Arte 1999 ramo. 	Aguyje, katu ndoroaguyjeme'êmo'âi peème napemoĝuahêi rehe pende viru 1999 ramo.	contradiction
+14208	gn	Ore aguyje peykekóre ko Idiapolis Museo de Arte 1999 ramo. 	Rovy'aiterei peipytyvô rehe Museo-pe.	entailment
+14209	gn	Aha'arô tove ko apañuâi tanderovasa ha nemokyre'ÿ.	Hi'â ko apañuâi nemokyre'ÿ pyahuetejey.	entailment
+14210	gn	Aha'arô tove ko apañuâi tanderovasa ha nemokyre'ÿ.	Aikuaa ko apañuâi ndepy'apyha katu eha'arô repytuha ára. 	contradiction
+14211	gn	Aha'arô tove ko apañuâi tanderovasa ha nemokyre'ÿ.	Aikuaa rejapotaha opa mba'e ijáva ndéve reñorairô haĝua cancer de mama contra-pe 	neutral
+14212	gn	Iporâ jaikuaa ndehegui, ne ñepia'â opakuévoma ko ary.	Kóva ko atyjere viru ñemono'ôrâ ipaha jajapótava ko ary ryepýpe. Roikotevê ne pytyvô!!	entailment
+14213	gn	Iporâ jaikuaa ndehegui, ne ñepia'â opakuévoma ko ary.	Mokôi atyjereve jajapóta ko arýpe ñamono'â haĝua viru.	contradiction
+14214	gn	Iporâ jaikuaa ndehegui, ne ñepia'â opakuévoma ko ary.	Ñaikotevê guetei 100.000 $ve jahupyty haĝua upe ja'eva'ekue ñamono'ôtaha ko arýpe.	neutral
+14215	gn	PD: Viru reme'êva oréve tuichaiterei mba'e ko 85 ro'y rogueroguatávape, rojapóvo ko Indiapolis Teatro Cívico-gui upe ñoha'anga tavaygua renda itujavéva ñane etâme.	Oîkuri ambue ñoha'ânga renda ramoite oguerovy'ava'ekue 84 ro'y, katu upéi okái.	neutral
+14216	gn	PD: Viru reme'êva oréve tuichaiterei mba'e ko 85 ro'y rogueroguatávape, rojapóvo ko Indiapolis Teatro Cívico-gui upe ñoha'anga tavaygua renda itujavéva ñane etâme.	Jaguerohory ñamoñepyrûha ñoha'ânga renda ipyahuvéva Indiapolis-pe	contradiction
+14217	gn	PD: Viru reme'êva oréve tuichaiterei mba'e ko 85 ro'y rogueroguatávape, rojapóvo ko Indiapolis Teatro Cívico-gui upe ñoha'anga tavaygua renda itujavéva ñane etâme.	Roguerovy'aite ko Indianapolis Teatro Cívico omba'apohague ko'â 85 ro'y pukukue.	entailment
+14218	gn	Oîtava guivépe oñeme'êta héra, hóga renda ha ipumbyry papapy ha avei mba'épa mbo'ehao remikotevê.	Oîtava guivépe oñeme'êta marandu oñembyesa'ipyréva oîhápe máva ikatúva ojoaju rysýi ha hapykuere.	entailment
+14219	gn	Oîtava guivépe oñeme'êta héra, hóga renda ha ipumbyry papapy ha avei mba'épa mbo'ehao remikotevê.	Oîtava oñemboheraguapyva'erâ kuatia rehe oñeme'ê mbyve chupekuéra marandu tenoderâ rehegua, ha'ekueraiténte oikuaataha umíva. 	neutral
+14220	gn	Oîtava guivépe oñeme'êta héra, hóga renda ha ipumbyry papapy ha avei mba'épa mbo'ehao remikotevê.	Oîtava oikuaáta umi tapicha réra katu ndorekomo'âi hóga rendakuéra rehegua marandu.	contradiction
+14221	gn	(dba) atyha oporoipytyvôva, ijeheguíva, ndovirurekáiva, oikuave'ê reiete tembiapo ijeheguíva, marandu empresa-pe ĝuarâ ha ñepytyvô empresario ipanévape, péichante avei ñepytyvô empresape, mba'apo rekópe tapicha oikotevêva oñemohendapyahúvape.	Omba'apóva guive ápe ohupyty heta viru.	contradiction
+14222	gn	(dba) atyha oporoipytyvôva, ijeheguíva, ndovirurekáiva, oikuave'ê reiete tembiapo ijeheguíva, marandu empresa-pe ĝuarâ ha ñepytyvô empresario ipanévape, péichante avei ñepytyvô empresape, mba'apo rekópe tapicha oikotevêva oñemohendapyahúvape.	Oîva guive ipype omba'apo reiete.	entailment
+14223	gn	(dba) atyha oporoipytyvôva, ijeheguíva, ndovirurekáiva, oikuave'ê reiete tembiapo ijeheguíva, marandu empresa-pe ĝuarâ ha ñepytyvô empresario ipanévape, péichante avei ñepytyvô empresape, mba'apo rekópe tapicha oikotevêva oñemohendapyahúvape.	Oî 20 tapicha omba'apo reínteva ko'êko'êre.	neutral
+14224	gn	Ñane mymba renda oñemohenda biomas umi mymba rekoha añeteguáramo voi.	Umi biomas oha'â umi mymba rekoha añete.	entailment
+14225	gn	Ñane mymba renda oñemohenda biomas umi mymba rekoha añeteguáramo voi.	Ore mymba rendápe, ore roimo'â, oiko porâveha mymbakuéra.	contradiction
+14226	gn	Ñane mymba renda oñemohenda biomas umi mymba rekoha añeteguáramo voi.	Ore mymba rendápe, umi biomas hepyetereípe osê oréve.	neutral
+14227	gn	Ne pytyvô Goodwill-pe ombokatupyrýta ha ombohembiapo umi imboriahuvévape ko Indiana-pe jahechápa âva omba'apo porâve. 	Indiana tava mbytepegua noñembokatupyrýiva omba'apo haĝua.	contradiction
+14228	gn	Ne pytyvô Goodwill-pe ombokatupyrýta ha ombohembiapo umi imboriahuvévape ko Indiana-pe jahechápa âva omba'apo porâve. 	Supporting Goodwill oipytyvôta Indiana-yguápe.	entailment
+14229	gn	Ne pytyvô Goodwill-pe ombokatupyrýta ha ombohembiapo umi imboriahuvévape ko Indiana-pe jahechápa âva omba'apo porâve. 	Goodwill ñepytyô ikatu omboguejy mba'apo'ÿ.	neutral
+14230	gn	Iñepyrûmby michîmi guive ko'áĝa oîmaramo umi ñepohânoha tuichavéva apytépe ñane retâme peve mbo'ehao ñepohânorehegua Indiana-gua ohechauka imba'erekopy ojerovúvo. 	Indiana oreko amo 20 mbo'ehao rupi ñepohâno rehegua iporâporâva.	contradiction
+14231	gn	Iñepyrûmby michîmi guive ko'áĝa oîmaramo umi ñepohânoha tuichavéva apytépe ñane retâme peve mbo'ehao ñepohânorehegua Indiana-gua ohechauka imba'erekopy ojerovúvo. 	Tetâ vore Indiana  oreko peteìete mbo'ehao ñepohâno rehegua. 	entailment
+14232	gn	Iñepyrûmby michîmi guive ko'áĝa oîmaramo umi ñepohânoha tuichavéva apytépe ñane retâme peve mbo'ehao ñepohânorehegua Indiana-gua ohechauka imba'erekopy ojerovúvo. 	Ndaiporichéne ambue mbo'ehao ñepohâno rehegua Indiana-pe ko'águi 5 ro'y peve.	neutral
+14233	gn	Upéicharamo jepe, umi aranduka tekojoja rehegua, kuatiahaipyre ha ambue ñekuave'êmby marandu ñemohenda rehegua ojupíva arai rehe ohechauka ñandéve ñande ndaikatúiha ñanohê ñane aranduka aty ohaságui ñande viru jeporurâ. 	Ñane aranduka aty ñanohêva ko'áĝa niko oiporu upe viru jeporurâ jerekóva peteî arýpe ĝuarâgui peteî vore mbohapýguinte.	contradiction
+14234	gn	Upéicharamo jepe, umi aranduka tekojoja rehegua, kuatiahaipyre ha ambue ñekuave'êmby marandu ñemohenda rehegua ojupíva arai rehe ohechauka ñandéve ñande ndaikatúiha ñanohê ñane aranduka aty ohaságui ñande viru jeporurâ. 	Viru jeporurâ jerekóva ko'áĝa ndohejái jerekovévo umi aranduka rysýi.	entailment
+14235	gn	Upéicharamo jepe, umi aranduka tekojoja rehegua, kuatiahaipyre ha ambue ñekuave'êmby marandu ñemohenda rehegua ojupíva arai rehe ohechauka ñandéve ñande ndaikatúiha ñanohê ñane aranduka aty ohaságui ñande viru jeporurâ. 	Ñaikotevê 10.000 $ iguýre oñeme'êva ikatu haĝuáicha ñanohê ñande aranduka aty ko'aĝagua.	neutral
+14236	gn	Omoheñói iñakâme, omoha'ânga ha ombovyvy ao neporâva, umi Mary Todd saichagua oiporúva Abe Lincol-pe, Illinois-pe, térâ umi sái ojeporúva "A Christmas Carol" jechaukahapeguáicha.	Umi ao ojejapopaite fábrica-pe.	contradiction
+14237	gn	Omoheñói iñakâme, omoha'ânga ha ombovyvy ao neporâva, umi Mary Todd saichagua oiporúva Abe Lincol-pe, Illinois-pe, térâ umi sái ojeporúva "A Christmas Carol" jechaukahapeguáicha.	Umi ao pópente ojejapo.	neutral
+14238	gn	Omoheñói iñakâme, omoha'ânga ha ombovyvy ao neporâva, umi Mary Todd saichagua oiporúva Abe Lincol-pe, Illinois-pe, térâ umi sái ojeporúva "A Christmas Carol" jechaukahapeguáicha.	Umi ao pópe ijapopyre.	entailment
+14239	gn	Roñeha'âta pohenói peteîme ndapeme'êiva guive ko ary fiscal-pe ko'águi 45 ára pukukue rohupyty haĝua ro'eva'ekue rohupytytaha jasypotêi ára 30ha mboyve.	Ndorohenoichéne umi ome'ê'ÿva'ekue ko ary fiscal-pe.	contradiction
+14240	gn	Roñeha'âta pohenói peteîme ndapeme'êiva guive ko ary fiscal-pe ko'águi 45 ára pukukue rohupyty haĝua ro'eva'ekue rohupytytaha jasypotêi ára 30ha mboyve.	Rohaíta nome'êiva'ekue ko ary fiscal-pe ko'â 45 ára puku aja pene ñe'êvevépe .	neutral
+14241	gn	Roñeha'âta pohenói peteîme ndapeme'êiva guive ko ary fiscal-pe ko'águi 45 ára pukukue rohupyty haĝua ro'eva'ekue rohupytytaha jasypotêi ára 30ha mboyve.	Ko'â 45 ára aja roñeha'âta roheka umi nome'êiva'ekuépe ko ary fiscal ajápe.	entailment
+14242	gn	Reimépype Mbo'ehao ombokatupyrýva mo'âhararâme, roikuaa reikuaaha ore rembiapo jeguata. 	Che aime upe mbo'ehao léi reheguápe.	neutral
+14243	gn	Reimépype Mbo'ehao ombokatupyrýva mo'âhararâme, roikuaa reikuaaha ore rembiapo jeguata. 	Avave ndoikéi mbo'ehao ombokatupyrýva mbo'âharakuérape.	contradiction
+14244	gn	Reimépype Mbo'ehao ombokatupyrýva mo'âhararâme, roikuaa reikuaaha ore rembiapo jeguata. 	Mo'ehao léi rehegua ogueroike tapichápe.	entailment
+14245	gn	Ko'â oga'apo hepyetereive umi oremoñemúva ikatúva ohepyme'ê hese, upeva rehe roikotevê ñepytyvô ha viru ikatúva peteîteî ome'ê oréve jahechápa noromboguejyvéipa hepykue. 	Ko'â oga'apo ndahepýipe osê.	contradiction
+14246	gn	Ko'â oga'apo hepyetereive umi oremoñemúva ikatúva ohepyme'ê hese, upeva rehe roikotevê ñepytyvô ha viru ikatúva peteîteî ome'ê oréve jahechápa noromboguejyvéipa hepykue. 	Ko'â ogapy oikotevê viru ojejapo haĝua.	entailment
+14247	gn	Ko'â oga'apo hepyetereive umi oremoñemúva ikatúva ohepyme'ê hese, upeva rehe roikotevê ñepytyvô ha viru ikatúva peteîteî ome'ê oréve jahechápa noromboguejyvéipa hepykue. 	Ko'â óga hepyve roha'arôvagui.	neutral
+14248	gn	He'ise Becky, Stephanie, Marcus ha Emily umívape, upéicha avei he'ise ambue temimbo'e ha'ekueraichagua	Becky-pe nde'isei mba'eve.	contradiction
+14249	gn	He'ise Becky, Stephanie, Marcus ha Emily umívape, upéicha avei he'ise ambue temimbo'e ha'ekueraichagua	Becky oî mbo'esyry 8hápe.	neutral
+14250	gn	He'ise Becky, Stephanie, Marcus ha Emily umívape, upéicha avei he'ise ambue temimbo'e ha'ekueraichagua	Becky temimbo'e.	entailment
+14251	gn	Nde viru oipytyvô iporâ haĝua opaite mba'e museo-pe ha ombokatu rohupyty mba'e pyahu.	Viru ojeporúva nomoambuéi museo reko.	contradiction
+14252	gn	Nde viru oipytyvô iporâ haĝua opaite mba'e museo-pe ha ombokatu rohupyty mba'e pyahu.	Viru hetavéramo oipytyvôve museo-pe.	neutral
+14253	gn	Nde viru oipytyvô iporâ haĝua opaite mba'e museo-pe ha ombokatu rohupyty mba'e pyahu.	Museo iñambue iñambuéramo viru ojeporúva.	entailment
+14254	gn	Hi'â chéve akói reme'ê nde viru, ha hi'â oremboaguara ore aramboty 25ha remombe'úvo mba'éichapa hetahetave reme'êjepi ko'â 25 ro'y pukukue.	Ikatu rehupive viru reme'êva ko arýpe 25 $-pe.	entailment
+14255	gn	Hi'â chéve akói reme'ê nde viru, ha hi'â oremboaguara ore aramboty 25ha remombe'úvo mba'éichapa hetahetave reme'êjepi ko'â 25 ro'y pukukue.	Pe ary ohasava'ekue reme'ê hetáma, ko arýpe ikatu rembogueju 25$-pe	contradiction
+14256	gn	Hi'â chéve akói reme'ê nde viru, ha hi'â oremboaguara ore aramboty 25ha remombe'úvo mba'éichapa hetahetave reme'êjepi ko'â 25 ro'y pukukue.	Nde jopói ary ohasava'ekuépe 33 $	neutral
+14257	gn	Roha'arô peipytyvô jey ko arýpe tembiapo tekombo'e ha mba'e porâ rehegua ogueroguatáva Civic theatre. 	Teatro cívico orekopaitéma viru oikotevêva, upévare ombotovétama viru oúva.	contradiction
+14258	gn	Roha'arô peipytyvô jey ko arýpe tembiapo tekombo'e ha mba'e porâ rehegua ogueroguatáva Civic theatre. 	Teatro Cívico oikotevê 1 millón $.	neutral
+14259	gn	Roha'arô peipytyvô jey ko arýpe tembiapo tekombo'e ha mba'e porâ rehegua ogueroguatáva Civic theatre. 	Teatro Cívico oikoteve ñepytyvô.	entailment
+14260	gn	Orembovy'avéva niko IRT omyakâ rehe ñane retâme oikuave'êva ñoha'ânga rehegua temimbo'ekuérape.	IRT niko omba'apo manga ñembosaráipe.	contradiction
+14261	gn	Orembovy'avéva niko IRT omyakâ rehe ñane retâme oikuave'êva ñoha'ânga rehegua temimbo'ekuérape.	IRT niko omba'apo ñoha'ânga temimbo'ekuérape ĝuarâ pyahukuéra mbo'ehaópe.	neutral
+14262	gn	Orembovy'avéva niko IRT omyakâ rehe ñane retâme oikuave'êva ñoha'ânga rehegua temimbo'ekuérape.	IRT omba'apo ñoha'ânga rehe.	entailment
+14263	gn	Ne pytyvô ombokatu ko atyha oñangareko haĝua umi mymba ha ka'avo aty rehe ha avei ojekuaareka haĝua umi sa'ive oîva rehe, umíva apytépe Upe Supervivencia de especias aponde'a.	Atyha ojepy'apy mymbakuéra oguepotámava Africa-pe rehe.	neutral
+14264	gn	Ne pytyvô ombokatu ko atyha oñangareko haĝua umi mymba ha ka'avo aty rehe ha avei ojekuaareka haĝua umi sa'ive oîva rehe, umíva apytépe Upe Supervivencia de especias aponde'a.	Atyha ojepy'apy mymbakuéra rehe.	entailment
+14265	gn	Ne pytyvô ombokatu ko atyha oñangareko haĝua umi mymba ha ka'avo aty rehe ha avei ojekuaareka haĝua umi sa'ive oîva rehe, umíva apytépe Upe Supervivencia de especias aponde'a.	Atyha ojepy'apy motânguéra rehe.	contradiction
+14266	gn	Chéverô ĝuarâ nda'upeichaiete.	Ndaroviái upéva añeténe haĝua. 	entailment
+14267	gn	Chéverô ĝuarâ nda'upeichaiete.	Upe nde ereháicha, chéverô ĝuarâ.	contradiction
+14268	gn	Chéverô ĝuarâ nda'upeichaiete.	Chéverô ĝuarâ rejavy, ombohovái héê, ha nahániri, nahániri.	neutral
+14269	gn	Ne pytyvô ombokatúta roipysove ore rembiapo py'aporâme rojapóva Estados Unidos-pe, umíva apytépe tekombo'e rehegua, ñemyakâha rehegua ha avei ñe'êmyasâi rehegua.	Ndorokakuaaseiete.	contradiction
+14270	gn	Ne pytyvô ombokatúta roipysove ore rembiapo py'aporâme rojapóva Estados Unidos-pe, umíva apytépe tekombo'e rehegua, ñemyakâha rehegua ha avei ñe'êmyasâi rehegua.	Ikatu orepytyvô roĝuahê haĝua pokôi tetâ vorépe.	neutral
+14271	gn	Ne pytyvô ombokatúta roipysove ore rembiapo py'aporâme rojapóva Estados Unidos-pe, umíva apytépe tekombo'e rehegua, ñemyakâha rehegua ha avei ñe'êmyasâi rehegua.	Ikatu orepytyvô roipysove haĝua ore rembiapo.	entailment
+14272	gn	Roikuaave'êse peteî tenda ikatuhápe oñembokatupyry porâ ñoha'ângahára ivaléva ko komunidápe ikatupyryve rekávo.	Ñoha'ânga tavaygua niko noipytyvôguasúi ñoha'ângahárape oñembokatupyryve haĝua.	contradiction
+14273	gn	Roikuaave'êse peteî tenda ikatuhápe oñembokatupyry porâ ñoha'ângahára ivaléva ko komunidápe ikatupyryve rekávo.	Umi ñoha'ângahára katupyry oîva oñepyrû omba'apo ñoha'ânga tavayguápe.	neutral
+14274	gn	Roikuaave'êse peteî tenda ikatuhápe oñembokatupyry porâ ñoha'ângahára ivaléva ko komunidápe ikatupyryve rekávo.	Oî ñoha'ângahára oñembokatupyrýva ñoha'ângaha tavayguápe.	entailment
+14275	gn	Ko arateî ipaitepegua, japypotî ára 18ha, oky ha sa'ieterei oúva upe techaukarâ oñe'êva mombe'ugua'u, mombe'upy ha tembiasakue rehe, upe Keepers of the Lore/Joseph Campbell ko arypegua.	Ndokyvéiva ko'â mbohapy ary pukukue.	contradiction
+14276	gn	Ko arateî ipaitepegua, japypotî ára 18ha, oky ha sa'ieterei oúva upe techaukarâ oñe'êva mombe'ugua'u, mombe'upy ha tembiasakue rehe, upe Keepers of the Lore/Joseph Campbell ko arypegua.	Upe arateî oky 17 pulgada.	neutral
+14277	gn	Ko arateî ipaitepegua, japypotî ára 18ha, oky ha sa'ieterei oúva upe techaukarâ oñe'êva mombe'ugua'u, mombe'upy ha tembiasakue rehe, upe Keepers of the Lore/Joseph Campbell ko arypegua.	Upe arateîme okýkuri.	entailment
+14278	gn	Oñepyrûva'ekue ñoha'ângahára rembiapo oguatávaramo 1973 ramo ohechaukáva temimbo'ekuérape táva Gary, Elkhart ha Terre Haute rupi, ko'áĝa upe IRT rembiapo tekombo'e rehegua.	ro'y 70 rupi ndaipóriva'ekue ñoha'ângahára Indiana rupi.	contradiction
+14279	gn	Oñepyrûva'ekue ñoha'ângahára rembiapo oguatávaramo 1973 ramo ohechaukáva temimbo'ekuérape táva Gary, Elkhart ha Terre Haute rupi, ko'áĝa upe IRT rembiapo tekombo'e rehegua.	Ñoha'ângahára ohupytyva'ekue Oscar oikova'ekue oguata Indiana rupi 1973 ramo.	neutral
+14280	gn	Oñepyrûva'ekue ñoha'ângahára rembiapo oguatávaramo 1973 ramo ohechaukáva temimbo'ekuérape táva Gary, Elkhart ha Terre Haute rupi, ko'áĝa upe IRT rembiapo tekombo'e rehegua.	Oî ñoha'ângahára ohupytyva'ekue Oscar ohechaukava'ekue hembiapo Indiana-pe 1973 ramo.	entailment
+14281	gn	Roikotevê viru roheka ha rombokatupyry haĝua mbo'ehárape. 	Natekotevêi roheka mbo'ehára, ha'ekuéra voi ou ore rendápe.	contradiction
+14282	gn	Roikotevê viru roheka ha rombokatupyry haĝua mbo'ehárape. 	Tekotevê rombokatupyryve mbo'ehárape.	entailment
+14283	gn	Roikotevê viru roheka ha rombokatupyry haĝua mbo'ehárape. 	Roikotevê 100 mbo'ehára pyahu ikatupyry añetéva.	neutral
+14284	gn	Umi 5539 temimbo'e oikéva mbo'ehao ombokatupyrýva mo'âhárape niko hechapyrâ. 	Mbo'ehao ombokatupyrýva mo'âhararâme niko oipe'a hokê 100 ro'y pukukue ha oreko 5539 temimbo'e.	neutral
+14285	gn	Umi 5539 temimbo'e oikéva mbo'ehao ombokatupyrýva mo'âhárape niko hechapyrâ. 	Mbo'ehao ombokatupyrýva mo'âhararâmegui osê 20 mo'âhárante. 	contradiction
+14286	gn	Umi 5539 temimbo'e oikéva mbo'ehao ombokatupyrýva mo'âhárape niko hechapyrâ. 	Mbo'ehao ombokatupyrýva mo'âhararâme ohasa 5000 temimbo'e.	entailment
+14287	gn	Akâ jeguaka ojejapóva laurel-gui ohechauka itenondehague, umi olivo rakâ he'iséva py'aguapy, umíva ombojegua avei upe pyrûha umi acanto rogue ndive.	Pira vera, mbói, umívante oreko upe pyrûha rembe'y.	contradiction
+14288	gn	Akâ jeguaka ojejapóva laurel-gui ohechauka itenondehague, umi olivo rakâ he'iséva py'aguapy, umíva ombojegua avei upe pyrûha umi acanto rogue ndive.	Akâ jeguaka laurel-gui ojejapóva, olivo rakâ ha acanto rogue ombojegua pyrûha rembe'y. 	entailment
+14289	gn	Akâ jeguaka ojejapóva laurel-gui ohechauka itenondehague, umi olivo rakâ he'iséva py'aguapy, umíva ombojegua avei upe pyrûha umi acanto rogue ndive.	Pyrûha yvysa'y kangymi.	neutral
+14290	gn	Che mba'apoha heta.	Namba'apói ha ndapytu'úi ave.	contradiction
+14291	gn	Che mba'apoha heta.	Amba'apo ha oiporupaite aravo arekomíva.	neutral
+14292	gn	Che mba'apoha heta.	Amba'apo.	entailment
+14293	gn	Viru reme'êva Sociedad Maennerchor-pe iviru arýpe ĝuarâ oipytyvô tuicha mbo'ehaópe.	Sociedad Maennerchor omoĝuahê viru oñeme'êva.	entailment
+14294	gn	Viru reme'êva Sociedad Maennerchor-pe iviru arýpe ĝuarâ oipytyvô tuicha mbo'ehaópe.	Sociedad Maennerchor ohupyty 1 millón $ ary ohasava'ekuépe.	neutral
+14295	gn	Viru reme'êva Sociedad Maennerchor-pe iviru arýpe ĝuarâ oipytyvô tuicha mbo'ehaópe.	Sociedad Maennerchor-pe oipytyvô Bill Gates.	contradiction
+14296	gn	Ikatu avei reike ko'áĝa romboguejyroína jeikerâ repy mokôi ary rehe 30 $nte, hembyta ndéve 60% mokôi ary repýpe. 	Ko'â árape reikéramo 30 $nte rehepyme'êta.	neutral
+14297	gn	Ikatu avei reike ko'áĝa romboguejyroína jeikerâ repy mokôi ary rehe 30 $nte, hembyta ndéve 60% mokôi ary repýpe. 	Ko'â mokôi ary oútava rehe 30$nte rehepyme'êta reime haĝua ipype..	entailment
+14298	gn	Ikatu avei reike ko'áĝa romboguejyroína jeikerâ repy mokôi ary rehe 30 $nte, hembyta ndéve 60% mokôi ary repýpe. 	Reime haĝua ko'â mokôi ary rehepyme'êva'erâ 800 $.	contradiction
+14299	gn	Mba'épa rerekóta, rejoajúta umi fundación oisâmbyhy yvatevéva ndive, umi onegociakuaáva ndive, umi ñakârapu'ârâ rehe omba'apóva ndive, ha umi omba'apóva viruraka'ÿva ndive.	Ko atýpe henihê Ivy League remimbo'ekuegui ha tapicha ipy'aporâvagui.	neutral
+14300	gn	Mba'épa rerekóta, rejoajúta umi fundación oisâmbyhy yvatevéva ndive, umi onegociakuaáva ndive, umi ñakârapu'ârâ rehe omba'apóva ndive, ha umi omba'apóva viruraka'ÿva ndive.	Ko atýpe henyhê tapicha mba'eguasuetévagui.	entailment
+14301	gn	Mba'épa rerekóta, rejoajúta umi fundación oisâmbyhy yvatevéva ndive, umi onegociakuaáva ndive, umi ñakârapu'ârâ rehe omba'apóva ndive, ha umi omba'apóva viruraka'ÿva ndive.	Ko atýpe henyhê tapicha oîva ka'irâimegui ha avei mondaha atýra oî ipype.	contradiction
+14302	gn	Ambuekuéra ohechakuaa rohupyty porâva.	Jajavyñaína ha opavavéva ojechakuaa.	contradiction
+14303	gn	Ambuekuéra ohechakuaa rohupyty porâva.	Jahupyty porâ ñañemoîramo ñamono'ô viru.	neutral
+14304	gn	Ambuekuéra ohechakuaa rohupyty porâva.	Ñasê porâ meme jahávo.	entailment
+14305	gn	Rembojoajútapa nde kerayvoty oremba'éva rehe?	Noromokyre'ÿ nde kerayvotývo orendive.	contradiction
+14306	gn	Rembojoajútapa nde kerayvoty oremba'éva rehe?	Orepytyvôtapa jajapo haĝua mbo'ehao iporâvéva ñane retâmegua? 	neutral
+14307	gn	Rembojoajútapa nde kerayvoty oremba'éva rehe?	Nde kerayvotýpa oikéta remba'éva kuápe?	entailment
+14308	gn	Pene rembiaporâ pehechaukávape pereko ko atyha oepyrûramóva ñepytyvô, roikuaápype ou porâtaha táva tuichakuépe.	Oimo'â hikuái ko atyha ombyataha táva.	contradiction
+14309	gn	Pene rembiaporâ pehechaukávape pereko ko atyha oepyrûramóva ñepytyvô, roikuaápype ou porâtaha táva tuichakuépe.	Oimo'â hikuái ko Atyha ombovevyivetaha tavayguakuéra otyarômavape.	neutral
+14310	gn	Pene rembiaporâ pehechaukávape pereko ko atyha oepyrûramóva ñepytyvô, roikuaápype ou porâtaha táva tuichakuépe.	Oykeko hikuái ko Atyha oikuaágui hikuái ou porâtaha tavayguakuérape.	entailment
+14311	gn	Joaju neporâva nilko oî ko'êko'êre oî rupi upe Aty Joajurâ ñepytyvô oî rupi ipype atyha nemba'eichagua.	Atyha nemba'eichagua oipytyvô oiko haĝua joaju nepoâva ko'âko'êre.	entailment
+14312	gn	Joaju neporâva nilko oî ko'êko'êre oî rupi upe Aty Joajurâ ñepytyvô oî rupi ipype atyha nemba'eichagua.	Joaju oikóva oiko rei ha ndaha'éi nde rupi.	contradiction
+14313	gn	Joaju neporâva nilko oî ko'êko'êre oî rupi upe Aty Joajurâ ñepytyvô oî rupi ipype atyha nemba'eichagua.	Nde atyha'ÿre ko'â joaju neporâva ndoikoramo'â márô.	neutral
+14314	gn	Upe aty'i sâmbyhyha myakâhára	Upe Fiedeicomiso aty'i naimyakâhárai.	contradiction
+14315	gn	Upe aty'i sâmbyhyha myakâhára	Upe Aty oîhápe ñemoñe'êkuaaharakuéra ñeisâmbyhýpe myakâhára	entailment
+14316	gn	Upe aty'i sâmbyhyha myakâhára	Upe hi'arevémava Upe Aty'y myakâha mruruvivha.	neutral
+14317	gn	Ko'âichagua tembiapo Young Library Leaders ha Love is Reading Together Week , ojejapo mitâpyahúpe ĝuarâ ha omokyre'ÿ voi guive  iñarandukakotyrayhu haĝua	Umi tembiapo oñeha'â mitânguéra osê haĝua okápe oñembyesarái.	contradiction
+14318	gn	Ko'âichagua tembiapo Young Library Leaders ha Love is Reading Together Week , ojejapo mitâpyahúpe ĝuarâ ha omokyre'ÿ voi guive  iñarandukakotyrayhu haĝua	Oî tembiapopy omokyre'ÿva mitânguérape oike haĝuâ arandukakotýpe mokôijey peteî arapokôindýpe.	neutral
+14319	gn	Ko'âichagua tembiapo Young Library Leaders ha Love is Reading Together Week , ojejapo mitâpyahúpe ĝuarâ ha omokyre'ÿ voi guive  iñarandukakotyrayhu haĝua	Oî tembiapopy omokyre'ÿva mitânguérape oike haĝuâ arandukakotýpe.	entailment
+14320	gn	Pe ary ohasava'ekuépe ndepojera upi reme'ê …$	Pe ary ohasava'ekuépe nereme'êi viru.	contradiction
+14321	gn	Pe ary ohasava'ekuépe ndepojera upi reme'ê …$	Pe ary ohasava'ekuépe nde reme'ê 10.000 $.	neutral
+14322	gn	Pe ary ohasava'ekuépe ndepojera upi reme'ê …$	Pe ary ohasava'ekuépe nde reme'ê viru.	entailment
+14323	gn	Ojehayhu'ietereígui oñemoangirû mondaha ha oporojukaha rehe.	Iñangirû apytépe ndaipóri mondaha ni oporojukáva.	contradiction
+14324	gn	Ojehayhu'ietereígui oñemoangirû mondaha ha oporojukaha rehe.	Iñangirû apytépe oî imondáva ha oporojukáva.	entailment
+14325	gn	Ojehayhu'ietereígui oñemoangirû mondaha ha oporojukaha rehe.	Iñangirû apytépe oî omondava'ekue chíkle.	neutral
+14326	gn	Upe pyrûha hovy mbaretévape ojekuaa upe mburuvicha rechaukaha  isa'ypáva peteî kora ojejapóva 50 mbyja morotîme ryepýpe.	Pyrûha oreko Mburuvicha rechaukaha.	entailment
+14327	gn	Upe pyrûha hovy mbaretévape ojekuaa upe mburuvicha rechaukaha  isa'ypáva peteî kora ojejapóva 50 mbyja morotîme ryepýpe.	Pyrûha sa'yky mimbi ha oreko Bart Simpson ra'ânga	contradiction
+14328	gn	Upe pyrûha hovy mbaretévape ojekuaa upe mburuvicha rechaukaha  isa'ypáva peteî kora ojejapóva 50 mbyja morotîme ryepýpe.	Pyrûha apu'a mbyte tuichakue 6 py. 	neutral
+14329	gn	Ahai peême a'aguyjeme'ê haĝua peême pende jopói arandukakoty IUPUI university-pe ha ajejurejeývo peême pene pytyvô.	Ajejure peême  peme'êmi haĝua 10 $ ASPCA-pe.	contradiction
+14330	gn	Ahai peême a'aguyjeme'ê haĝua peême pende jopói arandukakoty IUPUI university-pe ha ajejurejeývo peême pene pytyvô.	Ajerure reme'êmi haĝua 100$ arandukakoty Mbo'ehaovusu mba'éva IUPUI-pe. 	neutral
+14331	gn	Ahai peême a'aguyjeme'ê haĝua peême pende jopói arandukakoty IUPUI university-pe ha ajejurejeývo peême pene pytyvô.	Ajerure ndéve rembojopoimijey haĝua Arandukakoty mbo'ehaovu mba'éva IUPUI-pe	entailment
+14332	gn	Nepytyvô haĝua upe reme'êséva oñembohape haĝua ikatu rehenói jeroviápe Kathy Dannels, Ñakârapu'â Sâmbyhyha, ko pumbyrýpe 924-6770.	Ehenói Kathy Dannels-pe reñe'êséramo upe The Walking Dead-pe oikova'ekue ange pyhare.	contradiction
+14333	gn	Nepytyvô haĝua upe reme'êséva oñembohape haĝua ikatu rehenói jeroviápe Kathy Dannels, Ñakârapu'â Sâmbyhyha, ko pumbyrýpe 924-6770.	Kathy Dannels omohovái pya'eterei oiméramo oñehenói.	neutral
+14334	gn	Nepytyvô haĝua upe reme'êséva oñembohape haĝua ikatu rehenói jeroviápe Kathy Dannels, Ñakârapu'â Sâmbyhyha, ko pumbyrýpe 924-6770.	Ikatúramo, ehenoimi Kathy Dannels oiméramo reñe'êse ne remime'êmby rehe.	entailment
+14335	gn	Iporâiténe añete ijáramo ndéve ha rejumi rehecha nete ne mbo'ehao, mba'éichapa rokakuaa ko'â ro'y pukukue ha revy'a avei orendive opytava'ekue rehe ñandéve. 	Ani reju mbo'ehaópe, rerukánte viru.	contradiction
+14336	gn	Iporâiténe añete ijáramo ndéve ha rejumi rehecha nete ne mbo'ehao, mba'éichapa rokakuaa ko'â ro'y pukukue ha revy'a avei orendive opytava'ekue rehe ñandéve. 	Rejumiva'erâ mbo'ehaópe ha ehecha tembiapo neporâva purahéi rehegua rojapóva.	neutral
+14337	gn	Iporâiténe añete ijáramo ndéve ha rejumi rehecha nete ne mbo'ehao, mba'éichapa rokakuaa ko'â ro'y pukukue ha revy'a avei orendive opytava'ekue rehe ñandéve. 	Rejumiva'erâ mbo'ehaópe ha ehecha mba'épa rojapóva.	entailment
+14338	gn	Nde,... tuichaiterei mba'e oréve ha IU-pe ĝuarâ.	IU ha oréve ĝuarâ avei nde tuichaiterei mba'e roikuaágui nde reme'êmeméva oréve.	neutral
+14339	gn	Nde,... tuichaiterei mba'e oréve ha IU-pe ĝuarâ.	Ore ha IU ro'e nde tuichamba'eha.	entailment
+14340	gn	Nde,... tuichaiterei mba'e oréve ha IU-pe ĝuarâ.	Oréve ni IU-pe nde mba'evete oréve.	contradiction
+14341	gn	Urban ohoramoguare Vietnam-pe ore romenda ramoite, he'i JoAnn.	JoAnn ha Urban oguerovy'a ramoite 50 ro'y omendahague ohoramoguare Vietnam-pe.	contradiction
+14342	gn	Urban ohoramoguare Vietnam-pe ore romenda ramoite, he'i JoAnn.	JoAnn he'íkuri ha'e ha Urban peteî jasy omendahague ohoramoguare Vietnam-pe.	neutral
+14343	gn	Urban ohoramoguare Vietnam-pe ore romenda ramoite, he'i JoAnn.	JoAnn he'i ha'e ha Urban nda'areguasúi omendahague ohoramoguare Vietnam-pe.	entailment
+14344	gn	Viru oikéva Civic-pe ou â henda guivo: óga jehepyme'ê, ñembokatupyry, óga jepuruka viru rehe, fundación ha empresa-gui, ha tapicha  ndeichagua, peteîteî ome'êva viru. 	Avave nome'êi oréve mba'eve, katu roreko viru roikotevêva, oî porâ upéicha.	contradiction
+14345	gn	Viru oikéva Civic-pe ou â henda guivo: óga jehepyme'ê, ñembokatupyry, óga jepuruka viru rehe, fundación ha empresa-gui, ha tapicha  ndeichagua, peteîteî ome'êva viru. 	Oî tapicha ome'êva oréve viru orepytyvô rohypyty haĝua ore viru jeporurâ ohupytýva 1 millón $	neutral
+14346	gn	Viru oikéva Civic-pe ou â henda guivo: óga jehepyme'ê, ñembokatupyry, óga jepuruka viru rehe, fundación ha empresa-gui, ha tapicha  ndeichagua, peteîteî ome'êva viru. 	Oî tapicha ome'êva oréve viru ore atyha oku'e haĝua.	entailment
+14347	gn	Umi temimbo'ekuérape ojupi 12% umi ohepyme'êva 1992 guive ha upéva hetaitereíma.	Upe jeike repy tuichaiterei ojupi.	entailment
+14348	gn	Umi temimbo'ekuérape ojupi 12% umi ohepyme'êva 1992 guive ha upéva hetaitereíma.	Upe jeike repy oguejy 40%..	contradiction
+14349	gn	Umi temimbo'ekuérape ojupi 12% umi ohepyme'êva 1992 guive ha upéva hetaitereíma.	Upe jeike repy ojupíta ohóvo ohasávo ary.	neutral
+14350	gn	ñembokatupyry mba'aporâme ojeporúramo 00, peteî tapicha ohupytýtavape oñeñongatukuaa 3$	Oimeraê tapicha ohepyme'êva ñembokatupyry mba'aporâ rehe ohundi 5$	contradiction
+14351	gn	ñembokatupyry mba'aporâme ojeporúramo 00, peteî tapicha ohupytýtavape oñeñongatukuaa 3$	5% tapichakuéra ohasáva 25 ary ñane retâme ohupyty ñepytyvô.	neutral
+14352	gn	ñembokatupyry mba'aporâme ojeporúramo 00, peteî tapicha ohupytýtavape oñeñongatukuaa 3$	Oîniko viru ñongatupy ikatu haĝuáicha ojeporu ñembokatupyry mba'aporâme.	entailment
+14353	gn	Ojevý oréve 58% umi jeikerâ ojehepyme'êvo, ha hembýva 32% roha'arô ojevy angirû ndeichagua ñepytyvô rupive.	Upe viru oupanunga upe jeikerâ jehepyme'êgui.	entailment
+14354	gn	Ojevý oréve 58% umi jeikerâ ojehepyme'êvo, ha hembýva 32% roha'arô ojevy angirû ndeichagua ñepytyvô rupive.	kóva ko ary ipaha rohepyme'êta ko jeikerâ. 	neutral
+14355	gn	Ojevý oréve 58% umi jeikerâ ojehepyme'êvo, ha hembýva 32% roha'arô ojevy angirû ndeichagua ñepytyvô rupive.	Jeikerâ jehepyme'êniko ndogueroikéi upe viru roikotevêvagui mbyte.	contradiction
+14356	gn	Iporâitereirasa umi 2 hectárea pota rupi ñemitÿ hechapyrâva ombojoparáva yvotykuaa, marandu ka'avo rehegua ha porâ ra'ânga hechapyrâva.	Upépe oî una tonelada ka'avo.	entailment
+14357	gn	Iporâitereirasa umi 2 hectárea pota rupi ñemitÿ hechapyrâva ombojoparáva yvotykuaa, marandu ka'avo rehegua ha porâ ra'ânga hechapyrâva.	Upe tendaniko cemento memete ha ivai.	contradiction
+14358	gn	Iporâitereirasa umi 2 hectárea pota rupi ñemitÿ hechapyrâva ombojoparáva yvotykuaa, marandu ka'avo rehegua ha porâ ra'ânga hechapyrâva.	Upépe jajuhu yvoty yvypytu akuhapegua ha yvyra neporâva.	neutral
+14359	gn	Upe Ejército de Salvación escudo pytâ ikatu rire oñe'ê ikatúta omombe'u mba'éichapa ramoite roipytyvô peteî kuimba'e huguy asukávape ojuhu haĝua upe insulina oikotevêva. 	Ejéricto de Salvación niko noñatendéi hasýva rehe.	contradiction
+14360	gn	Upe Ejército de Salvación escudo pytâ ikatu rire oñe'ê ikatúta omombe'u mba'éichapa ramoite roipytyvô peteî kuimba'e huguy asukávape ojuhu haĝua upe insulina oikotevêva. 	Ejéricto de Salvación niko ome'è viru oikotevêvape.	entailment
+14361	gn	Upe Ejército de Salvación escudo pytâ ikatu rire oñe'ê ikatúta omombe'u mba'éichapa ramoite roipytyvô peteî kuimba'e huguy asukávape ojuhu haĝua upe insulina oikotevêva. 	Ejército de Salvación oipytyvô oikotevêvape. 	neutral
+14362	gn	Upe situniko ikatu ombyai ñande katypyry ñambosako'ívo vy'a guasu ambue arýpe.	Ñande ñane garantíama ikatutaha ñambosako'i vy'aguasu 10 ary pukukue toiko oikóva.	contradiction
+14363	gn	Upe situniko ikatu ombyai ñande katypyry ñambosako'ívo vy'a guasu ambue arýpe.	Ndahetáiramo oútava, ikatu ndoikói upe vy'a guasu.	neutral
+14364	gn	Upe situniko ikatu ombyai ñande katypyry ñambosako'ívo vy'a guasu ambue arýpe.	ikatu ndajarekovéivoma ambue arýpe ko vy'a guasu.	entailment
+14365	gn	Hetápe ĝuarâ, umi ipy'aporâva opoipytyvôva umi rríko ojehechauka haĝuánte.	Opavavéva ohechakuaa jahupytyséramo tuicha mba'e maymavéva ñame'êva'erâ.	contradiction
+14366	gn	Hetápe ĝuarâ, umi ipy'aporâva opoipytyvôva umi rríko ojehechauka haĝuánte.	Oî tapicha oimo'âva umi rríkonte ikatuha ome'ê.	entailment
+14367	gn	Hetápe ĝuarâ, umi ipy'aporâva opoipytyvôva umi rríko ojehechauka haĝuánte.	Oî tapicha oimo'âva imboriahuetereiha ha upéva rehe nopenái ñahenóiramo.	neutral
+14368	gn	Vokoiete, peteî tapicha IRT-gua nerenóita pumbyrýpe ere haĝua moýpa ikatúta reme'ê.	Norome'êi pumbyy rupive ikatúgui ndaisegupái.	contradiction
+14369	gn	Vokoiete, peteî tapicha IRT-gua nerenóita pumbyrýpe ere haĝua moýpa ikatúta reme'ê.	Ikatu reme'ê viru pumbyry rupive.	entailment
+14370	gn	Vokoiete, peteî tapicha IRT-gua nerenóita pumbyrýpe ere haĝua moýpa ikatúta reme'ê.	Reikeséramo ko atyhápe tekotevê reme'ê 100$ pumbyry rupive.	neutral
+14371	gn	Jasypo ára 1ha mboyve tekotevê jaikuaáma máva omboguahúta iñeime ikatu haĝuáicha jaikuaa oipytyvôtava 1991 aja.	Oî ipypegua ikatútava ombopuahu iñeime.	entailment
+14372	gn	Jasypo ára 1ha mboyve tekotevê jaikuaáma máva omboguahúta iñeime ikatu haĝuáicha jaikuaa oipytyvôtava 1991 aja.	Ikatu 1500 pypegua ombopyahu iñeime.	neutral
+14373	gn	Jasypo ára 1ha mboyve tekotevê jaikuaáma máva omboguahúta iñeime ikatu haĝuáicha jaikuaa oipytyvôtava 1991 aja.	Rogueoikejey umi ombopyahusévape iñeime oiméramo …	contradiction
+14374	gn	McCoy nekonvida reme'ê haĝua 10.000 $ Empresa Fundación-pe. 	McCoy ojerure 250000 $. 	contradiction
+14375	gn	McCoy nekonvida reme'ê haĝua 10.000 $ Empresa Fundación-pe. 	McCoy ojejure toñepytyvômi 10.000$pe.	entailment
+14376	gn	McCoy nekonvida reme'ê haĝua 10.000 $ Empresa Fundación-pe. 	McCoy oikotevêve viru, katu ko'áĝa ojejure 10.000 $.	neutral
+14377	gn	Karai Loren Field ha iñirûnguéra rembiapo niko osê upe kuatia arandu Sciencie rováre, upéva upe kuatia herakuâ guasu ohechakuaáre tembiapo arandureka rehegua ha upéva oñemomba'eterei mbo'ehaópe. 	Loren Field niko upe Kuaahára tuichavéva mbo'ehaópe.	neutral
+14378	gn	Karai Loren Field ha iñirûnguéra rembiapo niko osê upe kuatia arandu Sciencie rováre, upéva upe kuatia herakuâ guasu ohechakuaáre tembiapo arandureka rehegua ha upéva oñemomba'eterei mbo'ehaópe. 	Loren Field omba'apo  upe mbo'ehao yty rendápe.	contradiction
+14379	gn	Karai Loren Field ha iñirûnguéra rembiapo niko osê upe kuatia arandu Sciencie rováre, upéva upe kuatia herakuâ guasu ohechakuaáre tembiapo arandureka rehegua ha upéva oñemomba'eterei mbo'ehaópe. 	Loren Field omba'apo  upe mbo'ehaópe	entailment
+14380	gn	Reñemoîkuaava'erâ ambue tapicha rendápe.	Rehasakuaava'erâ ambue tapicha ohasáva.	entailment
+14381	gn	Reñemoîkuaava'erâ ambue tapicha rendápe.	Oiko upe máva he'iháicha.	neutral
+14382	gn	Reñemoîkuaava'erâ ambue tapicha rendápe.	Oñangareko haĝua, chentese rekópe, hekove ha iñemuha rehe.	contradiction
+14383	gn	Ko karai oisâmbyhýva upe Indiana Asociación Dental oîna ko Atyha tenondegua ñane retâme omoirûvo hemime'ê imbo'ehao tâi rehegua. 	Indiana niko pe Atya tâ rehegua tenondegua ñane retâme péicha omba'apóva mbo'ehao tâi rehegua ndive.	entailment
+14384	gn	Ko karai oisâmbyhýva upe Indiana Asociación Dental oîna ko Atyha tenondegua ñane retâme omoirûvo hemime'ê imbo'ehao tâi rehegua. 	Indiana ombotove upe mbo'ehao tâi reheguápe oipytyvô haĝua.	contradiction
+14385	gn	Ko karai oisâmbyhýva upe Indiana Asociación Dental oîna ko Atyha tenondegua ñane retâme omoirûvo hemime'ê imbo'ehao tâi rehegua. 	Indiana Atyha tetâmegua Tâi rehegua he'i ome'êtaha 1 millón dólar mbo'ehao tâi reheguápe.	neutral
+14386	gn	Ouvakuéra ikatu ohecha heta mba'e porâ iñambuéva ohóvo Conservatorio Hilbert-pe, umíva apytépe Las mariposas son libres, El mago de Oz, Tierra de juguetes, Vuelos de fantasía.	Ouvakuéra ikatu ohecha heta mba'e porâ Conservatorio Hilbert-pe opaite ára.	neutral
+14387	gn	Ouvakuéra ikatu ohecha heta mba'e porâ iñambuéva ohóvo Conservatorio Hilbert-pe, umíva apytépe Las mariposas son libres, El mago de Oz, Tierra de juguetes, Vuelos de fantasía.	Ouvakuéra ikatu ohecha heta mba'e porâ Conservatorio Hilbert-pe.	entailment
+14388	gn	Ouvakuéra ikatu ohecha heta mba'e porâ iñambuéva ohóvo Conservatorio Hilbert-pe, umíva apytépe Las mariposas son libres, El mago de Oz, Tierra de juguetes, Vuelos de fantasía.	Ko árape ouvakuéra ikatu ohecha West Side Story añónte Conservatorio Hilbert-pe.	contradiction
+14389	gn	Ko'âva oipe'a temimbo'ekuéra ha mbo'ehárape kuaa rape tuicháva oñeha'arô'ÿva okonvidápype ambue tapicha ha temimbo'ekuérape upe mbo'ehaovusu oîkarusúpe oî rehe upe tetâ vorépe. 	Upe mbo'ehaovusúpe jeju niko ohechauka umi temimbo'ekuérape mba'éicha hekoverâ upépe.	neutral
+14390	gn	Ko'âva oipe'a temimbo'ekuéra ha mbo'ehárape kuaa rape tuicháva oñeha'arô'ÿva okonvidápype ambue tapicha ha temimbo'ekuérape upe mbo'ehaovusu oîkarusúpe oî rehe upe tetâ vorépe. 	Temimbo'ekuérape ou porâ jeju mbo'ehaovusu okarusúpe.	entailment
+14391	gn	Ko'âva oipe'a temimbo'ekuéra ha mbo'ehárape kuaa rape tuicháva oñeha'arô'ÿva okonvidápype ambue tapicha ha temimbo'ekuérape upe mbo'ehaovusu oîkarusúpe oî rehe upe tetâ vorépe. 	Temimbo'ekuéra nonohêi mba'eve ijeju mbo'ehaovusu okarusúpe. 	contradiction
+14392	gn	Umi Society-ygua niko ikatu ojogua imba'ereko ha ikuatiahaikuéra sa'ive rehe oîháicha ikuatia kuaukahápe ha avei iñemuhápe ojerekohápe jopoirâ oîva upe Atyha renda teete iporâitévape.	Ndaikatúi ojehepyme'ê sa'ivérehe ipypeguakuérape ikatúgui sa'ive viru oike.	contradiction
+14393	gn	Umi Society-ygua niko ikatu ojogua imba'ereko ha ikuatiahaikuéra sa'ive rehe oîháicha ikuatia kuaukahápe ha avei iñemuhápe ojerekohápe jopoirâ oîva upe Atyha renda teete iporâitévape.	Umi ipypeguakuéra ojaguáramo upe henda teetépe sa'ive ohepyme'ê	entailment
+14394	gn	Umi Society-ygua niko ikatu ojogua imba'ereko ha ikuatiahaikuéra sa'ive rehe oîháicha ikuatia kuaukahápe ha avei iñemuhápe ojerekohápe jopoirâ oîva upe Atyha renda teete iporâitévape.	Ipypeguakuéra ohepyme'ê sa'ive 25%.	neutral
+14395	gn	Ñoha'ânga  ojejapóva katupyrýpe Indiana tuichakue javeve oipytyvô añete mitânguérape ha umíva apytépe oî Becky, Stephanie, Marcus, Emily ha ambueve iñirûguéra.	Ore rembiapo ñoha'ânga rehegua oipytyvô mitânguérape opintakuaa haĝua.	neutral
+14396	gn	Ñoha'ânga  ojejapóva katupyrýpe Indiana tuichakue javeve oipytyvô añete mitânguérape ha umíva apytépe oî Becky, Stephanie, Marcus, Emily ha ambueve iñirûguéra.	Ñoha'ânga oipytyvô heta mitâme Indiana tuichakue javeve.	entailment
+14397	gn	Ñoha'ânga  ojejapóva katupyrýpe Indiana tuichakue javeve oipytyvô añete mitânguérape ha umíva apytépe oî Becky, Stephanie, Marcus, Emily ha ambueve iñirûguéra.	Iporâva'erâmo'â rojapo ñoha'ânga iporâvéva katu ko'ápe Indiana-pe nda'orevirúi hekópe upevarâ.	contradiction
+14398	gn	Opaite viru oñeme'êva mbo'ehaópe, 100% nde reme'êva ojeporúta arandu rekarâ.	Opaite viru ojaporu ojeheka arandu cáncer oñemboguevi rekávo.	neutral
+14399	gn	Opaite viru oñeme'êva mbo'ehaópe, 100% nde reme'êva ojeporúta arandu rekarâ.	Opaite viru reme'êva oho arandu rekarâ.	entailment
+14400	gn	Opaite viru oñeme'êva mbo'ehaópe, 100% nde reme'êva ojeporúta arandu rekarâ.	Nde reme'êvagui mbytete rupi roiporu ñesâmbyhýpe. 	contradiction
+14401	gn	Oñesêvo upe ñoha'ânga kotýgui umi IRT ñoha'ângahára oike mbo'êhakotýpe omba'apo mitânguéra ndive, ha oguerike chupekuéra aĝuivégui upe oha'ânga rekópe.	Umi IRT ñoha'ângahára ndojapói mba'eve mitânguéra ndive, ha upeva rendaguépe omba'apo umi tapicha kakuaa ndive.	contradiction
+14402	gn	Oñesêvo upe ñoha'ânga kotýgui umi IRT ñoha'ângahára oike mbo'êhakotýpe omba'apo mitânguéra ndive, ha oguerike chupekuéra aĝuivégui upe oha'ânga rekópe.	Umi IRT ñoha'ângahára omba'apo mitânguéra ndive mbo'ehaópe.	entailment
+14403	gn	Oñesêvo upe ñoha'ânga kotýgui umi IRT ñoha'ângahára oike mbo'êhakotýpe omba'apo mitânguéra ndive, ha oguerike chupekuéra aĝuivégui upe oha'ânga rekópe.	Umi IRT ñoha'ângahára oipytyvô mitânguérape ojapóvo hembiapo teee.	neutral
+14404	gn	Ohepyme'ê oñeñangareko, oñemongaru ha oñembohóga haĝua hetaiterei mymba ha ka'avo upe mymba rendápe.	Ohepyme'ê oñeñangareko haĝua mymba rehe upe oñeñongatuhápe. 	contradiction
+14405	gn	Ohepyme'ê oñeñangareko, oñemongaru ha oñembohóga haĝua hetaiterei mymba ha ka'avo upe mymba rendápe.	Kóva ou porâ umi mymba oîva upépe. 	entailment
+14406	gn	Ohepyme'ê oñeñangareko, oñemongaru ha oñembohóga haĝua hetaiterei mymba ha ka'avo upe mymba rendápe.	Umi mymba oìva upe tendápe ohupyty 100$ peteì arýpe oñeñangareko ha oñemongaru haĝua.	neutral
+14407	gn	Oiméramo remoĝuahêse ne mba'eporandu, térâ ne remimo'â ikatu rehenói ko árape 924-5471-pe térâkatu rehenói Bob Lovell-pe ipapapy 274-0622-pe	Bov Lovell ikatu ombohovái pene mba'eporandu.	entailment
+14408	gn	Oiméramo remoĝuahêse ne mba'eporandu, térâ ne remimo'â ikatu rehenói ko árape 924-5471-pe térâkatu rehenói Bob Lovell-pe ipapapy 274-0622-pe	Bov Lovell ndoikéi kóvape.	contradiction
+14409	gn	Oiméramo remoĝuahêse ne mba'eporandu, térâ ne remimo'â ikatu rehenói ko árape 924-5471-pe térâkatu rehenói Bob Lovell-pe ipapapy 274-0622-pe	Bov Lovell oikéta omba'apo ambue arýpe.	neutral
+14410	gn	Ko Atyha rembiapo apytépe oî upe oñatendévo komunida remikotevê ombokatupyrývo umi tapicha omyakâva hekohápe upe mba'erayhu ani haĝua oso.	ko Atyha añetehápe oipytyvôse komunidápe.	entailment
+14411	gn	Ko Atyha rembiapo apytépe oî upe oñatendévo komunida remikotevê ombokatupyrývo umi tapicha omyakâva hekohápe upe mba'erayhu ani haĝua oso.	ko Atyha oipytyvô ambue hendapeguánte.	contradiction
+14412	gn	Ko Atyha rembiapo apytépe oî upe oñatendévo komunida remikotevê ombokatupyrývo umi tapicha omyakâva hekohápe upe mba'erayhu ani haĝua oso.	Ko Atyha oipytyvôse komunidaygua imboriahúvape.	neutral
+14413	gn	Heta mba'e hechapyrâ oî Indiapolis-pe, jepe ndaipóri iporâvéva upe teatro civico-gui.	Upe Teatro Cívico opyta Indiapolis mbytetépe.	neutral
+14414	gn	Heta mba'e hechapyrâ oî Indiapolis-pe, jepe ndaipóri iporâvéva upe teatro civico-gui.	Upe Teatro Cívico opyta Indiapolis-pe.	entailment
+14415	gn	Heta mba'e hechapyrâ oî Indiapolis-pe, jepe ndaipóri iporâvéva upe teatro civico-gui.	Upe Teatro Cívico opyta Tampa-pe.	contradiction
+14416	gn	Nde réra térâ ambue mba'e nde reipotáva oñemboguapýta kuatiápe techaukarâme.	Upe kuatia techaukarâ nomoîri téra térâ ambue mba'e.	contradiction
+14417	gn	Nde réra térâ ambue mba'e nde reipotáva oñemboguapýta kuatiápe techaukarâme.	Ne marandu oñemboguapýuta kuatia techaukarâme reme'êramo 100 $ ári.	neutral
+14418	gn	Nde réra térâ ambue mba'e nde reipotáva oñemboguapýta kuatiápe techaukarâme.	Upe kuatia techaukarâme oñemoîta nde réra térâkatu ne marandu.	entailment
+14419	gn	…arai ryjúi morotîsakâva upe ára hovýpe.	Áraniko hesakâ ha hovy, ijarai ápe ha pépe.	entailment
+14420	gn	…arai ryjúi morotîsakâva upe ára hovýpe.	Áraniko hesakâ ha hovy asy, ndaijarairietevoi.	contradiction
+14421	gn	…arai ryjúi morotîsakâva upe ára hovýpe.	Kuarahy okañy arai tapiti raviju kupépe. 	neutral
+14422	gn	Joaju neporâva nilko oî ko'êko'êre oî rupi upe Aty Joajurâ ñepytyvô.	Upe Aty Joajurâ oipytyvô ojoaju haĝua tapichakuéra.	entailment
+14423	gn	Joaju neporâva nilko oî ko'êko'êre oî rupi upe Aty Joajurâ ñepytyvô.	Upe Aty Joajurâ niko nomongu'éi tapichakuéra ndive.	contradiction
+14424	gn	Joaju neporâva nilko oî ko'êko'êre oî rupi upe Aty Joajurâ ñepytyvô.	Upe Aty Joajurâ oipytyvô tapichakuéra ojojuhu haĝua ha avei oipy'ara'â haĝua mba'e porâguéra.	neutral
+14425	gn	P. S. ko Viru oñeme'êva IMA-pe niko navida rehegua jopói neporâva.	Viru térâ oimeraê oñeme'êva máva rérape niko naiporâi âichagua viru ñemono'ôme.	contradiction
+14426	gn	P. S. ko Viru oñeme'êva IMA-pe niko navida rehegua jopói neporâva.	Viru térâ oimeraê oñeme'êva máva rérape niko jopói vy'arâ.	entailment
+14427	gn	P. S. ko Viru oñeme'êva IMA-pe niko navida rehegua jopói neporâva.	Reikuaava'erâ reme'êkuaaha nde viru jopoirâ reipota vovénte, natekotevêi katuete pytu'u ára javente.	neutral
+14428	gn	Mba'epyahu, ñaikotevêtémava, niko ñanembopya'e upe ára rendýicha.	Mba'epyahúniko ombohetave marandu ñemono'ô pya'eteve, ymave ni nañaimo'âiva.	neutral
+14429	gn	Mba'epyahu, ñaikotevêtémava, niko ñanembopya'e upe ára rendýicha.	Mba'epyahuniko ñanembopya'e.	entailment
+14430	gn	Mba'epyahu, ñaikotevêtémava, niko ñanembopya'e upe ára rendýicha.	Mba'epyahu ndojapói mba'eveguasu ñanderehe.	contradiction
+14431	gn	Umi tapicah osêva Mbo'ehao oñembokatupyryhápe mo'âhararâ ikatupyry añete tekotevêháicha hembiaporâme ha oikuaa pypuku leikuéra rehegua.	IU-pegua mbo'ehao mo'âhára oñembokatupyryha oreko 1000 temimbo'e.	neutral
+14432	gn	Umi tapicah osêva Mbo'ehao oñembokatupyryhápe mo'âhararâ ikatupyry añete tekotevêháicha hembiaporâme ha oikuaa pypuku leikuéra rehegua.	Mbo'ehao upéva ombokatupyry mo'âhararâme..	entailment
+14433	gn	Umi tapicah osêva Mbo'ehao oñembokatupyryhápe mo'âhararâ ikatupyry añete tekotevêháicha hembiaporâme ha oikuaa pypuku leikuéra rehegua.	IU-pegua mbo'ehao mo'âhára oñemboty ymaiterei.	contradiction
+14434	gn	Upe Teatro Cívico Indianapolis-gua oporombovy'a ñoha'ânga ha purahéi  porâme ojajapóva katupyrýpe 82 ro'y pukukue. Upéichante avei ombokatu tapicha ikatupyry añetévape ñande távape, jepe ndaijapái opavavéva.	Upe Teatro Civic Indiapolis-gua ojapo heta tembiapo neporâva 80 ary pukukue.	entailment
+14435	gn	Upe Teatro Cívico Indianapolis-gua oporombovy'a ñoha'ânga ha purahéi  porâme ojajapóva katupyrýpe 82 ro'y pukukue. Upéichante avei ombokatu tapicha ikatupyry añetévape ñande távape, jepe ndaijapái opavavéva.	Upe Teatro Cívico Indianapolis-gua ojapo 120 tembiapo techaukarâ 80 ro'ýpe.	neutral
+14436	gn	Upe Teatro Cívico Indianapolis-gua oporombovy'a ñoha'ânga ha purahéi  porâme ojajapóva katupyrýpe 82 ro'y pukukue. Upéichante avei ombokatu tapicha ikatupyry añetévape ñande távape, jepe ndaijapái opavavéva.	Upe Teatro Cívico omba'apo mokôi arýnte.	contradiction
+14437	gn	Kóva ha ambue ary Mbo'ehao oñembokatupyryhápe ñoha'ângahararâ ijejopyva'erâ upe viru oñekytîva ichugui oipe'águi Estado ha avei hepyvégui opamba'e ipotîreko rehegua, upéva ohupyty amo 400000 $ rupi.	Upe mo'âhára aty oñorairôva'erâ oñekytî rupi iviru porupyrâ.	entailment
+14438	gn	Kóva ha ambue ary Mbo'ehao oñembokatupyryhápe ñoha'ângahararâ ijejopyva'erâ upe viru oñekytîva ichugui oipe'águi Estado ha avei hepyvégui opamba'e ipotîreko rehegua, upéva ohupyty amo 400000 $ rupi.	Mbo'ehao mo'âhára oñembokatupyryha ohupyty 1 millón de dólares hetave jepiveguágui.	contradiction
+14439	gn	Kóva ha ambue ary Mbo'ehao oñembokatupyryhápe ñoha'ângahararâ ijejopyva'erâ upe viru oñekytîva ichugui oipe'águi Estado ha avei hepyvégui opamba'e ipotîreko rehegua, upéva ohupyty amo 400000 $ rupi.	Mbo'ehao mo'âhára oñembokatupyryhaperaêvete ohupyty upe viru porupyrâ ñekytî.	neutral
+14440	gn	Hi'arive ha'e oguerovy'a oikuaaha iñirûnguérape oñemokyre'ÿ oha'â haĝua ha'éicha iñakâguapyporâ.	Oje'e opavavépe anitei oha'â chupe iñakâtarovaiterei rupi.	contradiction
+14441	gn	Hi'arive ha'e oguerovy'a oikuaaha iñirûnguérape oñemokyre'ÿ oha'â haĝua ha'éicha iñakâguapyporâ.	Ne irûnguéra ovy'arasa oha'âvo ndéicha iñakâguapyporâ.	neutral
+14442	gn	Hi'arive ha'e oguerovy'a oikuaaha iñirûnguérape oñemokyre'ÿ oha'â haĝua ha'éicha iñakâguapyporâ.	Ojejerure iñirûnguérape tove toguata ha'éicha, akâguapyporâme.	entailment

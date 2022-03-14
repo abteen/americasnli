@@ -1,0 +1,751 @@
+id	language	premise	hypothesis	label
+25051	cni	Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.	Tee noñatajeriji.	contradiction
+25052	cni	Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.	Ikisanaka iroosati noñaatanatantajari.	entailment
+25053	cni	Kameetsa, tee nokenkeshireajeroji, iro kantaincha tee nomateroji aisati nintajaro noñanatajiri iroakera.	Nokenketsajeitake.	neutral
+25054	cni	Nokenkeshireabetaka, aisati okanteani, okantaiteani, naro aparonitatsiri 992 Ex-O nosabikake kantakotanari AFFC ashi Fuerza Aérea.	Tee niobeiteaji kaari aparonitatsiri atiri aranki kitaiteriki.	neutral
+25055	cni	Nokenkeshireabetaka, aisati okanteani, okantaiteani, naro aparonitatsiri 992 Ex-O nosabikake kantakotanari AFFC ashi Fuerza Aérea.	Nojitakanti iritake apaniro ñaakarontsitakarori antaberentsiki AFFC Air Force Career oshintsine tampea.	entailment
+25056	cni	Nokenkeshireabetaka, aisati okanteani, okantaiteani, naro aparonitatsiri 992 Ex-O nosabikake kantakotanari AFFC ashi Fuerza Aérea.	Maaroni ipajeitakenaro iroori ñaakarontsi, tekatsi ojitasanotanakea ikantayeetakenari, maaroni irointi tseyantsi.	contradiction
+25057	cni	Ikantetakena oka... aparo kajemenane noñaabakanteari.	Tekatsi ikantetena niyoteri.	contradiction
+25058	cni	Ikantetakena oka... aparo kajemenane noñaabakanteari.	Ikantetakena ikajemakantena aparo atiri iyotenane.	entailment
+25059	cni	Ikantetakena oka... aparo kajemenane noñaabakanteari.	Iyotenane ikonijatake ishabiniji.	neutral
+25060	cni	Osheki ikantetakoterori oka, omatea nomitajero oka.	¡Nokoi nokenketsatimotempiro maaroni kantakotirori ora!	contradiction
+25061	cni	Osheki ikantetakoterori oka, omatea nomitajero oka.	Eiro noñaanatakotajirotsi oka, omabetakea timatsi osheki amanakoteri.	entailment
+25062	cni	Osheki ikantetakoterori oka, omatea nomitajero oka.	Eiro noñaanatakotajirotsi okantakota ora kenketsatakorentsi ashi nampitsi tempa timatsi osheki ankanter.	neutral
+25063	cni	Irootake koasanotachari akoajeitiri abisakotaje, tee añeeroji otsipa ajokantearori kepiarijenkari nija opoñaanakea 30, un C124.	Tee opokimotanajee akempoyaayetanajero.	contradiction
+25064	cni	Irootake koasanotachari akoajeitiri abisakotaje, tee añeeroji otsipa ajokantearori kepiarijenkari nija opoñaanakea 30, un C124.	Akoajeiti ababisakotajero paitarika timatsiri kaarikea otsipa.	entailment
+25065	cni	Irootake koasanotachari akoajeitiri abisakotaje, tee añeeroji otsipa ajokantearori kepiarijenkari nija opoñaanakea 30, un C124.	Akoajeiti ababisakotajero bomba nija tempakea opomerentsitasanota antakotantearori.	neutral
+25066	cni	Tee okonijamotenaji kameetsa tempakea.	Irootake nokenkeshireantakarori timatsineri.	contradiction
+25067	cni	Tee okonijamotenaji kameetsa tempakea.	Tee niyoteji paita ipantajarori obametantsipankopee.	neutral
+25068	cni	Tee okonijamotenaji kameetsa tempakea.	Tee niyoteji paita otimantakari oka.	entailment
+25069	cni	Oka oni Fannie Flono. Okimotake Ag-- Augusta, GA, aisati oñaanatakotea aparopeeni kenketsatakorentsi ashi orijanikitantapaari.	Fannie Flono otimatie napiitakotajero aisati eiro omata akenketsatakotero apaitapeerika kenketsatakorentsi meeka.	contradiction
+25070	cni	Oka oni Fannie Flono. Okimotake Ag-- Augusta, GA, aisati oñaanatakotea aparopeeni kenketsatakorentsi ashi orijanikitantapaari.	Fannie Flono jerokatake aka ari oñaanatakotero okantakota oyenketsatakore ashi orijanitantapaari otimotantanakari Augustaki,AG.	entailment
+25071	cni	Oka oni Fannie Flono. Okimotake Ag-- Augusta, GA, aisati oñaanatakotea aparopeeni kenketsatakorentsi ashi orijanikitantapaari.	Fannie Flono omatiro oñaanatakotero meeka omabetakea timatsi antayeteri.	neutral
+25072	cni	Aisati obetsikake koni soraaropanko ashi U2.	Nokantakero ora U2.	entailment
+25073	cni	Aisati obetsikake koni soraaropanko ashi U2.	Tee nojibaterini anta U2 omateaji.	contradiction
+25074	cni	Aisati obetsikake koni soraaropanko ashi U2.	Nantabeetake soraaropankoki ashi U2 maaroni kitaiteriki okarate otsitsa osarentsi.	neutral
+25075	cni	Naro apaniro nantayetakero aparopeeni ora amanakoyetirori ashi ñaantamentsotsi ashi shiakamentotsipee ojenokiti orijani.	Tee onimoshirenaji apaniro nantero ora manankobentirori ashi ñaantamentsotsipee.	neutral
+25076	cni	Naro apaniro nantayetakero aparopeeni ora amanakoyetirori ashi ñaantamentsotsi ashi shiakamentotsipee ojenokiti orijani.	Ora ñaantamentotsipee antajeitaka anta shiakamentotsiki jenoki orijanikiki.	entailment
+25077	cni	Naro apaniro nantayetakero aparopeeni ora amanakoyetirori ashi ñaantamentsotsi ashi shiakamentotsipee ojenokiti orijani.	Otimake aparopeeniki aroriki ajibajeitakero amanakobentiroripee ashi ñaantamentotsi.	contradiction
+25078	cni	Narotake, yoka, sarijento pinkatsari obamentinkari, makoreantsiri, ikantiri Rick.	Irosatitatsi nantabeeti oka kitaiteriki.	contradiction
+25079	cni	Narotake, yoka, sarijento pinkatsari obamentinkari, makoreantsiri, ikantiri Rick.	Noshitoanaji 2002.	neutral
+25080	cni	Narotake, yoka, sarijento pinkatsari obamentinkari, makoreantsiri, ikantiri Rick.	Rick ikantimpi shitobanajana.	entailment
+25081	cni	Timatsi aparopeeni antayetachaneripee ashi otimantari aisati, uh, eh, irointi ashi aisati janikarika Cutty, ibajiro irashi ayompariteari.	Yora ayompariteari ipajita Cutty ikaanata $ 10000 kashiriki.	neutral
+25082	cni	Timatsi aparopeeni antayetachaneripee ashi otimantari aisati, uh, eh, irointi ashi aisati janikarika Cutty, ibajiro irashi ayompariteari.	Timatsi ayompariteari pajitachari Cutty.	entailment
+25083	cni	Timatsi aparopeeni antayetachaneripee ashi otimantari aisati, uh, eh, irointi ashi aisati janikarika Cutty, ibajiro irashi ayompariteari.	Tee itimajeite ayompariteari pajitachari Cutty.	contradiction
+25084	cni	Ora tsinane amitakotenaneri osaiki otsipaki anta nampitsi.	Ora tsinane nokoiri amitakotena osaiki arejiki.	entailment
+25085	cni	Ora tsinane amitakotenaneri osaiki otsipaki anta nampitsi.	Ora jananeki amitakotenaneri otimi 5 millas oparikotiti.	neutral
+25086	cni	Ora tsinane amitakotenaneri osaiki otsipaki anta nampitsi.	Tekatsi amterone amitakotenane.	contradiction
+25087	cni	Iriorijei itsipareabakaajeitanaka kempejitatsiri iriotake irakopee antabeetinkari iriojeitake jananekipee ashi pankotsi, okempetakaro…	Maaroni yakabakaajeitaka yantabejeite maaroni anta obantsiki.	contradiction
+25088	cni	Iriorijei itsipareabakaajeitanaka kempejitatsiri iriotake irakopee antabeetinkari iriojeitake jananekipee ashi pankotsi, okempetakaro…	Tee imateroji yakabakaajeitea okantakota irako irashi antabetinkari iroitake saikatsiri pankotsiki.	entailment
+25089	cni	Iriorijei itsipareabakaajeitanaka kempejitatsiri iriotake irakopee antabeetinkari iriojeitake jananekipee ashi pankotsi, okempetakaro…	Tee imateroji yakabakaajeitea jaanikarika antabetatsineri obantsiki ashi empeji aisati janikarika amashiteroneri piisopee.	neutral
+25090	cni	Meeka noñaanatero okantakota ora mabatatsiri SS, ora U2 Quick jeri yora Blackbird.	Irori tee ikoanaje iñaanantanaje.	contradiction
+25091	cni	Meeka noñaanatero okantakota ora mabatatsiri SS, ora U2 Quick jeri yora Blackbird.	Iñaantakotiro maba kiajamentotsi pashinitatsiri.	neutral
+25092	cni	Meeka noñaanatero okantakota ora mabatatsiri SS, ora U2 Quick jeri yora Blackbird.	Iñaanatakotiro maba konijayetatsiri.	entailment
+25093	cni	Nokoi nokante irioripee otiomimotirini, okempetaroni, koni tomitsi. Aparo kamaintsiri.	Maaroni itomipee itimajeitanake.	contradiction
+25094	cni	Nokoi nokante irioripee otiomimotirini, okempetaroni, koni tomitsi. Aparo kamaintsiri.	Aparoni jananeki ikamake koni irosarentsite.	entailment
+25095	cni	Nokoi nokante irioripee otiomimotirini, okempetaroni, koni tomitsi. Aparo kamaintsiri.	Yora jananeki kamaintsiri yamashibeta itimantakari.	neutral
+25096	cni	Keariotake, Androv Gromikov tee yakejeiteriji, iro otimimotirirni kamantatsi ashi shiakabentantsi antainchari yoraki U2.	Ora U2 ajeitake osheki shiakabentantsi.	entailment
+25097	cni	Keariotake, Androv Gromikov tee yakejeiteriji, iro otimimotirirni kamantatsi ashi shiakabentantsi antainchari yoraki U2.	Ora U2 ajeitake aparo tonerara ashi shiakabentantsi asaabiki nija.	neutral
+25098	cni	Keariotake, Androv Gromikov tee yakejeiteriji, iro otimimotirirni kamantatsi ashi shiakabentantsi antainchari yoraki U2.	Tee otimimojeiteji antantearori timaarantatsiri, otimatiye ayotashitajearo.	contradiction
+25099	cni	Ikanti oparianake ijaki irokipeeki, impoiji Joe ijatake iroasati porcheki.	Ikantantakariri pataite porcheki, otimi ijakipee irokiki.	entailment
+25100	cni	Ikanti oparianake ijaki irokipeeki, impoiji Joe ijatake iroasati porcheki.	Iroori opirijatantajaro intsipaite ojaki impoiji yojokantakari Joe nikoji porcheki.	contradiction
+25101	cni	Ikanti oparianake ijaki irokipeeki, impoiji Joe ijatake iroasati porcheki.	Ikimoshiretake iñaakeri Joe iraanaka.	neutral
+25102	cni	Iro ora kenamentotsi taanaka, ¿paitakea otantanakari aisati ishinereanake teempakea otimi poromo opeanteari katsirinkariki?	Ora opeanteari katsirinkarijenka aitake otimiri ariorika otime tayetantsi.	neutral
+25103	cni	Iro ora kenamentotsi taanaka, ¿paitakea otantanakari aisati ishinereanake teempakea otimi poromo opeanteari katsirinkariki?	Ora opeateari katsirinkajenkari oshitoayeti karayetirori koasanotachari impoiji ariorika otaya aparo arakomentotsi.	entailment
+25104	cni	Iro ora kenamentotsi taanaka, ¿paitakea otantanakari aisati ishinereanake teempakea otimi poromo opeanteari katsirinkariki?	Ora opeanteari katsirinkajenkari tee oshitaojenkate ariroika otime aparo tantsi.	contradiction
+25105	cni	Yoka iriortake sarijento pinkatsari ibametinkari Clem Francis, shitobanaintsiri anta oshintsitinta isoraromentoki estadounidenses.	Yora pinkatsari shitobanaintsiri Fuerza Aérea irashi Estados Unidos.	entailment
+25106	cni	Yoka iriortake sarijento pinkatsari ibametinkari Clem Francis, shitobanaintsiri anta oshintsitinta isoraromentoki estadounidenses.	Yora pinkatsari irobakera ishitobanake oka tsonkitai.	neutral
+25107	cni	Yoka iriortake sarijento pinkatsari ibametinkari Clem Francis, shitobanaintsiri anta oshintsitinta isoraromentoki estadounidenses.	Yora pinkatsari Fuerza Aérea irashi Estados Unidos irobakera intaro obametantsi oka tsonkitai.	contradiction
+25108	cni	Kameetsa, yareetaka otimi apite o maba kenamentotsi areatea oka tsonkitai tee niyoteji jaoka arajeiterini.	Aparo arakomentotsi aretea aparoniki tsonkitai.	entailment
+25109	cni	Kameetsa, yareetaka otimi apite o maba kenamentotsi areatea oka tsonkitai tee niyoteji jaoka arajeiterini.	Oshekianake arakomentotsipee arayeti irointi pomerentsitantsi.	neutral
+25110	cni	Kameetsa, yareetaka otimi apite o maba kenamentotsi areatea oka tsonkitai tee niyoteji jaoka arajeiterini.	Tee aretajeaji katsini aparopenin arakomentotsi.	contradiction
+25111	cni	Iriojeitake iñantajeitakaro ora traje persurizados aisati opinamotakena osheki kitaiteri noyaaro ora traje pressurizados.	Osamanitake maba kashiri omonkaratanteari ñaantamentotsi ikitsatantearori ora traje ashi shintsitatsiri.	neutral
+25112	cni	Iriojeitake iñantajeitakaro ora traje persurizados aisati opinamotakena osheki kitaiteri noyaaro ora traje pressurizados.	Ora ñaantamentotsi antantearori ora traje ashi shintsitatsiri okoitea kitaiteri.	entailment
+25113	cni	Iriojeitake iñantajeitakaro ora traje persurizados aisati opinamotakena osheki kitaiteri noyaaro ora traje pressurizados.	Ari omatakea añantearo ora traje ashi shintsitatsiri omonkaratea otsonkanteari kitaiteri.	contradiction
+25114	cni	Nokoi nokante tee ontimeji kobenkatatsiri ashi kepiarijenkari tempakea eiro otonkitsi kisoitake kipatsi nantakeri.	Ora kepiarijenkari itsibakajiro yora antakotirori arakomentotsi.	neutral
+25115	cni	Nokoi nokante tee ontimeji kobenkatatsiri ashi kepiarijenkari tempakea eiro otonkitsi kisoitake kipatsi nantakeri.	Ora kepiarijenkari tee otimeji otonkanteari.	entailment
+25116	cni	Nokoi nokante tee ontimeji kobenkatatsiri ashi kepiarijenkari tempakea eiro otonkitsi kisoitake kipatsi nantakeri.	Otimabetaka aparo kobenkatatsiri otonkantearime kepiarijenkari.	contradiction
+25117	cni	Jaoka okanteari okemeteari okarati nantemeri.	Te niyotasanote jaoka okantimotimpi oka.	contradiction
+25118	cni	Jaoka okanteari okemeteari okarati nantemeri.	Mataka, nomatanentakero nantero.	entailment
+25119	cni	Jaoka okanteari okemeteari okarati nantemeri.	Nantanatiro notsonkantearori nantabeere otsipaniki tsonkitai.	neutral
+25120	cni	Iro omonkarata, yora pirantsipee ari ipeajeitanakea maaroniki kitaiteri, kemperi kaabira.	Yora kaabirapee ishiajeitanaka itantoki maaroni kitateripeeki.	neutral
+25121	cni	Iro omonkarata, yora pirantsipee ari ipeajeitanakea maaroniki kitaiteri, kemperi kaabira.	Yora kaabirapee ishiajeitanaka kapichajitatsiri.	entailment
+25122	cni	Iro omonkarata, yora pirantsipee ari ipeajeitanakea maaroniki kitaiteri, kemperi kaabira.	Yora kaabirapee isaikajeitanake aisati yabisakojeitake.	contradiction
+25123	cni	Akeiajeitake, ora ashitakorontsi ashijeitaka.	Maaroni ashitakorontsi ashitareajeitaka.	contradiction
+25124	cni	Akeiajeitake, ora ashitakorontsi ashijeitaka.	Atimajeitiro ora ashitareamentotsipee.	neutral
+25125	cni	Akeiajeitake, ora ashitakorontsi ashijeitaka.	Akiajeitake ayobetaka ashijeitaka ashitakorontsipee.	entailment
+25126	cni	Akoyajeitakero apatiro timajeitatsiri aisati añaantakaro abetsikajero.	Nokantajeiti ora timajeitatsiri iroojeitake nokoajeitiri nobetsikanteariori oka.	neutral
+25127	cni	Akoyajeitakero apatiro timajeitatsiri aisati añaantakaro abetsikajero.	Tee otimimotenaji kenkeshireantsi paita anteri ikarati timajeitatsiri. Pipeakotakayenaro, pipena kenkeshireantsi nobetsikantajearori oka entuerto.	contradiction
+25128	cni	Akoyajeitakero apatiro timajeitatsiri aisati añaantakaro abetsikajero.	Ari nomonkaratakero noijatanakeri timajeitatsiripee.	entailment
+25129	cni	Ipokake, yashitareakero ashitakorontsi aisati nokenkeshireanaka nameni itapiiki noñaantakarori iboro, kempetaka inanintashireetakeri.	Nokimoshiretake aisati ojaakena kimoshiretantsi noposapaakero ootikaakotari ashitakorontsi.	contradiction
+25130	cni	Ipokake, yashitareakero ashitakorontsi aisati nokenkeshireanaka nameni itapiiki noñaantakarori iboro, kempetaka inanintashireetakeri.	Nokoabetaka eiro iyoyetaname nantakeri, iro niyojeitake narojeitake antakerori pomerentsitantsi.	neutral
+25131	cni	Ipokake, yashitareakero ashitakorontsi aisati nokenkeshireanaka nameni itapiiki noñaantakarori iboro, kempetaka inanintashireetakeri.	Apatiro namenakero iboro ikiantapaakariashitakorontsiki nojitake imaninteetakeri.	entailment
+25132	cni	Opoña, tee aneroji kenketsatakorentsi konijaperori.	Tee otimimotenaji aparo nobaararo nashiteari.	entailment
+25133	cni	Opoña, tee aneroji kenketsatakorentsi konijaperori.	Timatsi nobaararo konijaperori.	contradiction
+25134	cni	Opoña, tee aneroji kenketsatakorentsi konijaperori.	Timatsi osheki obararontsipee.	neutral
+25135	cni	Iriori tee katsini otimimoteri yanteri irioriki.	Iriori yai osheki amitakotantsi.	entailment
+25136	cni	Iriori tee katsini otimimoteri yanteri irioriki.	Iriori yai amitakotantsi yobanteari aisati iitsare.	neutral
+25137	cni	Iriori tee katsini otimimoteri yanteri irioriki.	Iriori ini apanirotinkari.	contradiction
+25138	cni	Nojitake nokenkeshireabeta, Tasorentsi nashi, aisati Ramona isaikaiti ara.	Ramona osaikake kipatsiki okirotaka okemetari irijanitatsiri.	contradiction
+25139	cni	Nojitake nokenkeshireabeta, Tasorentsi nashi, aisati Ramona isaikaiti ara.	Ramona okantimatakena nomareretira.	neutral
+25140	cni	Nojitake nokenkeshireabeta, Tasorentsi nashi, aisati Ramona isaikaiti ara.	Ramona oibotanaka nosaikaiti napankaiti nobante.	entailment
+25141	cni	¡Aisati keariotatsiri irointi intsipate!	Obaka osheki obanarontsi, tee otenateji.	neutral
+25142	cni	¡Aisati keariotatsiri irointi intsipate!	Iroori tee abisheni osheki.	entailment
+25143	cni	¡Aisati keariotatsiri irointi intsipate!	Iroori okimoshiretasanotake.	contradiction
+25144	cni	Tee niyoteji osaikanakerika Augustaki impoijirika oka.	Iriori irosati itimi Augustaki otimanakari impoijini antabakantsipee.	neutral
+25145	cni	Tee niyoteji osaikanakerika Augustaki impoijirika oka.	Iriori irosatitatsi itimi Augustaki.	entailment
+25146	cni	Tee niyoteji osaikanakerika Augustaki impoijirika oka.	Ishitoanaji nikoji Augustaki intsipaite.	contradiction
+25147	cni	Maaroni okarati antajeitakeri...tekatsi kanteneni jaoka ajajeiteri, aisati jaoka ashitoajeiteri antiamjeitinta ajatanteari otsipaki nampitsi isaikanteari kitaiteriki.	Tekatsi katsini nosampiteri jaoka ijajeiteri.	neutral
+25148	cni	Maaroni okarati antajeitakeri...tekatsi kanteneni jaoka ajajeiteri, aisati jaoka ashitoajeiteri antiamjeitinta ajatanteari otsipaki nampitsi isaikanteari kitaiteriki.	Ikantani iyotakaajeite jaoka isaikajeitiri aisati jaoka ijajeiteri.	contradiction
+25149	cni	Maaroni okarati antajeitakeri...tekatsi kanteneni jaoka ajajeiteri, aisati jaoka ashitoajeiteri antiamjeitinta ajatanteari otsipaki nampitsi isaikanteari kitaiteriki.	Teakatsi katsini ikantajeite jaoka ijajeiteri.	entailment
+25150	cni	Ikantajeiti: apainajeitakero aparo nampitsi pisaikajeitanteari.	Eiro pipinabentajeitanantsi narorijei.	contradiction
+25151	cni	Ikantajeiti: apainajeitakero aparo nampitsi pisaikajeitanteari.	Ipinabentajeitanaro ora pankotsi nashi jero irashi noreentipee.	neutral
+25152	cni	Ikantajeiti: apainajeitakero aparo nampitsi pisaikajeitanteari.	Ipinabentajeitiro ora pankotsi.	entailment
+25153	cni	Kameetsa, otsipaki kitaiteri, keariori, yora pinkatsari Kennedy, mm..., itikaakero Cuba aisati, mmm..., akenamentopee yaabake aparo kenamentotsi ruso jatatsinemeri nikoji Cuba aisati iñaajeitapakero ora misiles.	Kennedy ikantajeitakeri asorarotepee yamenayete misiles.	entailment
+25154	cni	Kameetsa, otsipaki kitaiteri, keariori, yora pinkatsari Kennedy, mm..., itikaakero Cuba aisati, mmm..., akenamentopee yaabake aparo kenamentotsi ruso jatatsinemeri nikoji Cuba aisati iñaajeitapakero ora misiles.	Tee okatiyajeiteji kenamentotsi teempakea teeokoajeiteji antabakantsi.	contradiction
+25155	cni	Kameetsa, otsipaki kitaiteri, keariori, yora pinkatsari Kennedy, mm..., itikaakero Cuba aisati, mmm..., akenamentopee yaabake aparo kenamentotsi ruso jatatsinemeri nikoji Cuba aisati iñaajeitapakero ora misiles.	Iñaajeitapake 20 misiles kenamentotsiki.	neutral
+25156	cni	Paitarika timatsineri, yora shirampari ikie.	Yora shirampari ikiapaake pinkatsaritsipankoki.	neutral
+25157	cni	Paitarika timatsineri, yora shirampari ikie.	Yora shirampari ikiapaake tantorentsiki.	entailment
+25158	cni	Paitarika timatsineri, yora shirampari ikie.	Yoran shirampari ishianaka otsapinampiki omontsantari.	contradiction
+25159	cni	Mmm..., nocharinepee ikantani ikameetsati yatiriti aisati apropeeni otimimotiri niripee aisati ababisajeitiro anta ishaabiji.	Yaanakena osheki kitaiteripeeirosati ibankoki chainepee.	neutral
+25160	cni	Mmm..., nocharinepee ikantani ikameetsati yatiriti aisati apropeeni otimimotiri niripee aisati ababisajeitiro anta ishaabiji.	Nochainepee iriintini tsipabakaachari kameetsari.	entailment
+25161	cni	Mmm..., nocharinepee ikantani ikameetsati yatiriti aisati apropeeni otimimotiri niripee aisati ababisajeitiro anta ishaabiji.	Nochainepee ikantani iriorijei ishemashireanta tee onimotena nareateari ibankoki.	contradiction
+25162	cni	Tee otimimotena kitaiteri nantantearori maaroni timayetatsiri paitapeerika.	Ari nomatakero notsonkero noiminkiyero ishaabiniji.	neutral
+25163	cni	Tee otimimotena kitaiteri nantantearori maaroni timayetatsiri paitapeerika.	Nominkiakero maaroni kitateriki.	contradiction
+25164	cni	Tee otimimotena kitaiteri nantantearori maaroni timayetatsiri paitapeerika.	Nosaikanake tekatsi noitaiterite noiminkiantearori maaroni.	entailment
+25165	cni	Ora aparoni nantabeerepee nonijairi atiripee yobantearori pariamentotsipee manatirori tonkamentotsi nucleares, okantakotiro ashisanori kepiarijenkari atomica.	Ora kipiarijenkari atomica tee añeroji gatillo.	contradiction
+25166	cni	Ora aparoni nantabeerepee nonijairi atiripee yobantearori pariamentotsipee manatirori tonkamentotsi nucleares, okantakotiro ashisanori kepiarijenkari atomica.	Yora kijakotirori ikijiro ora kepiarijenkari arorika yojokero iriori.	entailment
+25167	cni	Ora aparoni nantabeerepee nonijairi atiripee yobantearori pariamentotsipee manatirori tonkamentotsi nucleares, okantakotiro ashisanori kepiarijenkari atomica.	Apatiro ikoayeeti kapichaji shintsitantsi ajokantearori gatillo ashi kipiarijenkari atomi.	neutral
+25168	cni	Nosaro okenketsatakaanani osheki kenketsatakorentsi pashiniyetatsiri osarentsite orijanikitantapaakari, oñaanatakotiro oshaninkapee jaoka okantaniri osarentsiki.	Okantani okemisantiro kenketsatakorentsipee ashi nosaro.	neutral
+25169	cni	Nosaro okenketsatakaanani osheki kenketsatakorentsi pashiniyetatsiri osarentsite orijanikitantapaakari, oñaanatakotiro oshaninkapee jaoka okantaniri osarentsiki.	Nosaro okantani tee oñaanatakotero irijanikitantapaakari.	contradiction
+25170	cni	Nosaro okenketsatakaanani osheki kenketsatakorentsi pashiniyetatsiri osarentsite orijanikitantapaakari, oñaanatakotiro oshaninkapee jaoka okantaniri osarentsiki.	Nosaro okenketsatakaana osheki paitarika ashi osahninka irijanikitantapaakari.	entailment
+25171	cni	Otimini aitsarepee monkarataka ashi oshintsitiri arakomentotsi, kemetaka yaniitantari ora astronautas, irompa ashi obetsikaka, obetsikaka, bootashi aisati maaroni ashi masabirentsi, keariotake.	Aitsarepee tee okonijatimoteeji okempetantearori irashi austronautas.	contradiction
+25172	cni	Otimini aitsarepee monkarataka ashi oshintsitiri arakomentotsi, kemetaka yaniitantari ora astronautas, irompa ashi obetsikaka, obetsikaka, bootashi aisati maaroni ashi masabirentsi, keariotake.	Aitsarepee irosatitatsi irashi astronautas, irompa ashi masabirentsi, iro ashi obetsikajeitaka.	entailment
+25173	cni	Otimini aitsarepee monkarataka ashi oshintsitiri arakomentotsi, kemetaka yaniitantari ora astronautas, irompa ashi obetsikaka, obetsikaka, bootashi aisati maaroni ashi masabirentsi, keariotake.	Ari imatakea yaye kitsarentsipee paitarika potsorentsipee ikoiri.	neutral
+25174	cni	Nojatake, nosaro tee ojateji kameetsariki shirampari.	Nochaine irirnti aparo kaariperori.	entailment
+25175	cni	Nojatake, nosaro tee ojateji kameetsariki shirampari.	Nochaine iriperorini manintantatsiri aisati kaa kameetsari.	neutral
+25176	cni	Nojatake, nosaro tee ojateji kameetsariki shirampari.	¡Nochaine irintini atiri kameetsashireari piñeeri aparo koajikani!	contradiction
+25177	cni	Iriojeitake 30 o 40 arakomentotsi U2, intajeitakaro añantakari antokotinakri, chinos,britanicos iriorijei, maaroniki kipatsi akarajeitirini.	Tee otimimojeiteni abetsikajeitanteari.	contradiction
+25178	cni	Iriojeitake 30 o 40 arakomentotsi U2, intajeitakaro añantakari antokotinakri, chinos,britanicos iriorijei, maaroniki kipatsi akarajeitirini.	Añantajeita okarati 5 tsonkitai akaratiri britanicos.	neutral
+25179	cni	Iriojeitake 30 o 40 arakomentotsi U2, intajeitakaro añantakari antokotinakri, chinos,britanicos iriorijei, maaroniki kipatsi akarajeitirini.	Añantajeita akaratiri itsipa osheki soraropee.	entailment
+25180	cni	Aitake, ikantiri pamene, pamene oka aisati onta aisati oka empresa.	Iroori tee oñaanatenaji.	contradiction
+25181	cni	Aitake, ikantiri pamene, pamene oka aisati onta aisati oka empresa.	Ikantana pamene paitarika.	entailment
+25182	cni	Aitake, ikantiri pamene, pamene oka aisati onta aisati oka empresa.	Iroori okantana amenayete kamantakoyeteroneri ashi kirekitsaki.	neutral
+25183	cni	Ikanti ikenanake ijati kirinkaki.	Ikanti nokatiyayetanaka aparopeeniki abotsi.	neutral
+25184	cni	Ikanti ikenanake ijati kirinkaki.	Ikanti ikenake ijati katonko.	contradiction
+25185	cni	Ikanti ikenanake ijati kirinkaki.	Ikanti ijajeiti anta kirinkaki.	entailment
+25186	cni	Hum, no, nokantasanote, tekatsi katsini noñaanate kiribiropee okarate noñaanateri timimotanari.	Tee noñaanateji aparoni kiribiro timatsiri 100 obana.	neutral
+25187	cni	Hum, no, nokantasanote, tekatsi katsini noñaanate kiribiropee okarate noñaanateri timimotanari.	Tee noñaanateji osheki kiribiropee.	entailment
+25188	cni	Hum, no, nokantasanote, tekatsi katsini noñaanate kiribiropee okarate noñaanateri timimotanari.	Noñaanatiro kiribiropee maaroni kitaiteriki.	contradiction
+25189	cni	Nobaanaka aisati nokoyaajiro nomotire nojataji anta nokenkeshireakari nareateariki.	Nojokanakero motirentsi aisati nokenkeshireanaka kaari oni nashi pomerentsiri.	contradiction
+25190	cni	Nobaanaka aisati nokoyaajiro nomotire nojataji anta nokenkeshireakari nareateariki.	Naanajiro motirentsi anta itantoreki.	neutral
+25191	cni	Nobaanaka aisati nokoyaajiro nomotire nojataji anta nokenkeshireakari nareateariki.	Naanajiro motirentsi anta jaoka ashitaroriki.	entailment
+25192	cni	Okampiamotajana nokantayeta keariperori.	Ora ikantayetari irosati ikanta monkarataka okantapinitaka.	contradiction
+25193	cni	Okampiamotajana nokantayeta keariperori.	Abishisanake kimoshirentsi irosati obashirentsiki.	neutral
+25194	cni	Okampiamotajana nokantayeta keariperori.	Ora ikantayetari okampiatnaka osheki.	entailment
+25195	cni	Yobayee... yobayeetena nokarati 15 atiri ajatanteari obametantsipankoki, eiro nojatitsi, eiro nojatitsi.	Tee yobayeetenaji anojatanteari obametantsipankoki.	contradiction
+25196	cni	Yobayee... yobayeetena nokarati 15 atiri ajatanteari obametantsipankoki, eiro nojatitsi, eiro nojatitsi.	Yobayeetakena nojatanteari anta obametantsipankoki.	entailment
+25197	cni	Yobayee... yobayeetena nokarati 15 atiri ajatanteari obametantsipankoki, eiro nojatitsi, eiro nojatitsi.	Narobetaka yojokimetenteri koasanotachari.	neutral
+25198	cni	Otimatiye pabishero otsipasatopee konijatakomentotsi jenoki,eh, akenayete tekeratarika intenparo jero arakote U2 o arakote aitsare shintsitatsiri.	Maaroni atiripee tee imateroji ñaantamentotsipee eiro katsini yareetaro yare U2.	neutral
+25199	cni	Otimatiye pabishero otsipasatopee konijatakomentotsi jenoki,eh, akenayete tekeratarika intenparo jero arakote U2 o arakote aitsare shintsitatsiri.	Otimatiye yabishero osheki iñaantakayari tekerata yarakote U2.	entailment
+25200	cni	Otimatiye pabishero otsipasatopee konijatakomentotsi jenoki,eh, akenayete tekeratarika intenparo jero arakote U2 o arakote aitsare shintsitatsiri.	Apatiro ishineyeeteri yarakote U2 jibatatsiriki kitaiteri.	contradiction
+25201	cni	Narosati jibatakanteroneri irosatitatsiri.	Notikantearo irobakerari yantayetantearori.	contradiction
+25202	cni	Narosati jibatakanteroneri irosatitatsiri.	Notikantearo irosatitatsi konijatatsiri otsipasatoki revistas.	neutral
+25203	cni	Narosati jibatakanteroneri irosatitatsiri.	Noñaanatiro irosatitatsiri konijatatsiri irioririjei.	entailment
+25204	cni	Irotake oka jibatatsiri, abisaintsiri 75 osarentsi, pinkatsaritakori Texas yojokajieitake sorarotatsiri irio Embajador ashi Texas, onijantiro, ikoabetani embajadores ashi Texas.	Yora sorarotatsiri eiro imatirotsi ipempa embajadora ashi TX.	contradiction
+25205	cni	Irotake oka jibatatsiri, abisaintsiri 75 osarentsi, pinkatsaritakori Texas yojokajieitake sorarotatsiri irio Embajador ashi Texas, onijantiro, ikoabetani embajadores ashi Texas.	Yora sorarotatsiri ipajireakoyetakeri Embajadores ashi Texas Congreso ashi Estados Unidos.	neutral
+25206	cni	Irotake oka jibatatsiri, abisaintsiri 75 osarentsi, pinkatsaritakori Texas yojokajieitake sorarotatsiri irio Embajador ashi Texas, onijantiro, ikoabetani embajadores ashi Texas.	Yora sorarotatsiri ikajemayeetakeri Embajadores ashi TX.	entailment
+25207	cni	Aririkame otimeme yantearori ari imatakero yantero.	Naro ari nomatakero nantero paitarika.	entailment
+25208	cni	Aririkame otimeme yantearori ari imatakero yantero.	Piyobetaka tekatsi timatsine ora nantemeri.	contradiction
+25209	cni	Aririkame otimeme yantearori ari imatakero yantero.	Nokenkeshireakota ari nomatakero nantayete paitarika nobabisakotanteariri.	neutral
+25210	cni	Nokisanentiro oka, irotake kamantirori irento maaroniki kitaiteri, okantini oka, pantakero tee okameetsateji.	Iroori okantani okimoshiretakairo ireento.	contradiction
+25211	cni	Nokisanentiro oka, irotake kamantirori irento maaroniki kitaiteri, okantini oka, pantakero tee okameetsateji.	Onijantasanotanakero ireento tee oyoteni antero kameetsari.	neutral
+25212	cni	Nokisanentiro oka, irotake kamantirori irento maaroniki kitaiteri, okantini oka, pantakero tee okameetsateji.	Iroori kantantinkaroni otsipataroni ireento.	entailment
+25213	cni	Ojatake obankoki impoiji nokajemake oka ñakarontsiki ikanteetiri irotake akajemanteari ariorika areetapaakesa anta.	Aakero impokirotsate okoakotantini okajemanteari.	neutral
+25214	cni	Ojatake obankoki impoiji nokajemake oka ñakarontsiki ikanteetiri irotake akajemanteari ariorika areetapaakesa anta.	Nokajemakero ora ñakarontsi ariorika naretakea obankoki.	entailment
+25215	cni	Ojatake obankoki impoiji nokajemake oka ñakarontsiki ikanteetiri irotake akajemanteari ariorika areetapaakesa anta.	Ikanteeti akajemero, iro tee nanteroji.	contradiction
+25216	cni	Kameetsa, areetakaro oka okitaiteamani, eh, nopeakotanaka kemeri… Kemetaka nantake sampitantsi, o ikianake iriori o noyotake.	Meeka tee nojaiteji, arikea tee noñeeroji.	contradiction
+25217	cni	Kameetsa, areetakaro oka okitaiteamani, eh, nopeakotanaka kemeri… Kemetaka nantake sampitantsi, o ikianake iriori o noyotake.	Nonijantaka gimnasioki ,meeka ari iriori ipokake ishaabiniji ibetsatakena.	neutral
+25218	cni	Kameetsa, areetakaro oka okitaiteamani, eh, nopeakotanaka kemeri… Kemetaka nantake sampitantsi, o ikianake iriori o noyotake.	Nonijantaka oka okitaitemani aisati iriori ipokake.	entailment
+25219	cni	Tee ayojeiteni jaoka ijajeitiri.	Tee ayojeiteni jaoka ikibantiri apatorentsitakoriki.	neutral
+25220	cni	Tee ayojeiteni jaoka ijajeitiri.	Tee ayojeiteni jaoka ikibanteri yora atiri.	entailment
+25221	cni	Tee ayojeiteni jaoka ijajeitiri.	ayojeitini jaoka yareejeiteari.	contradiction
+25222	cni	Iro narori nokempe, pipeakotero, nojate noya. Otimi itashe.	Tee añeeroji itasheasanotanteari.	contradiction
+25223	cni	Iro narori nokempe, pipeakotero, nojate noya. Otimi itashe.	Otimini itashe, irosati nokantantanaka noyarota irobanaro.	entailment
+25224	cni	Iro narori nokempe, pipeakotero, nojate noya. Otimi itashe.	Nokameme notashe, irosati nojatantaka cafeteriaki.	neutral
+25225	cni	Arikea, pishinetena nokantempi meeka nareetakaro oberata irotaintsime nojokajero.	Iroobetanchame nojokanajero.	entailment
+25226	cni	Arikea, pishinetena nokantempi meeka nareetakaro oberata irotaintsime nojokajero.	Okatsitimotanakena tee nomatajeroji namabetajero.	neutral
+25227	cni	Arikea, pishinetena nokantempi meeka nareetakaro oberata irotaintsime nojokajero.	Tee abishimotena katsini noitoki nojokantajearori.	contradiction
+25228	cni	Notimake irinka sotisheki sotitsa tiamtsitatsiri, ariyata 1888 o 1889.	Notimake tekeratani 1900.	entailment
+25229	cni	Notimake irinka sotisheki sotitsa tiamtsitatsiri, ariyata 1888 o 1889.	Notimake chakopiiteriki 1880.	neutral
+25230	cni	Notimake irinka sotisheki sotitsa tiamtsitatsiri, ariyata 1888 o 1889.	Iriori tee itimeji irosati 1984.	contradiction
+25231	cni	Kameetsayata yobanireajea kapichaji irijaniki tornillo ari obashinonkaakero ibinjonkarepee aparoni atiri intsipaiteni.	Oka tornillo ari amashitakero bijon karentsi janikarika.	entailment
+25232	cni	Kameetsayata yobanireajea kapichaji irijaniki tornillo ari obashinonkaakero ibinjonkarepee aparoni atiri intsipaiteni.	Ora tornillo tee okobenkateji, ari pitsinakero pikoayetiri.	contradiction
+25233	cni	Kameetsayata yobanireajea kapichaji irijaniki tornillo ari obashinonkaakero ibinjonkarepee aparoni atiri intsipaiteni.	Ora tornillo okianake ñaamentotsiki ari amshiatkero bijonkarentsipee.	neutral
+25234	cni	Naakero kantakantantsi nojatanteari Del Rio, TX, ariroika naretapakea anta, kameetsa, nokemapake otimatiye nojate baaseki Laughlin Air Force.	Itiyankayetakena Del Rio, Texas nantabeetanteari.	entailment
+25235	cni	Naakero kantakantantsi nojatanteari Del Rio, TX, ariroika naretapakea anta, kameetsa, nokemapake otimatiye nojate baaseki Laughlin Air Force.	Tee katsiniji nojate Texas	contradiction
+25236	cni	Naakero kantakantantsi nojatanteari Del Rio, TX, ariroika naretapakea anta, kameetsa, nokemapake otimatiye nojate baaseki Laughlin Air Force.	Yora soraroyetatsiri itiyankayetakena Del Rio,TX en 2001.	neutral
+25237	cni	Maaroni kipatsiki irajeitiro champan, iro tee itsonkeroji okarati iriri, timaarantatsiri tsotakipee iriro jananekipee, ari asaikajeitake aroripee, oshonkakotee irayetiro champan.	Yora jananekipee irajeitakero 3 boteeya ashi champan.	neutral
+25238	cni	Maaroni kipatsiki irajeitiro champan, iro tee itsonkeroji okarati iriri, timaarantatsiri tsotakipee iriro jananekipee, ari asaikajeitake aroripee, oshonkakotee irayetiro champan.	Yora jananekipee irajeitakero kapichaji champan.	entailment
+25239	cni	Maaroni kipatsiki irajeitiro champan, iro tee itsonkeroji okarati iriri, timaarantatsiri tsotakipee iriro jananekipee, ari asaikajeitake aroripee, oshonkakotee irayetiro champan.	Maaroni kimoshirentsi opirijajeitake tee irajeiteji chachojatatsiri.	contradiction
+25240	cni	Timatsi osheki kenketsatakorentsipee anta nampitsiki karatsenpekiro.	Tee nokemeroji aparopeeni kenketsatakorentsi	contradiction
+25241	cni	Timatsi osheki kenketsatakorentsipee anta nampitsiki karatsenpekiro.	Timatsi osheki kenketsatakorentsi oikantakota soraroyetatsiripee.	neutral
+25242	cni	Timatsi osheki kenketsatakorentsipee anta nampitsiki karatsenpekiro.	Timatsi osheki kenketsatakorentsi okenketsatakojeitiri.	entailment
+25243	cni	Iñayetero aisati iyotero, piyotake, ariroika piñantakearo, eh, arakomentotsi.	Tee niyoteji okantakota añaantero arakomentotsi.	contradiction
+25244	cni	Iñayetero aisati iyotero, piyotake, ariroika piñantakearo, eh, arakomentotsi.	Añaantearo arakomentotsipee obametempi osheki konijatatsiri.	entailment
+25245	cni	Iñayetero aisati iyotero, piyotake, ariroika piñantakearo, eh, arakomentotsi.	Ante ñaantamentotsi arakomentotsiki obametimpiro piyotakotero oshintsinetari.	neutral
+25246	cni	Noki nokante irootake oniyakire areeteari monkaratachari.	Tee nokematsatero ora areeteari.	contradiction
+25247	cni	Noki nokante irootake oniyakire areeteari monkaratachari.	Nokenkeshirea ora areeteari akantajeiti kobenkaitake okari.	neutral
+25248	cni	Noki nokante irootake oniyakire areeteari monkaratachari.	Niyotajiro ora areteari.	entailment
+25249	cni	Opoñaaka aparoniki base tampeajenkariki abisatsiri Cubaki, yobariyayetakero Rudolph Anderson.	Maaroni arakomentotsipee otimajeitake tekatsi manateroneri.	contradiction
+25250	cni	Opoñaaka aparoniki base tampeajenkariki abisatsiri Cubaki, yobariyayetakero Rudolph Anderson.	Aparopeni yobariyayetake Cubaki.	entailment
+25251	cni	Opoñaaka aparoniki base tampeajenkariki abisatsiri Cubaki, yobariyayetakero Rudolph Anderson.	Antyaroite arakomentotsi yobariyayeetake Cubaki obiroiteri.	neutral
+25252	cni	Irootake nojibatiri nokenkeshireiri ainironi norijanikitapake, nokaratke 4 nantakero kaari kametsatatsi.	Keariosanori tee nokenkeshireajero norijanikitantapaakari.	contradiction
+25253	cni	Irootake nojibatiri nokenkeshireiri ainironi norijanikitapake, nokaratke 4 nantakero kaari kametsatatsi.	Irosatitatsi nokanta nokemiro kaariperori oka meeka kitaiteriki.	neutral
+25254	cni	Irootake nojibatiri nokenkeshireiri ainironi norijanikitapake, nokaratke 4 nantakero kaari kametsatatsi.	Jibatatsiri aparoni nokenkeshireakotiri.	entailment
+25255	cni	Kapichajitatsiri tee onimoteriji ipempa kisaari oka kitaiteriki, ijataji, piyotake, nokatiro, ajatanaketa, piyotake, intantanakeari tsaatakori 1930,tee yantajeiteroji.	Opomerentsita akisaate anta okatonkotanaketa.	neutral
+25256	cni	Kapichajitatsiri tee onimoteriji ipempa kisaari oka kitaiteriki, ijataji, piyotake, nokatiro, ajatanaketa, piyotake, intantanakeari tsaatakori 1930,tee yantajeiteroji.	¡Tee opomerentsiteaji akisaate!	contradiction
+25257	cni	Kapichajitatsiri tee onimoteriji ipempa kisaari oka kitaiteriki, ijataji, piyotake, nokatiro, ajatanaketa, piyotake, intantanakeari tsaatakori 1930,tee yantajeiteroji.	Opomerentsita akisate ara peeraniteni.	entailment
+25258	cni	Tekatsi iyotatsine jaoka ijajeitiri.	Maaroni iyojeitini kameetsasanori jaoka ijajeitri.	contradiction
+25259	cni	Tekatsi iyotatsine jaoka ijajeitiri.	Tekatsi iyojjeitatsine jaoka okantari pankotsi ijajeitiri.	neutral
+25260	cni	Tekatsi iyotatsine jaoka ijajeitiri.	Ora yareeteari irointi maninakaro.	entailment
+25261	cni	Tee imateaji isabikanake oipatsiteki Aususta tempakea yora atiri iyojeitake iñaantakaro yanteme paitarika ora tabú ikoabentaka yabisheme kitamarori.	Yora atiri tee añeeroni iyenkeshireamento kaari ini kitamarori.	contradiction
+25262	cni	Tee imateaji isabikanake oipatsiteki Aususta tempakea yora atiri iyojeitake iñaantakaro yanteme paitarika ora tabú ikoabentaka yabisheme kitamarori.	Yora atiri iyotini irinti afroamericanos.	neutral
+25263	cni	Tee imateaji isabikanake oipatsiteki Aususta tempakea yora atiri iyojeitake iñaantakaro yanteme paitarika ora tabú ikoabentaka yabisheme kitamarori.	Yora atiri iyotini kaari ini kitamarori.	entailment
+25264	cni	Jee, kameetsa, yora jananeki jerikatake aka.	Yora jananeki jerikatake.	entailment
+25265	cni	Jee, kameetsa, yora jananeki jerikatake aka.	Ora nashiyetachari irobakera okonijatake 2 minutos.	neutral
+25266	cni	Jee, kameetsa, yora jananeki jerikatake aka.	Ora nashiyetchari (bajirontsi) tee ipokeji aka.	contradiction
+25267	cni	Timatsi amenajeitiri aka teleki.	Tee otimimojeiteni television.	contradiction
+25268	cni	Timatsi amenajeitiri aka teleki.	Amenajeitironi television.	entailment
+25269	cni	Timatsi amenajeitiri aka teleki.	Añaajeitironi kamantantsipee televisionki.	neutral
+25270	cni	Opoña, nokenkeshirea paita napiitajeri noñaanateri anta Ramonaki.	Tee katsini noñaanateroni Ramona.	contradiction
+25271	cni	Opoña, nokenkeshirea paita napiitajeri noñaanateri anta Ramonaki.	Napiitajiro noñaanatajiro Ramona.	entailment
+25272	cni	Opoña, nokenkeshirea paita napiitajeri noñaanateri anta Ramonaki.	Kameetsari oka kenketsatabakantsi.	neutral
+25273	cni	Apatiro obanireaka pomerentsitantsi ashi cuba, eh, Kaiser, eh, yantantakaro shiyakantsipee aranake irosati Andrews Air Force en Washington.	10 000 atiri ikamajeitake oka pomerentsitantsiki Cubana.	contradiction
+25274	cni	Apatiro obanireaka pomerentsitantsi ashi cuba, eh, Kaiser, eh, yantantakaro shiyakantsipee aranake irosati Andrews Air Force en Washington.	Apaniro atiri ikamake opomerentsitantanakari Cuba.	entailment
+25275	cni	Apatiro obanireaka pomerentsitantsi ashi cuba, eh, Kaiser, eh, yantantakaro shiyakantsipee aranake irosati Andrews Air Force en Washington.	Apaniro atiri ikamake posakotantsiki pomerentsiriki Cubana.	neutral
+25276	cni	Hum aisati iroori okanti… okanti.. okanti.. nonintashiretiri, okanti,tee pikematsatero añamentotsi narokea nokematsatiro añamentotsi.	Iroori okanti tee otimimotenaji oyenkeshireamento.	contradiction
+25277	cni	Hum aisati iroori okanti… okanti.. okanti.. nonintashiretiri, okanti,tee pikematsatero añamentotsi narokea nokematsatiro añamentotsi.	Iroori okanti oyotiro okantakota añaamentotsi.	entailment
+25278	cni	Hum aisati iroori okanti… okanti.. okanti.. nonintashiretiri, okanti,tee pikematsatero añamentotsi narokea nokematsatiro añamentotsi.	Okantana tee otimimotena kenekeshireantsi jaoka okanta otimi kipatsi konijari aijateri.	neutral
+25279	cni	Opoña oñaakero notimanake kameetsatake. ¿Paita nanteri irooriki?	Tee niyoteji ikanteetini otimatiye antantearo ora maakina.	neutral
+25280	cni	Opoña oñaakero notimanake kameetsatake. ¿Paita nanteri irooriki?	Tee niyoteji paitarika ikantetantari nantanteari.	entailment
+25281	cni	Opoña oñaakero notimanake kameetsatake. ¿Paita nanteri irooriki?	¡Piyotasanotiro paita antanteari!	contradiction
+25282	cni	Pipenaro aparo minuro, pikoirika pitotero, naro, hum, nojate.	Betsikakena nojatanteari meeka.	contradiction
+25283	cni	Pipenaro aparo minuro, pikoirika pitotero, naro, hum, nojate.	Nokoi aparo minuto aka.	entailment
+25284	cni	Pipenaro aparo minuro, pikoirika pitotero, naro, hum, nojate.	Noloi aparo minuto nokoyanteari noyenkeshirementopee.	neutral
+25285	cni	Nojatanake Washington D.C.tee nojatiteaji ikantebetakenari anta kantakantantsiki.	Tee katsini nosaikaniteji Washingtonki D. C.	contradiction
+25286	cni	Nojatanake Washington D.C.tee nojatiteaji ikantebetakenari anta kantakantantsiki.	Nojatake D. C. nameniri supervisor.	neutral
+25287	cni	Nojatanake Washington D.C.tee nojatiteaji ikantebetakenari anta kantakantantsiki.	Nojatake onampitakotantariki nampitsi.	entailment
+25288	cni	Irinti aparo atiri kisaari imeshina.	Iroori otimi aparo omeshina keariosanori kisaasanori.	contradiction
+25289	cni	Irinti aparo atiri kisaari imeshina.	Iroori otimi ora omeshina konijasanori okemetanteariri afroamericana.	entailment
+25290	cni	Irinti aparo atiri kisaari imeshina.	Iroori okonijatasanoti otsipasatopee otsipabintsare kisaaropee.	neutral
+25291	cni	Maarojeini, apa ijati yanti kameetsa vaso antyaro ireeche otsipatairo chocolate nashi.	Apa ipakena kapichaji ireeche chocolate katsikamentotsiki.	neutral
+25292	cni	Maarojeini, apa ijati yanti kameetsa vaso antyaro ireeche otsipatairo chocolate nashi.	Apa ikitakena aparoniki vaso ireeche.	entailment
+25293	cni	Maarojeini, apa ijati yanti kameetsa vaso antyaro ireeche otsipatairo chocolate nashi.	Apa ikanti tee ikoakayenaji nirero taraako.	contradiction
+25294	cni	Iriori DOT otimatiye yamanante ora ibankoyetari kemetachari.	Ora Departamento de Transporte ari oñakero ashiyetansti onashiyetachari alquilar onampiki.	contradiction
+25295	cni	Iriori DOT otimatiye yamanante ora ibankoyetari kemetachari.	Ora ashiyetantsi aisati equipo yamanantajeitakeri DOT.	entailment
+25296	cni	Iriori DOT otimatiye yamanante ora ibankoyetari kemetachari.	DOT ipinatakari maba irinka dólares yamanatero ashiyetantsi.	neutral
+25297	cni	Iriori itimakerika.	Yoyajeitake itime chakopiiteriki 2010.	neutral
+25298	cni	Iriori itimakerika.	Ikantayeti otimatiye itimeme.	entailment
+25299	cni	Iriori itimakerika.	Ikantayeti eirome itimeme.	contradiction
+25300	cni	Naro nokempetari, arejisati nareetaka.	Nokantabetakari tee iyoteroji paitarika yantiri.	contradiction
+25301	cni	Naro nokempetari, arejisati nareetaka.	Nokantabetakari iyobeta yabisaji yantayetiri okarati 40%.	neutral
+25302	cni	Naro nokempetari, arejisati nareetaka.	Nokantabetakari niyotake nomatantakarori.	entailment
+25303	cni	Aritake, ¿ari pimatakero pikemena?	¿Ari pimatakero pikemena meeka?	entailment
+25304	cni	Aritake, ¿ari pimatakero pikemena?	¿Ari pimatakero pikeme okarati nokantakeri?	neutral
+25305	cni	Aritake, ¿ari pimatakero pikemena?	Niyotake eiro pimatirotsi pikemena.	contradiction
+25306	cni	Mmm, ¿tekatsi? Pikantake eiro pikenkeshiretirotsi piñaanatakeri, iro yantyaritantanaka obametantsipankoki, ¿tee aneroji kiribiro pikoiri o pikisaneetiri?	¿Pikoiro ora kiribiro irashi Harry Potter o tee?	neutral
+25307	cni	Mmm, ¿tekatsi? Pikantake eiro pikenkeshiretirotsi piñaanatakeri, iro yantyaritantanaka obametantsipankoki, ¿tee aneroji kiribiro pikoiri o pikisaneetiri?	¿Pikoajeitiro o pikisaneetiro otsipapee kiribiro?	entailment
+25308	cni	Mmm, ¿tekatsi? Pikantake eiro pikenkeshiretirotsi piñaanatakeri, iro yantyaritantanaka obametantsipankoki, ¿tee aneroji kiribiro pikoiri o pikisaneetiri?	Niyotake pikoajeitiro maaroni kiribiropee piñanajeitakeri.	contradiction
+25309	cni	Irointi oni helice orijaniki fraguo aparo kentamentotsi, iro ora tubo ashi oshintsitantari irotake yanenkantari antakotinkari jero airori oshintsitakotoi.	Ora tornillo areetaro oshintsitakoti.	entailment
+25310	cni	Irointi oni helice orijaniki fraguo aparo kentamentotsi, iro ora tubo ashi oshintsitantari irotake yanenkantari antakotinkari jero airori oshintsitakotoi.	Ora tornillo oni orijaniki aisati obetsikakotataka.	neutral
+25311	cni	Irointi oni helice orijaniki fraguo aparo kentamentotsi, iro ora tubo ashi oshintsitantari irotake yanenkantari antakotinkari jero airori oshintsitakotoi.	Tekatsi tornillos, apatiro botones.	contradiction
+25312	cni	Iroori okanti, eiro pikenkeshireashita, piyotake, payero pitaiterite.	Iroori okantana otimatiye nojataje intsipaite.	contradiction
+25313	cni	Iroori okanti, eiro pikenkeshireashita, piyotake, payero pitaiterite.	Okantana tee abisheji ariorika yabishe ooorea antantearori.	neutral
+25314	cni	Iroori okanti, eiro pikenkeshireashita, piyotake, payero pitaiterite.	Okantana initsikiojiteemi.	entailment
+25315	cni	Yora pinkatsari Kennedy ikantiri yora antakotinkari, ikanti, 'Caballeros, anti kameetsa shiakantsipee'.	Kennedy tee iyojeitabakeri.	contradiction
+25316	cni	Yora pinkatsari Kennedy ikantiri yora antakotinkari, ikanti, 'Caballeros, anti kameetsa shiakantsipee'.	Kennedy iñaanatiri antakotinkari irashi Fuerza Aérea.	neutral
+25317	cni	Yora pinkatsari Kennedy ikantiri yora antakotinkari, ikanti, 'Caballeros, anti kameetsa shiakantsipee'.	Kennedy iñaanatiri antakotinkari.	entailment
+25318	cni	Nokemetanakari, irotaintsi notsonkero.	Nokantiri itsonkero 10 minutos.	neutral
+25319	cni	Nokemetanakari, irotaintsi notsonkero.	Nokantajetiri eiro katsini itsonkiro.	contradiction
+25320	cni	Nokemetanakari, irotaintsi notsonkero.	Nokantajeitimpi irobetaincha notsonkerome.	entailment
+25321	cni	Nosankenatakero maaroni.	Nokinatnakaro nosankenatiro nota ashi konijatatsiri.	entailment
+25322	cni	Nosankenatakero maaroni.	Eiro pashereanantsi pisankenati tekatsi.	contradiction
+25323	cni	Nosankenatakero maaroni.	Nosankenatakero aparopeeni antabeerentsi ikantakeri.	neutral
+25324	cni	Tee, iroorii otimake 1900 tempa otimini 16 osarentsi, otimatankeari oshiemparo 1926 19, piyotake, tekerata 1930.	Otimake 1 inkaniiteri1900.	neutral
+25325	cni	Tee, iroorii otimake 1900 tempa otimini 16 osarentsi, otimatankeari oshiemparo 1926 19, piyotake, tekerata 1930.	Iroori otimake intantanakarori ora siglo	entailment
+25326	cni	Tee, iroorii otimake 1900 tempa otimini 16 osarentsi, otimatankeari oshiemparo 1926 19, piyotake, tekerata 1930.	Iroori tee otimeji irosati 1943.	contradiction
+25327	cni	Opoña okoasanota.	Ikoasanotakero iyotero jaoka okarate yobanteari.	neutral
+25328	cni	Opoña okoasanota.	Tee ikoasanoteroji okanatakotiri.	contradiction
+25329	cni	Opoña okoasanota.	Noñaakeri okoasanota.	entailment
+25330	cni	Ireento ari omatea abishe okitamarote, aisati omataka abisake okitamarote.	Irento otimi omeshina kameetsasanori maaroniki oshanikajeitariki.	neutral
+25331	cni	Ireento ari omatea abishe okitamarote, aisati omataka abisake okitamarote.	Maaroniki ikanteyeti ora ireento okitamaortini.	entailment
+25332	cni	Ireento ari omatea abishe okitamarote, aisati omataka abisake okitamarote.	ora ireento Sher irointini lúgubre.	contradiction
+25333	cni	Kameetsa, oshekiteme antyashipate okemetanteariri iriri.	Okarati 27 osarentsi antyaroti iroriki.	neutral
+25334	cni	Kameetsa, oshekiteme antyashipate okemetanteariri iriri.	Iriori oshekisano yebankariti anta irooriki.	contradiction
+25335	cni	Kameetsa, oshekiteme antyashipate okemetanteariri iriri.	Iriori irinti atyarisanori irooriki.	entailment
+25336	cni	Oka, naro nainti 922 irio shirampari amitakotanmtatsiri yora itsipa shirampari irinti amenakotantatsiri fisiológico.	Tekatsi pantatsine ashi amitakotantsi.	contradiction
+25337	cni	Oka, naro nainti 922 irio shirampari amitakotanmtatsiri yora itsipa shirampari irinti amenakotantatsiri fisiológico.	Aparo shirampari yamitakotanti fisiologico irashi sorarotatsiri.	neutral
+25338	cni	Oka, naro nainti 922 irio shirampari amitakotanmtatsiri yora itsipa shirampari irinti amenakotantatsiri fisiológico.	Aparo shirampari ipantake amitakotantsi fisiologico.	entailment
+25339	cni	Nokenkeshireaka opoke aparo antabetanteari, piyotake, notsipatantempiri amishitoyero, piyotake, pamatabitename kemetakempi pimatakero pikanpiayatiro.	Piyotake iriori eiro ipokime akarateri.	contradiction
+25340	cni	Nokenkeshireaka opoke aparo antabetanteari, piyotake, notsipatantempiri amishitoyero, piyotake, pamatabitename kemetakempi pimatakero pikanpiayatiro.	Nokenkeshireabetaka ipokantakari yantabakaempa.	entailment
+25341	cni	Nokenkeshireaka opoke aparo antabetanteari, piyotake, notsipatantempiri amishitoyero, piyotake, pamatabitename kemetakempi pimatakero pikanpiayatiro.	Nokenkeshireabetaka ikamantakotename oka tono.	neutral
+25342	cni	Kameetsa, okantakeri, eiro akantajirotsi eiro antajirotsi amashirentsi.	Kameetsatake ariorika antake aparopeeni amashirentsi.	contradiction
+25343	cni	Kameetsa, okantakeri, eiro akantajirotsi eiro antajirotsi amashirentsi.	Tee niyoteni oshineterorika anterio amashirentsi.	entailment
+25344	cni	Kameetsa, okantakeri, eiro akantajirotsi eiro antajirotsi amashirentsi.	Tee niyoteni oshineteeroni añaanatakotero otikatikaatea eiro okameetsatitsi.	neutral
+25345	cni	Aisati , oh, iro, oh, nokenkeshirea, tsiteniriki tee nomatea noaye.	Opomerentsitimotakena nomaanteari tsiteniriki.	entailment
+25346	cni	Aisati , oh, iro, oh, nokenkeshirea, tsiteniriki tee nomatea noaye.	Oijatana nomishitakotari kobenkari tikaanarini kaari nomaanta.	neutral
+25347	cni	Aisati , oh, iro, oh, nokenkeshirea, tsiteniriki tee nomatea noaye.	Tsiteniriki nomai noshiyari jobentsi.	contradiction
+25348	cni	Aparoni otimimotironi kempesanotarorini antyaro tikakobentirori.	Iroori ari omatakea otikakobentea otsitiki kobenkari.	neutral
+25349	cni	Aparoni otimimotironi kempesanotarorini antyaro tikakobentirori.	Iroori ari omatea otikakobentea kameetsa.	entailment
+25350	cni	Aparoni otimimotironi kempesanotarorini antyaro tikakobentirori.	Iroorini aayetirorti timayetatsiri,.	contradiction
+25351	cni	Um, tekatsini kanteronerini--	Iriori ikantakero maaroni okarati akoiri ayoteri	contradiction
+25352	cni	Um, tekatsini kanteronerini--	Tee ikantajeitenaro okarati oka protocolo de seguridad.	neutral
+25353	cni	Um, tekatsini kanteronerini--	Ariorika tee ikantenaroji.	entailment
+25354	cni	Aritake asabikajeitiri oka zonaki.	Ora abankoni osaikini aka.	entailment
+25355	cni	Aritake asabikajeitiri oka zonaki.	Ora abankoni osaikini areji okaki nampisti.	contradiction
+25356	cni	Aritake asabikajeitiri oka zonaki.	Ora abankoni osaiki apite manzana.	neutral
+25357	cni	Oñaanati itsipaite, oñaanantati impokirotsaki.	Oñaanatati initsikiojitsa okarati oñaanatiri.	contradiction
+25358	cni	Oñaanati itsipaite, oñaanantati impokirotsaki.	Oñaanatati ara iPhoneki.	neutral
+25359	cni	Oñaanati itsipaite, oñaanantati impokirotsaki.	Oñaanatati ara movilki.	entailment
+25360	cni	Tee noatajero nokenkeshireajero abisaintsiri, iro amashitea notsaroashiretake nokenkeshirea okate obametantsipankoki intarori irootake oka kitaieri osheki amkoshireantsi ashi nañaamentoki.	Nomakoshireake irotaintsi akempejite intantanajearori obametantsipanko.	contradiction
+25361	cni	Tee noatajero nokenkeshireajero abisaintsiri, iro amashitea notsaroashiretake nokenkeshirea okate obametantsipankoki intarori irootake oka kitaieri osheki amkoshireantsi ashi nañaamentoki.	Nokenkeshireakotakero nojate obametantsipankoki	entailment
+25362	cni	Tee noatajero nokenkeshireajero abisaintsiri, iro amashitea notsaroashiretake nokenkeshirea okate obametantsipankoki intarori irootake oka kitaieri osheki amkoshireantsi ashi nañaamentoki.	Nokenkeshireakotakero intanteari irashi irijaniki jardin	neutral
+25363	cni	Eh, itimini saiteriki St. Louis, jeri Jefferson City jeri St. Louis, MO.	Notimini Texas.	contradiction
+25364	cni	Eh, itimini saiteriki St. Louis, jeri Jefferson City jeri St. Louis, MO.	Notimini aparoniki pankotsi kiteriiriki Missouri.	neutral
+25365	cni	Eh, itimini saiteriki St. Louis, jeri Jefferson City jeri St. Louis, MO.	Noaiki Missouri.	entailment
+25366	cni	Ikamantakotiro aparo nampitsi Del Rio, impoijini nojate Laughlin Air Force Base, piyajanchari ashitareajea.	Ora Base Jenokisato Laughlin ashibetanaja kapichaji kitateri.	entailment
+25367	cni	Ikamantakotiro aparo nampitsi Del Rio, impoijini nojate Laughlin Air Force Base, piyajanchari ashitareajea.	Ora base Fuerza Aérea Laughlin okantani ashitarea.	contradiction
+25368	cni	Ikamantakotiro aparo nampitsi Del Rio, impoijini nojate Laughlin Air Force Base, piyajanchari ashitareajea.	Ora Base Shintsiri Jenokisato Leughlin inampitaro 10 000 soraropee.	neutral
+25369	cni	Omonkaratna okarati panteri.	Eiro nokoaperotirotsi karati potsorentsi payeri.	neutral
+25370	cni	Omonkaratna okarati panteri.	Noki naporoebatea aproniki trato.	contradiction
+25371	cni	Omonkaratna okarati panteri.	Eiro nonimoshireana jaoka okantea pitsokero.	entailment
+25372	cni	Namenake jenoki, noñaakero jaoka osabikiri Ramona ari nokajemero.	Nokajemakero Ramona nobankoki.	neutral
+25373	cni	Namenake jenoki, noñaakero jaoka osabikiri Ramona ari nokajemero.	Nokajemakero Ramona iyotanteari jaoka osabikakeri.	entailment
+25374	cni	Namenake jenoki, noñaakero jaoka osabikiri Ramona ari nokajemero.	Nopeakotanajiro Ramona.	contradiction
+25375	cni	Iromataintsi ora Shintsiri Jenokisato amanantake SR71, meeka A-12, antabeetakenero ora CIA.	Ora Shintsiri Jenokisato amanantake 18 arakomentotsipee.	neutral
+25376	cni	Iromataintsi ora Shintsiri Jenokisato amanantake SR71, meeka A-12, antabeetakenero ora CIA.	Ora shintsiri jenokisato amantajeitake arakomentotsi.	entailment
+25377	cni	Iromataintsi ora Shintsiri Jenokisato amanantake SR71, meeka A-12, antabeetakenero ora CIA.	Ora Shintsiri Jenokisato tee otimeni antatearori.	contradiction
+25378	cni	¿Ojime ora irento otimini imeshina konijari?	Irento aake ojime shirampari kisaari.	neutral
+25379	cni	¿Ojime ora irento otimini imeshina konijari?	Irento aake ojime.	entailment
+25380	cni	¿Ojime ora irento otimini imeshina konijari?	Irento timashitinkaro.	contradiction
+25381	cni	Okimotanake, tekatsi katsini iyotajeri amashitakerorika, iro okampiataja okantari.	Iroori tee okampiatajea okantayeta.	contradiction
+25382	cni	Okimotanake, tekatsi katsini iyotajeri amashitakerorika, iro okampiataja okantari.	Iroori tekatsi katsini oyotajiro amashitakero.	entailment
+25383	cni	Okimotanake, tekatsi katsini iyotajeri amashitakerorika, iro okampiataja okantari.	Iroori tekatsi okante okantakotiri ora pastel batsatsiki.	neutral
+25384	cni	Niritsori, irinti antayriite chaval.	Niritsori nakameetsatiri.	entailment
+25385	cni	Niritsori, irinti antayriite chaval.	¡Niritsori irinti kaariperori!	contradiction
+25386	cni	Niritsori, irinti antayriite chaval.	Niritsori irinti neshinonkatantatsiri.	neutral
+25387	cni	Nojatake obankoki tsio saikatsiri anta. Ojime yantabeti iyotinkari nojatake ibankoki.	Ani isaiki ejercitoki.	neutral
+25388	cni	Nojatake obankoki tsio saikatsiri anta. Ojime yantabeti iyotinkari nojatake ibankoki.	Ani ikarajeitiri antaberentsiki.	entailment
+25389	cni	Nojatake obankoki tsio saikatsiri anta. Ojime yantabeti iyotinkari nojatake ibankoki.	Norenti tee ibetsikiteaji.	contradiction
+25390	cni	Nokenkeshirea kameetsa, nojate nojokajeri ijateta itsipa, impoiji ikenkeshireaje, ¡Tasorentsi nashi!	Nokenkeshirea ijateme itsipa ampinajenaneri.	entailment
+25391	cni	Nokenkeshirea kameetsa, nojate nojokajeri ijateta itsipa, impoiji ikenkeshireaje, ¡Tasorentsi nashi!	Nokenkeshirea ijokeme itsipa ampinaenaneri apatorentsiki.	neutral
+25392	cni	Nokenkeshirea kameetsa, nojate nojokajeri ijateta itsipa, impoiji ikenkeshireaje, ¡Tasorentsi nashi!	Eiro ishinetajiritsi itsipa ijataje.	contradiction
+25393	cni	Aparo minuto iposhiro sankenamentotsi, otsipaki kameetsatake, pisaike nosakenamentoki da, da, da, da, da.	Ikampiatiro osheki kenkeshireantsi.	entailment
+25394	cni	Aparo minuto iposhiro sankenamentotsi, otsipaki kameetsatake, pisaike nosakenamentoki da, da, da, da, da.	Pikampiatajero kenkeshireantsi tee piyoteji paita yantiri.	neutral
+25395	cni	Aparo minuto iposhiro sankenamentotsi, otsipaki kameetsatake, pisaike nosakenamentoki da, da, da, da, da.	Iriori irinti ikantasanota aisati imajereti.	contradiction
+25396	cni	Kameetsa,paitarika kantachari, okianake anta okempebetaka ¿jaoka okantari konijatatsiri?.	Isampiti jaoka okantari konijatatsiri.	entailment
+25397	cni	Kameetsa,paitarika kantachari, okianake anta okempebetaka ¿jaoka okantari konijatatsiri?.	Isampiti atsonkajeitakerorika paperiyetatsiri.	neutral
+25398	cni	Kameetsa,paitarika kantachari, okianake anta okempebetaka ¿jaoka okantari konijatatsiri?.	Iriori iñaananteke konijasanori.	contradiction
+25399	cni	Impoiji oshonkanaka rueda, tee niyote, kemetaka maaroni kitaiteriki oka.	Noshintsitanake aisati notsonkanakero intsipaite.	contradiction
+25400	cni	Impoiji oshonkanaka rueda, tee niyote, kemetaka maaroni kitaiteriki oka.	Nosaikaiti ara ikarati apite oorea.	neutral
+25401	cni	Impoiji oshonkanaka rueda, tee niyote, kemetaka maaroni kitaiteriki oka.	Noshonkiro rueda osamani kitaiteri.	entailment
+25402	cni	Otimantaro atojerintsi naro tee katsini niyotakotero oka.	Tee niyoteni irobetainchame obamayerome atojerentsi.	neutral
+25403	cni	Otimantaro atojerintsi naro tee katsini niyotakotero oka.	Tee niyoteni otimantaro atojerentsi.	entailment
+25404	cni	Otimantaro atojerintsi naro tee katsini niyotakotero oka.	Piyobetani omantsitasanotakero atojerentsi.	contradiction
+25405	cni	Piyoti, eiro pimatirotsi, eiro pimatirotsi paneaje teerika otimimotempi paitarika.	Ora oshintsitane oinijantamentotsi obamanti maaroni kitaitri.	contradiction
+25406	cni	Piyoti, eiro pimatirotsi, eiro pimatirotsi paneaje teerika otimimotempi paitarika.	Pikoati aparo contrapresion antyarotatsiri 500 pies.	neutral
+25407	cni	Piyoti, eiro pimatirotsi, eiro pimatirotsi paneaje teerika otimimotempi paitarika.	Pikoati aparo contrapresion ashi ojenokitinta.	entailment
+25408	cni	Nintanakaro intsipaite ,eh, noñaantakayetari itsipa apite jananeki saikaitatsiri onakenta onampi.	Tekatsi katsini nayeji ñantakamentotsi, arikea nojatati noñaayetanaro okarati nabaansatakari.	contradiction
+25409	cni	Nintanakaro intsipaite ,eh, noñaantakayetari itsipa apite jananeki saikaitatsiri onakenta onampi.	Apite jananeki iñaantakayetakenari yantabeetanteari oka obararontsipankoki.	neutral
+25410	cni	Nintanakaro intsipaite ,eh, noñaantakayetari itsipa apite jananeki saikaitatsiri onakenta onampi.	Apite niritsoripee iñantakayetakenari.	entailment
+25411	cni	Abirorikame apice otimatiye pantayete paitarika pobetsikeri reguladorki.	Ora regulador tee okanteni.	contradiction
+25412	cni	Abirorikame apice otimatiye pantayete paitarika pobetsikeri reguladorki.	Ora regulador okampiatea oshintsine maaroni pitsareki.	neutral
+25413	cni	Abirorikame apice otimatiye pantayete paitarika pobetsikeri reguladorki.	Otimatiye ojoekatearo ora regulador.	entailment
+25414	cni	Oh, tekerata obempata ora tin apite apite yobayetakeri ora kentamentotsi ara reguladorki.	Yobayetakenero kentamentotsi mariteshiki.	neutral
+25415	cni	Oh, tekerata obempata ora tin apite apite yobayetakeri ora kentamentotsi ara reguladorki.	Narotake 922	entailment
+25416	cni	Oh, tekerata obempata ora tin apite apite yobayetakeri ora kentamentotsi ara reguladorki.	Tee katsini nojate 922.	contradiction
+25417	cni	Tee nokematsateroji ora apatorentsi nupcial, aisati tee niyotejji aabakaakarika keario--	Iroori tee okematsateroji itikaakero jananeki okanteani omabetakea tee katsini oyoteriji.	neutral
+25418	cni	Tee nokematsateroji ora apatorentsi nupcial, aisati tee niyotejji aabakaakarika keario--	Tee nokematsateroji okarati abisaintsiri.	entailment
+25419	cni	Tee nokematsateroji ora apatorentsi nupcial, aisati tee niyotejji aabakaakarika keario--	Piyobetaka okarati ominkiakeri.	contradiction
+25420	cni	Narojei nokiajeitanaje anta.	Akiajeitanaje anta 8 p.m.	neutral
+25421	cni	Narojei nokiajeitanaje anta.	Akiajeite.	entailment
+25422	cni	Narojei nokiajeitanaje anta.	Eiro katsini akiajeiti.	contradiction
+25423	cni	Okemetaka yojokajeite jaanikani, timatsitatsiri, piyotake, okarati antayeti, piyoti itsipapee osaripee.	Iroori aabakeri maaroni omonkarajeitakari.	contradiction
+25424	cni	Okemetaka yojokajeite jaanikani, timatsitatsiri, piyotake, okarati antayeti, piyoti itsipapee osaripee.	Aabakeri itsipapee opashinitakeyetiri.	entailment
+25425	cni	Okemetaka yojokajeite jaanikani, timatsitatsiri, piyotake, okarati antayeti, piyoti itsipapee osaripee.	Aabakeri itsipasatipoee osari onashitakari teempa ini kisaari.	neutral
+25426	cni	Ikantanake guay, iro itsare aranake tampeaki kapichaji--	Ora itsare ondeaba ara tampeaki.	entailment
+25427	cni	Ikantanake guay, iro itsare aranake tampeaki kapichaji--	Ora itsare oni orijaniki aisati aranake kapichaji.	neutral
+25428	cni	Ikantanake guay, iro itsare aranake tampeaki kapichaji--	Tee añeroji tampea arikea ora itsare tee oshebateaji.	contradiction
+25429	cni	Oh, nabisakero kameetsa noitaiterite oka, antabeerentsipee koasanotachari.	Nojatini natayeti antaberentsiyetatsiri koasanotachari apite kitaiteri.	neutral
+25430	cni	Oh, nabisakero kameetsa noitaiterite oka, antabeerentsipee koasanotachari.	Nosaikaiti antabeerentsiyetatsiriki koasanotachari.	entailment
+25431	cni	Oh, nabisakero kameetsa noitaiterite oka, antabeerentsipee koasanotachari.	Tee katsini nosaikaiteji antabeerentsiyetatsiriki koasanotachari.	contradiction
+25435	cni	Iro…itimini nampitsijanikiki nikoji Augusta ipajita Evans, irosati itimi. Irosatitatsi itimi osheki noshaninkayetari timajeitatsiri.	Itimajeitini pitetsa ishaninkapee timajeitatsiri Evans.	neutral
+25436	cni	Iro…itimini nampitsijanikiki nikoji Augusta ipajita Evans, irosati itimi. Irosatitatsi itimi osheki noshaninkayetari timajeitatsiri.	Itimajeitini anta Atlantaki.	contradiction
+25437	cni	Iro…itimini nampitsijanikiki nikoji Augusta ipajita Evans, irosati itimi. Irosatitatsi itimi osheki noshaninkayetari timajeitatsiri.	Itimajeitini Evans, irinti ini irijaniki.	entailment
+25438	cni	Notsiro irosati okantana okanti: Pikemetari isha, pantanatiri atiripee okarati pikenakashiyetari.	Notsiro okanti naro manintantatsiri.	neutral
+25439	cni	Notsiro irosati okantana okanti: Pikemetari isha, pantanatiri atiripee okarati pikenakashiyetari.	Notsiro okanti tee nokanteani nokameetsate.	entailment
+25440	cni	Notsiro irosati okantana okanti: Pikemetari isha, pantanatiri atiripee okarati pikenakashiyetari.	Notsiro okanti tee okonijamoteroji nishane.	contradiction
+25441	cni	Hum, impoiji nobaanaja irobakerariki pankotsi.	Nobanaja aparo pankotsiki abetsikajeitakeri nampitsiki.	neutral
+25442	cni	Hum, impoiji nobaanaja irobakerariki pankotsi.	Aabajeitanaja aparoni irobakerari pankotsi.	entailment
+25443	cni	Hum, impoiji nobaanaja irobakerariki pankotsi.	Asaikajeitapaaji pankotsiki maaroni añaamentoki.	contradiction
+25444	cni	Nosaikaiti kemeeri, OK, kameetsa.	Nokanti nokisanentiro aisati nojokasanotironi	contradiction
+25445	cni	Nosaikaiti kemeeri, OK, kameetsa.	Nokanti nonebetaroni irobakerari pampoysntsi.	neutral
+25446	cni	Nosaikaiti kemeeri, OK, kameetsa.	Nokantake timatsi aprobacion.	entailment
+25447	cni	Opachankayetari pintura okambiatero okarate sheki grado, ari omatakea opeanajea kityonkari jero asooritanaje,ashiakantero.	Ora pintura okampiatiro iroyata obotsore.	entailment
+25448	cni	Opachankayetari pintura okambiatero okarate sheki grado, ari omatakea opeanajea kityonkari jero asooritanaje,ashiakantero.	Ora pintura okampiata ayotanteari jaoka okanta okatsirinkati eiro okoanta amonkaratero.	neutral
+25449	cni	Opachankayetari pintura okambiatero okarate sheki grado, ari omatakea opeanajea kityonkari jero asooritanaje,ashiakantero.	ora pintura okantani oni kisaari.	contradiction
+25450	cni	Nobaka intsipaite, intsipaitesanori impoiji iroori okiapaake ari otsonkanaka pamitakotena oka.	Nobakaro ora pizza tee osamanite apite minutos.	neutral
+25451	cni	Nobaka intsipaite, intsipaitesanori impoiji iroori okiapaake ari otsonkanaka pamitakotena oka.	Nobaka initsikioji eiro nomantsiatanta.	contradiction
+25452	cni	Nobaka intsipaite, intsipaitesanori impoiji iroori okiapaake ari otsonkanaka pamitakotena oka.	Nobakaro ora obanarontsi.	entailment
+25453	cni	Ojime ashi irento irointi imeshina konijari.	Ojimetsori ini ibotsore konijari.	entailment
+25454	cni	Ojime ashi irento irointi imeshina konijari.	Ojimetsori ini Sueco.	neutral
+25455	cni	Ojime ashi irento irointi imeshina konijari.	irento tee aabakaya	contradiction
+25456	cni	Maaronitake, opokimojeitakero oka invencion antyaroki regulador ashi 02.	Iriorijei iventsikajeitakero irobakerari regulador.	entailment
+25457	cni	Maaronitake, opokimojeitakero oka invencion antyaroki regulador ashi 02.	Ivetsikake aparo regulador oneini tampeajenkaki.	neutral
+25458	cni	Maaronitake, opokimojeitakero oka invencion antyaroki regulador ashi 02.	Oijatironi tee oyote jaoka ikanteari ivetsikanteari aparo regulador ashi oxigeno.	contradiction
+25459	cni	Opoña, baajeitanaja Las Vegas, NV, nokamantakotakero, aisati nokemetakero Washingtonki, okenayetanteari niyakiki Las Vegas.	Tee katsini nojate Las Vegas.	contradiction
+25460	cni	Opoña, baajeitanaja Las Vegas, NV, nokamantakotakero, aisati nokemetakero Washingtonki, okenayetanteari niyakiki Las Vegas.	Nantabeetake Las Vegas aisati Washingtonki.	entailment
+25461	cni	Opoña, baajeitanaja Las Vegas, NV, nokamantakotakero, aisati nokemetakero Washingtonki, okenayetanteari niyakiki Las Vegas.	Natabeetake okemetari taxista apiteketiro nampitsi.	neutral
+25462	cni	Jee, 4.° noñaatsatasanotaka.	¡Nokisaneentiro maaroni obametantsipanko!	contradiction
+25463	cni	Jee, 4.° noñaatsatasanotaka.	Nokoakero otsi grado tempa otimi apite nomaoreantari.	neutral
+25464	cni	Jee, 4.° noñaatsatasanotaka.	Nokoironi otsi grado.	entailment
+25465	cni	Okemetaro akempoyeiri piyotachari shimperentsi nashiyetachari, piyoti. Aparopeni shiperentsi ojaa okempetaro oshi imonkarayetantarori irooriki.	Ora obana irointi sankenataokrentsi ashi ñakarontsi.	contradiction
+25466	cni	Okemetaro akempoyeiri piyotachari shimperentsi nashiyetachari, piyoti. Aparopeni shiperentsi ojaa okempetaro oshi imonkarayetantarori irooriki.	Ora tabulaciones timatsi osheki osankenatakotiri.	entailment
+25467	cni	Okemetaro akempoyeiri piyotachari shimperentsi nashiyetachari, piyoti. Aparopeni shiperentsi ojaa okempetaro oshi imonkarayetantarori irooriki.	Ora shimperentsi onijantiro saldo actual maaroni ora cuentas.	neutral
+25468	cni	Tee nokossanotero jaoka pikanterori pantero.	Tee nokoasanotero aririka pantero abisati teerika itsipasatiki.	neutral
+25469	cni	Tee nokossanotero jaoka pikanterori pantero.	Tee nokoasanotero jaoak okantari poijateri.	entailment
+25470	cni	Tee nokossanotero jaoka pikanterori pantero.	Nokoi niyotasanote jaoka pikanterori oka.	contradiction
+25471	cni	Yobaajeitanaja Mallard Creek Charlotte.	Ibetsikajeitake aparo pankotsi Mallard Creek.	neutral
+25472	cni	Yobaajeitanaja Mallard Creek Charlotte.	Tee katsini yobaajeitea Charlotte.	contradiction
+25473	cni	Yobaajeitanaja Mallard Creek Charlotte.	Impoiji itimajeitaji Mallard Creek.	entailment
+25474	cni	Iriorijni ikantani, irirori iritake itomini ministro, opoña, otimimotiri yashiyetaripee, jero otsipapee ikaratabakantari nampitsiki ineshinonkayeetiri.	Iriri ini pashitoori luterano.	neutral
+25475	cni	Iriorijni ikantani, irirori iritake itomini ministro, opoña, otimimotiri yashiyetaripee, jero otsipapee ikaratabakantari nampitsiki ineshinonkayeetiri.	Iriri ini convicto tee ijateni iglesiaki.	contradiction
+25476	cni	Iriorijni ikantani, irirori iritake itomini ministro, opoña, otimimotiri yashiyetaripee, jero otsipapee ikaratabakantari nampitsiki ineshinonkayeetiri.	Iriri ini pashitoorini.	entailment
+25477	cni	Jampakea, tee noyoteni jaoka okantari ikoayetiri.	Tee niyoteni ikoirika kamantatantsi okantakota horario ashi viaje.	neutral
+25478	cni	Jampakea, tee noyoteni jaoka okantari ikoayetiri.	Nopakeri maaroni okantayeta tempa niyotake ikoironi.	contradiction
+25479	cni	Jampakea, tee noyoteni jaoka okantari ikoayetiri.	Tee yamabentea jaoka okarati otsantsati otsonpoinare otimi.	entailment
+25480	cni	Aisati um, oni opashiniti aparopeeni ayompariteari, otimimotakeri maaroni ibapeeriyetari.	Iriori tee otimimoteri kempoyayetacharipee.	contradiction
+25481	cni	Aisati um, oni opashiniti aparopeeni ayompariteari, otimimotakeri maaroni ibapeeriyetari.	Ikempoyeiro maaroni kempoyayetacharipee.	entailment
+25482	cni	Aisati um, oni opashiniti aparopeeni ayompariteari, otimimotakeri maaroni ibapeeriyetari.	Ikempoyeijeitiro ora kempoyayetachari abitantsi aisati kearioperotatsiri.	neutral
+25483	cni	Kemtaka orijanikitatsiri,okemetaka ora opakenari aitaek otimiri okantayeta opomerentsita iro apitetapatsiri maaroni orijaniktapaatsiri.	Iroori opake apite tsonkaichari.	entailment
+25484	cni	Kemtaka orijanikitatsiri,okemetaka ora opakenari aitaek otimiri okantayeta opomerentsita iro apitetapatsiri maaroni orijaniktapaatsiri.	Iroori opakena apite kantashitachari obametantsi irointi nakeri tsonkainchari.	neutral
+25485	cni	Kemtaka orijanikitatsiri,okemetaka ora opakenari aitaek otimiri okantayeta opomerentsita iro apitetapatsiri maaroni orijaniktapaatsiri.	Iroori apatiro opakena tsonkaincharin timatsi kapichaji otsapare.	contradiction
+25486	cni	Keariosanotake tee otimeni Augusta, otimini... kameetsa, piyoti, Augusta tekerata onampitsiteta ainiro orijanikitapai yora atiri timayetatsiri nampitsipeeki antyaroite okemeta oka, Augusta tee antyaroteji.	Augusta itimi 10000 atiri.	neutral
+25487	cni	Keariosanotake tee otimeni Augusta, otimini... kameetsa, piyoti, Augusta tekerata onampitsiteta ainiro orijanikitapai yora atiri timayetatsiri nampitsipeeki antyaroite okemeta oka, Augusta tee antyaroteji.	Augusta kaari oni antyaroite nampitsi.	entailment
+25488	cni	Keariosanotake tee otimeni Augusta, otimini... kameetsa, piyoti, Augusta tekerata onampitsiteta ainiro orijanikitapai yora atiri timayetatsiri nampitsipeeki antyaroite okemeta oka, Augusta tee antyaroteji.	Isaikini oniyakitinta Augusta.	contradiction
+25489	cni	Otsonkantapaakari 1962 naake kantakantantsi nojatantaje Washingtonki, DC	Ikanteetakena nikoji ora DC.	entailment
+25490	cni	Otsonkantapaakari 1962 naake kantakantantsi nojatantaje Washingtonki, DC	Yora ejercto itiyankakena DC intsipaite.	neutral
+25491	cni	Otsonkantapaakari 1962 naake kantakantantsi nojatantaje Washingtonki, DC	Ikanteetajan nojate Africaki.	contradiction
+25492	cni	Ari ora DOT aajiro ashiyetari aabajeitanaja orijanikiki kipatsi Concord, kaari oshineta intime abirapee tempa tsipareayetaka kipatsi, aitake otsonkari iyenketsatakore pirantsipee.	Abanko Concordki tee ikoakantayeteri pirantsipee.	entailment
+25493	cni	Ari ora DOT aajiro ashiyetari aabajeitanaja orijanikiki kipatsi Concord, kaari oshineta intime abirapee tempa tsipareayetaka kipatsi, aitake otsonkari iyenketsatakore pirantsipee.	Abanko Concordki otimi 30000 acres jeri osheki birantsipee.	contradiction
+25494	cni	Ari ora DOT aajiro ashiyetari aabajeitanaja orijanikiki kipatsi Concord, kaari oshineta intime abirapee tempa tsipareayetaka kipatsi, aitake otsonkari iyenketsatakore pirantsipee.	Apimantajeitakeri maaroni abirapee abajeitantanajari Concordki.	neutral
+25495	cni	Paitapeerika aitake amatajero abaajeitanajea, ari ikante meeka ajajeitaje Kadina, teerika Okinawa, oka osarentsiki 1968.	Abaajeitana maaroni akarajeitiri 1968.	entailment
+25496	cni	Paitapeerika aitake amatajero abaajeitanajea, ari ikante meeka ajajeitaje Kadina, teerika Okinawa, oka osarentsiki 1968.	Tekatsi katsini atsonkajeiteriji aajeitanajeri.	contradiction
+25497	cni	Paitapeerika aitake amatajero abaajeitanajea, ari ikante meeka ajajeitaje Kadina, teerika Okinawa, oka osarentsiki 1968.	Atiyankajeitakeri asorarotepee Japonki junio 1968.	neutral
+25498	cni	Ikantana ikoajeiti tampatikari ikoajeotiri meeka.	Ikanti ari omatakea ipajeitero ariorika otantanakea.	contradiction
+25499	cni	Ikantana ikoajeiti tampatikari ikoajeotiri meeka.	Iknatake yoye ikarate 2 p.m atsonkantearori maaroni antabeerentsi.	neutral
+25500	cni	Ikantana ikoajeiti tampatikari ikoajeotiri meeka.	Ikantake irointi intsipaiteni.	entailment
+25501	cni	Jajeitanaji ikantanakena eiro nokenkeshireatsi.	Ikantake pijibatanake pobameetsatero obametantsipanko.	neutral
+25502	cni	Jajeitanaji ikantanakena eiro nokenkeshireatsi.	Ikanti eiro pikenkeshireashita.	entailment
+25503	cni	Jajeitanaji ikantanakena eiro nokenkeshireatsi.	Ikanti monkaratapaaka oorea akianteari tsaroantsiki.	contradiction
+25504	cni	Irotake, oka piyotake. Pamene timatsi pomerentsitimotimpiri.	Kobenkatakotakempi.	entailment
+25505	cni	Irotake, oka piyotake. Pamene timatsi pomerentsitimotimpiri.	¡Kameetsatakempi!	contradiction
+25506	cni	Irotake, oka piyotake. Pamene timatsi pomerentsitimotimpiri.	Kobenkatakotakempi yayeetempi.	neutral
+25507	cni	Ina otsokakero tee iro ineshinokare intantakarori, ah, arikea omatea relegada antabeete obantsiki iriokea itsipa jananeki tee yantabeeteni obantsiki.	Ina otimatiye okoyero ampeji aisati shinki.	neutral
+25508	cni	Ina otsokakero tee iro ineshinokare intantakarori, ah, arikea omatea relegada antabeete obantsiki iriokea itsipa jananeki tee yantabeeteni obantsiki.	Ina irointini tsinane de oro tee antabeeteni katsini.	contradiction
+25509	cni	Ina otsokakero tee iro ineshinokare intantakarori, ah, arikea omatea relegada antabeete obantsiki iriokea itsipa jananeki tee yantabeeteni obantsiki.	Ina otimatiye antabeete nikoji.	entailment
+25510	cni	Piyotiro, otsonkapaka, piyoti. Isampijeitakero atiripe, aparo jeri itsipapee, tekatsi iyotatsine jaoka osaikaitiri, piyoti orijaniki apatiabakaja omatanteari eiro oñaantajaritsi Joe.	Joe irintini apinti timironiri llave ashi apatotantsi imaorentari.	neutral
+25511	cni	Piyotiro, otsonkapaka, piyoti. Isampijeitakero atiripe, aparo jeri itsipapee, tekatsi iyotatsine jaoka osaikaitiri, piyoti orijaniki apatiabakaja omatanteari eiro oñaantajaritsi Joe.	Apanirotantsiki akemajeitake tee amateroji aayete ikoiri Joe yojokajeitanake asabikajeiti kameetsa.	contradiction
+25512	cni	Piyotiro, otsonkapaka, piyoti. Isampijeitakero atiripe, aparo jeri itsipapee, tekatsi iyotatsine jaoka osaikaitiri, piyoti orijaniki apatiabakaja omatanteari eiro oñaantajaritsi Joe.	Aparo kitaiteri,Joe ijaiti tekatsi iyotatsine jaoka ijatirini.	entailment
+25513	cni	Nokantakeri irointi ashi notsiro.	Pimonkaratenero notsiro.	entailment
+25514	cni	Nokantakeri irointi ashi notsiro.	Nokanti irointi nashi.	contradiction
+25515	cni	Nokantakeri irointi ashi notsiro.	Nokantajeitakeri yora otsiti irointi ashitariri notsiro.	neutral
+25516	cni	Impoiji ikantiro iniro, ora iniro oibotanaka isaikajeitakenta amenanake okanti pikemetari paniiti iriori.	Iroori okanti ora iniro aisati okemeta aniiti otsobitakotariki.	neutral
+25517	cni	Impoiji ikantiro iniro, ora iniro oibotanaka isaikajeitakenta amenanake okanti pikemetari paniiti iriori.	Iroori okanti ora iniro timatsi okempeta ariroika aniite	entailment
+25518	cni	Impoiji ikantiro iniro, ora iniro oibotanaka isaikajeitakenta amenanake okanti pikemetari paniiti iriori.	Okanti ora iniro katiyaporokitaka tee omateaji aniite.	contradiction
+25519	cni	piyoti, iroori ojairo ora petalos anta naro tee niyoteni oka kantayetainchari.	Tee niyoteni ari ojatake omantsiasanote.	neutral
+25520	cni	piyoti, iroori ojairo ora petalos anta naro tee niyoteni oka kantayetainchari.	Tee niyoteni paita abishomoteroneri iroori.	entailment
+25521	cni	piyoti, iroori ojairo ora petalos anta naro tee niyoteni oka kantayetainchari.	Piyotini okarate abisatsineri ariorika antakero iroori oka.	contradiction
+25522	cni	Jibatatsiri okenkeshireari nirento aitaeke abishimotakenari aka patioki akakerokanta.	Tee otimimotajena kenkeshireantsi onta pankotsi.	contradiction
+25523	cni	Jibatatsiri okenkeshireari nirento aitaeke abishimotakenari aka patioki akakerokanta.	Nokenkeshirea naabajiro marakarita paatioki akakeroka.	neutral
+25524	cni	Jibatatsiri okenkeshireari nirento aitaeke abishimotakenari aka patioki akakerokanta.	Nokenkeshireajiro okarati abisaintsiri anta paatioki akakeroka.	entailment
+25525	cni	Ari oka maaroni bashiretakantsi, okantea,otimimotiro okantantari obashireta meeka, okemetaro, pipashitakaro kaari piyotiri jaoka pikanterori aisati jaoka okanta irero, pantero.	Tee niyoteroji jaoka ankanterori antabeerentsi oka ipayeetakenari meeka.	entailment
+25526	cni	Ari oka maaroni bashiretakantsi, okantea,otimimotiro okantantari obashireta meeka, okemetaro, pipashitakaro kaari piyotiri jaoka pikanterori aisati jaoka okanta irero, pantero.	Ikantajeitakena pampinajearo ora caja de fusibles ashi saikakomentotsi, iro tee niyoteji ora cableado electrico.	neutral
+25527	cni	Ari oka maaroni bashiretakantsi, okantea,otimimotiro okantantari obashireta meeka, okemetaro, pipashitakaro kaari piyotiri jaoka pikanterori aisati jaoka okanta irero, pantero.	Meeka ikoakoyetakenaro irointi nate antabeerentsitatsiri okameetsatimotake.	contradiction
+25528	cni	Meekakea, jerokatake, pikoiro meeka.	Okanti ari omatakero ayero jaokarikepee.	contradiction
+25529	cni	Meekakea, jerokatake, pikoiro meeka.	Okanti okoiro aitearo intsipaiteni meeka.	entailment
+25530	cni	Meekakea, jerokatake, pikoiro meeka.	Okanti okoi ayero ora antabeerentsi otsonkanakearika tekerata yaretea 5 p.m.	neutral
+25531	cni	Amashitanajaapiajeitanaja abaajeitaja.	Abajeitaja otsipaniki kitaiteri.	entailment
+25532	cni	Amashitanajaapiajeitanaja abaajeitaja.	Abajeitaja otsipaniki nampitsi 1992.	neutral
+25533	cni	Amashitanajaapiajeitanaja abaajeitaja.	Tee katsini ashebayeteaji impoijini oka.	contradiction
+25534	cni	Tee niyotasanoteroji ora tsinane Faulk, iroori otimini osarentsite 80 osarentsi irointini kameetsaro atiri noñaabetakaro kapichaji, osheki otsaroashireake airo ora nerviosa oka.	Noñaakero ora tsinane Fulk kapichaji, iro tee niyotasanotero kameetsa.	entailment
+25535	cni	Tee niyotasanoteroji ora tsinane Faulk, iroori otimini osarentsite 80 osarentsi irointini kameetsaro atiri noñaabetakaro kapichaji, osheki otsaroashireake airo ora nerviosa oka.	Notsipabintsatari okempejitari ora tsinane Faulk.	contradiction
+25536	cni	Tee niyotasanoteroji ora tsinane Faulk, iroori otimini osarentsite 80 osarentsi irointini kameetsaro atiri noñaabetakaro kapichaji, osheki otsaroashireake airo ora nerviosa oka.	Ora tsinane Fulk antakotironi Honda kiteriri maaroni kitaiteriki ajatanteari.	neutral
+25537	cni	Atimajeitini 85 Mallard Creek, iro meeka oni 485tempakea otimatiye aabajeitanajea otimaiti ora 485.	Atimajeitake anta pankotsiki kenashiri.	neutral
+25538	cni	Atimajeitini 85 Mallard Creek, iro meeka oni 485tempakea otimatiye aabajeitanajea otimaiti ora 485.	Atimajeitini anta oshekisanori osarentsi.	entailment
+25539	cni	Atimajeitini 85 Mallard Creek, iro meeka oni 485tempakea otimatiye aabajeitanajea otimaiti ora 485.	Apatiro atimajeitini anta apite tsonkitai.	contradiction
+25540	cni	Colega, kemebeitaka otimimoteri yatiritantari, pabachori.	Akisanentajeibetaka.	entailment
+25541	cni	Colega, kemebeitaka otimimoteri yatiritantari, pabachori.	Nobinkatsarite isaikaiti ikimoshiresanoti o itsabiasanotati.	neutral
+25542	cni	Colega, kemebeitaka otimimoteri yatiritantari, pabachori.	Nobinkatsariteimetsotini aisati joijantanti.	contradiction
+25543	cni	Ikametsataperotake antyari irintanteari.	Irinti ini 27 oosarentsi nantyarite narori.	neutral
+25544	cni	Ikametsataperotake antyari irintanteari.	Irinti ini osheki yebankariti naroriki.	contradiction
+25545	cni	Ikametsataperotake antyari irintanteari.	Irinti ini antyarishekitirori narori.	entailment
+25546	cni	Maaroni ikaratbakaajeita aisati dios, tee niyote jaoka okarati kitaiteri.	Tee niyote jaoka okarate kitaiteri osamanite.	entailment
+25547	cni	Maaroni ikaratbakaajeita aisati dios, tee niyote jaoka okarati kitaiteri.	Tee niyote jaoka okarate kitaiteri osamanite ora kenketsatakorentsi.	neutral
+25548	cni	Maaroni ikaratbakaajeita aisati dios, tee niyote jaoka okarati kitaiteri.	Niyoti omonkarata 4 pies(10cm) otsantsati.	contradiction
+25549	cni	Oka tee nokemeaji nokimoshirete nosaikantaitari anta tempa nokemaitiro obashiretantsi.	¡Nosaikini nokimoshirebeitani aisati nomaokoreake!	contradiction
+25550	cni	Oka tee nokemeaji nokimoshirete nosaikantaitari anta tempa nokemaitiro obashiretantsi.	Nokoashireasanotanake nokoi nokimoshiretanteari tempa ari areetakeame aparoni kitaiteri.	neutral
+25551	cni	Oka tee nokemeaji nokimoshirete nosaikantaitari anta tempa nokemaitiro obashiretantsi.	Nokoashireasnotanake nokoi nokimoshiretanteari tempa iroori osaikaiti ara.	entailment
+25552	cni	osheki oka okantakota ora inapee iroojeitake drogodependiente	Ora inapee irojeitake drogadictas.	neutral
+25553	cni	osheki oka okantakota ora inapee iroojeitake drogodependiente	Ora inapee tee anteroji okantakotiri aabintarontsipee.	contradiction
+25554	cni	osheki oka okantakota ora inapee iroojeitake drogodependiente	Ora inapee irajeitiro drogas	entailment
+25555	cni	Jee, keariotake okameetsati, opariayaiti inkani.	Tee nokoasanotero ora inkani.	neutral
+25556	cni	Jee, keariotake okameetsati, opariayaiti inkani.	Kameetsa oni aisati inkanijenkatii.	entailment
+25557	cni	Jee, keariotake okameetsati, opariayaiti inkani.	Shiramparisanotake ishiyari itsibota oorea kaari makoreatsi.	contradiction
+25558	cni	Oh, okoanta añamentotsi atiri ari omatea teerika amitakotajero otsipaki.	Maaroni añamentotsi okameetsati amitakotajero jero apitetatsiri okoakayeri.	neutral
+25559	cni	Oh, okoanta añamentotsi atiri ari omatea teerika amitakotajero otsipaki.	Tekatsi atiri koeroneri amitakotantsi.	contradiction
+25560	cni	Oh, okoanta añamentotsi atiri ari omatea teerika amitakotajero otsipaki.	Yapanirotanteari ashi amitakotantsi, ashi añaamento okameetsatasanoti.	entailment
+25561	cni	oh, jananeki, jerika aparoni kaari añaapiniti pomerentsiri ashi cableado	Tekatsi katsini ñeeroneri peerani oka nashiyetachari pomerentsiri ashi cableado.	neutral
+25562	cni	oh, jananeki, jerika aparoni kaari añaapiniti pomerentsiri ashi cableado	Ora cableado kaari oni pomerentsitantsi.	contradiction
+25563	cni	oh, jananeki, jerika aparoni kaari añaapiniti pomerentsiri ashi cableado	Timatsi pomerentsitantsi opoñantari oka kaari añaayetiri cableado.	entailment
+25564	cni	opoimati ñaatsarontsiki, imapokakayetanaro jaoka okarati timatsineri añeiri	Tee imapokasanoyetenaji okarati abisaintsi ora indulgentes.	contradiction
+25565	cni	opoimati ñaatsarontsiki, imapokakayetanaro jaoka okarati timatsineri añeiri	Imapokayeta yoiminkakayeteri irobanaro jero imireteri anta.	neutral
+25566	cni	opoimati ñaatsarontsiki, imapokakayetanaro jaoka okarati timatsineri añeiri	Imapokayeta okarati yareeyetakari yaakeri.	entailment
+25567	cni	jee, okameetsati, ariorika pitsonkanankero pobetsikea maaroniki antabeerentsi irotake amitakotanakempiri... ari pimakatea pijate Clud Med ashi makoreantsi maaroni okaratero.	Opinata $ 2000 pamanantanteari maaroni pikoayetiri.	neutral
+25568	cni	jee, okameetsati, ariorika pitsonkanankero pobetsikea maaroniki antabeerentsi irotake amitakotanakempiri... ari pimakatea pijate Clud Med ashi makoreantsi maaroni okaratero.	Opinata osheki pikitsatearika abisati.	entailment
+25569	cni	jee, okameetsati, ariorika pitsonkanankero pobetsikea maaroniki antabeerentsi irotake amitakotanakempiri... ari pimakatea pijate Clud Med ashi makoreantsi maaroni okaratero.	Opinata kapichaji akitsatearika.	contradiction
+25570	cni	oh, iro maaroni irashi itomipee meeka otimi tsapite aisati pitetsa otsi, arikea eiro otimantatsi paitarika	Tee okoasanoteaji tempa notomipee timatsi abisanke pitetsa osarentsi.	entailment
+25571	cni	oh, iro maaroni irashi itomipee meeka otimi tsapite aisati pitetsa otsi, arikea eiro otimantatsi paitarika	Ari nomatakero nantero, jampakea aretakari irosarentsite.	neutral
+25572	cni	oh, iro maaroni irashi itomipee meeka otimi tsapite aisati pitetsa otsi, arikea eiro otimantatsi paitarika	Otimatiye nantero tempa apiteketi otimi tsa jero tsaaparo irosarentsite.	contradiction
+25573	cni	¡Pijate! Kameetsa oka oni fresno.	Notimake Fresnoki.	neutral
+25574	cni	¡Pijate! Kameetsa oka oni fresno.	Tee nokantasanote jaoka otimi oka.	contradiction
+25575	cni	¡Pijate! Kameetsa oka oni fresno.	Noakantimpi irotake oka Fresno.	entailment
+25576	cni	Jee, atiri iriotake timatsineri antabeerentsiki jaokarika okantapaiteanakea o ikantayeteri ari omenkoriteamane otimatiye yayero ikantajeitiri.	Jee, atiri amashitea teerika iyote yaayetero ora inkantayetiri.	entailment
+25577	cni	Jee, atiri iriotake timatsineri antabeerentsiki jaokarika okantapaiteanakea o ikantayeteri ari omenkoriteamane otimatiye yayero ikantajeitiri.	Jee, atiri amashitea terikamachata ayeri itashe.	neutral
+25578	cni	Jee, atiri iriotake timatsineri antabeerentsiki jaokarika okantapaiteanakea o ikantayeteri ari omenkoriteamane otimatiye yayero ikantajeitiri.	Jee, atiri okarati tikakotiri ashi ikantayetiri eirokea katsini ashereantari.	contradiction
+25579	cni	Tekerata, irosatitatsi oshonkaro. Otimi irosati oshonkata opoñaanaka otsonkantapaari osarentsi ikotsa.	Okantani omoyekaita intanakaro peerani 1970.	entailment
+25580	cni	Tekerata, irosatitatsi oshonkaro. Otimi irosati oshonkata opoñaanaka otsonkantapaari osarentsi ikotsa.	Onimotiri yante aniyetantsi.	neutral
+25581	cni	Tekerata, irosatitatsi oshonkaro. Otimi irosati oshonkata opoñaanaka otsonkantapaari osarentsi ikotsa.	Otsonkanakaro oshonka irobakera.	contradiction
+25582	cni	jaoka pikanteari pante aerobicos	¿Ari pimatakea pikamantenaro pantanteari aerobic?	entailment
+25583	cni	jaoka pikanteari pante aerobicos	Nokoasanotakero ora aerobic tempa nokoakero natanteari ashi nantabeerentsi cardiovascular.	neutral
+25584	cni	jaoka pikanteari pante aerobicos	Pipeakotenaro, aitapaji piñaanatake okantakota antaberentsi aerobicos.	contradiction
+25585	cni	Kameetsa, irotake oka kameetsari tee nokenkeshireajero jee ari.	Oka irointi aparo kenkeshireantsi kaariperori nojokakero otsipaniki tsonkitai.	contradiction
+25586	cni	Kameetsa, irotake oka kameetsari tee nokenkeshireajero jee ari.	Oka irointi aparo kameetsari añanatakoteri.	entailment
+25587	cni	Kameetsa, irotake oka kameetsari tee nokenkeshireajero jee ari.	Ora paradoja akamantakotakeri okameetsati añaanatakoteri.	neutral
+25588	cni	kempoyamentotsi apitetatsiri kitaiteri tsonkitaiteriki,ipajiyeetiro kempoyamentotsi irashin mabatapaatsir irosarentsite irotake yairi oniyankire mabatatsiri osarentsi	Ora kempoyamentotsi ashitareaka maaroni kitaiterikiirashi jananeki orijanikiri irosarentsite koni apatirosanotatsiri.	contradiction
+25589	cni	kempoyamentotsi apitetatsiri kitaiteri tsonkitaiteriki,ipajiyeetiro kempoyamentotsi irashin mabatapaatsir irosarentsite irotake yairi oniyankire mabatatsiri osarentsi	Ijapinijeitake apite tsonkitaiteriki iriorika yora atiri manatatsiri irosarentsite irosati jenokinta.	neutral
+25590	cni	kempoyamentotsi apitetatsiri kitaiteri tsonkitaiteriki,ipajiyeetiro kempoyamentotsi irashin mabatapaatsir irosarentsite irotake yairi oniyankire mabatatsiri osarentsi	Irootake ikanteetiri aparo kempoyamentotsi irashi antyashiparipee, iro ibajiro niyakitakore irashi atiri antyaritapaatsiripee.	entailment
+25591	cni	timatsi amsuajeitiri aka teleki	Irootake oka ishintsimentakeri.	entailment
+25592	cni	timatsi amsuajeitiri aka teleki	Oka katsini tee ikoajeiteroni.	contradiction
+25593	cni	timatsi amsuajeitiri aka teleki	Areejeitakaro areeteari.	neutral
+25594	cni	okontororatea manamentotsi ikantakotiri apajirikantearo apite akotsi	OniyankitInta maaroni opeayeta oitsoki pistola irojeitake oshitobantari ora aparoniki akotsi.	neutral
+25595	cni	okontororatea manamentotsi ikantakotiri apajirikantearo apite akotsi	Ora okameetsatanteari okontororateamanamentotsi antearo apiteketi iitintsi.	contradiction
+25596	cni	okontororatea manamentotsi ikantakotiri apajirikantearo apite akotsi	Pantantearo apiteketi akotsi pikoirika piñaante pikontororateri manamentotsi.	entailment
+25597	cni	aamashiteata ipoñeempa otsipaki nampitsi tee niyote jaoakrika opoñaari iro	Tee niyote jaoak opoañari irokea, intsupaite.	entailment
+25598	cni	aamashiteata ipoñeempa otsipaki nampitsi tee niyote jaoakrika opoñaari iro	Impoke intsipaite iro niyotakeri jaoka ipoñenpari.	neutral
+25599	cni	aamashiteata ipoñeempa otsipaki nampitsi tee niyote jaoakrika opoñaari iro	Impoke ikemetemparo melaza niyoti jaoka okarate opoke.	contradiction
+25600	cni	tee, anteroji aisati tee niyoteroji, te noshiretearoji	Tee niyotasanotero osheki okantakota oka.	entailment
+25601	cni	tee, anteroji aisati tee niyoteroji, te noshiretearoji	Naro kaari iyotinkari okantakota nintantentsi.	neutral
+25602	cni	tee, anteroji aisati tee niyoteroji, te noshiretearoji	Noshitooriabetaka oka oshekiki osarentsi.	contradiction
+25603	cni	Piyotirika iroorika kameetsaroni.	Okenmisantiro nokempetarini ikoasanoyeetiri.	neutral
+25604	cni	Piyotirika iroorika kameetsaroni.	Tee, iroori irointini kaari kameetsatatsi.	contradiction
+25605	cni	Piyotirika iroorika kameetsaroni.	Jee, iroori rointikea okameemtsatasanoti.	entailment
+25606	cni	Jee, ikantashita ironinti pamanante fregona okemetearo oka pikenantakari.	Ikantake yamanante aparo aspiradora.	contradiction
+25607	cni	Jee, ikantashita ironinti pamanante fregona okemetearo oka pikenantakari.	Ikantake añaanteari aparo ora fregona.	entailment
+25608	cni	Jee, ikantashita ironinti pamanante fregona okemetearo oka pikenantakari.	Ikoabentaka ishetajerome iriraja aparo setamentotsi.	neutral
+25609	cni	Aka otimakeri oka konijari kaari kameetsatatsi irobakero otim ake mantabakantsi anta autyopistaki, maba manzana aka abankoki.	Ora manamanatantsi otimake otsantsati okarati 100 millas anta nosaikinta.	contradiction
+25610	cni	Aka otimakeri oka konijari kaari kameetsatatsi irobakero otim ake mantabakantsi anta autyopistaki, maba manzana aka abankoki.	Ora manamanatantsi kempejinenta nobankoki notsaroi noshitoye.	neutral
+25611	cni	Aka otimakeri oka konijari kaari kameetsatatsi irobakero otim ake mantabakantsi anta autyopistaki, maba manzana aka abankoki.	Otimaiti aparo manamanatantsi kempeji nobankoki, tee okameetsateji aka.	entailment
+25612	cni	oh, kaari oni keariori, oh, consistente	Tee nokoasanoteroji pikantir abirori , pikantapinitiro.	contradiction
+25613	cni	oh, kaari oni keariori, oh, consistente	Keariotake otimii okantakota ora consistencia.	neutral
+25614	cni	oh, kaari oni keariori, oh, consistente	Timatsi pikekeshireari okantakota okakiji kaari oni consistente.	entailment
+25615	cni	namabetiro nokempoyantearori anta.	Noñaantaro nokisoiri iriorii.	entailment
+25616	cni	namabetiro nokempoyantearori anta.	Keariosanotake nantatiro kameetsasano imateri.	neutral
+25617	cni	namabetiro nokempoyantearori anta.	Nojatasanotaje eiro katsini namananaje notapiiki.	contradiction
+25618	cni	jee, ¿paita itsipasati irijani timimotimpiri?	¿Yora pirijani irin ti kameetsari jananeki?	neutral
+25619	cni	jee, ¿paita itsipasati irijani timimotimpiri?	¿Paita itsipasati miishi paayetabajiri?	contradiction
+25620	cni	jee, ¿paita itsipasati irijani timimotimpiri?	¿Paita itsipasati otsiti ebonkiri timimotimpiri?	entailment
+25621	cni	Kameetsa, pikantake tinatsi pitomipee, ¿jaoka oakaratiri irosarentsite?	¿Jaoka ikaratiri pitomipee timatsiri?	neutral
+25622	cni	Kameetsa, pikantake tinatsi pitomipee, ¿jaoka oakaratiri irosarentsite?	Nokenkeshireakotimpi nojitake eiro itimitsi pitomi.	contradiction
+25623	cni	Kameetsa, pikantake tinatsi pitomipee, ¿jaoka oakaratiri irosarentsite?	Pikantake timatsi pitomipee, ¿paita irosarentsite timatsiri?	entailment
+25624	cni	keariosanotakerika kaari ini atiri iyotatinkari ashi kipatsi, irokantaincha pikeme, iriojeitake osheki kameetsatasanotake oka... ikoajeitakeri atiripee koasanotatsiri ishitooriate	Amashitakea teerika iyotasanoteji, irokantaincha irirojeitake kameetsatasanotatsiri ikoasanojeitakeri shitooriajeitatsiri.	entailment
+25625	cni	keariosanotakerika kaari ini atiri iyotatinkari ashi kipatsi, irokantaincha pikeme, iriojeitake osheki kameetsatasanotake oka... ikoajeitakeri atiripee koasanotatsiri ishitooriate	Irintini iyotinakripee, ikantashijeitanaka ikemetanakari kaariperori ikempejitapaakari itsipappe kaari ini iyotasanoti.	neutral
+25626	cni	keariosanotakerika kaari ini atiri iyotatinkari ashi kipatsi, irokantaincha pikeme, iriojeitake osheki kameetsatasanotake oka... ikoajeitakeri atiripee koasanotatsiri ishitooriate	Iriojeitanake marereasanotanaintsiri, iñaajeitakero paiatapeerika ikoasanoti ishitooriate.	contradiction
+25627	cni	Aparoni kitaiteri ajajeitaiti konijariki ek, anta apiajeitaja aparoniki antabeerentsiki atsibojjeitapaja tsiomentotsiki añaapakero apro otimaiti mafeta	Yora zorrillo yoyake apiyajeitaje campamentoki.	neutral
+25628	cni	Aparoni kitaiteri ajajeitaiti konijariki ek, anta apiajeitaja aparoniki antabeerentsiki atsibojjeitapaja tsiomentotsiki añaapakero apro otimaiti mafeta	Añaajeitapairi aparo kaabira campamentoki impoiniji itsibakantanakari tsiborontsipee.	contradiction
+25629	cni	Aparoni kitaiteri ajajeitaiti konijariki ek, anta apiajeitaja aparoniki antabeerentsiki atsibojjeitapaja tsiomentotsiki añaapakero apro otimaiti mafeta	Apiajeitajaro anta antabeerentsiki akemajeitapairi mofeta.	entailment
+25630	cni	piyoti, maaroni notomipee iriojeitake kameetsari,ikameetsatasanoti nokantro, iyojeiti antyaripe iriori aisati ,iro	Piyotaji itsipaki jananekipee antayritaintsirimaaroni noshaninkajeitajeari.	entailment
+25631	cni	piyoti, maaroni notomipee iriojeitake kameetsari,ikameetsatasanoti nokantro, iyojeiti antyaripe iriori aisati ,iro	Nokimoshiretake osheki iyojeitanake notomipee.	neutral
+25632	cni	piyoti, maaroni notomipee iriojeitake kameetsari,ikameetsatasanoti nokantro, iyojeiti antyaripe iriori aisati ,iro	Yora nojananekitepee irinti kaariperoirpee.	contradiction
+25633	cni	aisati otikabakeri ora kajarashi irashi atiripee yojokayetiri mmm.., mmm.., ityikairi oboimatsare kempeji oka kapichaji pomerentsitainchari keariosanori okantakotiri tenarentsipee	Ora tikayetakotirori oshekiantari kajarashi okakijitake pomerentsiri otenayeti kajarashipee irosatiriki.	entailment
+25634	cni	aisati otikabakeri ora kajarashi irashi atiripee yojokayetiri mmm.., mmm.., ityikairi oboimatsare kempeji oka kapichaji pomerentsitainchari keariosanori okantakotiri tenarentsipee	Yora atiri eiro ikenkeshireatsi okarati oshekiake kajarashi okarati oka yojakayetiri okantakotiri.	contradiction
+25635	cni	aisati otikabakeri ora kajarashi irashi atiripee yojokayetiri mmm.., mmm.., ityikairi oboimatsare kempeji oka kapichaji pomerentsitainchari keariosanori okantakotiri tenarentsipee	Yora atir ikoajeiti abakoyetajeri oshekiantari kemeri otenanka kajajrashi osheki okimotatananke.	neutral
+25636	cni	aritake, otimakerika amshitantsi irointi pamashire nokantiri	Eiro pikekeshireatsi, arika otimake amashirentsi namitakotempi kantakantantsi.	contradiction
+25637	cni	aritake, otimakerika amshitantsi irointi pamashire nokantiri	Aritakerika otimake ashirentsi irointi pikantakantiri pashi.	entailment
+25638	cni	aritake, otimakerika amshitantsi irointi pamashire nokantiri	Aritake pantakero mashitantsi, otimatiye pashitearoirashi iriori.	neutral
+25639	cni	Piyoti... maaroniki ariroika ante atsitantsi iriotake obametsatirori yora antsitirori iyotakosanotirori.	Ora antsitantsi antantearori itimatiye amenaperotero.	entailment
+25640	cni	Piyoti... maaroniki ariroika ante atsitantsi iriotake obametsatirori yora antsitirori iyotakosanotirori.	Ora antsitantsI yantayetakero intsipaite ari añaakero te okanteji.	contradiction
+25641	cni	Piyoti... maaroniki ariroika ante atsitantsi iriotake obametsatirori yora antsitirori iyotakosanotirori.	Yajeitakero osheki kitaiteri itsonkantearori ora antsitantsipee.	neutral
+25642	cni	jee, jee, anta natabeereki ipayetempiro apite tsonkitai pintantyarori impoiji aparo osarentsi ipayetajempiroaparo kitaiteri okarate otsi tsonkitai	Pitaiterite ari oshekiate papropeniki osarentsi.	entailment
+25643	cni	jee, jee, anta natabeereki ipayetempiro apite tsonkitai pintantyarori impoiji aparo osarentsi ipayetajempiroaparo kitaiteri okarate otsi tsonkitai	Pitaiterite eiro pimatirotsi pitsokero maba kitaiteri.	contradiction
+25644	cni	jee, jee, anta natabeereki ipayetempiro apite tsonkitai pintantyarori impoiji aparo osarentsi ipayetajempiroaparo kitaiteri okarate otsi tsonkitai	Pitaiterite pimaoreantari oshekianake antabeerentsi nampitsiki.	neutral
+25645	cni	oka okameetsati antime anta nampitsiki, eiro pikenkeshireatsi paitarika oka timatsineri	Asaikanteari nampitsiki kemetaka tsaroantsiki constante okemetaro oka.	contradiction
+25646	cni	oka okameetsati antime anta nampitsiki, eiro pikenkeshireatsi paitarika oka timatsineri	Ora kameetsatatsiri asaike nampitsiki irointi eiro akenkeshireatsi ora konijatatsiri kemetarorim oka.	entailment
+25647	cni	oka okameetsati antime anta nampitsiki, eiro pikenkeshireatsi paitarika oka timatsineri	Iroperotatsiri anta asaikanteari obanentsiki eiro ikenkeshireatsi oka timatsiri nampitsiki.	neutral
+25648	cni	oh, oh Tasorentsi, kameetsari, opimti okempetaro kibantantsi	Okemetaro oka akimoshirebentiro o osheki ashemashirea.	neutral
+25649	cni	oh, oh Tasorentsi, kameetsari, opimti okempetaro kibantantsi	Aitake okanta opoimati okemetaro antyaro kibantantsi.	entailment
+25650	cni	oh, oh Tasorentsi, kameetsari, opimti okempetaro kibantantsi	Kemetaka aparo abishomoteri kobenkatatsiri.	contradiction
+25651	cni	meeka otimimotana notsiro Alemaniaki	Meeka itimimotana norenti saikatsiri Alemaniaki.	entailment
+25652	cni	meeka otimimotana notsiro Alemaniaki	Timatsi notsiro osaiki meeka anta Cubakii.	contradiction
+25653	cni	meeka otimimotana notsiro Alemaniaki	Timatsi notsiro naañatiori alemán.	neutral
+25654	cni	Timatsi noshinto orijaniki meeka aisati opomerentsita antearori anta oka, iro nojate anta eh...	Ari nomatakero nanankero noshinto anta.	neutral
+25655	cni	Timatsi noshinto orijaniki meeka aisati opomerentsita antearori anta oka, iro nojate anta eh...	Kapichaji opomerentsita naroriki nantearori noshintoanta.	entailment
+25656	cni	Timatsi noshinto orijaniki meeka aisati opomerentsita antearori anta oka, iro nojate anta eh...	Timatsi amdeajeitiri aka teleki.	contradiction
+25657	cni	Jee, otimimotempi antyaroite osarentsi.	Noyakotero otimimotempi aparo makoreantsi osarentsi mashitsarentsi.	contradiction
+25658	cni	Jee, otimimotempi antyaroite osarentsi.	Kiariotake ora osarentsi osaike aka kapichaji itsonpoinaki.	neutral
+25659	cni	Jee, otimimotempi antyaroite osarentsi.	Jee, otime osarentsi kameetsaro.	entailment
+25660	cni	tee aro kearioperori naturalistas tektasi eh	Kearitatsiri tee yobakojeiteji naturalistas,.	entailment
+25661	cni	tee aro kearioperori naturalistas tektasi eh	¡Arojeitake maaroni kearioperori naturalistas opokimote kenkeshireantsiyetatsiri insullados ashi kenkeshirekotantsi!	contradiction
+25662	cni	tee aro kearioperori naturalistas tektasi eh	Nonimojeitake aparoni kitaiteri ashintsijeitanake apeanteari naturalista, iro oka kitaiteriki tee arojeiteji.	neutral
+25663	cni	nokenkeshireakotiri nochainepee noshitoini calleki nokoyeiro ora lata aisati eh	Aparopeeni yapatojeitempa irimpiayetero kajarashi calleki.	neutral
+25664	cni	nokenkeshireakotiri nochainepee noshitoini calleki nokoyeiro ora lata aisati eh	Namitakotirini chainepee nokoyakotiri latas carreteraki.	entailment
+25665	cni	nokenkeshireakotiri nochainepee noshitoini calleki nokoyeiro ora lata aisati eh	Ashitoajeitini ajajeiti kimoshirentsiki ibankoki irashi apa.	contradiction
+25666	cni	arikea oka kaari oni jibatatsiri abishimotimpiri aparoni otsitiki	Añamempeakaro, kaari oni oka pijibatiri joka otsiti.	entailment
+25667	cni	arikea oka kaari oni jibatatsiri abishimotimpiri aparoni otsitiki	Nokemiro, tee piyoteni oka meeka irointi jibatatsiri piñakotakeri otsiti.	contradiction
+25668	cni	arikea oka kaari oni jibatatsiri abishimotimpiri aparoni otsitiki	Oka kaari jibatatsiri omanejatiri aparo pirantsi abirayetari.	neutral
+25669	cni	keario, keario, eiro pantirotsi maaroni pimatiri	Ari pimatakero pikantena otsonkantapaari oka kenketsatakorentsi.	neutral
+25670	cni	keario, keario, eiro pantirotsi maaroni pimatiri	Eiro otimitsi pantero maaroni.	entailment
+25671	cni	keario, keario, eiro pantirotsi maaroni pimatiri	Okoasanota pabishero maaroni oka koasanotachari.	contradiction
+25672	cni	ay no naro notimi nikoji pankotsiki	Tee notime campuski.	entailment
+25673	cni	ay no naro notimi nikoji pankotsiki	Notimi aparoniki manzanapee ashi campus.	neutral
+25674	cni	ay no naro notimi nikoji pankotsiki	Notimi campuski.	contradiction
+25675	cni	notekatsitakoti oka kamantakotantsiki oka ikenteetakero kotsiroki ijinani irosati yobamantakaro iroori omaini otsipatari itsipa shirampari, mokanteri ojimeni ojokajiri piyotake oka añanantakotiri	Aparo shirampari yobamakero ijina iñakotakero itsipa shiramapri omamentoki irobakera obetsikaitiro oka kamantakotantsi.	entailment
+25676	cni	notekatsitakoti oka kamantakotantsiki oka ikenteetakero kotsiroki ijinani irosati yobamantakaro iroori omaini otsipatari itsipa shirampari, mokanteri ojimeni ojokajiri piyotake oka añanantakotiri	Aparo shirampari yoipakayetajiri yantabetakari pomerentsitantsi tecnico irosati yobantakaro ijinani.	neutral
+25677	cni	notekatsitakoti oka kamantakotantsiki oka ikenteetakero kotsiroki ijinani irosati yobamantakaro iroori omaini otsipatari itsipa shirampari, mokanteri ojimeni ojokajiri piyotake oka añanantakotiri	Ora ijina okantakotiro ora ijinani yashitakotironi maaroniki añaamento.	contradiction
+25678	cni	irotake oka okenketsatiri kemetarori cuentas de ahorro ashi contribucion	Tee ontimimotena noshiyakantantearori aisati.	contradiction
+25679	cni	irotake oka okenketsatiri kemetarori cuentas de ahorro ashi contribucion	Irosatitatsi ora cuenta de ahorro ashi aparopeeniki.	entailment
+25680	cni	irotake oka okenketsatiri kemetarori cuentas de ahorro ashi contribucion	Yora ahorros abayetiri irisatitatsi.	neutral
+25681	cni	irintini irashi Wills Point, tee niyoteji piyotirorika	Tee niyotakoperoteri pikemakotirirka iñanatakoyetiri irashi Wills Point.	entailment
+25682	cni	irintini irashi Wills Point, tee niyoteji piyotirorika	Nokemakotiri Wills Point.	neutral
+25683	cni	irintini irashi Wills Point, tee niyoteji piyotirorika	Irintini Cambridge.	contradiction
+25684	cni	Irorinti nokantiri itimini reloj isaikini maaroni nosapatoteki inchatoshipeeki maaroni opeajeitanaka kitamarori isaabiki	Apatiro ojokapaaka kipatsiki, irikea nosapatote irosati ikiteti.	contradiction
+25685	cni	Irorinti nokantiri itimini reloj isaikini maaroni nosapatoteki inchatoshipeeki maaroni opeajeitanaka kitamarori isaabiki	Ikisanaka nopashitantanakariri nosapaatote.	neutral
+25686	cni	Irorinti nokantiri itimini reloj isaikini maaroni nosapatoteki inchatoshipeeki maaroni opeajeitanaka kitamarori isaabiki	Nosapatotepee ipashikaroni oka.	entailment
+25687	cni	yantiro kemperi i ashi nintanentsi,ora iyenkeshireane kameetsa irashi oficial	Tee nomabetero ora iyenkeshireane irashi directivo.	contradiction
+25688	cni	yantiro kemperi i ashi nintanentsi,ora iyenkeshireane kameetsa irashi oficial	Noshiretaro ora iyenkeshireane irashi oficial okameetsatasanoti.	entailment
+25689	cni	yantiro kemperi i ashi nintanentsi,ora iyenkeshireane kameetsa irashi oficial	Itsipa atiri ikenkeshireakotiro iyenkeshireane oficial okameetsatasanoti.	neutral
+25690	cni	arikea ora otimini obotsore osheki okametsatake	Kemeitaka iñaayetiro kameetsatakoitake.	neutral
+25691	cni	arikea ora otimini obotsore osheki okametsatake	Tee opomerentsiteaji akenkeshireakoteri iriori.	entailment
+25692	cni	arikea ora otimini obotsore osheki okametsatake	Otsapare oni kobenkari	contradiction
+25693	cni	akempoyajeitero ora alatate paitarika iro ora vaso otsipaki iro ora paperi otsipaki ojapajaro akijajeitiro shiyakomentotsiki aanajero anta peñazoki	Opomerentsita akijero papeeri, boteeya irata apashiniyetero anta obantarikipe ora kajarashi.	entailment
+25694	cni	akempoyajeitero ora alatate paitarika iro ora vaso otsipaki iro ora paperi otsipaki ojapajaro akijajeitiro shiyakomentotsiki aanajero anta peñazoki	Ora papeeri irotake intarori ojaa, opoña irata jero vidrio.	neutral
+25695	cni	akempoyajeitero ora alatate paitarika iro ora vaso otsipaki iro ora paperi otsipaki ojapajaro akijajeitiro shiyakomentotsiki aanajero anta peñazoki	Arojei tee anashitearoji aiminkiajeitero aparoniki booorisa.	contradiction
+25696	cni	Locust Hill oh keario, jee, kameetsari	Locust Hill ini kameetsaperori.	neutral
+25697	cni	Locust Hill oh keario, jee, kameetsari	Tee, tee Locust Hill.	contradiction
+25698	cni	Locust Hill oh keario, jee, kameetsari	Jee, komeetsati oka, Locust Hill.	entailment
+25699	cni	itimimotana aparo césped Bermuda nokoi osheki nija piminkiero kapichaji opeanteari green anta campo irashi golf.	Yora céspedes Bermudan osheki otimimotiri antabeerentsi.	neutral
+25700	cni	itimimotana aparo césped Bermuda nokoi osheki nija piminkiero kapichaji opeanteari green anta campo irashi golf.	Yora céspedes ochanpishisati ashi Bermudas ari omatero areetea operi okas kenpetarori kenashiri ashi campo irashi golf.	entailment
+25701	cni	itimimotana aparo césped Bermuda nokoi osheki nija piminkiero kapichaji opeanteari green anta campo irashi golf.	Apatiro irointi pisaetakotero césped de bermuda jaokarikapeerika okantea.	contradiction
+25702	cni	aparo niquel kapichaji irisatitatsi,mabatsa centavo aapitsat iko boteeyapee. Maaroni imontsabakajeita anta frontera yamanantanteari imireteri kapichaji	Aparo pack iko amashitea 30 centavos kapichaji obinaro anta otsipananpiki ora frontera.	entailment
+25703	cni	aparo niquel kapichaji irisatitatsi,mabatsa centavo aapitsat iko boteeyapee. Maaroni imontsabakajeita anta frontera yamanantanteari imireteri kapichaji	Maaroni atiripee imontearo frontera yamanantanteari imireteri kaari pinatasanotacha.	neutral
+25704	cni	aparo niquel kapichaji irisatitatsi,mabatsa centavo aapitsat iko boteeyapee. Maaroni imontsabakajeita anta frontera yamanantanteari imireteri kapichaji	Ora boteeya osheki opinasanota otsipaki frontera.	contradiction
+25705	cni	jee, nokemimpi	Iritake ikantasanotakeri timatsiri ishintsinka kemetanarin nanteri.	entailment
+25706	cni	jee, nokemimpi	Eiro nomatirotsi nokemisantiro.	contradiction
+25707	cni	jee, nokemimpi	Amashitea nokemero.	neutral
+25708	cni	Ariorika pamanantayete paitarika articulo, koasanotachari antyarotatsiri amanantantsi articulo, irotake pipinatiri okantani oshekiyero aparo impuesto karatatsiri diex porciento.	Apinatero diez porciento ipinayetiri impuesto oni oshekianake.	neutral
+25709	cni	Ariorika pamanantayete paitarika articulo, koasanotachari antyarotatsiri amanantantsi articulo, irotake pipinatiri okantani oshekiyero aparo impuesto karatatsiri diex porciento.	Pikanteani pitsipataajero ora impuesto ashi diez porciento okarati pamanantiri ariorika pamenakobentero ora obinaro.	entailment
+25710	cni	Ariorika pamanantayete paitarika articulo, koasanotachari antyarotatsiri amanantantsi articulo, irotake pipinatiri okantani oshekiyero aparo impuesto karatatsiri diex porciento.	Eiro katsini pikarikoratirotsi ora impuesto añanatearori obinaro.	contradiction
+25711	cni	irointi kapichaji yantayetantaro irointi yantetari ora auspicios	Kaari oni añapinire.	entailment
+25712	cni	irointi kapichaji yantayetantaro irointi yantetari ora auspicios	Okemetaro maaroniki kitaiteri.	contradiction
+25713	cni	irointi kapichaji yantayetantaro irointi yantetari ora auspicios	Kaari yantayetanta iñayetanteariri atiri keme.	neutral
+25714	cni	irotake oka timatsiri yantakantayeteri, ari noyakero jee	Poyeero iroori antero okarati antakanteri.	entailment
+25715	cni	irotake oka timatsiri yantakantayeteri, ari noyakero jee	Antyarotanakero ashi iroori aririka antero okenkeshireari anteri.	neutral
+25716	cni	irotake oka timatsiri yantakantayeteri, ari noyakero jee	Tee añeroji antatearori oka.	contradiction
+25717	cni	omonkaratatasanota, irokea nokantiri irobakerari leyes meeka oka osheki opomerentsita	Parikotakotirori keariori, ora leyes irojeitake peesatoripee kaari kameetsatatsi.	contradiction
+25718	cni	omonkaratatasanota, irokea nokantiri irobakerari leyes meeka oka osheki opomerentsita	Antea jee aitake, irokea ora regulaciones osamanitake osheki opeanteari meeka okonijate.	neutral
+25719	cni	omonkaratatasanota, irokea nokantiri irobakerari leyes meeka oka osheki opomerentsita	Onijantasanota, omabetakea ora irobakerari regulaciones meeka onijanta.	entailment
+25720	cni	Kemtaka ashereakena, keariotakerika, yomishitortskeri yatikantakari iitintsipee intsipateketi	Otsokanaka oka maaroni monkararontsi.	entailment
+25721	cni	Kemtaka ashereakena, keariotakerika, yomishitortskeri yatikantakari iitintsipee intsipateketi	Oijatanaka maaroni monkararontsi irosati yojokrtantakero.	contradiction
+25722	cni	Kemtaka ashereakena, keariotakerika, yomishitortskeri yatikantakari iitintsipee intsipateketi	Iriotakeme oijateronemeri ora monkararontsi.	neutral
+25723	cni	Jee, kemetaka tee okonijate, ¿keario?	Okonijatimotake okaratie abisatsineri intsipaite.	contradiction
+25724	cni	Jee, kemetaka tee okonijate, ¿keario?	Ora keariori oni tee okonijate paita abisatsineri.	entailment
+25725	cni	Jee, kemetaka tee okonijate, ¿keario?	Jee, tee noshretearoji ari abisake,irokantaicha aitake omatakea mabise.	neutral
+25726	cni	Okenaneentanake ojati anta Washingtonki onta onakenta invictos aisati Buffalo Nueva Orleans jero Chicago tempa Chicago opeaka apitetake iro peainchari ora Buffalo.	Ojatashitakero Buffalo.	neutral
+25727	cni	Okenaneentanake ojati anta Washingtonki onta onakenta invictos aisati Buffalo Nueva Orleans jero Chicago tempa Chicago opeaka apitetake iro peainchari ora Buffalo.	Irootake apitetatsiri equipos okarati peainchari ora Chicago irointi Buffalo.	entailment
+25728	cni	Okenaneentanake ojati anta Washingtonki onta onakenta invictos aisati Buffalo Nueva Orleans jero Chicago tempa Chicago opeaka apitetake iro peainchari ora Buffalo.	Washington ipeajeitaka maaroni yora partidos.	contradiction
+25729	cni	hum,hum, hum, otimimojeite apinatirori kitsarentsiki.	Ora kitsarentsi oipakakotaro apinatero kitsarentsi.	contradiction
+25730	cni	hum,hum, hum, otimimojeite apinatirori kitsarentsiki.	Ora ipinayetiri okarat apimantiri osheki okimota.	neutral
+25731	cni	hum,hum, hum, otimimojeite apinatirori kitsarentsiki.	Yora soraropee timatsi ipinatiri okantakota ipimanteetiri.	entailment
+25732	cni	ay noneiri kameetsa, tee onimoteroji asaikantari aisati naro	Noneakameetsatiro ora asaikantari.	entailment
+25733	cni	ay noneiri kameetsa, tee onimoteroji asaikantari aisati naro	Tee onimotenaji kaariperotatsiri timatsiri oka nampitsiki.	contradiction
+25734	cni	ay noneiri kameetsa, tee onimoteroji asaikantari aisati naro	Okemetimotana osheki ikoirayeti aka irootake nonebetantarori.	neutral
+25735	cni	Mmm timatsi jananeki jero ora jananeki timatsiri tsasoti kashiri.	Timatsi osheki jananeki	contradiction
+25736	cni	Mmm timatsi jananeki jero ora jananeki timatsiri tsasoti kashiri.	Timatsi aparo shintotsi, aparo jananeki karatatsiri tsasoti kashiri.	entailment
+25737	cni	Mmm timatsi jananeki jero ora jananeki timatsiri tsasoti kashiri.	Nokoabeta itimeme osheki tomitsipee.	neutral
+25738	cni	Yora apitetatsiri timtsiri irijani yakotantiri iriotake apinti shirmpari antakerori opomerentsitakari iraji.	Iroori tee intimeni orijani.	contradiction
+25739	cni	Yora apitetatsiri timtsiri irijani yakotantiri iriotake apinti shirmpari antakerori opomerentsitakari iraji.	Yora shirampari otimini pomerentimotariri iraji, irio itsipa apitetatsiri irijani ipoñaka kajarashiki.	entailment
+25740	cni	Yora apitetatsiri timtsiri irijani yakotantiri iriotake apinti shirmpari antakerori opomerentsitakari iraji.	Ikarajeitini 8 yakotantiri, apatiro shirampari opomerentsitari irajipee.	neutral
+25741	cni	oh arimpa ipoñaayetari ikantetiri	¿Aitakempa ara pikajemiri?	entailment
+25742	cni	oh arimpa ipoñaayetari ikantetiri	Ikajemake tsantsari kajemamentotsi parikotitatsiri.	neutral
+25743	cni	oh arimpa ipoñaayetari ikantetiri	Tee pikajemeji anta.	contradiction
+25744	cni	Pinkatsatantsiki, tee niyote, tempakea tekerata naye osheki kitsarentsi akitsateari , akanteri keario	Eiro nobarotsi kitsarentsi ikitsapiniyetari.	entailment
+25745	cni	Pinkatsatantsiki, tee niyote, tempakea tekerata naye osheki kitsarentsi akitsateari , akanteri keario	Nokoi nokitsatea kameetsa.	neutral
+25746	cni	Pinkatsatantsiki, tee niyote, tempakea tekerata naye osheki kitsarentsi akitsateari , akanteri keario	Nokitsataro kitsarentsi maaroni kitaiteriki.	contradiction
+25747	cni	¿pijaiti museos Europaki?	¿Piñaayetake museo europeosato?	entailment
+25748	cni	¿pijaiti museos Europaki?	¿Pikibantayetake museo Canadaki?	contradiction
+25749	cni	¿pijaiti museos Europaki?	Nokamantempi onimotakena nokibanti Europa.	neutral
+25750	cni	anta pikanta kameetsa, ¿piyotake pikenkeshireakotero piyamisetate aisati naro?	¿Ora pijina okoiro piyamisetate?	entailment
+25751	cni	anta pikanta kameetsa, ¿piyotake pikenkeshireakotero piyamisetate aisati naro?	¿Paita okenkeshireakotimpiri pitsiro ora pitsare?	contradiction
+25752	cni	anta pikanta kameetsa, ¿piyotake pikenkeshireakotero piyamisetate aisati naro?	Piyamisetate oni kameetsa.	neutral
+25753	cni	hm, pikoirika aluminio forjado, apatiro aluminio atsinakachari	Ibetsiketiro ashiroki pinatachari kapichaji?.	entailment
+25754	cni	hm, pikoirika aluminio forjado, apatiro aluminio atsinakachari	Ibetsiketiro aparoni ashiroki pinasanotachari kapichaji.	contradiction
+25755	cni	hm, pikoirika aluminio forjado, apatiro aluminio atsinakachari	Irointini kamantantsi endebles.	neutral
+25756	cni	aisati omintsaroana	Irosati notsaroabeta kapichaji.	neutral
+25757	cni	aisati omintsaroana	Nokantani noijatiro notsaroi.	entailment
+25758	cni	aisati omintsaroana	Tee imintsaroaneji.	contradiction
+25759	cni	opoña apitetatsiri irotake yamenantakari oka imatiri	Aisati nameniro koasanotachari irashi irioripee.	entailment
+25760	cni	opoña apitetatsiri irotake yamenantakari oka imatiri	Timatsi amcosaajeitiri aka teleki.	contradiction
+25761	cni	opoña apitetatsiri irotake yamenantakari oka imatiri	Timatsi ampuedenajeitiri aka teleki.	neutral
+25762	cni	Bueno, tee nokenkeshireajero, kemetaka, eiro omatatsi nkantiri, nokantiri	Tee nomateroji, amashitakeata ari okanteari.	entailment
+25763	cni	Bueno, tee nokenkeshireajero, kemetaka, eiro omatatsi nkantiri, nokantiri	Tee nokenkeshireerorji maaroni nirake osheki vino tsiteniriki.	neutral
+25764	cni	Bueno, tee nokenkeshireajero, kemetaka, eiro omatatsi nkantiri, nokantiri	Ora noyenkeshiremento konijani okantakota abisaintsiri tsiteniriki.	contradiction
+25765	cni	Ora aparato ashi TV aisati pashi abirori,amashitaka abashinankantsi ikoshitiror television irotake kamanentsi	¿Pikenkeshiretiro ora kamanentsi ari omatea opempa obashinokantsi?	neutral
+25766	cni	Ora aparato ashi TV aisati pashi abirori,amashitaka abashinankantsi ikoshitiror television irotake kamanentsi	Abirori pikenkeshireiro obashinonkantsi kameetsari irashi itsipape koshitatsiri ora television irotake kamanentsi.	entailment
+25767	cni	Ora aparato ashi TV aisati pashi abirori,amashitaka abashinankantsi ikoshitiror television irotake kamanentsi	Pikenkeshirea iro kameetsatatsiri ashi koshitantsi television ashinetajeri ajokeri ijatajeta.	contradiction
+25768	cni	Ora impanekimashi okameetsati iroperori nampitsi kameetsasanoperori akibantanteari, irotake pomerentsiri aparotatsiri oka nonampikipee nokoasanotiri, ¿iro ora pashi abirori?	Nokoasanotiro ora impaneki tempa kiteita ikempoyayetiro.	neutral
+25769	cni	Ora impanekimashi okameetsati iroperori nampitsi kameetsasanoperori akibantanteari, irotake pomerentsiri aparotatsiri oka nonampikipee nokoasanotiri, ¿iro ora pashi abirori?	Irotake nonampi nokobasanotiri nokibantanteari impanekiki tempa osheki okameetsati, ¿Jaoka pashi abirori nampitsi pikibantiri?	entailment
+25770	cni	Ora impanekimashi okameetsati iroperori nampitsi kameetsasanoperori akibantanteari, irotake pomerentsiri aparotatsiri oka nonampikipee nokoasanotiri, ¿iro ora pashi abirori?	Nokenkeshireari narori, ajajeite inchatomashiki.	contradiction
+25771	cni	abajeite kamantantsi anta cola ara itsonpoinaki	Eiro pomishitoitsi kamantantsi.	contradiction
+25772	cni	abajeite kamantantsi anta cola ara itsonpoinaki	Poyero ora kamantantsi ashi refresco.	neutral
+25773	cni	abajeite kamantantsi anta cola ara itsonpoinaki	Poyero ora kamantsntsi ashi Coca Cola anta.	entailment
+25774	cni	kametsa, pikenkeshireakajena amashitea ontime kitaiteri ashi oyaantsi okarate koni kitaiteri ashi pistolas irotake iroperotatsiri	¿Pikenkeshirea aparopeeni atiripee, ari imatakea yoyakotero kitaiteripeeki otime itikayero ora kitaiteri koni?	neutral
+25775	cni	kametsa, pikenkeshireakajena amashitea ontime kitaiteri ashi oyaantsi okarate koni kitaiteri ashi pistolas irotake iroperotatsiri	¿Paita timatsiri itikantearori koni kitaiteri kobatsiri yamanante manamentotsi morekatsiri?	entailment
+25776	cni	kametsa, pikenkeshireakajena amashitea ontime kitaiteri ashi oyaantsi okarate koni kitaiteri ashi pistolas irotake iroperotatsiri	¿Paita kemetimotimpiri poyero nikoji ora koni minutos tekeratarika pimperi permiso?	contradiction
+25777	cni	¡Pijate! aririka itimake aparo Cocker Spaneil, irintini otsiti anta karaiteriki nokobasanotiro osheki ¡pijate!	Nokoiri otsiti peranti intsonpoinaki nokobabeta notsipateari karaiteriki maaroniki kitaiteri.	contradiction
+25778	cni	¡Pijate! aririka itimake aparo Cocker Spaneil, irintini otsiti anta karaiteriki nokobasanotiro osheki ¡pijate!	Nokobasanotiri osheki maaroni itsipasatipee otsiti karaiteriki, tempa osheki maaroni ikameetsati irijanikipee.	neutral
+25779	cni	¡Pijate! aririka itimake aparo Cocker Spaneil, irintini otsiti anta karaiteriki nokobasanotiro osheki ¡pijate!	Nokenkeshirea nokobantakariri otsiti karaiteriki notsipateari Cocker Spaniel.	entailment
+25780	cni	Okarate tson kitataiteri yamenayeteri antayetakeri aisati ayosanote tee abiro yora ex invicto	Ora iñayetantatrori antayetiri eiro matirotsi intsipaite antero.	neutral
+25781	cni	Okarate tson kitataiteri yamenayeteri antayetakeri aisati ayosanote tee abiro yora ex invicto	Ora yamenatarori antayetiri osamanite aparo kashiri.	contradiction
+25782	cni	Okarate tson kitataiteri yamenayeteri antayetakeri aisati ayosanote tee abiro yora ex invicto	Ikantajeiti yante sampitakobentantsi ashi antayetakeri karatatsiri tson kitaiteri.	entailment
+25783	cni	piyoti paita ikoirini osheki itonkayero tonkaarite arakomentotsiki aretanteari anta aisati pobabisayenaro kameetsa.	Arime yantakerome koasanotachari yareteari intsipaite.	neutral
+25784	cni	piyoti paita ikoirini osheki itonkayero tonkaarite arakomentotsiki aretanteari anta aisati pobabisayenaro kameetsa.	Noshemaitaka nobanirempa arakomentotsi kameetsa aririka aretea.	entailment
+25785	cni	piyoti paita ikoirini osheki itonkayero tonkaarite arakomentotsiki aretanteari anta aisati pobabisayenaro kameetsa.	Eiro katsini narakotaji.	contradiction
+25786	cni	Habisake kashiripeeki, ikarati iko jurados miembros. Nokenkeshirea irisatitatsi karatatsiri tsaapite shirampari probados akantero, okantayetari.	Okenakashitari nokenkeshireari yora jurados ikantani ikarajeitini tsaapite atiripee.	entailment
+25787	cni	Habisake kashiripeeki, ikarati iko jurados miembros. Nokenkeshirea irisatitatsi karatatsiri tsaapite shirampari probados akantero, okantayetari.	Yora jurado ikarajeitini 13 atiripee.	contradiction
+25788	cni	Habisake kashiripeeki, ikarati iko jurados miembros. Nokenkeshirea irisatitatsi karatatsiri tsaapite shirampari probados akantero, okantayetari.	Ikoye maaroni yora atiripee koatsi anta juradoki.	neutral
+25789	cni	Maaroni CEO ashi instituciones financieras aisati atirpee koirori oka, irori okoasnotakero opapiniteri okarati abishimotakeriri ashiki instituciones finacieras.	Irori tee okoasanteroji cooperativas de ahorro jero credito.	contradiction
+25790	cni	Maaroni CEO ashi instituciones financieras aisati atirpee koirori oka, irori okoasnotakero opapiniteri okarati abishimotakeriri ashiki instituciones finacieras.	Iroori okoasanotake iyotasanotero ora cooperativas de credito.	entailment
+25791	cni	Maaroni CEO ashi instituciones financieras aisati atirpee koirori oka, irori okoasnotakero opapiniteri okarati abishimotakeriri ashiki instituciones finacieras.	Iroori okoasanotake iyotasanotero jaoka okantari okaanata kireeki ora cooperativas de ahorro aisati credito.	neutral
+25792	cni	Niyotake maaroni okopajeitaka aisati okenkeshireakotiro yora atiri timatsi osheki pomerentsiri tee ikoyeji iñanatakotero iyotake aitaek oshitoake kameetsa	Tee noñeeji itsipa atiri sabikatsineri jeri ñaanatatsineri ashi pomerentsitatsiri.	contradiction
+25793	cni	Niyotake maaroni okopajeitaka aisati okenkeshireakotiro yora atiri timatsi osheki pomerentsiri tee ikoyeji iñanatakotero iyotake aitaek oshitoake kameetsa	Yantake, kapichaji atiri iñaanatakoteri pomerentitimotariri.	neutral
+25794	cni	Niyotake maaroni okopajeitaka aisati okenkeshireakotiro yora atiri timatsi osheki pomerentsiri tee ikoyeji iñanatakotero iyotake aitaek oshitoake kameetsa	Yora atiri tee katsini ikonijate asaike aisati ñaanatakoteroneri okantakota pomerentsiri aisati kenkeshireantsipee.	entailment
+25795	cni	Brian en Plano, Texas, ¿jaoka okantameeka?	¿Jaoka pikantari Maria?	contradiction
+25796	cni	Brian en Plano, Texas, ¿jaoka okantameeka?	¿Jaoka okantari pañamento?	entailment
+25797	cni	Brian en Plano, Texas, ¿jaoka okantameeka?	Plano, Texas irointi nampitsi kameetsari.	neutral
+25798	cni	aitakerika, mmm..., kameetsa eiro amirotsi kabenkari	Ora kobenkari irointi maaroni timimotiriki iriori.	entailment
+25799	cni	aitakerika, mmm..., kameetsa eiro amirotsi kabenkari	Kamemetsattantsisanori eiro opomerentsitimotetsi.	contradiction
+25800	cni	aitakerika, mmm..., kameetsa eiro amirotsi kabenkari	Aparopeeni atiri ikoiro kobenkatatsiri yantiri.	neutral
+25801	cni	jee, irosanotake oka nantakeri meeka, anankena uh Darkman, iñaakero uh te iñeroji, ariyata oka tsiteniriki iñerori	Moñakeri Darkman okarati 4 noñaapinitakeri.	contradiction
+25802	cni	jee, irosanotake oka nantakeri meeka, anankena uh Darkman, iñaakero uh te iñeroji, ariyata oka tsiteniriki iñerori	Tekerata noñeeri Darkman, ari nokobanake nojate noñeri oka tsiteniriki.	entailment
+25803	cni	jee, irosanotake oka nantakeri meeka, anankena uh Darkman, iñaakero uh te iñeroji, ariyata oka tsiteniriki iñerori	Nokemake Darkman irointini kameetsari pelicula.	neutral

@@ -1,0 +1,751 @@
+id	language	premise	hypothesis	label
+25051	gn	Néi, ni napensaikurihína upéva rehe, ajepichaiterei ha añepyrûjey añe'ê hendive.	Nañe'êvéi hendive.	contradiction
+25052	gn	Néi, ni napensaikurihína upéva rehe, ajepichaiterei ha añepyrûjey añe'ê hendive.	Che chepychyeterei rupi añepyrûjey añe'ê hendive	entailment
+25053	gn	Néi, ni napensaikurihína upéva rehe, ajepichaiterei ha añepyrûjey añe'ê hendive.	Iporâ ore ñemongeta.	neutral
+25054	gn	Che aimo'âukuri upéva peteî privilegioha. Aimo'â gueteri, ha'e gueteri. Che añoite upe 922 ExO aiméva upe oñeñanihápe AFFC Fuerza Armada Mba'épe.	Ndaikuaáikuri nacheañoiha upe árape.	neutral
+25055	gn	Che aimo'âukuri upéva peteî privilegioha. Aimo'â gueteri, ha'e gueteri. Che añoite upe 922 ExO aiméva upe oñeñanihápe AFFC Fuerza Armada Mba'épe.	Aimo'âkuri cheañoha upe papapy reheve upe ñeñanihápe AFFC Air Force Career.	entailment
+25056	gn	Che aimo'âukuri upéva peteî privilegioha. Aimo'â gueteri, ha'e gueteri. Che añoite upe 922 ExO aiméva upe oñeñanihápe AFFC Fuerza Armada Mba'épe.	Opavavépe ome'ê oréve peteî papapy meme, jepe he'íkuri oréve oîtaha iprivilegivétava'ekue, japupantevoira'e.	contradiction
+25057	gn	He'íkuri chéve…péicha ... Peteî tapicha cherenoitaha ipahápe rojotopa haĝua.	Araka'eve nde'íri chéve aikuaataha mávape.	contradiction
+25058	gn	He'íkuri chéve…péicha ... Peteî tapicha cherenoitaha ipahápe rojotopa haĝua.	He'i chéve cherenotaha aikuaa haĝua mávape.	entailment
+25059	gn	He'íkuri chéve…péicha ... Peteî tapicha cherenoitaha ipahápe rojotopa haĝua.	Upe tapicha ousapy'a kurive.	neutral
+25060	gn	Hetaiterei mba'e ikatu ja'e kóva rehe, upéicharamo ahasánte che kóva.	Amombe'use ndéve aikuaamíva guive hesegua.	contradiction
+25061	gn	Hetaiterei mba'e ikatu ja'e kóva rehe, upéicharamo ahasánte che kóva.	Nañe'êhetamo'âi, jepe heta mba'e ja'ekuaa,	entailment
+25062	gn	Hetaiterei mba'e ikatu ja'e kóva rehe, upéicharamo ahasánte che kóva.	Nañe'êmo'âi ko táva rembiasakuére oî rupi hetaiterei mba'e ñamombe'ukuaáva.	neutral
+25063	gn	Upéva upe mba'e tuichavéva ndoroipotáiva oñehundi. Ndaipóri káso la oñemondóvo upe bomba de hidrógeno 30 guive, peteî C124.	Mba'evete oréve, noroñongatúi mba'evete.	contradiction
+25064	gn	Upéva upe mba'e tuichavéva ndoroipotáiva oñehundi. Ndaipóri káso la oñemondóvo upe bomba de hidrógeno 30 guive, peteî C124.	Peteî mba'énte ore ndoroipotái oñehundi.	entailment
+25065	gn	Upéva upe mba'e tuichavéva ndoroipotáiva oñehundi. Ndaipóri káso la oñemondóvo upe bomba de hidrógeno 30 guive, peteî C124.	Ndoroipotái oñehundi upe bomba-H hasyeterei upéva jereko.	neutral
+25066	gn	Upéicha rupi nahesakâi chéve mba'érepa.	Aikuaa porâiterei mba'érepa.	contradiction
+25067	gn	Upéicha rupi nahesakâi chéve mba'érepa.	Ndaikuaái mba'érepa ha'e ombohasa umi mbo'ehao.	neutral
+25068	gn	Upéicha rupi nahesakâi chéve mba'érepa.	Ndaikuaái mba'érepa oiko umíva	entailment
+25069	gn	Kóva Fannie. Okakuaa Ag--Agustape, GA, oñe'êta imitâramoguare rehe.	Fannie Flono omohendajey hembiapokuéra ha ndaikatumo'âi omombe'u ñandéve mba'eve ko árape.	contradiction
+25070	gn	Kóva Fannie. Okakuaa Ag--Agustape, GA, oñe'êta imitâramoguare rehe.	Fannie Flono oî ápe ha oñe'êta ñandéve imitâramoguare ohasáva okakuaakuévo Augusta, GA-pe.	entailment
+25071	gn	Kóva Fannie. Okakuaa Ag--Agustape, GA, oñe'êta imitâramoguare rehe.	Fannie Flono oñe'ê ñandéve jepe hembiapo heta.	neutral
+25072	gn	Ha oitykuri 5 destacamento U2gua	Añe'êkuri U2gua ndive	entailment
+25073	gn	Ha oitykuri 5 destacamento U2gua	Nañorairôi U2 ndive mba'évéicharamo	contradiction
+25074	gn	Ha oitykuri 5 destacamento U2gua	Amba'apo destacamento ndive U2-pe ĝuarâ 40 ro'y pukukue ko'êko'êre.	neutral
+25075	gn	Cha añoite sapy'apy'a omomba'apóva umi reguladores ojeporúva oñetantea haĝua cámara yvategua michîhápe.	Ndahechaporâi cheañoha umi reguladores oñetante haĝua.	neutral
+25076	gn	Cha añoite sapy'apy'a omomba'apóva umi reguladores ojeporúva oñetantea haĝua cámara yvategua michîhápe.	Oñetanteákuri umi cámara yvategua michîhápe.	entailment
+25077	gn	Cha añoite sapy'apy'a omomba'apóva umi reguladores ojeporúva oñetantea haĝua cámara yvategua michîhápe.	Oî ñande apytepegua ñamyakâva umi reguladores oñetantea haĝua.	contradiction
+25078	gn	Chéniko, sargento, tendota, mbo'ehára, namba'apovéimava, he'iháicha Rick	Amba'apóta gueteri upe árape.	contradiction
+25079	gn	Chéniko, sargento, tendota, mbo'ehára, namba'apovéimava, he'iháicha Rick	Asêva'ekue 2002-pe	neutral
+25080	gn	Chéniko, sargento, tendota, mbo'ehára, namba'apovéimava, he'iháicha Rick	Rick he'i ndéve osêmahague.	entailment
+25081	gn	Oîniko upe viru ñemongu'erâ ha upe Cutty, upéva upe oñemúva réra.	Upe oñemúva hérava Cutty ogana 10.000 $ peteî jasýpe.	neutral
+25082	gn	Oîniko upe viru ñemongu'erâ ha upe Cutty, upéva upe oñemúva réra.	Oî peteî oñemúva hérava Cutty.	entailment
+25083	gn	Oîniko upe viru ñemongu'erâ ha upe Cutty, upéva upe oñemúva réra.	Ndajarekói oñemúva hérava Cutty.	contradiction
+25084	gn	Pe kuñataî ikatúva chepytyvô oî amo táva mboypýri.	Pe kuñataî chepytyvôkuaáva oiko mombyry.	entailment
+25085	gn	Pe kuñataî ikatúva chepytyvô oî amo táva mboypýri.	Upe mitâkuña chepytyvôtava oî águi 5km hápe.	neutral
+25086	gn	Pe kuñataî ikatúva chepytyvô oî amo táva mboypýri.	Ndaipóri avave ikatúva chepytyvô.	contradiction
+25087	gn	Ha'ekuéra oñemboja'o umi mávapa omba'apótava okaháre ha mávapa umi mitâ opytáva ogapýpe, ha'ete ku…	Opavavéva oñemoî peteî ñe'ême opavavéva omba'apotaha okaháre.	contradiction
+25088	gn	Ha'ekuéra oñemboja'o umi mávapa omba'apótava okaháre ha mávapa umi mitâ opytáva ogapýpe, ha'ete ku…	Ndaikatúi oñemoî peteî ñe'ême he'i haĝua mávapa omba'apóta okaháre ha mávapa ogapýpe.	entailment
+25089	gn	Ha'ekuéra oñemboja'o umi mávapa omba'apótava okaháre ha mávapa umi mitâ opytáva ogapýpe, ha'ete ku…	Ndaikatúi oñemoî peteî ñe'ême he'i haĝua mávapa omba'apóta mandyjutýpe ha mávapa umi omopotîva'erâ yvy atâ.	neutral
+25090	gn	Ko árape oñe'êta ñandéve upe Tercera SS, U2 Quick ha Blackbird rehe.	Ha'e he'i noñe'êmo'âvéimaha.	contradiction
+25091	gn	Ko árape oñe'êta ñandéve upe Tercera SS, U2 Quick ha Blackbird rehe.	Ha'e oñe'ê mbohapy submarino rehe.	neutral
+25092	gn	Ko árape oñe'êta ñandéve upe Tercera SS, U2 Quick ha Blackbird rehe.	Ha'e oñe'ê mbohapy mba'e rehe.	entailment
+25093	gn	Ha'ese che ha'ekuéra orekoha amo 5 ñemoñare rupinte. Peteîva omanova'ekue.	Iñemoñarekuéra oikovepa.	contradiction
+25094	gn	Ha'ese che ha'ekuéra orekoha amo 5 ñemoñare rupinte. Peteîva omanova'ekue.	Peteîva umi 5 apytépe omano.	entailment
+25095	gn	Ha'ese che ha'ekuéra orekoha amo 5 ñemoñare rupinte. Peteîva omanova'ekue.	Upe mitâ omanova'ekue onasemavoi hasykatu.	neutral
+25096	gn	Ha Androw Gromikov nombohovái mba'eve, katu rorekopa marandu umi ta'ângamýi ojapóva U2.	U2 ojagarra heta ta'ângamýi.	entailment
+25097	gn	Ha Androw Gromikov nombohovái mba'eve, katu rorekopa marandu umi ta'ângamýi ojapóva U2.	U2 ojagarra hetaiterei ta'ângamýi yguýpe.	neutral
+25098	gn	Ha Androw Gromikov nombohovái mba'eve, katu rorekopa marandu umi ta'ângamýi ojapóva U2.	Ndajarekói mba'eve iñongatupy, upéicha rupi rotanteareinte.	contradiction
+25099	gn	He'i hesayhague ha upéi he'i Joe ohohague ogaguy peve.	He'iramoguare chupe ojupi haĝua ogaguýpe, hesay.	entailment
+25100	gn	He'i hesayhague ha upéi he'i Joe ohohague ogaguy peve.	Ha'e omokâ pya'e hesay omosê rire Joe-pe ogaguýgui.	contradiction
+25101	gn	He'i hesayhague ha upéi he'i Joe ohohague ogaguy peve.	Ovy'aitereígui ohechávo Joe-pe oñepyrû hasê.	neutral
+25102	gn	Je`´eramo upe aeronave hendy, mba'ére okáita ha hykúta orekóramo hesegua de plomo oipyteva'erâkuri upe tata akukue?	Upe tata aku ikatu ojejoko avei okái jave.	neutral
+25103	gn	Je`´eramo upe aeronave hendy, mba'ére okáita ha hykúta orekóramo hesegua de plomo oipyteva'erâkuri upe tata akukue?	Upe aviô oreko voi hesegua okái rire oipyteva'erâ upe tata rendy.	entailment
+25104	gn	Je`´eramo upe aeronave hendy, mba'ére okáita ha hykúta orekóramo hesegua de plomo oipyteva'erâkuri upe tata akukue?	Okái aja ndaipóri oipyteva'erâ upe tata rendy.	contradiction
+25105	gn	kóva upe sargento, mburuvicha, mbo'ehára Clem Francis, nomba'apovéimava Estados Unidos Fuerzas Armadas-pe.	Mburuvicha nomba'apovéima Estados Unidos Fuerzas Armadas-pe.	entailment
+25106	gn	kóva upe sargento, mburuvicha, mbo'ehára Clem Francis, nomba'apovéimava Estados Unidos Fuerzas Armadas-pe.	Ramoite mburuvicha nomba'apoveihague.	neutral
+25107	gn	kóva upe sargento, mburuvicha, mbo'ehára Clem Francis, nomba'apovéimava Estados Unidos Fuerzas Armadas-pe.	Upe Estados Unidos Fuerzas Armadas mburuvicha oñepyrûramoite hembiapo ko arakopôindýpe.	contradiction
+25108	gn	Néi, ñaĝuahêniko ko'âvape, peteî arapokôindýpe oîha mokôi térâ mbohapy aviô ha ndoikuaái moôpa ovevéta.	Pe arapokôime oĝuahê hetave aviô peteîgui.	entailment
+25109	gn	Néi, ñaĝuahêniko ko'âvape, peteî arapokôindýpe oîha mokôi térâ mbohapy aviô ha ndoikuaái moôpa ovevéta.	Hetave aviô oîramo upéva apañuâima.	neutral
+25110	gn	Néi, ñaĝuahêniko ko'âvape, peteî arapokôindýpe oîha mokôi térâ mbohapy aviô ha ndoikuaái moôpa ovevéta.	Araka'eve noĝuahêi ni peteî aviô.	contradiction
+25111	gn	Ha'ekuéra oñembokatupyrýma oiporu haĝua umi ao pyrusu tatápe ĝuarâ ha chéve hasýkuri añepyrû haĝua aiporu upe ao pyryguasu tatápe ĝuarâ.	Mbohapy jasy ipuku upe ñembokatupyry reiporukuaa haĝua upe ao de presión.	neutral
+25112	gn	Ha'ekuéra oñembokatupyrýma oiporu haĝua umi ao pyrusu tatápe ĝuarâ ha chéve hasýkuri añepyrû haĝua aiporu upe ao pyryguasu tatápe ĝuarâ.	Upe ñembokatupyry reiporukuaa haĝua upe ao de presión ipukumihína.	entailment
+25113	gn	Ha'ekuéra oñembokatupyrýma oiporu haĝua umi ao pyrusu tatápe ĝuarâ ha chéve hasýkuri añepyrû haĝua aiporu upe ao pyryguasu tatápe ĝuarâ.	Ikatúkuri rombokatupyry reiporukuaa haĝua upe ao de presión ka'arueterâ.	contradiction
+25114	gn	Ha'ese ndaipóri peligro ojeike haĝua upe bomba rehe ndokapumo'âi rupi, jepe hatâ opoko yvy.	Upe pilóto oñemboguéma bomba.	neutral
+25115	gn	Ha'ese ndaipóri peligro ojeike haĝua upe bomba rehe ndokapumo'âi rupi, jepe hatâ opoko yvy.	Upe bomba ndaikatúi okapu mba'evéicharamo.	entailment
+25116	gn	Ha'ese ndaipóri peligro ojeike haĝua upe bomba rehe ndokapumo'âi rupi, jepe hatâ opoko yvy.	Ikatuete okapu upe bomba.	contradiction
+25117	gn	Ha mba'eteko ojoguaitereíramo ajaposévape.	Ndaikuaaporâi mba'épa ndéve kóva.	contradiction
+25118	gn	Ha mba'eteko ojoguaitereíramo ajaposévape.	Ahe'â'anía ajapo.	entailment
+25119	gn	Ha mba'eteko ojoguaitereíramo ajaposévape.	Añeha'â amohu'â haĝua che rembiapo ambue arapokôindýpe.	neutral
+25120	gn	Upéicharamo jepe, umi mymba okañymbáta upégui, umi kavara ko'ýte.	Umi kavara okañy upe korágui.	neutral
+25121	gn	Upéicharamo jepe, umi mymba okañymbáta upégui, umi kavara ko'ýte.	Py'ÿi okañy umi kavara.	entailment
+25122	gn	Upéicharamo jepe, umi mymba okañymbáta upégui, umi kavara ko'ýte.	Umi kavara oñeñongatu porâ	contradiction
+25123	gn	Roikeramo gaure upe okê oñemboty.	Okê oîhaguéicha ojepe'â.	contradiction
+25124	gn	Roikeramo gaure upe okê oñemboty.	Ore roreko illavekuéra.	neutral
+25125	gn	Roikeramo gaure upe okê oñemboty.	Roike jepe umi okê oñemboty.	entailment
+25126	gn	Ojagarranteva'erâ umi total, otantea oî porâpa ha ojapóma.	Aikuaa porâiterei upe aikotevêva niko umi total ha ajapótama kóva.	neutral
+25127	gn	Ojagarranteva'erâ umi total, otantea oî porâpa ha ojapóma.	Ndaikuaáietevoi mba'épa ajapova'erâ umi total reheve. Ikatúpa embohesa'ive chéve amyatyrô haĝua ko apañuâi	contradiction
+25128	gn	Ojagarranteva'erâ umi total, otantea oî porâpa ha ojapóma.	Ajapóta aiporúvo umi total.	entailment
+25129	gn	Ha'e ou, oipe'a okê ha chemandu'a amaña che rapykuévo ha ahecha hova, ahechakuaa ndaha'éihague upe oha'arôva.	Ovy'aitereígui opo ha haimete oñeakânupâ okê renda rehe.	contradiction
+25130	gn	Ha'e ou, oipe'a okê ha chemandu'a amaña che rapykuévo ha ahecha hova, ahechakuaa ndaha'éihague upe oha'arôva.	Oñeha'â ani haĝua roñeñandu vai katu roikuaa orekáusa iñapañuâiha.	neutral
+25131	gn	Ha'e ou, oipe'a okê ha chemandu'a amaña che rapykuévo ha ahecha hova, ahechakuaa ndaha'éihague upe oha'arôva.	Ima'ê rehe oikévo upe okê rupi aikuaa ndaha'éihague oha'arôva.	entailment
+25132	gn	Upéicharamo, ndarekói tembiasa.	Ndacheñemuhái.	entailment
+25133	gn	Upéicharamo, ndarekói tembiasa.	Ndacheñemuhái.	contradiction
+25134	gn	Upéicharamo, ndarekói tembiasa.	Heta ñemuha oî.	neutral
+25135	gn	Ha'e araka'eve ndojapói mba'eve ijehegui.	Chupe oñepytyvô heta	entailment
+25136	gn	Ha'e araka'eve ndojapói mba'eve ijehegui.	Chupe oñepytyvô hembi'u ha ijaorâ	neutral
+25137	gn	Ha'e araka'eve ndojapói mba'eve ijehegui.	Ha'e isâsoiterei.	contradiction
+25138	gn	Che ha'e chepype, Ñandejára!!! Ha Ramona oî upépe.	Ramona oî yvýpe ikuruchîhína.	contradiction
+25139	gn	Che ha'e chepype, Ñandejára!!! Ha Ramona oî upépe.	Ramona chejuzga kirirîhápe.	neutral
+25140	gn	Che ha'e chepype, Ñandejára!!! Ha Ramona oî upépe.	Ramona oñembo'y che chejuruja apytávo upépe.	entailment
+25141	gn	Ha añetehápe, ivevúi!	Okaru heta katu ndojupíri.	neutral
+25142	gn	Ha añetehápe, ivevúi!	Ha'e ndaipohýi.	entailment
+25143	gn	Ha añetehápe, ivevúi!	Ha'e ovy'aiterei.	contradiction
+25144	gn	Ndaikuaái opytápara'e Augusta-pe upe rire.	Ha'e opyta oiko Augusta-pe upe ñembokapu riréjepe.	neutral
+25145	gn	Ndaikuaái opytápara'e Augusta-pe upe rire.	Ha'e opyta oiko Augusta-pe.	entailment
+25146	gn	Ndaikuaái opytápara'e Augusta-pe upe rire.	Ova Upe Augusta oká gotyo upe riremíntema.	contradiction
+25147	gn	Maymavéva rojapo, avave nde'íri oréve moôpa ohóta, ni araka'épa osê okaha gotyo opyta haĝuáicha sapy'apuku uperupi.	Naporandúiva moôpa ohóta hikuái.	neutral
+25148	gn	Maymavéva rojapo, avave nde'íri oréve moôpa ohóta, ni araka'épa osê okaha gotyo opyta haĝuáicha sapy'apuku uperupi.	Katuete oikuaaukua oréve moôpa oî hikuái ha moô gotyopa oho avei.	contradiction
+25149	gn	Maymavéva rojapo, avave nde'íri oréve moôpa ohóta, ni araka'épa osê okaha gotyo opyta haĝuáicha sapy'apuku uperupi.	Araka'eve nde'íri oréve moôpa oho hikuái.	entailment
+25150	gn	He'i: Rohepyme'êta ndéve repyta haĝua.	Ndohepyme'êmo'âi mba'evete orerehe.	contradiction
+25151	gn	He'i: Rohepyme'êta ndéve repyta haĝua.	Ohepyme'ê peteî óga rehe chéve ha che pehênguekuérape ĝuarâ.	neutral
+25152	gn	He'i: Rohepyme'êta ndéve repyta haĝua.	Ohepyme'ê peteî óga rehe.	entailment
+25153	gn	Néi, upehague ko'ême, Mburuvichavete Kennedy omboty Cubape ha ore ygarusukuéra ojoko peteî yga ruso oikóva upe Cuba rembe'y gotyo ha ojuhu hukuái mboka guasu.	Kennedy he'i ore atýpe oheka haĝua umi mboka guasu.	entailment
+25154	gn	Néi, upehague ko'ême, Mburuvichavete Kennedy omboty Cubape ha ore ygarusukuéra ojoko peteî yga ruso oikóva upe Cuba rembe'y gotyo ha ojuhu hukuái mboka guasu.	Nomombytái ni peteî yga guasu ani haĝua iñapañuâi hikuái.	contradiction
+25155	gn	Néi, upehague ko'ême, Mburuvichavete Kennedy omboty Cubape ha ore ygarusukuéra ojoko peteî yga ruso oikóva upe Cuba rembe'y gotyo ha ojuhu hukuái mboka guasu.	Ojuhu hikuái 20 mboka guasu upe yga guasúpe.	neutral
+25156	gn	Oimeháicha, upe kuimba'e oike.	Upe kuimba'e oike Tribuna koty guasúpe.	neutral
+25157	gn	Oimeháicha, upe kuimba'e oike.	Upe kuimba'e oike kotýpe.	entailment
+25158	gn	Oimeháicha, upe kuimba'e oike.	Upe kuimba'e oñani ambue henda gotyo.	contradiction
+25159	gn	mmm…, che jarýi ha che taichachu niko ikunu'ûrasa hikuái ha sapy'apy'a che ru ha che sy umíva oîjepi ha rohasa porâiterei rasa amo yvy gotyo.	Cheraha heta amboguata haĝua che jarýi ha che taitachu róga peve.	neutral
+25160	gn	mmm…, che jarýi ha che taichachu niko ikunu'ûrasa hikuái ha sapy'apy'a che ru ha che sy umíva oîjepi ha rohasa porâiterei rasa amo yvy gotyo.	Che jarýi ha che taitachu niko tapicha oñoirû ikunu'û rasáva.	entailment
+25161	gn	mmm…, che jarýi ha che taichachu niko ikunu'ûrasa hikuái ha sapy'apy'a che ru ha che sy umíva oîjepi ha rohasa porâiterei rasa amo yvy gotyo.	Che jarýi ha che taitachu niko sapy'ánte ijargel-rasa ha ndahaseguasúi hogapekuéra.	contradiction
+25162	gn	Ndaijái chéve añomongetapa haĝua opa mba'e rehe.	Ikatúkuri oamoingepa kurive.	neutral
+25163	gn	Ndaijái chéve añomongetapa haĝua opa mba'e rehe.	Amoîngepa kavaletépe.	contradiction
+25164	gn	Ndaijái chéve añomongetapa haĝua opa mba'e rehe.	Ndaijavéima chéve amoingepávo.	entailment
+25165	gn	Ha, peteîva che rembiaponiko ambokatupyry umi tapicha omoî haĝua paracaída upe moka nuclear rehe, ombokapúva mboka atómica.	Mboka atómica naisâi	contradiction
+25166	gn	Ha, peteîva che rembiaponiko ambokatupyry umi tapicha omoî haĝua paracaída upe moka nuclear rehe, ombokapúva mboka atómica.	Detonador ombokapu mboka ojetiráramo chugui.	entailment
+25167	gn	Ha, peteîva che rembiaponiko ambokatupyry umi tapicha omoî haĝua paracaída upe moka nuclear rehe, ombokapúva mboka atómica.	Nembareteminteva'erâ reitira haĝua upe mboka atómica sâ.	neutral
+25168	gn	Che jarýi omombe'úmi chéve heta hembiasa imitârôguare ha oñe'êvéjepi hogaygua rehe ha mba'éichapa ojeiko upéramo.	Arohorými che jarýi mombe'upy.	neutral
+25169	gn	Che jarýi omombe'úmi chéve heta hembiasa imitârôguare ha oñe'êvéjepi hogaygua rehe ha mba'éichapa ojeiko upéramo.	Che jarýi noñe'êséi hembiasa imitâramoguare rehe.	contradiction
+25170	gn	Che jarýi omombe'úmi chéve heta hembiasa imitârôguare ha oñe'êvéjepi hogaygua rehe ha mba'éichapa ojeiko upéramo.	Che jarýi omombe'u chéve heta mba'e hogaygua rehe ha'e michîmiramoguare.	entailment
+25171	gn	Roreko umi ao pyrusu guasu de presión aviôme, umi astronauta oiporúvaichagua, ojoavyha oremba'e overapaite ore pyregua peve ombojevy haĝua pytu aku.	Ore ao mba'evépe ndojoguái umi astronauta oipurúvape.	contradiction
+25172	gn	Roreko umi ao pyrusu guasu de presión aviôme, umi astronauta oiporúvaichagua, ojoavyha oremba'e overapaite ore pyregua peve ombojevy haĝua pytu aku.	Ore ao peteîcha umi astronauta oiporuvaichagua, ojoavy michîmi oremba'e overa ombojevypotávo pytu aku.	entailment
+25173	gn	Roreko umi ao pyrusu guasu de presión aviôme, umi astronauta oiporúvaichagua, ojoavyha oremba'e overapaite ore pyregua peve ombojevy haĝua pytu aku.	Ikatu pejuhu umi ao pyrusu oimehaichagua sa'y peipotávape.	neutral
+25174	gn	Ha che taitachu ndaha'eiva'ekue karai guasu.	Che taitachu hovatavyva'ekue.	entailment
+25175	gn	Ha che taitachu ndaha'eiva'ekue karai guasu.	Che taichachu iñaña ha oporombykéva máva ndahaèiva heseguápe.	neutral
+25176	gn	Ha che taitachu ndaha'eiva'ekue karai guasu.	Che taichachu upe karai horyvéva rejuhútava nderekovépe.	contradiction
+25177	gn	Oî 30, 40 aviô U2, ha roñepyrû rombokatupyry upi pilóto chino, británico hendivekuéra opa umi ojoajúva orerehépe.	Ndorombokatupyrýi avave ndive.	contradiction
+25178	gn	Oî 30, 40 aviô U2, ha roñepyrû rombokatupyry upi pilóto chino, británico hendivekuéra opa umi ojoajúva orerehépe.	Roñembokatupyry 5 arapokôindy pukukue umi británico-kuéra ndive	neutral
+25179	gn	Oî 30, 40 aviô U2, ha roñepyrû rombokatupyry upi pilóto chino, británico hendivekuéra opa umi ojoajúva orerehépe.	Roñembokatupyry heta ambue ñorairôhára ndive.	entailment
+25180	gn	Ha upéicha he'i Bueno: eheka kóva, péva, amóva, kóva, upéva upe empresa-pe.	Ha'e noñe'êi chendive.	contradiction
+25181	gn	Ha upéicha he'i Bueno: eheka kóva, péva, amóva, kóva, upéva upe empresa-pe.	He'i chéve aheka haĝua peteî mba'e.	entailment
+25182	gn	Ha upéicha he'i Bueno: eheka kóva, péva, amóva, kóva, upéva upe empresa-pe.	Ha'e he'i chéve aheka haĝua marandu iviru ñemongu'e rehegua.	neutral
+25183	gn	Ha'e he'i ojupi hague yvatévo.	He'i opytahague tapére.	neutral
+25184	gn	Ha'e he'i ojupi hague yvatévo.	He'i oguejyhague yvy gotyo.	contradiction
+25185	gn	Ha'e he'i ojupi hague yvatévo.	He'i ohohague yvatévo.	entailment
+25186	gn	mmm, nahániri, añetehápe, namoñe'êi ni peteî umi aranduka amoñe'êva'erâ.	Namoñe'êi ni peteî aranduka ohasáva 100 kuatia roguégui.	neutral
+25187	gn	mmm, nahániri, añetehápe, namoñe'êi ni peteî umi aranduka amoñe'êva'erâ.	Namoñe'êi heta aranduka.	entailment
+25188	gn	mmm, nahániri, añetehápe, namoñe'êi ni peteî umi aranduka amoñe'êva'erâ.	Amoñe'ê aranduka ko'êko'êre.	contradiction
+25189	gn	Aguatave ha ahupi imba'yru ha aha aha haĝuáme.	Aheja upe bosa ha aimo'â upéva ndaha'eiha che apañuâi.	contradiction
+25190	gn	Aguatave ha ahupi imba'yru ha aha aha haĝuáme.	Araha upe bosa oikohápe.	neutral
+25191	gn	Aguatave ha ahupi imba'yru ha aha aha haĝuáme.	Araha upe vosa hendápe.	entailment
+25192	gn	Upe ikyre'ỹ iñambuete sapy'aitépe	Upe heko peteîcha naiñambuéi.	contradiction
+25193	gn	Upe ikyre'ỹ iñambuete sapy'aitépe	Ovy'aitereihágui ndovy'avéi sapy'a.	neutral
+25194	gn	Upe ikyre'ỹ iñambuete sapy'aitépe	Upe heko iñambuete.	entailment
+25195	gn	Cheporavo hikuái 15 tapicha apytépe aha haĝua mbo'ehaópe ha ndahamo'âi, ndahamo'âi	Ndacheporavói hikuái aha haĝua mbo'ehaópe.	contradiction
+25196	gn	Cheporavo hikuái 15 tapicha apytépe aha haĝua mbo'ehaópe ha ndahamo'âi, ndahamo'âi	Cheporavo aha haĝua mbo'ehaópe.	entailment
+25197	gn	Cheporavo hikuái 15 tapicha apytépe aha haĝua mbo'ehaópe ha ndahamo'âi, ndahamo'âi	Che upe iporavopyrâ ojejeroviaveha.	neutral
+25198	gn	Ojapyharava'erâ upe ´camara yvategua, ojepaseava'erâ oñepyrû mboyve oveve U2 térâ oveve upe ao pyrusu de presión reheve.	Hetave otanteáva ndohasái upe aranduchauka ha márônte nombovevéi U2	neutral
+25199	gn	Ojapyharava'erâ upe ´camara yvategua, ojepaseava'erâ oñepyrû mboyve oveve U2 térâ oveve upe ao pyrusu de presión reheve.	tekotevê hetaikte oñembokatupyry omboveve mboyve upe U2	entailment
+25200	gn	Ojapyharava'erâ upe ´camara yvategua, ojepaseava'erâ oñepyrû mboyve oveve U2 térâ oveve upe ao pyrusu de presión reheve.	Ojeheja remboveve U2 upe ára peteîhápente.	contradiction
+25201	gn	Amba'apo'aína hese.	Amba'apo mba'e pyahuete rehe.	contradiction
+25202	gn	Amba'apo'aína hese.	Amba'apo umi ambue kuatiahai ojapómava rehe.	neutral
+25203	gn	Amba'apo'aína hese.	Añe'ê ha'eluéra oñe'êva rehe avei.	entailment
+25204	gn	Peteîha oiko upéva 75 ro'y pukuépe, upe Texa Amandaje oiporavo peteî aty militar, upéramo Texas rerapegua ha upéva rehe oñekotevê Texas rerapegua.	Umi aty militar ndaikatúi oîvo Texas rérape.	contradiction
+25205	gn	Peteîha oiko upéva 75 ro'y pukuépe, upe Texa Amandaje oiporavo peteî aty militar, upéramo Texas rerapegua ha upéva rehe oñekotevê Texas rerapegua.	Upe aty militar oñembohéra Texas rerapegua upe EEUU Amandaje Guasúpe.	neutral
+25206	gn	Peteîha oiko upéva 75 ro'y pukuépe, upe Texa Amandaje oiporavo peteî aty militar, upéramo Texas rerapegua ha upéva rehe oñekotevê Texas rerapegua.	Upe aty militarpe ojekuaa Tx rerapegua ramo.	entailment
+25207	gn	Oîramo mba'e ikatúva ojejapo.	Che ikatu ôi ajapokuaáva.	entailment
+25208	gn	Oîramo mba'e ikatúva ojejapo.	Aikuaa ndaiporiha mba'eve ikatúva che ajapo.	contradiction
+25209	gn	Oîramo mba'e ikatúva ojejapo.	Chéverô ĝuarâ ikatuva'erâkuri oime ajapóva aipysyrô haĝua chupe.	neutral
+25210	gn	Ndacha'éi upéva rehe. He'ími ikypy'ýpe opaite ára, rejapo va'ihareína.	Ha'e akói omokyre'ỹ ikypy'ýpe.	contradiction
+25211	gn	Ndacha'éi upéva rehe. He'ími ikypy'ýpe opaite ára, rejapo va'ihareína.	Hesakâ porâiterei ikypy'y ndojapokuaaiha mba'eve.	neutral
+25212	gn	Ndacha'éi upéva rehe. He'ími ikypy'ýpe opaite ára, rejapo va'ihareína.	Ha'e ojopy ikypy'y ndive.	entailment
+25213	gn	Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe.	Aiporu ipumbyry oporohenói haĝua.	neutral
+25214	gn	Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe.	Ahenói upe papapýpe aĝuahêvo hógape.	entailment
+25215	gn	Ha aha hógape ha ahenói upe papapy oje'evakue ahenói haĝua aĝuahê vove upépe.	Oñeha'arôkuri ahenói, katu nahenói.	contradiction
+25216	gn	Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta.	Ko árape ndahái, upéicha rupi ndahechái chupe.	contradiction
+25217	gn	Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta.	Aĝuahê che upe gimnasio-pe ko árape, ha'e ou kurive ha chemomaitei.	neutral
+25218	gn	Néi, aĝuahê che upépe ko pyhareve, ha,… cheresarái mba'éichapa, amalisia amba'eporandu, ha'e oike, térâ mba'épa che aikuaáta.	Aĝuahê ko pyhareve ha ha'e ou avei.	entailment
+25219	gn	Ndoroikuaái moôpa oho hikuái.	Ndoroikuaái moôpa oho upe aty heta tetâmegua.	neutral
+25220	gn	Ndoroikuaái moôpa oho hikuái.	Ndoroikuaái moôpa oho umi tapicha.	entailment
+25221	gn	Ndoroikuaái moôpa oho hikuái.	Roikuaa moôpa oho hikuái.	contradiction
+25222	gn	Chéniko aime, … ehejántema, aháta akaru. Che vare'a.	Ndachevare'áietevoi.	contradiction
+25223	gn	Chéniko aime, … ehejántema, aháta akaru. Che vare'a.	Chevare'a ha upéicha rupi aha akaru.	entailment
+25224	gn	Chéniko aime, … ehejántema, aháta akaru. Che vare'a.	Amano vare'águi.	neutral
+25225	gn	Ehejami chéve ta'e ndéve ko árape chekuerái haimete ahejarei.	Haimete ahejarei.	entailment
+25226	gn	Ehejami chéve ta'e ndéve ko árape chekuerái haimete ahejarei.	Hasyeterei chéve, ndachepu'akavéima.	neutral
+25227	gn	Ehejami chéve ta'e ndéve ko árape chekuerái haimete ahejarei.	Ndohasái cheakâ rupi ahejareívo.	contradiction
+25228	gn	Onase 1800 y piko rupi, ikatu oime 1888, térâ 1889.	Onase 1900 mboyve.	entailment
+25229	gn	Onase 1800 y piko rupi, ikatu oime 1888, térâ 1889.	Onase jasypakôi 1880 ramo.	neutral
+25230	gn	Onase 1800 y piko rupi, ikatu oime 1888, térâ 1889.	Ha'e nonaséi 1984 peve.	contradiction
+25231	gn	Iporâta emboguejymivéramo michîmi upe tornillo, peteî tesapirîme ikatu rembokua nde rapicha vevýi	Upe tornillo ikatu ombokua oimeraêva vevýi.	entailment
+25232	gn	Iporâta emboguejymivéramo michîmi upe tornillo, peteî tesapirîme ikatu rembokua nde rapicha vevýi	Upe tornillo noîvaríri, ejopyporâkatu.	contradiction
+25233	gn	Iporâta emboguejymivéramo michîmi upe tornillo, peteî tesapirîme ikatu rembokua nde rapicha vevýi	Upe tornillo oikéta ijahy'o rupi ha ikatu ombyai ivevýi.	neutral
+25234	gn	Oje'e chéve, aha haĝua Del Río, TX-pe, upéva rehe aĝuahêvo upépe, aikuaa ahava'erâha Laugghlin Air Force opytahápe.	Chemondo hikuái Del Rio, TX-pe amba'apo haĝua.	entailment
+25235	gn	Oje'e chéve, aha haĝua Del Río, TX-pe, upéva rehe aĝuahêvo upépe, aikuaa ahava'erâha Laugghlin Air Force opytahápe.	Ndaháiva marô Texas-pe.	contradiction
+25236	gn	Oje'e chéve, aha haĝua Del Río, TX-pe, upéva rehe aĝuahêvo upépe, aikuaa ahava'erâha Laugghlin Air Force opytahápe.	Fuerzas aéreas-gua chemondo Del Rio, TX-pe 2001-pe.	neutral
+25237	gn	Maymavéva omoî champang, katu ndaopavavéi ho'upa. Umi hembýva ikaguápe ho'upa mitânguéra. Upéicha rupi ore rojere roikóvo, ro'úvo upe champang.	Mitânguéra ho'u mbohapy liméta champang.	neutral
+25238	gn	Maymavéva omoî champang, katu ndaopavavéi ho'upa. Umi hembýva ikaguápe ho'upa mitânguéra. Upéicha rupi ore rojere roikóvo, ro'úvo upe champang.	Mitânguéra ho'u michîmi champang.	entailment
+25239	gn	Maymavéva omoî champang, katu ndaopavavéi ho'upa. Umi hembýva ikaguápe ho'upa mitânguéra. Upéicha rupi ore rojere roikóvo, ro'úvo upe champang.	Upe vy'a guasúpe ndoje'úi guaripóla.	contradiction
+25240	gn	Heta tembiasa oreko táva ñamboívo.	Nahendúi ni peteî hembiasakue.	contradiction
+25241	gn	Heta tembiasa oreko táva ñamboívo.	Heta tembiasa oî militar-kuéra rehegua.	neutral
+25242	gn	Heta tembiasa oreko táva ñamboívo.	Heta tembiasa oî oñemombe'úva.	entailment
+25243	gn	Jaikove ha jaikuaa, nde reikuaa, retanteávo, upe aviô.	Ndaikuaaái mba'eve aviô rehegua.	contradiction
+25244	gn	Jaikove ha jaikuaa, nde reikuaa, retanteávo, upe aviô.	Retanteávo aviô heta mba'e reikuaa.	entailment
+25245	gn	Jaikove ha jaikuaa, nde reikuaa, retanteávo, upe aviô.	Retanteávo aviô nembo'e mba'éichapa remaneháta upe presión..	neutral
+25246	gn	Ha'ese upéva upe hesakuápe oîva.	Ndahesakâi chéve moôpa rehose.	contradiction
+25247	gn	Ha'ese upéva upe hesakuápe oîva.	Chéverô ĝuarâ upe he'iséva ñandéve ipeligrosaha.	neutral
+25248	gn	Ha'ese upéva upe hesakuápe oîva.	Hesakâ porâ chéve.	entailment
+25249	gn	Peteî aviô opyta guive ohasáva Cuba rupi, ha oity upe Rudollph Anderson.	Oîhaguéicha aviô oikopaite peteîntejepe ndojejapíri.	contradiction
+25250	gn	Peteî aviô opyta guive ohasáva Cuba rupi, ha oity upe Rudollph Anderson.	Oî ojeityva'ekue Cuba-pe.	entailment
+25251	gn	Peteî aviô opyta guive ohasáva Cuba rupi, ha oity upe Rudollph Anderson.	Upe aviô kakuaaite ojeity Cuba-pe, mayo-pe.	neutral
+25252	gn	Oiméne upéva upe mba'e chemitâramoguare chemandu'áva, ko'ýte umi mba'e vai ajapo jave.	Añetehápe nachemandu'ái mba'evete chemitâramoguare.	contradiction
+25253	gn	Oiméne upéva upe mba'e chemitâramoguare chemandu'áva, ko'ýte umi mba'e vai ajapo jave.	Añeñandu vai ko'aĝaite peve.	neutral
+25254	gn	Oiméne upéva upe mba'e chemitâramoguare chemandu'áva, ko'ýte umi mba'e vai ajapo jave.	Umíva tenodeguaite chemandu'áva.	entailment
+25255	gn	Ndoguerohoryeiete hikuái ipirehû umi árape, upéva oiméne, nde reikuaa, oiméne, amo 1930 oñepyrû rupi oikoramoguare umíva.	Hasy ndéve ndepirehûramo Yvy gotyo.	neutral
+25256	gn	Ndoguerohoryeiete hikuái ipirehû umi árape, upéva oiméne, nde reikuaa, oiméne, amo 1930 oñepyrû rupi oikoramoguare umíva.	Ndahasyiete ndepirû haĝua.	contradiction
+25257	gn	Ndoguerohoryeiete hikuái ipirehû umi árape, upéva oiméne, nde reikuaa, oiméne, amo 1930 oñepyrû rupi oikoramoguare umíva.	Hasy ndepirehûramo upéramo.	entailment
+25258	gn	Ndaikuaaporâi moôpa oho hikuái.	Mayvaméva oikuaa porâ moôpa oho hikuái.	contradiction
+25259	gn	Ndaikuaaporâi moôpa oho hikuái.	Avave ndoikuaái mba'e ógapepa oho.	neutral
+25260	gn	Ndaikuaaporâi moôpa oho hikuái.	Moôpa oho, mávapa oikuaáta.	entailment
+25261	gn	Ha ndaikatúi opyta upe Augusta jeré rehe upepegua oikuaa oñeha'âhague ojapo mba'e ojeguerokyhyjéva oñeha'â haĝuâ oiko ipire morotîva ramo.	Tapichakuéra ni noimo'âi ndaipiremorotîriha.	contradiction
+25262	gn	Ha ndaikatúi opyta upe Augusta jeré rehe upepegua oikuaa oñeha'âhague ojapo mba'e ojeguerokyhyjéva oñeha'â haĝuâ oiko ipire morotîva ramo.	Tapichakuéra ndoikuaái ha'ekuéra ouha Afrikaygua ruguýgui.	neutral
+25263	gn	Ha ndaikatúi opyta upe Augusta jeré rehe upepegua oikuaa oñeha'âhague ojapo mba'e ojeguerokyhyjéva oñeha'â haĝuâ oiko ipire morotîva ramo.	Tapichakuéra oikuaa ha'ekuéra ouha Afrikaygua ruguýgui.	entailment
+25264	gn	Héê, upe mitâ oî ápe.	Upe mitâ oî.	entailment
+25265	gn	Héê, upe mitâ oî ápe.	Upe kuimba'e iñapysê ojapo mokôi aravo'i.	neutral
+25266	gn	Héê, upe mitâ oî ápe.	Upe kuimba'e márô ndoúiva árupi.	contradiction
+25267	gn	Rohecharoínakuri peteî mba'e télepe.	Nda'oretélei.	contradiction
+25268	gn	Rohecharoínakuri peteî mba'e télepe.	Rohecharoínakuri téle.	entailment
+25269	gn	Rohecharoínakuri peteî mba'e télepe.	Rohecha marandu téle-pe.	neutral
+25270	gn	Upéicharô, apensa añe'âjeyva'erâ Ramona ndive.	Nañe'êiva Ramona ndive.	contradiction
+25271	gn	Upéicharô, apensa añe'âjeyva'erâ Ramona ndive.	Añe'ê Ramona ndive akokuehe.	entailment
+25272	gn	Upéicharô, apensa añe'âjeyva'erâ Ramona ndive.	Iporâ ore ñomongeta.	neutral
+25273	gn	Upéva añoite oñehundíva upe Cuba Apañuâime, Kaiser, ogueraha umi ta'ânga ha oveve Andrews Air Force-pe Washingtong-pe.	10000 tapicha omano upe Cuba apañuâime.	contradiction
+25274	gn	Upéva añoite oñehundíva upe Cuba Apañuâime, Kaiser, ogueraha umi ta'ânga ha oveve Andrews Air Force-pe Washingtong-pe.	Peteî tapicha añoite omano upe Cuba apañuâime.	entailment
+25275	gn	Upéva añoite oñehundíva upe Cuba Apañuâime, Kaiser, ogueraha umi ta'ânga ha oveve Andrews Air Force-pe Washingtong-pe.	Peteî tapicha añoite omano upe Cuba apañuâime accidente-pe.	neutral
+25276	gn	mmmm, ha ha'e he'i,... he'i,... he'i, nde nderehechái che ahechaháicha mba'épa upe jeikove	Ha'e he'i ndoikuaaieteha.	contradiction
+25277	gn	mmmm, ha ha'e he'i,... he'i,... he'i, nde nderehechái che ahechaháicha mba'épa upe jeikove	Ha'e he'i ndoikuaavéimaha jeikove rehegua.	entailment
+25278	gn	mmmm, ha ha'e he'i,... he'i,... he'i, nde nderehechái che ahechaháicha mba'épa upe jeikove	He'i chéve ndaikuaaiha mba'éichapa ojeiko añeteva'erâ ha ahapykuehova'eraha chupe.	neutral
+25279	gn	Upéi ajuhu hese ha apyta avy'aiterei, mba'épa ajapóta chugui.	Ndaikuaái mba'éichapa ojeporuva'erâ upe mba'e.	neutral
+25280	gn	Upéi ajuhu hese ha apyta avy'aiterei, mba'épa ajapóta chugui.	Ndaikuaái mba'erâpa aiporuva'erâ upe mba'e.	entailment
+25281	gn	Upéi ajuhu hese ha apyta avy'aiterei, mba'épa ajapóta chugui.	Aikuaa porâ mba'erâpa aiporuva'erâ!	contradiction
+25282	gn	Sapy'aitemi, remombe'uséramo, che aháta.	Aiméma aha haĝuáicha ko'aĝaite.	contradiction
+25283	gn	Sapy'aitemi, remombe'uséramo, che aháta.	Sapy'aitemi chera'arô.	entailment
+25284	gn	Sapy'aitemi, remombe'uséramo, che aháta.	Sapy'aitemi, tambyatypami che akâme chepy'apy.	neutral
+25285	gn	Upéicha aha Washingtong DC-pe ha ndahái he'ihaguetépe chéve hikuái.	Ndaháiva Washingtong DC-pe	contradiction
+25286	gn	Upéicha aha Washingtong DC-pe ha ndahái he'ihaguetépe chéve hikuái.	Aha DC-pe ahechávo che sâmbyhyhára-pe	neutral
+25287	gn	Upéicha aha Washingtong DC-pe ha ndahái he'ihaguetépe chéve hikuái.	Aha tetâ tavusúpe.	entailment
+25288	gn	Ha'e tapicha hû ipire hesakâva.	Ipire hû vera.	contradiction
+25289	gn	Ha'e tapicha hû ipire hesakâva.	Ipire hekasâ ja'e haĝua hese Afrikaygua ruguyha.	entailment
+25290	gn	Ha'e tapicha hû ipire hesakâva.	Ivevuive ambue iñangirû hûgui.	neutral
+25291	gn	Opáichavo, papa oho ombosako'i kagua kakua renyhê chokoláte kambýre chéve ĝuarâ.	Papa ome'ê chéve chokoláte kambýre eladéragui.	neutral
+25292	gn	Opáichavo, papa oho ombosako'i kagua kakua renyhê chokoláte kambýre chéve ĝuarâ.	che ru ome'ê chéve kamby kaguápe.	entailment
+25293	gn	Opáichavo, papa oho ombosako'i kagua kakua renyhê chokoláte kambýre chéve ĝuarâ.	Che ru he'i chéve ndaikatúiha ha'u mba'evete.	contradiction
+25294	gn	Upe DOT ojogua upe yvy ha mba'e.	Departamento de transporte ojuhu ambue yvy ohepyme'ê haĝua hendaguépe	contradiction
+25295	gn	Upe DOT ojogua upe yvy ha mba'e.	DOT ojogua upe yvy ha hembiporu	entailment
+25296	gn	Upe DOT ojogua upe yvy ha mba'e.	DOT ojogua upe yvy 3 millones $ ári rehe.	neutral
+25297	gn	Ha'e oiméne onase.	Oñeha'arô onase jasypakôi 2010-pe	neutral
+25298	gn	Ha'e oiméne onase.	Oñeha'arôkuri onase.	entailment
+25299	gn	Ha'e oiméne onase.	Oñeha'arôkuri nonaséi.	contradiction
+25300	gn	Chéniko upe…Aikuaa moô mevépa reĝuahê.	Ha'e chupe ndoikuaaaiha mba'épa ojapo.	contradiction
+25301	gn	Chéniko upe…Aikuaa moô mevépa reĝuahê.	Ha'e chupe ohasahague upe oñeha'arôva ichugui 40%	neutral
+25302	gn	Chéniko upe…Aikuaa moô mevépa reĝuahê.	Ha'e chupe	entailment
+25303	gn	Chéniko upe…Aikuaa moô mevépa reĝuahê.	Néi, ikatúpa cherendu?	entailment
+25304	gn	Chéniko upe…Aikuaa moô mevépa reĝuahê.	Ikatúpiko rehendu ha'éva che?	neutral
+25305	gn	Chéniko upe…Aikuaa moô mevépa reĝuahê.	Aikuaa nacherenduseiha	contradiction
+25306	gn	mmm, mba'eve? Ere nanemandu'aiha mba'eve remoñe'êva mbo'ehaópe, jepe ndekakuaáma, ndaipóri aranduka ndepy'ara'âva'ekue?	Rehayhu Harry Potter aranduka?	neutral
+25307	gn	mmm, mba'eve? Ere nanemandu'aiha mba'eve remoñe'êva mbo'ehaópe, jepe ndekakuaáma, ndaipóri aranduka ndepy'ara'âva'ekue?	Oîpiko aranduka rehayhúva térâ nderecha'éiva?	entailment
+25308	gn	mmm, mba'eve? Ere nanemandu'aiha mba'eve remoñe'êva mbo'ehaópe, jepe ndekakuaáma, ndaipóri aranduka ndepy'ara'âva'ekue?	Aikuaa rehayhurasaha umi aranduka remoñe'êva'ekue	contradiction
+25309	gn	Pévaniko peteî hélice michîva ofraguáva peteî inyección, katu upe ojopyha rape, upe túvo de presión oiporúva pilóto ha ojapóva contrapresión.	Upe tornillo ojoko presión.	entailment
+25310	gn	Pévaniko peteî hélice michîva ofraguáva peteî inyección, katu upe ojopyha rape, upe túvo de presión oiporúva pilóto ha ojapóva contrapresión.	Upe tornillo michî ha overa.	neutral
+25311	gn	Pévaniko peteî hélice michîva ofraguáva peteî inyección, katu upe ojopyha rape, upe túvo de presión oiporúva pilóto ha ojapóva contrapresión.	Ndaipóri tornillo, votônte.	contradiction
+25312	gn	Ha'e he'i ani rejepy'apy, nde reikuaa, ko'â mba'e ipukukuaaha.	Ha'e he'ichéve cheraĝe haĝua.	contradiction
+25313	gn	Ha'e he'i ani rejepy'apy, nde reikuaa, ko'â mba'e ipukukuaaha.	He'i chéve mba'eve ndoikoiha che aréramo ajapo haĝua.	neutral
+25314	gn	Ha'e he'i ani rejepy'apy, nde reikuaa, ko'â mba'e ipukukuaaha.	He'i chéve chembegueve haĝua.	entailment
+25315	gn	Mburuvichavete Kennedy he'i umi pilótope: Iporâ ta'ânga pejapóva.	Kennedy ndoikuaai chupekuéra.	contradiction
+25316	gn	Mburuvichavete Kennedy he'i umi pilótope: Iporâ ta'ânga pejapóva.	Kennedy oñe'ê umi Fuerzas Armadas-pegua pilotokuéra ndive.	neutral
+25317	gn	Mburuvichavete Kennedy he'i umi pilótope: Iporâ ta'ânga pejapóva.	Kennedy oñe'ê umi pilotokuéra ndive.	entailment
+25318	gn	Ha che añeñandu mba'éichambo, añehundimaha.	Ha'e 10 aravo'ípe amohu'âtamaha.	neutral
+25319	gn	Ha che añeñandu mba'éichambo, añehundimaha.	Ha'e chupe araka'eve ndajapopamo'âiha.	contradiction
+25320	gn	Ha che añeñandu mba'éichambo, añehundimaha.	Ha'e chupekuéra haimetéma amohu'âha.	entailment
+25321	gn	Añeha'â ahaipaite.	Ahai mba'ekuéra rehe.	entailment
+25322	gn	Añeha'â ahaipaite.	Ndajepy'apýi ahai haĝua.	contradiction
+25323	gn	Añeha'â ahaipaite.	Ahai tembiapo he'íva guive.	neutral
+25324	gn	Nahániri, ha'e onase 1900 ramo, oreko 16 ary ha oiméne 1926-pe19, nde reikuaa 1930 mboyve.	Onace jasyteî ára peteîha 1900 ramo.	neutral
+25325	gn	Nahániri, ha'e onase 1900 ramo, oreko 16 ary ha oiméne 1926-pe19, nde reikuaa 1930 mboyve.	Ha'e onase oñepyrûvo siglo.	entailment
+25326	gn	Nahániri, ha'e onase 1900 ramo, oreko 16 ary ha oiméne 1926-pe19, nde reikuaa 1930 mboyve.	Ha'e nonaséi 1943 peve.	contradiction
+25327	gn	Iporâitereíkuri upérô.	Oikuaaseterei mboýpa ikatu ho'u.	neutral
+25328	gn	Iporâitereíkuri upérô.	Ndoikuaaséi mba'evete.	contradiction
+25329	gn	Iporâitereíkuri upérô.	Ahecha iporâha.	entailment
+25330	gn	Ikypy'y ikatu ohasa ipire morotîvaramo.	Ikypy'y pire iporâitevéva upe hóga jerépe.	neutral
+25331	gn	Ikypy'y ikatu ohasa ipire morotîvaramo.	Oñeimo'â ikypy'y ipire morotîha jepivéramo.	entailment
+25332	gn	Ikypy'y ikatu ohasa ipire morotîvaramo.	Ikypy'y Sher heko ensuguy.	contradiction
+25333	gn	Néi, itujaiterei, ikatu porâ itúva.	Ha'e 27 ary itujave chugui.	neutral
+25334	gn	Néi, itujaiterei, ikatu porâ itúva.	Ha'e imitâitereive chugui.	contradiction
+25335	gn	Néi, itujaiterei, ikatu porâ itúva.	ha'e itujave chugui.	entailment
+25336	gn	Upéva, che upe 922 peteîmi kuimba'e ha'etéva ha ambue oykeko haĝuánte oî.	Avave noporopytyvôi.	contradiction
+25337	gn	Upéva, che upe 922 peteîmi kuimba'e ha'etéva ha ambue oykeko haĝuánte oî.	Peteî kuimba'e oipytyvô fisiológico tropa-pe.	neutral
+25338	gn	Upéva, che upe 922 peteîmi kuimba'e ha'etéva ha ambue oykeko haĝuánte oî.	Peteî kuimba'e oipytyvô fisiológico.	entailment
+25339	gn	Cha ápe apensa outaha aponde'a reheve, nde reikuaa, onohê haĝua chendive, reikuaáma, cheja'o oimeramoguáicha ikatu amoambue.	Aikuaa ha'e ndoumo'âihavoi.	contradiction
+25340	gn	Cha ápe apensa outaha aponde'a reheve, nde reikuaa, onohê haĝua chendive, reikuaáma, cheja'o oimeramoguáicha ikatu amoambue.	Aimo'â ouha oñorairô haĝua.	entailment
+25341	gn	Cha ápe apensa outaha aponde'a reheve, nde reikuaa, onohê haĝua chendive, reikuaáma, cheja'o oimeramoguáicha ikatu amoambue.	Aimo'â ipochytaha che ñe'ê ryapu rehe.	neutral
+25342	gn	Néi, Natekotevêi ja'e ndaikatuiha rojavy.	Oî porâ, rojavy mimi.	contradiction
+25343	gn	Néi, Natekotevêi ja'e ndaikatuiha rojavy.	Ndojehejái oréve rojavývo.	entailment
+25344	gn	Néi, Natekotevêi ja'e ndaikatuiha rojavy.	Ndojehejái oréve romoñe'ê vai mba'evete.	neutral
+25345	gn	Ha, Nde! Aimo'âvaicha pyhare ndakeihague.	Ndaikatúi ake angepyhare.	entailment
+25346	gn	Ha, Nde! Aimo'âvaicha pyhare ndakeihague.	Chekerajopy gueteri pyharekue ha ndaikatúi ake.	neutral
+25347	gn	Ha, Nde! Aimo'âvaicha pyhare ndakeihague.	pyharekue ake mitâicha.	contradiction
+25348	gn	Ha'e oreko mba'éichapa ojejokokuaa.	ha'e ipu'aka jagua ñarô rehe.	neutral
+25349	gn	Ha'e oreko mba'éichapa ojejokokuaa.	Ha'e ikatu oñedenfende porâ	entailment
+25350	gn	Ha'e oreko mba'éichapa ojejokokuaa.	Ha'e ikangyrasa.	contradiction
+25351	gn	MMM.Ndoje'éi araka'eve.	Ha'e he'i chupe oikotevêva guive.	contradiction
+25352	gn	MMM.Ndoje'éi araka'eve.	Nde'íri chéve mba'evete mba'emba'épa ojereko ñeñangarereko rehegua.	neutral
+25353	gn	MMM.Ndoje'éi araka'eve.	Sapy'ánte nde'íri chéve.	entailment
+25354	gn	Upéicha rupi roiko ko'árupi.	Ore róga oîva'ekue ko'árupi	entailment
+25355	gn	Upéicha rupi roiko ko'árupi.	Ore róga namombyryva'ekue ko'águi.	contradiction
+25356	gn	Upéicha rupi roiko ko'árupi.	Ore róga oî águi mokôi manzana.	neutral
+25357	gn	Ha oñe'ê porâiterei, oñe'ê pumbyry rupive.	Oñe'ê mbeguekatu asy ikatu haguéicha.	contradiction
+25358	gn	Ha oñe'ê porâiterei, oñe'ê pumbyry rupive.	Oñe'ê peteî iPhone rupive.	neutral
+25359	gn	Ha oñe'ê porâiterei, oñe'ê pumbyry rupive.	Oñe'ê pumbyry isâ'ÿva rupive.	entailment
+25360	gn	Ndaikatúi chemandu'a mba'épa oiko, katu chemoñeko'ôi sapy'a apensávo aha ñepyrû va'erâha mbo'ehaópe ha oiména upéva upe ára cheruguypochyve hague.	Ndajepy'apýi ahathaguére mbo'ehaópe.	contradiction
+25361	gn	Ndaikatúi chemandu'a mba'épa oiko, katu chemoñeko'ôi sapy'a apensávo aha ñepyrû va'erâha mbo'ehaópe ha oiména upéva upe ára cheruguypochyve hague.	Chepy'apy ahava'erâha mbo'ehaópe.	entailment
+25362	gn	Ndaikatúi chemandu'a mba'épa oiko, katu chemoñeko'ôi sapy'a apensávo aha ñepyrû va'erâha mbo'ehaópe ha oiména upéva upe ára cheruguypochyve hague.	Ajepy'apy ahava'erâgui mitânguéra ñehekombo'ehápe.	neutral
+25363	gn	Eeee. Aiko St. Louis okára gotyo, Jefferson City ha St. Luois, MO mbyte rupi.	Aiko Texas-pe.	contradiction
+25364	gn	Eeee. Aiko St. Louis okára gotyo, Jefferson City ha St. Luois, MO mbyte rupi.	Aiko peteî óga sa'yju Missouri-pe.	neutral
+25365	gn	Eeee. Aiko St. Louis okára gotyo, Jefferson City ha St. Luois, MO mbyte rupi.	Aimékuri Missouri-pe.	entailment
+25366	gn	Amomarandu'aínakuri peteî hendápe Del Rio ryepýpe upéi aha Laughlin Air Force Base-pe, ojeabri ramóvape.	Upe Base Aérea Laughlin oñemboty sapy'ákuri.	entailment
+25367	gn	Amomarandu'aínakuri peteî hendápe Del Rio ryepýpe upéi aha Laughlin Air Force Base-pe, ojeabri ramóvape.	Upe Base Aérea Laughlin noñembotýi araka'eve.	contradiction
+25368	gn	Amomarandu'aínakuri peteî hendápe Del Rio ryepýpe upéi aha Laughlin Air Force Base-pe, ojeabri ramóvape.	Upe Base Aérea Laughlin-pe oiko 10,000 ñorairôhára.	neutral
+25369	gn	Chéve peteîchante rejapoháicha.	Mba'evete chéve mba'e sa'ýpa nde reiporavo.	neutral
+25370	gn	Chéve peteîchante rejapoháicha.	Tekotevê amoneî peteîteî umi ñe'ême'ê.	contradiction
+25371	gn	Chéve peteîchante rejapoháicha.	Mba'evete chéve mba'éichapa remohu'â.	entailment
+25372	gn	Upéicha amaña yvatévo, ahecha moôpa oî Ramona ha upépe ahenói chupe.	Ahenói Ramona-pe che rógape.	neutral
+25373	gn	Upéicha amaña yvatévo, ahecha moôpa oî Ramona ha upépe ahenói chupe.	Ahenói Ramona-pe aikuaa haĝua moôpa oî.	entailment
+25374	gn	Upéicha amaña yvatévo, ahecha moôpa oî Ramona ha upépe ahenói chupe.	Napenái Ramona rehe.	contradiction
+25375	gn	Upe aja upe Fuerza Aérea ojogua SR71, ko'áĝa upe A-12, romba'apovaroína CIA ndive.	Fuerza Aérea ojogua 18 aviô.	neutral
+25376	gn	Upe aja upe Fuerza Aérea ojogua SR71, ko'áĝa upe A-12, romba'apovaroína CIA ndive.	Fuerzas Aéreas ojogua aviôkuéra.	entailment
+25377	gn	Upe aja upe Fuerza Aérea ojogua SR71, ko'áĝa upe A-12, romba'apovaroína CIA ndive.	Fuerza Aérea naiñaponde'ái.	contradiction
+25378	gn	Upéicharamopiko ikypy'y ména ipiresa'i avei?	Ikypy'y omenda kuimba'e ipirehûva rehe.	neutral
+25379	gn	Upéicharamopiko ikypy'y ména ipiresa'i avei?	Ipkypy'y omendáva.	entailment
+25380	gn	Upéicharamopiko ikypy'y ména ipiresa'i avei?	Ikypy'y nomendái.	contradiction
+25381	gn	Okakuaávo ohóvo, ndohechakuaái ojavyha, katu omoambue heko.	Ha'e nomoambueiete heko.	contradiction
+25382	gn	Okakuaávo ohóvo, ndohechakuaái ojavyha, katu omoambue heko.	Ha'e nde'íri ojavyha.	entailment
+25383	gn	Okakuaávo ohóvo, ndohechakuaái ojavyha, katu omoambue heko.	HA'e nde'íri iñe'ênte avaleha upe so'o mbutukáre.	neutral
+25384	gn	Che tio, karia'y vale.	Che tio ho'a porâiterei chéve.	entailment
+25385	gn	Che tio, karia'y vale.	Che tio hovatavy.	contradiction
+25386	gn	Che tio, karia'y vale.	Che tio ipojeraiterei.	neutral
+25387	gn	Aha che kypy'y rógape oikóva pépe. Iména omba'apohína Upe Inteligencia ndive ha che aha hógape.	Che rovaja oî ejército-pe.	neutral
+25388	gn	Aha che kypy'y rógape oikóva pépe. Iména omba'apohína Upe Inteligencia ndive ha che aha hógape.	Che rovaja oî omba'apóva apytépe.	entailment
+25389	gn	Aha che kypy'y rógape oikóva pépe. Iména omba'apohína Upe Inteligencia ndive ha che aha hógape.	Che ryvy araka'eve noñembosako'íri.	contradiction
+25390	gn	Apensamiva'erâ. Néi, aha, ahejáta toho amuéva, katu upéi apensáta. Chedio!!	Aimo'â ohejáta oho ambuéva cherendaguépe.	entailment
+25391	gn	Apensamiva'erâ. Néi, aha, ahejáta toho amuéva, katu upéi apensáta. Chedio!!	Aimo'â ohejáta ambuévape oike che rendaguépe upe atyhápe.	neutral
+25392	gn	Apensamiva'erâ. Néi, aha, ahejáta toho amuéva, katu upéi apensáta. Chedio!!	Ndohejamo'âi avavépe ohovévo.	contradiction
+25393	gn	Sapy'ánte ombota hatâ upe imesa ha upemi rire oî porâ jeýma, ejagarra che meságui, da, da, da, da, da,	Py'ÿi iñambue hemimo'â.	entailment
+25394	gn	Sapy'ánte ombota hatâ upe imesa ha upemi rire oî porâ jeýma, ejagarra che meságui, da, da, da, da, da,	Hemimo'â iñambue ndoikaái ruipi upe ojapóva.	neutral
+25395	gn	Sapy'ánte ombota hatâ upe imesa ha upemi rire oî porâ jeýma, ejagarra che meságui, da, da, da, da, da,	Ha'e hemimo'â peteî ha ipy'aguapy.	contradiction
+25396	gn	Néi, oimeháicha, oike upépe ha oî ku péicha: Mba'eteko jaha hese?	Oporandu mba'éichapa oî umi mba'e.	entailment
+25397	gn	Néi, oimeháicha, oike upépe ha oî ku péicha: Mba'eteko jaha hese?	Oporandu romohu'âpa rohóvo upe documental.	neutral
+25398	gn	Néi, oimeháicha, oike upépe ha oî ku péicha: Mba'eteko jaha hese?	Ha'e noñe'êiete oréve.	contradiction
+25399	gn	Upéi ombojere che rueda, ndaikuaái amalisia upe ara pukukue.	Cheraĝe ha amohu'â pya'e porâ	contradiction
+25400	gn	Upéi ombojere che rueda, ndaikuaái amalisia upe ara pukukue.	Aguapy upepe mokôi aravo aja.	neutral
+25401	gn	Upéi ombojere che rueda, ndaikuaái amalisia upe ara pukukue.	Ambojere upe rueda areterei.	entailment
+25402	gn	Ha'e imba'asypo'i ha che ndaikuaáikuri avei upéva.	Ndaikuaáikuri haimete omanohague mba'asypo'ígui.	neutral
+25403	gn	Ha'e imba'asypo'i ha che ndaikuaáikuri avei upéva.	ndaikuaáikuri imba'asypo'ihague.	entailment
+25404	gn	Ha'e imba'asypo'i ha che ndaikuaáikuri avei upéva.	Aikuaákuri imba'asypo'ihague.	contradiction
+25405	gn	Reikuaa, ndaikatúi, ndaikatúi reikovévo ndererekóiramo contrapresión, ohupíva nde pytuhê presión amo yvate.	Upe techaukaha presión ndejuka opaite aravo.	contradiction
+25406	gn	Reikuaa, ndaikatúi, ndaikatúi reikovévo ndererekóiramo contrapresión, ohupíva nde pytuhê presión amo yvate.	Reikotevê contrapesión hetave 5000 pýgui.	neutral
+25407	gn	Reikuaa, ndaikatúi, ndaikatúi reikovévo ndererekóiramo contrapresión, ohupíva nde pytuhê presión amo yvate.	Reikotevê contrapesión amo yvate mombyry.	entailment
+25408	gn	Añepyrû upepete voi, añembokatupyrývo umi mokôi mitâkaria'y oîva upépe ndive.	Araka'eve nañembokatupyrýi amba'apo haĝua upe ñemuhápe.	contradiction
+25409	gn	Añepyrû upepete voi, añembokatupyrývo umi mokôi mitâkaria'y oîva upépe ndive.	Mokôi karia'y chembokatupyry amba'apo haĝua upe ñemuhápe.	neutral
+25410	gn	Añepyrû upepete voi, añembokatupyrývo umi mokôi mitâkaria'y oîva upépe ndive.	Mokôi che tio chembokatupyry.	entailment
+25411	gn	Oiméramo kytomi, tekotevê remyatyrô upe regulador.	Regulador ndoikói mba'everâ.	contradiction
+25412	gn	Oiméramo kytomi, tekotevê remyatyrô upe regulador.	Regulador omomabueva'erâ presión oîva nde ao pyrusúpe.	neutral
+25413	gn	Oiméramo kytomi, tekotevê remyatyrô upe regulador.	Rehugava'erâ upe regulador rehe.	entailment
+25414	gn	Ooo, chemi upe 922 omoîva inyección upe regulador-pe	Amoîkuri inyector upe araapy.	neutral
+25415	gn	Ooo, chemi upe 922 omoîva inyección upe regulador-pe	Che peteî 922.	entailment
+25416	gn	Ooo, chemi upe 922 omoîva inyección upe regulador-pe	Che máro ndaha'éi 922.	contradiction
+25417	gn	Ndontendéi mba'eve upe ñemenda oikóvagui, ndoikuaái ni omendahague, añete.	Ha'e nontendéi ojepykua ha ojepokuaaha upe karia'y ndive ara paha peve jepe ndoikuaái chupe upe mboyve.	neutral
+25418	gn	Ndontendéi mba'eve upe ñemenda oikóvagui, ndoikuaái ni omendahague, añete.	Nontendéi mba'épa oiko.	entailment
+25419	gn	Ndontendéi mba'eve upe ñemenda oikóvagui, ndoikuaái ni omendahague, añete.	Oikuaa mba'épepa oike.	contradiction
+25420	gn	Ore roikeva'erâ upépe.	Romeva'erâ upépe 20 aravo jave.	neutral
+25421	gn	Ore roikeva'erâ upépe.	Roikeva'erâ.	entailment
+25422	gn	Ore roikeva'erâ upépe.	Araka'eve ndoroikemo'âi.	contradiction
+25423	gn	Ha'ete ku omboykéva ha'ehaguére upe ha'éva, nde reikuaa, ojekuaa upe mba'éichapa oreko ambue hemiarirôme rupi.	Ha'e omopeteîmba chupekuéra.	contradiction
+25424	gn	Ha'ete ku omboykéva ha'ehaguére upe ha'éva, nde reikuaa, ojekuaa upe mba'éichapa oreko ambue hemiarirôme rupi.	Ambue hemiarirô rehe opena ambue.	entailment
+25425	gn	Ha'ete ku omboykéva ha'ehaguére upe ha'éva, nde reikuaa, ojekuaa upe mba'éichapa oreko ambue hemiarirôme rupi.	Ambue hemiarirô rehe opena ambue hûhaguére.	neutral
+25426	gn	Puréte! Isái veve ivytu rupi.	Isái oveve yvytu ndive.	entailment
+25427	gn	Puréte! Isái veve ivytu rupi.	Isái mbyky ha oveve'imi.	neutral
+25428	gn	Puréte! Isái veve ivytu rupi.	Ndaijyvytúi, upéicha rupi isái opytaite.	contradiction
+25429	gn	Ooo. Heta ára ahasa ko'â mba'épe, tembiapo iporavopyrépe.	Aime umi tembiapo iporavopyrépe mokôi ára ñavo.	neutral
+25430	gn	Ooo. Heta ára ahasa ko'â mba'épe, tembiapo iporavopyrépe.	Che aime tembiapo jeporavopyrépe.	entailment
+25431	gn	Ooo. Heta ára ahasa ko'â mba'épe, tembiapo iporavopyrépe.	Naiméiva tembiapo jeporavopyrépe.	contradiction
+25435	gn	Katu,… oiko hikuái peteî tava'i oîva Augusta oka gotyo hérava Evans, oîva gueteri. Areko gueteri che pehênguekuéra oikóva upápe.	Areko 20 che pehênguekuéra oikova'ekue Evans-pe.	neutral
+25436	gn	Katu,… oiko hikuái peteî tava'i oîva Augusta oka gotyo hérava Evans, oîva gueteri. Areko gueteri che pehênguekuéra oikóva upápe.	Oikova'ekue Atlanta-pe.	contradiction
+25437	gn	Katu,… oiko hikuái peteî tava'i oîva Augusta oka gotyo hérava Evans, oîva gueteri. Areko gueteri che pehênguekuéra oikóva upápe.	Oikova'ekue Evans-pe, michîmíva.	entailment
+25438	gn	Che kypy'y he'i gueteri, he'i: sapy'ánte ñande jarýicha, reporoja'oparei hendape'ÿ.	Che kypy'y he'i ha'e oporomboykeha te'ýi rehe.	neutral
+25439	gn	Che kypy'y he'i gueteri, he'i: sapy'ánte ñande jarýicha, reporoja'oparei hendape'ÿ.	Che kypy'y he'i nameméi cheroryha.	entailment
+25440	gn	Che kypy'y he'i gueteri, he'i: sapy'ánte ñande jarýicha, reporoja'oparei hendape'ÿ.	Che kypy'y he'i mba'evépe ndajoguaiha che jarýipe.	contradiction
+25441	gn	Mmm, upe rire rova ore roga pyahúpe.	Rova peteî ógape rojapova'ekue upe tetâme.	neutral
+25442	gn	Mmm, upe rire rova ore roga pyahúpe.	Rova peteî oga pyahúpe.	entailment
+25443	gn	Mmm, upe rire rova ore roga pyahúpe.	Ropyta upe ógape ore rekove pukukue.	contradiction
+25444	gn	Che aime ja'e… néi, …, upéva oî porâ, reikuaa, upéicha.	Ha'e ndacha'eiha hese ha ajeguaru chugui.	contradiction
+25445	gn	Che aime ja'e… néi, …, upéva oî porâ, reikuaa, upéicha.	Ha'e chupe iporâitereiha chéve upe purahéi pyahu.	neutral
+25446	gn	Che aime ja'e… néi, …, upéva oî porâ, reikuaa, upéicha.	Ha'éma chupekuéra amoneîha.	entailment
+25447	gn	Upe pintura sa'y iñambue ohupyty jave 100º ha ikatu ohasa pytâgui hovýpe, upéva hechapyrâ.	Upe pintura omoambue isa'y.	entailment
+25448	gn	Upe pintura sa'y iñambue ohupyty jave 100º ha ikatu ohasa pytâgui hovýpe, upéva hechapyrâ.	Upe pintura omoambue isa'y jaikuaa haĝua mba'éichapa haku ñaha'â'ÿre..	neutral
+25449	gn	Upe pintura sa'y iñambue ohupyty jave 100º ha ikatu ohasa pytâgui hovýpe, upéva hechapyrâ.	Upe pintura akói hû.	contradiction
+25450	gn	Akaru pya'eterei ikatuhaguéicha ha upéi oike ha'e ha che chepytyvô upévape.	Ha'u upe pizza mokôi aravo'ípe.	neutral
+25451	gn	Akaru pya'eterei ikatuhaguéicha ha upéi oike ha'e ha che chepytyvô upévape.	Akaru mbeguekatu asy ani haĝua cherasy.	contradiction
+25452	gn	Akaru pya'eterei ikatuhaguéicha ha upéi oike ha'e ha che chepytyvô upévape.	Amokokô upe tembi'u.	entailment
+25453	gn	Ykypy'y ména avei ipire sa'i.	Hovaja ipiresa'i.	entailment
+25454	gn	Ykypy'y ména avei ipire sa'i.	hovaja sueco.	neutral
+25455	gn	Ykypy'y ména avei ipire sa'i.	Ikypy'y nomendái.	contradiction
+25456	gn	Opáichavo, oñantoha chupekuéra kóva ojapo ko O2 regulador yvate.	Ha'ekuéra ojapo peteî regulador pyahu.	entailment
+25457	gn	Opáichavo, oñantoha chupekuéra kóva ojapo ko O2 regulador yvate.	Ojapo hikuái peteî regulador oikóva ára yvatépe.	neutral
+25458	gn	Opáichavo, oñantoha chupekuéra kóva ojapo ko O2 regulador yvate.	Ndoikuaái gueteri mba'éichapa ojejapo oxígeno regulador.	contradiction
+25459	gn	Ha upéramo, rova Las Vegas-pe NY ha amombe'u, upéicha ajapohaguéicha Washington-pe, peteî óga renda Las Vegas centro-pe.	Ndaháiva Las Vegas-pe.	contradiction
+25460	gn	Ha upéramo, rova Las Vegas-pe NY ha amombe'u, upéicha ajapohaguéicha Washington-pe, peteî óga renda Las Vegas centro-pe.	Amba'apo Las Vegas ha Washington-pe.	entailment
+25461	gn	Ha upéramo, rova Las Vegas-pe NY ha amombe'u, upéicha ajapohaguéicha Washington-pe, peteî óga renda Las Vegas centro-pe.	Amba'apo texista ramo mokôive távape.	neutral
+25462	gn	Héê, 4º-pe rovy'aiterei.	Ndahcha'éi mbo'ehao rehe.	contradiction
+25463	gn	Héê, 4º-pe rovy'aiterei.	Ahayhu 4º-pe mokôi jey rosê ropytu'u.	neutral
+25464	gn	Héê, 4º-pe rovy'aiterei.	Ahayhu mbo'esyry irundyha.	entailment
+25465	gn	Ha'ete peteî ñongatuha hopea hetáva. Reikuaáma. Peteîteî umi hopea ryepýpe orereko ha'ete peteî kuatia rogue ojekalkulaha iñambuéva ojuehegui.	Upe kuatia rogué niko papapy rysýinte.	contradiction
+25466	gn	Ha'ete peteî ñongatuha hopea hetáva. Reikuaáma. Peteîteî umi hopea ryepýpe orereko ha'ete peteî kuatia rogue ojekalkulaha iñambuéva ojuehegui.	Umi tabulaciones oreko heta marandu.	entailment
+25467	gn	Ha'ete peteî ñongatuha hopea hetáva. Reikuaáma. Peteîteî umi hopea ryepýpe orereko ha'ete peteî kuatia rogue ojekalkulaha iñambuéva ojuehegui.	Umi hopea ohechauka mboýva oñondivepa ko'áĝa umi kuénta.	neutral
+25468	gn	Mba'evete chéve mba'éichapa rejapo.	Mba'evete chéve ndete rejaporamo térâpa repaga rejapouka haĝua.	neutral
+25469	gn	Mba'evete chéve mba'éichapa rejapo.	Mba'evete chéve upe hembiapo reko.	entailment
+25470	gn	Mba'evete chéve mba'éichapa rejapo.	Aikuaase mba'eichaitépa rejapóta ko mba'e.	contradiction
+25471	gn	Ovakuri Mallard Creek, Charlotte-pe.	Ojapo hogarâ Mallord Creek-pe.	neutral
+25472	gn	Ovakuri Mallard Creek, Charlotte-pe.	Araka'eve ndovái hikuái Charlotte-pe.	contradiction
+25473	gn	Ovakuri Mallard Creek, Charlotte-pe.	Upéi oiko hikuái Mallard Creek-pe.	entailment
+25474	gn	Upépe ha'e, …, ha'e tetâ remimoîmby motenondeha ra'y, upéicha rupi ha'e oreko, ha'ekuéra oreko heta mba'e ha ambue mba'eve ha ojokupyty porâ umi tavaygua ndive, ha ojehayhurasa.	Itúva pastor luterano.	neutral
+25475	gn	Upépe ha'e, …, ha'e tetâ remimoîmby motenondeha ra'y, upéicha rupi ha'e oreko, ha'ekuéra oreko heta mba'e ha ambue mba'eve ha ojokupyty porâ umi tavaygua ndive, ha ojehayhurasa.	Itúva niko presokue araka'eve oho'ÿva tupâópe.	contradiction
+25476	gn	Upépe ha'e, …, ha'e tetâ remimoîmby motenondeha ra'y, upéicha rupi ha'e oreko, ha'ekuéra oreko heta mba'e ha ambue mba'eve ha ojokupyty porâ umi tavaygua ndive, ha ojehayhurasa.	Itúva pastor.	entailment
+25477	gn	Chéniko, ndaikuaái mba'éichaitépa oipota oñembyesa'i.	Ndaikuaaái ha'épa oipota umimarandu ñesê rehegua aravo.	neutral
+25478	gn	Chéniko, ndaikuaái mba'éichaitépa oipota oñembyesa'i.	Ndaikuaaporâi mboýpa ha'e oipota hupy.	contradiction
+25479	gn	Chéniko, ndaikuaái mba'éichaitépa oipota oñembyesa'i.	Ndaikuaaporâi mboýpa hypyva'erâ.	entailment
+25480	gn	Ha, mm, iñambue, peteîteî umi ñemuhára-pe oîmbaite ikuatiakuéra.	HA'ekuéra ndorekói ñongatuha.	contradiction
+25481	gn	Ha, mm, iñambue, peteîteî umi ñemuhára-pe oîmbaite ikuatiakuéra.	Oñongatupaite marandu.	entailment
+25482	gn	Ha, mm, iñambue, peteîteî umi ñemuhára-pe oîmbaite ikuatiakuéra.	Oñongatu umi kuatia pohânohára ha pysyryhára rehegua oñondive.	neutral
+25483	gn	kóva mbykyve, upe ha'e ome'êva'ekue chéve ombyesa'ipave ha ijetu'uve, ko mokôiha hesakâve.	Ha'e ome'ê chéve mokôi hendáicha.	entailment
+25484	gn	kóva mbykyve, upe ha'e ome'êva'ekue chéve ombyesa'ipave ha ijetu'uve, ko mokôiha hesakâve.	Ha'e ome'ê chéve mokôi tembiaporâ ha ché apyta upe hakâ sa'íva rehe.	neutral
+25485	gn	kóva mbykyve, upe ha'e ome'êva'ekue chéve ombyesa'ipave ha ijetu'uve, ko mokôiha hesakâve.	Ha'e ome'ê chéve peteî hendaichaguánte ha opyta chéve líno sa'imi.	contradiction
+25486	gn	Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái.	Augusta oreko 10.000 tapicha.	neutral
+25487	gn	Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái.	Augusta, táva ndatuichaitéiva.	entailment
+25488	gn	Añetehápe ndoikói hikuái Augusta-pe, oiko hikuái… néi, nde reikuaa, Augusta, táva michîva upérô, jepe heta oikóva tavaguasúpe ĝuarâ, Augusta ndatuichái.	Oiko hikuái Augusta korasôitépe.	contradiction
+25489	gn	1962 paha gotyo, oje'e chéve yvaté guivo ahava'erâha Washington-pe.	He'i chéve aha haĝua DC-pe.	entailment
+25490	gn	1962 paha gotyo, oje'e chéve yvaté guivo ahava'erâha Washington-pe.	Ejército chemondo DC-pe upepete.	neutral
+25491	gn	1962 paha gotyo, oje'e chéve yvaté guivo ahava'erâha Washington-pe.	He'i chéve aha haĝua Africa-pe.	contradiction
+25492	gn	DOT ojagarraramoguare ijyvyrâ, rova peteî tenda michîvévape Concord-pe, upépe ndojehejái ojereko mymba oñemboja'o rupi mba'e mba'érâmbo, ha upé guive opa mymba jereko.	Ore róga Concord-pe ndaikatúi orerymbávo.	entailment
+25493	gn	DOT ojagarraramoguare ijyvyrâ, rova peteî tenda michîvévape Concord-pe, upépe ndojehejái ojereko mymba oñemboja'o rupi mba'e mba'érâmbo, ha upé guive opa mymba jereko.	Ore róga Concord-pe otroko 30000 acres ha hetaiterei orerymba.	contradiction
+25494	gn	DOT ojagarraramoguare ijyvyrâ, rova peteî tenda michîvévape Concord-pe, upépe ndojehejái ojereko mymba oñemboja'o rupi mba'e mba'érâmbo, ha upé guive opa mymba jereko.	Rome'êmbaite ore rymba rovávo Concord-pe.	neutral
+25495	gn	Oimeháicha, rojepyso, ha ko'áĝa ha'ekuaa ko mab'e káusa rojepysohague Kadina, Oikinawa-pe, upéva 1968-pe.	Roipyso ore mbaretekue 1968-pe.	entailment
+25496	gn	Oimeháicha, rojepyso, ha ko'áĝa ha'ekuaa ko mab'e káusa rojepysohague Kadina, Oikinawa-pe, upéva 1968-pe.	Ndoroipysói avavépe.	contradiction
+25497	gn	Oimeháicha, rojepyso, ha ko'áĝa ha'ekuaa ko mab'e káusa rojepysohague Kadina, Oikinawa-pe, upéva 1968-pe.	Romondo ore tropa Japón-pe jasypoteîme 1968-pe	neutral
+25498	gn	He'ichéve mba'etépa oikotevê ha oikotevêha ko árape ĝuarâ.	He'i chéve ikatuha amoĝuahê ikatu vove.	contradiction
+25499	gn	He'ichéve mba'etépa oikotevê ha oikotevêha ko árape ĝuarâ.	He'i chéve arekoha 14:00 aravo peve ajapopa haĝua upe apopyrâ.	neutral
+25500	gn	He'ichéve mba'etépa oikotevê ha oikotevêha ko árape ĝuarâ.	He'i chéve pya'eva'erâha.	entailment
+25501	gn	Ohómakuri ha he’i chéve ani haĝua ajepy’apy.	He’i chéeve aikuaava’erâha mbo'ehao iporâtaha.	neutral
+25502	gn	Ohómakuri ha he’i chéve ani haĝua ajepy’apy.	He’i ani haĝua ajepy’apy.	entailment
+25503	gn	Ohómakuri ha he’i chéve ani haĝua ajepy’apy.	He’i oĝuahêha aravo jakyhyje haĝua.	contradiction
+25504	gn	Péva ha’e, eikuaáma, emaña, neapañuâima.	Reime en peligro.	entailment
+25505	gn	Péva ha’e, eikuaáma, emaña, neapañuâima.	Reime porâta.	contradiction
+25506	gn	Péva ha’e, eikuaáma, emaña, neapañuâima.	Ikatu reñemosê ko tetâgui.	neutral
+25507	gn	Amo ipahápe che sy ndaha’éikuri ojehayhupáva iñepyrûrâ, péicha oñemondo chupe omba’apo haĝua ñúre, katu ambue mitânguéra nomba’apói hikuái ñúre.	Che sy omano'ôva’ekue avati ha mandyju.	neutral
+25508	gn	Amo ipahápe che sy ndaha’éikuri ojehayhupáva iñepyrûrâ, péicha oñemondo chupe omba’apo haĝua ñúre, katu ambue mitânguéra nomba’apói hikuái ñúre.	Che sy, mitakuña itajuva’ekue upévare nomba’apóiva.	contradiction
+25509	gn	Amo ipahápe che sy ndaha’éikuri ojehayhupáva iñepyrûrâ, péicha oñemondo chupe omba’apo haĝua ñúre, katu ambue mitânguéra nomba’apói hikuái ñúre.	Che sy, omba’apova’ekue okape.	entailment
+25510	gn	Ha reikuaa, ipahápe reikuaa, mba’épa oñeporandu tapichakuérape, peteîva ha ambuévape. Ha avave ndoikuaái moôpa oî, ha peichaháguinte, reikuaa, oiko porâjey ndohechamo'âvéipype Joe-pe.	Joe añoite oreko upe koty pytu’uha okenda. .	neutral
+25511	gn	Ha reikuaa, ipahápe reikuaa, mba’épa oñeporandu tapichakuérape, peteîva ha ambuévape. Ha avave ndoikuaái moôpa oî, ha peichaháguinte, reikuaa, oiko porâjey ndohechamo'âvéipype Joe-pe.	Jepe roñeha’â heta, ndaikatúi rojei Joe-gui, ndaorerejái pytu'uhápe.	contradiction
+25512	gn	Ha reikuaa, ipahápe reikuaa, mba’épa oñeporandu tapichakuérape, peteîva ha ambuévape. Ha avave ndoikuaái moôpa oî, ha peichaháguinte, reikuaa, oiko porâjey ndohechamo'âvéipype Joe-pe.	Peteî árape Joe oho ha avave ndoikuaái moôpa.	entailment
+25513	gn	Ha’e peême che reindy mba’eha.	Amboja che reindýre.	entailment
+25514	gn	Ha’e peême che reindy mba’eha.	Ha’e che mba’eha.	contradiction
+25515	gn	Ha’e peême che reindy mba’eha.	Ha’e peême pe jagua che reindy mba’eha.	neutral
+25516	gn	Ha upéi isy he’i chupe, isy ojayvy tenonde gotyo, omaña ha he’i, eguata ha'éicha.	Ha’e he’i isy avei oguataha ipysâ akâ rehe.	neutral
+25517	gn	Ha upéi isy he’i chupe, isy ojayvy tenonde gotyo, omaña ha he’i, eguata ha'éicha.	Ha’e he'i isy oguataha ha'eichaite.	entailment
+25518	gn	Ha upéi isy he’i chupe, isy ojayvy tenonde gotyo, omaña ha he’i, eguata ha'éicha.	He'i isyhasyha ha ndaikatuiha oguata.	contradiction
+25519	gn	reikuaa, ha'e omyenyhê umi yvoty rope amoite ha che ndaikuaái mba'épa oiko.	Ndoikuaáikuri hasyetétaha.	neutral
+25520	gn	reikuaa, ha'e omyenyhê umi yvoty rope amoite ha che ndaikuaái mba'épa oiko.	Ndoikuaai mba’epa ojejuhútava chupe.	entailment
+25521	gn	reikuaa, ha'e omyenyhê umi yvoty rope amoite ha che ndaikuaái mba'épa oiko.	Aikuaa mba'épa oikóta ha'e ojaporamoguare upéva.	contradiction
+25522	gn	Aaa. Ambue ojehúva upépe ikatúva iporâ umi che reindy mandu'a ñepyrû ha upe korapy okupe.	Nachemandu’ái upe óga rehe.	contradiction
+25523	gn	Aaa. Ambue ojehúva upépe ikatúva iporâ umi che reindy mandu'a ñepyrû ha upe korapy okupe.	Chemandu’a amono'ôramoguare margarita óga kupépe.	neutral
+25524	gn	Aaa. Ambue ojehúva upépe ikatúva iporâ umi che reindy mandu'a ñepyrû ha upe korapy okupe.	Chemandu'a upe oikova'ekue okupépe.	entailment
+25525	gn	Ha upéichako, akârasy memete, ja'ekuaa ko árape arekopaite mba'érepa cheakârasy haĝua, nde nereikuaái mba'éichapa ojejapo peteî mba'e ha he'i ndéve hikuái: péina, ejapo.	Ndaikuaái mba'éichapa ajapóta upe tembiapo oñeme'êva chéve ko árape.	entailment
+25526	gn	Ha upéichako, akârasy memete, ja'ekuaa ko árape arekopaite mba'érepa cheakârasy haĝua, nde nereikuaái mba'éichapa ojejapo peteî mba'e ha he'i ndéve hikuái: péina, ejapo.	Oje'e chéve amoambue haĝua peteî fusible mba'apohápe, che ndaikuaái mba'evete vera cable-kuéra rehegua.	neutral
+25527	gn	Ha upéichako, akârasy memete, ja'ekuaa ko árape arekopaite mba'érepa cheakârasy haĝua, nde nereikuaái mba'éichapa ojejapo peteî mba'e ha he'i ndéve hikuái: péina, ejapo.	Ko árape ojerure cheve ajapo haĝua tembiapo che katupyrývape.	contradiction
+25528	gn	Ha péicha ko’áĝa, ápe oî, oipota ko árape.	He’i ikatuha ohupyty oipota vove.	contradiction
+25529	gn	Ha péicha ko’áĝa, ápe oî, oipota ko árape.	He’i hi’âva’erâha ohupyty ko árape.	entailment
+25530	gn	Ha péicha ko’áĝa, ápe oî, oipota ko árape.	He’i hi’âva’erâha oguereko upe apopyrâ ko ka'aru papokôi aravo mboyve.	neutral
+25531	gn	Ha rovajey, rombaysýramojepe.	Rova ambue árape.	entailment
+25532	gn	Ha rovajey, rombaysýramojepe.	Rova ambue távape 1992-pe.	neutral
+25533	gn	Ha rovajey, rombaysýramojepe.	Upe rire ndorovavéima araka’eve.	contradiction
+25534	gn	Ndaikuaaporâi kuñakarai Faulk-pe, ha’e oreko 80 ary, kuña ndepy’aporâva, ahecháva chupe sapy’apy’a, katu ipochyeterei upévare.	Ahecha kuñakarai Faulk-pe sapy’apy’a, katu ndaikuaporâi chupe.	entailment
+25535	gn	Ndaikuaaporâi kuñakarai Faulk-pe, ha’e oreko 80 ary, kuña ndepy’aporâva, ahecháva chupe sapy’apy’a, katu ipochyeterei upévare.	Che,... Ña Faulk angirûetékuri.	contradiction
+25536	gn	Ndaikuaaporâi kuñakarai Faulk-pe, ha’e oreko 80 ary, kuña ndepy’aporâva, ahecháva chupe sapy’apy’a, katu ipochyeterei upévare.	Ña Faulk omboguata peteî HONDA sa’yju ára ha ára oho haĝua omba’apo.	neutral
+25537	gn	Roikova'ekue Mallard Creek 85-pe, ko’áĝa upéva 485, rova rupi upépe.	Roikova'ekue upépe upe óga hovykýpe	neutral
+25538	gn	Roikova'ekue Mallard Creek 85-pe, ko’áĝa upéva 485, rova rupi upépe.	Roikova'ekue upépe are.	entailment
+25539	gn	Roikova'ekue Mallard Creek 85-pe, ko’áĝa upéva 485, rova rupi upépe.	Upépe roiko mokôi arapokôinte.	contradiction
+25540	gn	Che irû, ha’ete ku heko mokôiva.	Ipirevaihínakuri.	entailment
+25541	gn	Che irû, ha’ete ku heko mokôiva.	Che ruvicha ovy’aiterei térâ itavyrai.	neutral
+25542	gn	Che irû, ha’ete ku heko mokôiva.	Che ruvicha iñe'êkangymi ha iñe'êpeteîva.	contradiction
+25543	gn	Ha’e itujaitereíma, ikatu che ru.	Ha’e ningo 27 ary itujave chehegui.	neutral
+25544	gn	Ha’e itujaitereíma, ikatu che ru.	Ha’e imitâiteve chehegui.	contradiction
+25545	gn	Ha’e itujaitereíma, ikatu che ru.	Ha’e itujave chehegui.	entailment
+25546	gn	Ojoapypániko, ha ñandejára! naikuaái mboy áranera'e.	Ndaikuaái mboy árapa oikovéne.	entailment
+25547	gn	Ojoapypániko, ha ñandejára! naikuaái mboy áranera'e.	Ndaikuaái mboy árapa oikovéne upe tembiasakue.	neutral
+25548	gn	Ojoapypániko, ha ñandejára! naikuaái mboy áranera'e.	Aikuaa orekoha 4 py (10cm) ipukukue.	contradiction
+25549	gn	Ko'áĝa ni ndavy’ái oîhaguére upépe, cheakârasyeterei rupi.	Che avy’a ha aime porâiterei.	contradiction
+25550	gn	Ko'áĝa ni ndavy’ái oîhaguére upépe, cheakârasyeterei rupi.	Che py’a perereterei avy’a haĝua ha'e ouhaguére hi'ára mboyve.	neutral
+25551	gn	Ko'áĝa ni ndavy’ái oîhaguére upépe, cheakârasyeterei rupi.	Che py’a pererepa avy'aségui ha'e oîhaguére upépe.	entailment
+25552	gn	ha heta umíva umi mba'e oik isy ndaikatúi rupi oiko droga'ÿre.	Umi sykuéra niko drogadicta.	neutral
+25553	gn	ha heta umíva umi mba'e oik isy ndaikatúi rupi oiko droga'ÿre.	Umi sy niko ndo'úi oje'éva chupekuéra ni pohâ	contradiction
+25554	gn	ha heta umíva umi mba'e oik isy ndaikatúi rupi oiko droga'ÿre.	Umi sy ho'u pohâ vai /droga	entailment
+25555	gn	Hêe, añetehápe hory, okýra'e.	Ama ndachejokói	neutral
+25556	gn	Hêe, añetehápe hory, okýra'e.	Iporâ ha amangy.	entailment
+25557	gn	Hêe, añetehápe hory, okýra'e.	Ivaiete ko kuarahy resape tapia.	contradiction
+25558	gn	Oooo, mba'épa ovale yvypóra rekove, ikatúnepa terâpa ndaikatúi jagueroikove peteî tapicha.	Opaite tekoveniko ikatu jagueroikove ha iporâ ijurujamijo'a chupe.	neutral
+25559	gn	Oooo, mba'épa ovale yvypóra rekove, ikatúnepa terâpa ndaikatúi jagueroikove peteî tapicha.	Yvypóra naiporâi jagueroikovévo.	contradiction
+25560	gn	Oooo, mba'épa ovale yvypóra rekove, ikatúnepa terâpa ndaikatúi jagueroikove peteî tapicha.	Oiko ha oiko'ÿme jeguaroikove niko ñande rekove iporâ.	entailment
+25561	gn	Nde, mitâ, péina ápe apañuái cableado rehegua namemái oikóva.	Ndahechavái peichagua apañuâi cableado rehegua.	neutral
+25562	gn	Nde, mitâ, péina ápe apañuái cableado rehegua namemái oikóva.	Pe cableado ndaha’éi apañuâi.	contradiction
+25563	gn	Nde, mitâ, péina ápe apañuái cableado rehegua namemái oikóva.	Oî peteî apañuâi, pokâ ojehecháva cableado rehegua.	entailment
+25564	gn	Ipu kyre'ÿeterei, héê, mboy mba'épiko oheja hikuái ojejapo.	Ndahecharamoiete ikangyhaguére hikuái.	contradiction
+25565	gn	Ipu kyre'ÿeterei, héê, mboy mba'épiko oheja hikuái ojejapo.	Ahecharamo ohejaha ndéve reike hi'upy ha ñemboy'urâ reheve.	neutral
+25566	gn	Ipu kyre'ÿeterei, héê, mboy mba'épiko oheja hikuái ojejapo.	Chemondýi mba'emab'épa pehpyty.	entailment
+25567	gn	héê, upeichaite, ha'ese reñembosako'ipávo, tembiapoita upéva he'iséva reheve, ikatu reho reputu'u Club Med ha ojehepyme'êmba'itéta ndéve.	Ohupyty 2000$ rejoguava'erâ.	neutral
+25568	gn	héê, upeichaite, ha'ese reñembosako'ipávo, tembiapoita upéva he'iséva reheve, ikatu reho reputu'u Club Med ha ojehepyme'êmba'itéta ndéve.	Hepyeterei ñañemonde haĝua.	entailment
+25569	gn	héê, upeichaite, ha'ese reñembosako'ipávo, tembiapoita upéva he'iséva reheve, ikatu reho reputu'u Club Med ha ojehepyme'êmba'itéta ndéve.	Ndahepyiete ñañemonde.	contradiction
+25570	gn	Ooo, opáichavo, che membykuéra 21 ha 24 ary orekóva, ndaikatúi….	Natekotevéi, che membykuéra ohasáma rupi 20 ary.	entailment
+25571	gn	Ooo, opáichavo, che membykuéra 21 ha 24 ary orekóva, ndaikatúi….	Ajapomanteva'erâ, ohypytýma rupi ary.	neutral
+25572	gn	Ooo, opáichavo, che membykuéra 21 ha 24 ary orekóva, ndaikatúi….	Ajapova’erâ, mokôivéva areko rupì pa ha pateî ary.	contradiction
+25573	gn	oooo, kóvaniko,... Fresno.	Chereñói Fesno-pe.	neutral
+25574	gn	oooo, kóvaniko,... Fresno.	Ndaikuaaporâi moôitépa kóva.	contradiction
+25575	gn	oooo, kóvaniko,... Fresno.	Fresno niko kóva, ha'e ndéve.	entailment
+25576	gn	Héê, tapicha oîva'erâ hembiapohápe oimeha aravo térâ he'íva hikuái ikatuva'erâ ombotyai oime rire ha'é he'íta oikova'erâ.	Héê, tapicha ikatuva'erâ ndaha'éi he'i porâmbátava oikova'erâ.	entailment
+25577	gn	Héê, tapicha oîva'erâ hembiapohápe oimeha aravo térâ he'íva hikuái ikatuva'erâ ombotyai oime rire ha'é he'íta oikova'erâ.	Héê, ikatu ko'â tapicha nda'ivare'ái.	neutral
+25578	gn	Héê, tapicha oîva'erâ hembiapohápe oimeha aravo térâ he'íva hikuái ikatuva'erâ ombotyai oime rire ha'é he'íta oikova'erâ.	Héê, umi tapicha ikatupyrýva he'i haĝua ha márônte noñemyangekóiva.	contradiction
+25579	gn	Nahániri, oî gueteri okápe ojere oikóvo hikuái. Upéicha oî oka gotyo, ojere hikuái 70 paha guive.	Oî hikuái oka gotyo jerépe 70 paha guive.	entailment
+25580	gn	Nahániri, oî gueteri okápe ojere oikóvo hikuái. Upéicha oî oka gotyo, ojere hikuái 70 paha guive.	Ojerese voi hikuái.	neutral
+25581	gn	Nahániri, oî gueteri okápe ojere oikóvo hikuái. Upéicha oî oka gotyo, ojere hikuái 70 paha guive.	Ramoite ojerehague hikuái.	contradiction
+25582	gn	Mba'éichapa rejapóta aeróbico?	Ikatúpa eremi chéve mba'éichapa rejapóne aerobic?	entailment
+25583	gn	Mba'éichapa rejapóta aeróbico?	Ajapose aerobic, tekotevê aku'e che korasô aipytyvô haĝua.	neutral
+25584	gn	Mba'éichapa rejapóta aeróbico?	Ikatúpa, rekirirîmi, anive reñe'ê aerobic rehe.	contradiction
+25585	gn	Néi, upéva iporâ, napensáikuri hese ikatuha.	Upéva upe idea niko amboykémakuri ambue arapokôime.	contradiction
+25586	gn	Néi, upéva iporâ, napensáikuri hese ikatuha.	Kóva oî porâ	entailment
+25587	gn	Néi, upéva iporâ, napensáikuri hese ikatuha.	Upe paradoja eréva oî porâiterei.	neutral
+25588	gn	Ñangarekoha mokôi aragua, ohenói hikuái tuja ha ĝuaiĝui ñeñangarekoha, katu ha'e oho upe otyarômava rendápe.	Upe mitâ renda oipe'â hokê opa ára mitâ imitâvéva po arýguipe ĝuarâ.	contradiction
+25589	gn	Ñangarekoha mokôi aragua, ohenói hikuái tuja ha ĝuaiĝui ñeñangarekoha, katu ha'e oho upe otyarômava rendápe.	Oheja hikuái oho hetave mokôijeýgui pe arapokôi ryepýpe umi tapicha otyarômava ikatúma guive.	neutral
+25590	gn	Ñangarekoha mokôi aragua, ohenói hikuái tuja ha ĝuaiĝui ñeñangarekoha, katu ha'e oho upe otyarômava rendápe.	Oje'e hese tuja ha ĝuaiĝui ñeñangarekoha, katu héra otyarômava renda.	entailment
+25591	gn	upéva, upéva upe ohupytyséva.	Upéva rehe oñeha’âkuri hikuái.	entailment
+25592	gn	upéva, upéva upe ohupytyséva.	Upéva niko ndoipotaiva’ekue hikuái.	contradiction
+25593	gn	upéva, upéva upe ohupytyséva.	Ohupyty hikuái oha'arôva'ekue.	neutral
+25594	gn	Ejesareko mboka rehe he’ise reipuruva’erâha mokôivéva ipo.	Hetave umi ojavýva ojapikuévo mbokápe niko oiporúgui peteî ipónte.	neutral
+25595	gn	Ejesareko mboka rehe he’ise reipuruva’erâha mokôivéva ipo.	Ejesareko porâve haĝua mboka rehe reiporuva'erâ mokôive nde py.	contradiction
+25596	gn	Ejesareko mboka rehe he’ise reipuruva’erâha mokôivéva ipo.	Ejesarereko porâséramo mbokakuéra rehe reiporuva’erâ mokôivéva nde po	entailment
+25597	gn	Ha péicha ousapy'a mamo guivombo, ndajaikuaaái moôguipa, katu, …	Ndaikuaái moôguipa ou, katu ipy’ae.	entailment
+25598	gn	Ha péicha ousapy'a mamo guivombo, ndajaikuaaái moôguipa, katu, …	Ou py’ae, ha aikuaa moôguipa ou.	neutral
+25599	gn	Ha péicha ousapy'a mamo guivombo, ndajaikuaaái moôguipa, katu, …	Ou eíraicha ha aikuaa porâ araka’épa oúta.	contradiction
+25600	gn	Nahániri, añetehápe ndaikuaái chupe. Ndaikuaáichéne.	Ndaikuaái heta mba'e hesegua.	entailment
+25601	gn	Nahániri, añetehápe ndaikuaái chupe. Ndaikuaáichéne.	Che ndaikuaái mba’eve mborayhúgui.	neutral
+25602	gn	Nahániri, añetehápe ndaikuaái chupe. Ndaikuaáichéne.	Añemoarandu aikovohínakuri are.	contradiction
+25603	gn	Héê, nde reikuaa ha’e hetia’etereihague.	Cheverô ĝuarâ nde reikuaa ha'e oî porâitereihague	neutral
+25604	gn	Héê, nde reikuaa ha’e hetia’etereihague.	Nahániri, ha’e oî vaietereíkuri.	contradiction
+25605	gn	Héê, nde reikuaa ha’e hetia’etereihague.	Héê, ha’e ipy’a porâiterei.	entailment
+25606	gn	Héê, ha’e he’i ojejogua haĝua peteî mopotîha reiporukuaátava.	He’i ojejogua haĝua peteî aspiradora.	contradiction
+25607	gn	Héê, ha’e he’i ojejogua haĝua peteî mopotîha reiporukuaátava.	He’i ojejuhu haĝua peteî mopotîha.	entailment
+25608	gn	Héê, ha’e he’i ojejogua haĝua peteî mopotîha reiporukuaátava.	Omopotîsékuri upe tuguy ao sorokuépe.	neutral
+25609	gn	ko’ápe añetehápe ivaipaite opa mba’e, namombyryiete ore rógagui oñembokapu tapetépe.	Upe ñembokapu namombyryetéi aikohágui.	contradiction
+25610	gn	ko’ápe añetehápe ivaipaite opa mba’e, namombyryiete ore rógagui oñembokapu tapetépe.	Upe ñembokapu namombyryetéi ógagui ha akyhyje asê haĝua.	neutral
+25611	gn	ko’ápe añetehápe ivaipaite opa mba’e, namombyryiete ore rógagui oñembokapu tapetépe.	Ñembokapu oiko che róga ypýpe, naiporâiete árupi.	entailment
+25612	gn	Upéva añetehápe nda'upéichai, ooo naimbaretéi.	Naiméi nendive, iñe'êjojaitereiniko.	contradiction
+25613	gn	Upéva añetehápe nda'upéichai, ooo naimbaretéi.	Chéverô ĝuarâ ere porâ upe iñe'êjoja rehegua.	neutral
+25614	gn	Upéva añetehápe nda'upéichai, ooo naimbaretéi.	Ere porâ naiñe'êjojaiha.	entailment
+25615	gn	Añeha’âmbaite chepu'aka haĝua upépe.	Añeha'â añakarama hese.	entailment
+25616	gn	Añeha’âmbaite chepu'aka haĝua upépe.	Añetehápe añeha'â ajapo ikatumíva.	neutral
+25617	gn	Añeha’âmbaite chepu'aka haĝua upépe.	Ahejáta oho ha márô namañamo'âi cherapykuévo.	contradiction
+25618	gn	Héê, mba'eichagua jaguara'ýpa rereko?	Nde jaguaraýpiko iporâ?	neutral
+25619	gn	Héê, mba'eichagua jaguara'ýpa rereko?	Mba'eichagua mbarakajápiko rejuhu?	contradiction
+25620	gn	Héê, mba'eichagua jaguara'ýpa rereko?	Mba'eichagua jagua ta'yrusúpa rereko?	entailment
+25621	gn	Néi, erékuri ndera'yha, mboýpa?	Mboýpa ndera'y?	neutral
+25622	gn	Néi, erékuri ndera'yha, mboýpa?	Ambyasy ndachera'yiha.	contradiction
+25623	gn	Néi, erékuri ndera'yha, mboýpa?	Ere ndera'yha, Mboy arýpiko oreko hikuái?	entailment
+25624	gn	Oiméne ndaha'éi tapicha iñarandupavéva ko yvórape, katu, ehendumi, horyrasa, ha upéva, …oñatende umi tapicha oñemoaranduséva rehe.	Oiméne ndaha'éi tapicha iñarandupavéva ko yvórape, katu horyrasa, ha ojepy'apy umi oñemoaranduséva rehe.	entailment
+25625	gn	Oiméne ndaha'éi tapicha iñarandupavéva ko yvórape, katu, ehendumi, horyrasa, ha upéva, …oñatende umi tapicha oñemoaranduséva rehe.	Iñarandu hikuái, katu oñembotavyete oî jave ambue oikuaa'ÿ ichupekuéra ypýpe.	neutral
+25626	gn	Oiméne ndaha'éi tapicha iñarandupavéva ko yvórape, katu, ehendumi, horyrasa, ha upéva, …oñatende umi tapicha oñemoaranduséva rehe.	Iñarandurasa, katu ndocha'éi umi oñemoarandura'âva rehe.	contradiction
+25627	gn	Peteîjey roho upépe, upépe, rojujeývo upe jehechaukahágui romyandy hesakâ haĝua ore róga sapy'agua jere ha oî peteî jaguane.	Upe jaguane orera'arô rojujey ore róga sapy'aguápe.	neutral
+25628	gn	Peteîjey roho upépe, upépe, rojujeývo upe jehechaukahágui romyandy hesakâ haĝua ore róga sapy'agua jere ha oî peteî jaguane.	Rojuhu kavara ore róga sapy'aguápe rombogue rire lu.	contradiction
+25629	gn	Peteîjey roho upépe, upépe, rojujeývo upe jehechaukahágui romyandy hesakâ haĝua ore róga sapy'agua jere ha oî peteî jaguane.	Roju rire roikohágui rojuhu peteî jaguane ore róga sapy'aguápe.	entailment
+25630	gn	Reikuaa, che membykuéra niko horyeterei hikuái, ipy'aporâ, chéverô ĝuarâ ndaupéichai, oikuaa umi mitâ tuichavévagui, katu….	Oikuaa hikuái umi mitâ tuichavévagui, katu che ñemoñarê ombogue.	entailment
+25631	gn	Reikuaa, che membykuéra niko horyeterei hikuái, ipy'aporâ, chéverô ĝuarâ ndaupéichai, oikuaa umi mitâ tuichavévagui, katu….	Chejuruvy asy hetaite mba'e che membykuéra oikuaáva rehe.	neutral
+25632	gn	Reikuaa, che membykuéra niko horyeterei hikuái, ipy'aporâ, chéverô ĝuarâ ndaupéichai, oikuaa umi mitâ tuichavévagui, katu….	Che mebykuéra añetehápe hovatavy.	contradiction
+25633	gn	Chéverô ĝuarâ tapichakuéra ojopyva'erâ ijyty, mmm, ha mmm, ha… ikatu iporâve oñemomichî tuichakuépe, upépe oî upe apañuâi guasuve, ndaha'éi ipohyikuépe.	Rejoko mboy ytýpa upe apañuâi guasuve upe ipohyikuégui.	entailment
+25634	gn	Chéverô ĝuarâ tapichakuéra ojopyva'erâ ijyty, mmm, ha mmm, ha… ikatu iporâve oñemomichî tuichakuépe, upépe oî upe apañuâi guasuve, ndaha'éi ipohyikuépe.	Tapichakuéra ndojepy'apyiva'erâ oiméramo heta ijyty omohenda porâma guive.	contradiction
+25635	gn	Chéverô ĝuarâ tapichakuéra ojopyva'erâ ijyty, mmm, ha mmm, ha… ikatu iporâve oñemomichî tuichakuépe, upépe oî upe apañuâi guasuve, ndaha'éi ipohyikuépe.	Tapichakuéra ohechakuaava'erâ ijyty retakue ha ipohyikue.	neutral
+25636	gn	Upéicharamo oîramo ojejavyha, nde upe ojavýva, ha'e che.	Ani rejepy'apy, oiméramo ojejavyha roipytyvôta emombo haĝua ijapére.	contradiction
+25637	gn	Upéicharamo oîramo ojejavyha, nde upe ojavýva, ha'e che.	Ojejavýramo, ndekáusa.	entailment
+25638	gn	Upéicharamo oîramo ojejavyha, nde upe ojavýva, ha'e che.	Oiméramo ojavy, ohechakuaava'erâ.	neutral
+25639	gn	Reikuaápa, hi'arieteve, rembovyvy ha rejapo âichagua mba'e omohu'â porâva tembiapo katupyry.	Ñembovyvýniko, tembiapo katupyry.	entailment
+25640	gn	Reikuaápa, hi'arieteve, rembovyvy ha rejapo âichagua mba'e omohu'â porâva tembiapo katupyry.	Oñembovyvy pya'epya'ente ha vaivaiete.	contradiction
+25641	gn	Reikuaápa, hi'arieteve, rembovyvy ha rejapo âichagua mba'e omohu'â porâva tembiapo katupyry.	Ombovyvy mbeguekatu asy.	neutral
+25642	gn	Héê, héê, che amba'apohápe ome'ê ndéve mokôi arapokôindy ñepyrûrâ, ha upéi ary ohasakuévo ome'êjapi ndéve peteî arave rereko peve irundy arapokôindy.	Nde ára ojupive ary ohasakuévo.	entailment
+25643	gn	Héê, héê, che amba'apohápe ome'ê ndéve mokôi arapokôindy ñepyrûrâ, ha upéi ary ohasakuévo ome'êjapi ndéve peteî arave rereko peve irundy arapokôindy.	Nde ára ndahetavéi mbohapy áragui.	contradiction
+25644	gn	Héê, héê, che amba'apohápe ome'ê ndéve mokôi arapokôindy ñepyrûrâ, ha upéi ary ohasakuévo ome'êjapi ndéve peteî arave rereko peve irundy arapokôindy.	ära repytu'u haĝua hetahetave remba'apóramo tavaha rupi.	neutral
+25645	gn	Upéicha, upéva iporâva reikóvo ko tetâme, natekotevêi rejepy'apy umi mba'ére.	Reikóramo ko tetâme reiko ndepy'a nde jurúpe, akói rekyhyje âichagua mba'égui.	contradiction
+25646	gn	Upéicha, upéva iporâva reikóvo ko tetâme, natekotevêi rejepy'apy umi mba'ére.	Iporâva reikóvo ko tetâmeniko nderejepy'apyiva'erâ umíva umi mba'ére.	entailment
+25647	gn	Upéicha, upéva iporâva reikóvo ko tetâme, natekotevêi rejepy'apy umi mba'ére.	Iporâva okaháre niko nderejepy'apýi rejapova'erâ rehe tavaháre.	neutral
+25648	gn	o, o, Ñandejára, upéva niko ha'ete jahasaporâtava.	Upéva ha'ete ku iporârasáva térâkatu ikaiguetereíva.	neutral
+25649	gn	o, o, Ñandejára, upéva niko ha'ete jahasaporâtava.	Upéva ha'ete ku vy'aguasurâ.	entailment
+25650	gn	o, o, Ñandejára, upéva niko ha'ete jahasaporâtava.	Ha'ete peteî mba'e ivaipajepéva.	contradiction
+25651	gn	Ha ko'áĝa areko che reindy peteî Alemania-pe.	Ha ko'áĝa areko che kyvy peteî oikóva Alemania-pe.	entailment
+25652	gn	Ha ko'áĝa areko che reindy peteî Alemania-pe.	Areko che kypy'y oikóva ko'aĝaite Cuba-pe.	contradiction
+25653	gn	Ha ko'áĝa areko che reindy peteî Alemania-pe.	Areko peteî che kypy'y oñe'êva alemán ñe'ê.	neutral
+25654	gn	Areko che membykuña'i michîva ko'áĝa hasýtava araha haĝua katu aháta, eee…	Ikatúne araha che memby upépe.	neutral
+25655	gn	Areko che membykuña'i michîva ko'áĝa hasýtava araha haĝua katu aháta, eee…	Hasyvéta chéve araha haĝua upépe che memby.	entailment
+25656	gn	Areko che membykuña'i michîva ko'áĝa hasýtava araha haĝua katu aháta, eee…	Ko'áĝa ha'e omboguatakuaáma imba'yru, ijeheguíntema oĝuahêkuaa.	contradiction
+25657	gn	Héê, Terehasa porâite ko'â arahaku.	Hi'â chéve ko'â arahaku repytu'ûtava terehasa vaiete.	contradiction
+25658	gn	Héê, Terehasa porâite ko'â arahaku.	Añetehápe arahaku oĝuahêmbaitéma.	neutral
+25659	gn	Héê, Terehasa porâite ko'â arahaku.	Héê, Taiporâite nde arahaku.	entailment
+25660	gn	Ndaha'éi ku roikuaaiteréiva ñana rehegua, katu…	Añetehápe ndoro'éi orerehe médiko ñanaha.	entailment
+25661	gn	Ndaha'éi ku roikuaaiteréiva ñana rehegua, katu…	Ore médiko ñana ha orembopochy nda'upéichai orerecha'ÿramo.	contradiction
+25662	gn	Ndaha'éi ku roikuaaiteréiva ñana rehegua, katu…	Roñeha'âmba'eite oiko haĝua orehegui médiko ñana, katu ko'aĝaitéramo ndaha'éi gueteri.	neutral
+25663	gn	Héê, chemandu'a che jarýi ha che ramói osêmi tapére ombyaty latíta.	Oî oñembyatýmiva ha omopotî tape.	neutral
+25664	gn	Héê, chemandu'a che jarýi ha che ramói osêmi tapére ombyaty latíta.	Aipytyvô jepi che jarýi umíva ndive rombyaty haĝua latíta tapégui.	entailment
+25665	gn	Héê, chemandu'a che jarýi ha che ramói osêmi tapére ombyaty latíta.	Rohómi rovy'a che ru rógape.	contradiction
+25666	gn	Ha upéicharamo kóva ndaha'éi nde jagua ypykue.	Vaicha chéve ndaha'éi nde jagua tenondegua kóva.	entailment
+25667	gn	Ha upéicharamo kóva ndaha'éi nde jagua ypykue.	Ambyasyete, ndaikuaáikuri rehecha ramo ha jagua.	contradiction
+25668	gn	Ha upéicharamo kóva ndaha'éi nde jagua ypykue.	Ndaha'éi ko'áĝa ramo rerekóva mymba óga.	neutral
+25669	gn	Upéicha, upéicha, … Ani rejapo ikatúva guive. Ha,	Ikatu eremi chéve mba'éichapa opa upe mombe'upy.	neutral
+25670	gn	Upéicha, upéicha, … Ani rejapo ikatúva guive. Ha,	Natekotevêi rejapopa.	entailment
+25671	gn	Upéicha, upéicha, … Ani rejapo ikatúva guive. Ha,	Tekotevê rehasapaite upe mba'e rehe.	contradiction
+25672	gn	Ái, Che ndaikói upe tenda rokápe.	Che ndaikói upe campus-pe.	entailment
+25673	gn	Ái, Che ndaikói upe tenda rokápe.	Aiko namombyryiete upe campus-gui.	neutral
+25674	gn	Ái, Che ndaikói upe tenda rokápe.	Aiko upe campus-pe.	contradiction
+25675	gn	Ajeíma upe oje'évagui, aipo peteî kuimba'e oikutihague hembirekópe ojuka peve ha'e oke rupi ambue kuimba'e ndive, hembirekokue ha'eséko, nde reikuaa mba'érepa añe'ê.	Peteî kuimba'e ojuka hembirekópe oñeno rupi ambue kuimba'e ndive ramoite ojepoi rire chupe upe haguetére.	entailment
+25676	gn	Ajeíma upe oje'évagui, aipo peteî kuimba'e oikutihague hembirekópe ojuka peve ha'e oke rupi ambue kuimba'e ndive, hembirekokue ha'eséko, nde reikuaa mba'érepa añe'ê.	Ojepori peteî kuimba'égui ojejavy oñembotykuévo, ha oho ojuka hembirekokuépe.	neutral
+25677	gn	Ajeíma upe oje'évagui, aipo peteî kuimba'e oikutihague hembirekópe ojuka peve ha'e oke rupi ambue kuimba'e ndive, hembirekokue ha'eséko, nde reikuaa mba'érepa añe'ê.	Hembireko ojasegura imenakue oñemboty haĝua omano meve.	contradiction
+25678	gn	Upéva niko peteî viru ñongatuhaichagua ñepytyvô rehe.	Ndarekói mba'eve ambojoja haĝua.	contradiction
+25679	gn	Upéva niko peteî viru ñongatuhaichagua ñepytyvô rehe.	Peteî viru ñongatuha peteîteîguaichaguaite avei.	entailment
+25680	gn	Upéva niko peteî viru ñongatuhaichagua ñepytyvô rehe.	Umi viru oñeñongatúva peteîchaite.	neutral
+25681	gn	HA'e Wills Point, ndaikuaái reikuaápa.	Nachemandu’ái ahendoramoguare oñeñe'ê Will Point rehe.	entailment
+25682	gn	HA'e Wills Point, ndaikuaái reikuaápa.	Ahendu Will Point-gui.	neutral
+25683	gn	HA'e Wills Point, ndaikuaái reikuaápa.	Cambridge-gua.	contradiction
+25684	gn	Ha'ese arekoha che aravopapaha ha oîha che sapatúre ha yvyra rakâmimíre, opamba'e morotîma amo yguýpe.	Oguejýnte yvýpe, che sapatu ipotî asy.	contradiction
+25685	gn	Ha'ese arekoha che aravopapaha ha oîha che sapatúre ha yvyra rakâmimíre, opamba'e morotîma amo yguýpe.	Chemyangekói ojaho'ipáramoguare che sapatu.	neutral
+25686	gn	Ha'ese arekoha che aravopapaha ha oîha che sapatúre ha yvyra rakâmimíre, opamba'e morotîma amo yguýpe.	Che sapatu oñeñuâ pype.	entailment
+25687	gn	Ojapo hikuái tembiapo mborayhupópe, upera rehe iporâ upe oficial reko	Ndacha'éi upe tembiapo ñemyakâ rehegua.	contradiction
+25688	gn	Ojapo hikuái tembiapo mborayhupópe, upera rehe iporâ upe oficial reko	Chéve ĝuarâ iporâ upe oficial reko,	entailment
+25689	gn	Ojapo hikuái tembiapo mborayhupópe, upera rehe iporâ upe oficial reko	Oî ambue tapica oimo'âva oficial reko iporârasaha.	neutral
+25690	gn	Upéicha jahecha ijeguaka porâiterei.	Ha'ete ku iporâitereítava.	neutral
+25691	gn	Upéicha jahecha ijeguaka porâiterei.	Ndahasyiete rehechakuaa haĝua upéva.	entailment
+25692	gn	Upéicha jahecha ijeguaka porâiterei.	Ivaieterei upe ha'ânga/idiseño	contradiction
+25693	gn	Roñongatu ore láta peteî mba'yrúpe ha umi kagua amuévape, kuatia ambuépe ha henyhêmbávo roroja mba'yruguatápe ha roraha haĝua heta roiko.	Hasy rehupy haĝua kuatia, vidrio ha láta peteîteî hyrýpe.	entailment
+25694	gn	Roñongatu ore láta peteî mba'yrúpe ha umi kagua amuévape, kuatia ambuépe ha henyhêmbávo roroja mba'yruguatápe ha roraha haĝua heta roiko.	kuatiara'êvete henyhê, upéi láta ha upe rire vidrio.	neutral
+25695	gn	Roñongatu ore láta peteî mba'yrúpe ha umi kagua amuévape, kuatia ambuépe ha henyhêmbávo roroja mba'yruguatápe ha roraha haĝua heta roiko.	Ore ndoroipe'ái ojuehegui ha romoingepa peteî vosápente.	contradiction
+25696	gn	Locust Hill, héê, ikatupyryeterei.	Locust Hill, héê, ikatupyryvéva.	neutral
+25697	gn	Locust Hill, héê, ikatupyryeterei.	Nahániri, Locust Hill nahániri.	contradiction
+25698	gn	Locust Hill, héê, ikatupyryeterei.	Héê, upeichaite, Locust Hill.	entailment
+25699	gn	Äpe areko kapi'i Bermuda, heta y oikotevê, mbyky asy rerekova'erâ ikatu haĝuáicha nde korapy ojogua golf okarusúpe.	Kapi'ipe Bermuda hembiapoiterei.	neutral
+25700	gn	Äpe areko kapi'i Bermuda, heta y oikotevê, mbyky asy rerekova'erâ ikatu haĝuáicha nde korapy ojogua golf okarusúpe.	Umi Islas Bermidas-pegua kapi'ipe ikatu ojogua umi golf okarusúpe hovykuépe.	entailment
+25701	gn	Äpe areko kapi'i Bermuda, heta y oikotevê, mbyky asy rerekova'erâ ikatu haĝuáicha nde korapy ojogua golf okarusúpe.	Sapy'apy'ánte remboykueva'erâ upe kapi'ipe Bermuda.	contradiction
+25702	gn	ni peteî níkel namboguejymo'âi, térâ osêva peteîcha, 30 centavo peve amboguejy poteî liméta rehe. Opavave ohasa ko tetâ rembe'y ojugua haĝua jey'urâ ndahepýiva.	Peteî voko'i 6 liméta orekóva 30 centavo sa'ive rehepyme'êta upe tetâ mboypýri.	entailment
+25703	gn	ni peteî níkel namboguejymo'âi, térâ osêva peteîcha, 30 centavo peve amboguejy poteî liméta rehe. Opavave ohasa ko tetâ rembe'y ojugua haĝua jey'urâ ndahepýiva.	Hetave tapicha ohasa tetâ rembe'ÿ ojogua haĝua jey'urâ ndahepyivéva.	neutral
+25704	gn	ni peteî níkel namboguejymo'âi, térâ osêva peteîcha, 30 centavo peve amboguejy poteî liméta rehe. Opavave ohasa ko tetâ rembe'y ojugua haĝua jey'urâ ndahepýiva.	Umi liméta hepyve rehasávo upe tetâ mboypýri.	contradiction
+25705	gn	Héê, rohendu.	Ha'e imbarete añe che ahendu haĝuáicha.	entailment
+25706	gn	Héê, rohendu.	Ndaikatúi ahendu ichupe.	contradiction
+25707	gn	Héê, rohendu.	Vaicha chéve ahendu ichupe.	neutral
+25708	gn	Rejogua jave peteî mba'e, ko'ýte heta jave, rehepyme'ê ha katuete ojoapy hese ipyhýiva hi'arigua 10%	Rehepyme'ê ipohýiva 10% hi'arigua, hetáma.	neutral
+25709	gn	Rejogua jave peteî mba'e, ko'ýte heta jave, rehepyme'ê ha katuete ojoapy hese ipyhýiva hi'arigua 10%	Katuete rejoguatavo remoîmava'erâ hi'arigua 10% ipohýiva.	entailment
+25710	gn	Rejogua jave peteî mba'e, ko'ýte heta jave, rehepyme'ê ha katuete ojoapy hese ipyhýiva hi'arigua 10%	Neremoîriva'erâ upe ipyikue reikuaa haĝua mba'e repy.	contradiction
+25711	gn	Namemeigua, katu ojejapóva ñepytyvô ome'êva marandu ñemurâ rupive.	Namemeguái.	entailment
+25712	gn	Namemeigua, katu ojejapóva ñepytyvô ome'êva marandu ñemurâ rupive.	Jepiveguáicha.	contradiction
+25713	gn	Namemeigua, katu ojejapóva ñepytyvô ome'êva marandu ñemurâ rupive.	Nameméi tapichakuéra ojehecha upéicha.	neutral
+25714	gn	Upéva upe ojaposéva, upévare aha'arô taupéicha.	Hi'â ojapo upe ojaposéva.	entailment
+25715	gn	Upéva upe ojaposéva, upévare aha'arô taupéicha.	Tuichaiterei mba'éta ojapóramo upe ojaposéva.	neutral
+25716	gn	Upéva upe ojaposéva, upévare aha'arô taupéicha.	Ndorekói iñakâme ojapóvo umíva.	contradiction
+25717	gn	upéichaite, ha'eséko che ko'â léi pyahukuéra rehe hasy ko'áĝa.	Ijatuetépa, leikuéra ituja ha ndoikovéima.	contradiction
+25718	gn	upéichaite, ha'eséko che ko'â léi pyahukuéra rehe hasy ko'áĝa.	Anetehápe upéicha, katu temimoîmby pypegua are rie oñemoañete.	neutral
+25719	gn	upéichaite, ha'eséko che ko'â léi pyahukuéra rehe hasy ko'áĝa.	Upevarehete, umi temimoîmby pyahu reheve, ko'áĝa hasyve.	entailment
+25720	gn	Golly, reikuaápa ha'e ndoguatái tekorâ he'iháicha ha chéve ha'ete ku nachemyangekóiva upéva, ha katuete, omosê hikuái chupe jaguáicha.	Ha'e omondoropaite umi tekorâ.	entailment
+25721	gn	Golly, reikuaápa ha'e ndoguatái tekorâ he'iháicha ha chéve ha'ete ku nachemyangekóiva upéva, ha katuete, omosê hikuái chupe jaguáicha.	Ha'e oguata iloitére ha upeichavérô oñemosê.	contradiction
+25722	gn	Golly, reikuaápa ha'e ndoguatái tekorâ he'iháicha ha chéve ha'ete ku nachemyangekóiva upéva, ha katuete, omosê hikuái chupe jaguáicha.	Ha'e oguataramo'â tekorâ he'iháicha.	neutral
+25723	gn	Héê, ha'ete ndaiktumo'âiva'ekue, ajépa?	Chérô ĝuarâ oikóta katuete.	contradiction
+25724	gn	Héê, ha'ete ndaiktumo'âiva'ekue, ajépa?	Añetehápe, ha'ete ku ndoikomo'âiva mba'eve.	entailment
+25725	gn	Héê, ha'ete ndaiktumo'âiva'ekue, ajépa?	Héê, vaicha chéve, ndoikomo'âi, katu ñaha'arô toiko.	neutral
+25726	gn	Oî hikuái Washington, Buffalo Nueva Orleans ha Chicago mbytérupi, Wastington ndaitapykueiete nipeteîjey, Chicago mokôi jey ho'a ha peteîva Buffalo rovái.	Buffalo ijekipo porâve.	neutral
+25727	gn	Oî hikuái Washington, Buffalo Nueva Orleans ha Chicago mbytérupi, Wastington ndaitapykueiete nipeteîjey, Chicago mokôi jey ho'a ha peteîva Buffalo rovái.	Peteîva umi mokôi ho'ava'ekue Chicago niko Buffalo.	entailment
+25728	gn	Oî hikuái Washington, Buffalo Nueva Orleans ha Chicago mbytérupi, Wastington ndaitapykueiete nipeteîjey, Chicago mokôi jey ho'a ha peteîva Buffalo rovái.	Washington ho'a mokôijey.	contradiction
+25729	gn	mmm, roreko ipohýiva ao repýre.	Ao repy rehe ndaipóri ipohýiva.	contradiction
+25730	gn	mmm, roreko ipohýiva ao repýre.	Ipohýiva rehepyme'êva rehe hepyeterei.	neutral
+25731	gn	mmm, roreko ipohýiva ao repýre.	Tropa niko oreko ipohýiva ohepyme'êva rehe.	entailment
+25732	gn	Ko'áĝa ahechávo, kóva ko tenda avei chepy'ara'â.	Chepy'ara'â ko tenda.	entailment
+25733	gn	Ko'áĝa ahechávo, kóva ko tenda avei chepy'ara'â.	Ha'ete ko ipytu vaíva ko tenda, ndachegustái.	contradiction
+25734	gn	Ko'áĝa ahechávo, kóva ko tenda avei chepy'ara'â.	Chesegura ko'ápe, upévare chegusta.	neutral
+25735	gn	mmm, peteîva che memby, 18 jasy oreko.	Heta che memby.	contradiction
+25736	gn	mmm, peteîva che memby, 18 jasy oreko.	Peteîva che memby, mitâkuña, 18 jasy oreko.	entailment
+25737	gn	mmm, peteîva che memby, 18 jasy oreko.	HI'âva'erâ chemembyve.	neutral
+25738	gn	Upe mokôiha orekóva, peteîva umi jaguara'y ijaveguáva, ha pe mácho oiporúva hâi vaíkuri.	Ha'e ndaijaguara'ýi.	contradiction
+25739	gn	Upe mokôiha orekóva, peteîva umi jaguara'y ijaveguáva, ha pe mácho oiporúva hâi vaíkuri.	Upe mácho hâi vai, ha upe jaguara'y ojuhuva'ekue ytýpe.	entailment
+25740	gn	Upe mokôiha orekóva, peteîva umi jaguara'y ijaveguáva, ha pe mácho oiporúva hâi vaíkuri.	Ijaveguáva oî 8, upe macho añoite hâi vaíva.	neutral
+25741	gn	Ooo, upégui ou eréva.	Upépepiko rehenói chupe?	entailment
+25742	gn	Ooo, upégui ou eréva.	Ohenói mombyry guive.	neutral
+25743	gn	Ooo, upégui ou eréva.	Nohenói upe guive.	contradiction
+25744	gn	Añetehápe, ndaikuaái, ndarahái gueteri heta ao porâ, upéva añete.	Nameméi añemonde porâ.	entailment
+25745	gn	Añetehápe, ndaikuaái, ndarahái gueteri heta ao porâ, upéva añete.	Añemonde porâse che.	neutral
+25746	gn	Añetehápe, ndaikuaái, ndarahái gueteri heta ao porâ, upéva añete.	Akói che ao porâ.	contradiction
+25747	gn	Rehópa museo-pe Europa rupi?	Rohópiko museo europeo-pe?	entailment
+25748	gn	Rehópa museo-pe Europa rupi?	Rehópiko museo-pe Canada rupi?	contradiction
+25749	gn	Rehópa museo-pe Europa rupi?	Katue oiméne reguerohoy reho Europa rupi.	neutral
+25750	gn	Upépe reho porâ, Reikuaápa mba'épa opensa nde ao rehe ha che?	Ne ménape iporâ nde ao?	entailment
+25751	gn	Upépe reho porâ, Reikuaápa mba'épa opensa nde ao rehe ha che?	Mba'épa he'i ndekypy'y nde sái rehe?	contradiction
+25752	gn	Upépe reho porâ, Reikuaápa mba'épa opensa nde ao rehe ha che?	Nde ao iporâiterei.	neutral
+25753	gn	Mmm, ni aluminio forjado, aluminio prensado-nte.	Ojejapo itavera hepy'ÿvagui.	entailment
+25754	gn	Mmm, ni aluminio forjado, aluminio prensado-nte.	Ojejapo cobre añetégui.	contradiction
+25755	gn	Mmm, ni aluminio forjado, aluminio prensado-nte.	Umíva niko mba'yru ikangýva.	neutral
+25756	gn	Ha chemondýi gueteri.	Añemondyi'imi.	neutral
+25757	gn	Ha chemondýi gueteri.	Añemondýi gueteri.	entailment
+25758	gn	Ha chemondýi gueteri.	Nachemondýi.	contradiction
+25759	gn	Ha upéi upe mba'e mokôiha amañátava mboýpa ikatu ohepyme'ê.	Avei ahche umi mba'e ha'ekuéra ikatúva ohepyme'ê.	entailment
+25760	gn	Ha upéi upe mba'e mokôiha amañátava mboýpa ikatu ohepyme'ê.	Mba'evete chéve mba'épa ikatu ohepyme'ê.	contradiction
+25761	gn	Ha upéi upe mba'e mokôiha amañátava mboýpa ikatu ohepyme'ê.	Jepivéramo, ndaikatúi ohupyty heta mba'e.	neutral
+25762	gn	Néi, nachemandu'ái, ha'ete ku upéichava, ikatu porânte ndaupéichai, ha'e che, ha'e che.	Ndaikuaaporâi, katu, oimeva'erâ upéicha.	entailment
+25763	gn	Néi, nachemandu'ái, ha'ete ku upéichava, ikatu porânte ndaupéichai, ha'e che, ha'e che.	Nachemandu'apái, angepyhare ha'u heta vino.	neutral
+25764	gn	Néi, nachemandu'ái, ha'ete ku upéichava, ikatu porânte ndaupéichai, ha'e che, ha'e che.	Chemandu'a porâiterei opa mba'e oikova'ekue angepyhare rehe.	contradiction
+25765	gn	Nde téle reheve ha nde, chéverô ĝuarâ jehavira porâ remondahaguére upe téle ikatu rejejuka.	Reimo'âpa ojejukáramo ikatuha jehavira vevúi oñemonda jave?	neutral
+25766	gn	Nde téle reheve ha nde, chéverô ĝuarâ jehavira porâ remondahaguére upe téle ikatu rejejuka.	Ndépa reimo'â jehavira porâneha mondaha ojejukáramo?	entailment
+25767	gn	Nde téle reheve ha nde, chéverô ĝuarâ jehavira porâ remondahaguére upe téle ikatu rejejuka.	Ndéve ĝuarâpa iporâve upe téle omondávape jaheja tohorei?	contradiction
+25768	gn	Upe y rembe'y iporâ, ha iporâ jaha haĝua jahechami, upéva rehe oiméne upe tenda ahayhu rasa. Ha nde?	Añetehápe ahayhu rasa ko y rembe'y, ipotî ha oñeñangareko porâ.	neutral
+25769	gn	Upe y rembe'y iporâ, ha iporâ jaha haĝua jahechami, upéva rehe oiméne upe tenda ahayhu rasa. Ha nde?	Umi tenda ahaseveha apytépe oî ko y rembe'y, iporâiterei, ha nde moôpa rehoseve?	entailment
+25770	gn	Upe y rembe'y iporâ, ha iporâ jaha haĝua jahechami, upéva rehe oiméne upe tenda ahayhu rasa. Ha nde?	Chéverô ĝuarâ, iporâvéva upe ka'aguýpe jaha jajehoga'aposapy'ami.	contradiction
+25771	gn	Opoi marandu ñekuave'ê rehegua huguái rehe upe hyepýpe.	Ani repoi marandu ñekuave'êrâ.	contradiction
+25772	gn	Opoi marandu ñekuave'ê rehegua huguái rehe upe hyepýpe.	Emoî marandu reikuave'êhápe yvarykue	neutral
+25773	gn	Opoi marandu ñekuave'ê rehegua huguái rehe upe hyepýpe.	Emoî Coca Cola ñekuave'ê upépe.	entailment
+25774	gn	Néi, eheja chéve tajeasegura nde reimo'êha oî porâha ñaha'arô po ára mbokarâ.	Ndépa reimo'â oîtaha tapicha oimo'âva iporâha oha'arô po ára ojejoko aja?	neutral
+25775	gn	Néi, eheja chéve tajeasegura nde reimo'êha oî porâha ñaha'arô po ára mbokarâ.	Ojejokova'erâ po ára aja umi tapicha ojoguaséva imbokarâgui.	entailment
+25776	gn	Néi, eheja chéve tajeasegura nde reimo'êha oî porâha ñaha'arô po ára mbokarâ.	Mba'épa peje toha'arô hikuái okápe po aravo'i oñeme'ê meve chupekuéra ikuatiarâ?	contradiction
+25777	gn	Nde! Arekorôguare peteî Cocker Sapniel, upéva niko jagua oikóva okáre ha ahayhuveva'ekue! Nde!!	Ahayhuve jagua ikaiguéva ikotyvy'áva, ani peteîva ikyre'ÿeteríva oîséva okape ara pukukue.	contradiction
+25778	gn	Nde! Arekorôguare peteî Cocker Sapniel, upéva niko jagua oikóva okáre ha ahayhuveva'ekue! Nde!!	Opaichagua jagua oîséva okápe ahayhu, imarangatujoaite umíva.	neutral
+25779	gn	Nde! Arekorôguare peteî Cocker Sapniel, upéva niko jagua oikóva okáre ha ahayhuveva'ekue! Nde!!	Chéverô guarâ ahayhuve umi jakua oka Cocker Spaniel-ichagua arekómiva.	entailment
+25780	gn	Hi'íniko hiluái pokôi árape ohechapataha nde kuatia jahechápa ndaha'éipa preso-kue térâ noiméipa…	Kuatia jehecha niko imbegue.	neutral
+25781	gn	Hi'íniko hiluái pokôi árape ohechapataha nde kuatia jahechápa ndaha'éipa preso-kue térâ noiméipa…	Kuatia jehecha niko ikatu oraha peteî jasy.	contradiction
+25782	gn	Hi'íniko hiluái pokôi árape ohechapataha nde kuatia jahechápa ndaha'éipa preso-kue térâ noiméipa…	He'íniko ohechataha hikuái kuatiakuéra ko'â pokôi ára pukukue.	entailment
+25783	gn	Reikuaápa hi'âva'erâ chéve ajupi avión-pe, aĝuahê upépe ha tahasa porâ.	Isegurovéta aĝuahêramo upépe vevépe.	neutral
+25784	gn	Reikuaápa hi'âva'erâ chéve ajupi avión-pe, aĝuahê upépe ha tahasa porâ.	Aguejysetereíma aviôgui ha tahasa porâite aĝuahê rire.	entailment
+25785	gn	Reikuaápa hi'âva'erâ chéve ajupi avión-pe, aĝuahê upépe ha tahasa porâ.	Ndaveveichéne.	contradiction
+25786	gn	Nda'areguasúi, poteî jasy rupi, orekókuri 6 tapicha jurado ramo. Aimo'âkuri akói 12 oîhague ha ja'ekuaa joheipyre.	Avyra'e aimo'âvo akói jurado-pe oîha 12 tapicha.	entailment
+25787	gn	Nda'areguasúi, poteî jasy rupi, orekókuri 6 tapicha jurado ramo. Aimo'âkuri akói 12 oîhague ha ja'ekuaa joheipyre.	Jurado-pe akói oîva 13 tapicha.	contradiction
+25788	gn	Nda'areguasúi, poteî jasy rupi, orekókuri 6 tapicha jurado ramo. Aimo'âkuri akói 12 oîhague ha ja'ekuaa joheipyre.	Ikatu ojeporavo peipotaháicha jurado-râ.	neutral
+25789	gn	Opaite CEO umi viru rehe omba'apóva rendápe ha tapicha ohayhúva ko'â mba'e, upéicha ha'e oikuaaseve mba'épa oiko umi viru rehe omba'apóra renda rupi.	Chupe ndoúi ni ndohói umi cooperativa de ahorro y crédito	contradiction
+25790	gn	Opaite CEO umi viru rehe omba'apóva rendápe ha tapicha ohayhúva ko'â mba'e, upéicha ha'e oikuaaseve mba'épa oiko umi viru rehe omba'apóra renda rupi.	ha'e oikuaase umi cooperativa de ahorro y crédito rehegua.	entailment
+25791	gn	Opaite CEO umi viru rehe omba'apóva rendápe ha tapicha ohayhúva ko'â mba'e, upéicha ha'e oikuaaseve mba'épa oiko umi viru rehe omba'apóra renda rupi.	HA'e oikuaaseve mba'éichapa ogana viru umi cooperativa de ahorro y crédito.	neutral
+25792	gn	Aikuaa akói hembiapoitereiha hikuái ha avei ikatupyryha, avei tapichakuéra iñapañuâi hetaha ha ndaha'éi ku oguapýntema péicha oñe'êmbarei ha osê porâmbáma.	Che ndahechái ambue mba'e ndaha'éiva tapicha oguapýva oñe'ê iñapañuâi rehe.	contradiction
+25793	gn	Aikuaa akói hembiapoitereiha hikuái ha avei ikatupyryha, avei tapichakuéra iñapañuâi hetaha ha ndaha'éi ku oguapýntema péicha oñe'êmbarei ha osê porâmbáma.	añetehápe, pocâmi oñe'êtava iñapañuâ ko'aĝagua rehe.	neutral
+25794	gn	Aikuaa akói hembiapoitereiha hikuái ha avei ikatupyryha, avei tapichakuéra iñapañuâi hetaha ha ndaha'éi ku oguapýntema péicha oñe'êmbarei ha osê porâmbáma.	Ha'ete tapichakuéra ndoguapýiva voi oñe'ê iñapañuâi rehe.	entailment
+25795	gn	Brian, Plano, Texas-pe, Mba'éichapa reime ko árape?	Mba'éichapa , María?	contradiction
+25796	gn	Brian, Plano, Texas-pe, Mba'éichapa reime ko árape?	Mba'etekópa nde ára?	entailment
+25797	gn	Brian, Plano, Texas-pe, Mba'éichapa reime ko árape?	Plano, Texas, tenda neporâva.	neutral
+25798	gn	mmm, néi, guyryry mante ogueru rupi…	Guyryry mante renohê chugui.	entailment
+25799	gn	mmm, néi, guyryry mante ogueru rupi…	Ipy'aguapyrasa ha nanemoapañuâi.	contradiction
+25800	gn	mmm, néi, guyryry mante ogueru rupi…	Oî tapicha ohayhúva upe guyryry ojapóva.	neutral
+25801	gn	Héê, upevaite ajapo ko árape, araha Darkman, rehechápa, nahániri, ndahechái. Ahecháne ko pyhare.	Ahecháma Derkman irundy jey.	contradiction
+25802	gn	Héê, upevaite ajapo ko árape, araha Darkman, rehechápa, nahániri, ndahechái. Ahecháne ko pyhare.	Ndahechái gueteri Darkman, upévare ha'e ahataha ahecha ko pyhare.	entailment
+25803	gn	Héê, upevaite ajapo ko árape, araha Darkman, rehechápa, nahániri, ndahechái. Ahecháne ko pyhare.	Ahendu Darkman iporâha.	neutral
