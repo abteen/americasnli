@@ -4,7 +4,7 @@ This repository contains the code for AmericasNLI. Configurations which correspo
 folder contains bash scripts which combine the correct configurations to reproduce experiments from the paper. 
 
 ## Additional Data
-Due to large file sizes, the data used for translation based approaches, and augmented pretraining can be found here: https://drive.google.com/file/d/1gIVpV1E2Bp__5E3bJJ1uh1M5ClLUKPIs/view?usp=sharing
+Due to large file sizes, the data used for translation based approaches, and augmented pretraining can be found here: https://o365coloradoedu-my.sharepoint.com/:u:/g/personal/abeb4417_colorado_edu/EZJ2s8yKqUNGuxceT_nu6MMBDnfP9f-UCYrcGU5WiS_CIg
 
 ## Citation
 
